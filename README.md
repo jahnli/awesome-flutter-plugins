@@ -56,7 +56,7 @@
 [modal_bottom_sheet](https://pub.dev/packages/modal_bottom_sheet)|创建令人敬畏而强大的模态底板。
 [scroll_bottom_navigation_bar](https://pub.dev/packages/scroll_bottom_navigation_bar)|滚动时隐藏或显示底部导航栏。
 [flutter_sliver_tracker](https://pub.dev/packages/flutter_sliver_tracker)|滑动曝光埋点框架，支持SliverList、SliverGrid
-[flutter_wechat_assets_picker](https://pub.dev/packages/flutter_wechat_assets_picker)|对标微信的多选资源选择器，99%接近于原生微信的操作，纯Dart编写，支持选择的同时也支持预览资源
+[wechat_assets_picker](https://pub.dev/packages/wechat_assets_picker)|对标微信的多选资源选择器，99%接近于原生微信的操作，纯Dart编写，支持选择的同时也支持预览资源
 
 <br />
 
