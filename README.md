@@ -7,7 +7,7 @@
 <br />
 <br />
 
-> ## 当前已收录 ： 80个
+> ## 当前已收录 ： 81个
 
 <br />
 <br />
@@ -101,6 +101,7 @@
 [shared_preferences](https://pub.dev/packages/shared_preferences)|读取、设置缓存
 [fluro](https://pub.dev/packages/fluro)|Flutter的 企业级的路由框架
 [provider](https://pub.dev/packages/provider)|官方推荐的状态管理
+[intl](https://pub.dev/packages/intl)|包含用于处理国际化/本地化消息，日期和数字格式和解析，双向文本以及其他国际化问题的代码。
 [event_bus](https://pub.dev/packages/event_bus)|EventBus能够简化各组件间的通信，用于组件A调用组件B中的方法
 [flustars](https://pub.dev/packages/flustars)|依赖于Dart常用工具类库
 [common_utils](https://pub.dev/packages/common_utils)|以及对其他第三方库封装，致力于为大家分享简单易用工具类。
