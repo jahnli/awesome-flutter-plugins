@@ -7,17 +7,7 @@
 <br />
 <br />
 
-> ## 当前已收录 ： 81个
-
-<br />
-<br />
-
-
-如果有好的提议或者您认为好用的插件，可直接提Issues !
-
-<br />
-
-麻烦大家给个Star    点关注 不迷路     ❀ ❤
+> ## 已收录 ： 86个
 
 <br />
 
@@ -162,6 +152,20 @@
 [flutter_qq](https://pub.dev/packages/flutter_qq)| QQ Flutter插件。
 [socket_io_client](https://pub.dev/packages/socket_io_client)| 用于Web，Flutter和dartvm的socket.io-client的Dartlang端口
 [jpush_flutter](https://pub.dev/packages/jpush_flutter)| 极光推送官方支持的 Flutter 插件
+
+<br />
+
+> ### 地图
+
+<br />
+
+依赖|描述
+-|-
+[amap_all_fluttify](https://pub.dev/packages/amap_all_fluttify)| 由Fluttify提供的高德地图整合组件（包含搜索、定位、地图）
+[amap_location_fluttify ](https://pub.dev/packages/amap_location_fluttify )| 由Fluttify提供的高德定位组件
+[amap_map_fluttify](https://pub.dev/packages/amap_map_fluttify)| 由Fluttify提供的高德地图组件
+[amap_search_fluttify](https://pub.dev/packages/amap_search_fluttify)| 由Fluttify提供的高德地图搜索组件
+[amap_location](https://pub.dev/packages/amap_location)| 高德地图定位组件
 
 <br />
 
