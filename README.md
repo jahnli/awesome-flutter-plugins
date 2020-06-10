@@ -58,6 +58,11 @@
 [flutter_sliver_tracker](https://pub.dev/packages/flutter_sliver_tracker)|滑动曝光埋点框架，支持SliverList、SliverGrid
 [wechat_assets_picker](https://pub.dev/packages/wechat_assets_picker)|对标微信的多选资源选择器，99%接近于原生微信的操作，纯Dart编写，支持选择的同时也支持预览资源
 [flutter_local_notifications](https://pub.dev/packages/flutter_local_notifications)|用于显示和推送Flutter应用程序的本地通知（定时、通知声音）
+[flutter_slidable](https://pub.dev/packages/flutter_slidable)|实现的可滑动列表项，具有可被取消的定向滑动动作。
+[logger](https://pub.dev/packages/logger)|小型，易于使用且可扩展的记录器，可打印精美的日志。
+[badges](https://pub.dev/packages/badges)|用于创建徽章，可用于任何小部件的附加标记，例如，显示购物车中的许多物品。
+[flutter_spinkit](https://pub.dev/packages/flutter_spinkit)| 加载指示器集合。
+[table_calendar](https://pub.dev/packages/table_calendar)| 高度可定制的功能丰富的Flutter日历，具有手势，动画和多种格式。
 
 <br />
 
@@ -133,6 +138,7 @@
 [extended_image_library](https://pub.dev/packages/extended_image_library)|extended_image的基础库，如果你只需要网络图片缓存功能，你可以只引用这个库
 [flutter_svg](https://pub.dev/packages/flutter_svg)| Flutter的SVG渲染和窗口小部件库，允许绘制和显示可缩放矢量图形
 [font_awesome_flutter](https://pub.dev/packages/font_awesome_flutter)|以Flutter Icons的形式提供. 提供1500个其他图标供您的应用使用.
+[photo_view](https://pub.dev/packages/photo_view)| 图像能够通过用户手势（例如捏，旋转和拖动）进行缩放和平移，还可以显示任何窗口小部件而不是图像，例如容器，文本或SVG。
 
 <br />
 
