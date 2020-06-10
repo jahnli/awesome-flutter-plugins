@@ -57,6 +57,7 @@
 [scroll_bottom_navigation_bar](https://pub.dev/packages/scroll_bottom_navigation_bar)|滚动时隐藏或显示底部导航栏。
 [flutter_sliver_tracker](https://pub.dev/packages/flutter_sliver_tracker)|滑动曝光埋点框架，支持SliverList、SliverGrid
 [wechat_assets_picker](https://pub.dev/packages/wechat_assets_picker)|对标微信的多选资源选择器，99%接近于原生微信的操作，纯Dart编写，支持选择的同时也支持预览资源
+[flutter_local_notifications](https://pub.dev/packages/flutter_local_notifications)|用于显示和推送Flutter应用程序的本地通知（定时、通知声音）
 
 <br />
 
