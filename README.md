@@ -84,6 +84,7 @@
 [url_launcher](https://pub.dev/packages/url_launcher)|一款支持android和IOS的插件，其中包含打开网址、发送邮件、拨打电话、以及发送信息功能。
 [local_auth](https://pub.dev/packages/local_auth)| 提供了对用户执行本地设备上身份验证的方法（指纹解锁）
 [device_apps](https://pub.dev/packages/device_apps)| 获取设备上安装的应用程序列表的插件（仅适用于Android）
+[file_picker](https://pub.dev/packages/file_picker)| 许您使用本机文件浏览器来选择单个或多个绝对文件路径，并具有扩展名过滤支持。
 
 <br />
 
