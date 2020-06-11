@@ -62,6 +62,8 @@
 [badges](https://pub.dev/packages/badges)|用于创建徽章，可用于任何小部件的附加标记，例如，显示购物车中的许多物品。
 [flutter_spinkit](https://pub.dev/packages/flutter_spinkit)| 加载指示器集合。
 [table_calendar](https://pub.dev/packages/table_calendar)| 高度可定制的功能丰富的Flutter日历，具有手势，动画和多种格式。
+[fab_circular_menu](https://pub.dev/packages/fab_circular_menu)| 使用Floating Action Button创建漂亮的圆形菜单。
+[screenshot](https://pub.dev/packages/screenshot)| Flutter屏幕截图程序包（运行时），将任何小部件捕获为图像。
 
 <br />
 
