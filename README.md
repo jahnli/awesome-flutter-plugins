@@ -64,6 +64,7 @@
 [table_calendar](https://pub.dev/packages/table_calendar)| 高度可定制的功能丰富的Flutter日历，具有手势，动画和多种格式。
 [fab_circular_menu](https://pub.dev/packages/fab_circular_menu)| 使用Floating Action Button创建漂亮的圆形菜单。
 [screenshot](https://pub.dev/packages/screenshot)| Flutter屏幕截图程序包（运行时），将任何小部件捕获为图像。
+[city_pickers](https://pub.dev/packages/city_pickers)| 适用于城市选择器的Flutter插件，弹出窗口小部件，按功能调用。
 
 <br />
 
@@ -123,6 +124,7 @@
 [flustars](https://pub.dev/packages/flustars)|依赖于Dart常用工具类库
 [common_utils](https://pub.dev/packages/common_utils)|以及对其他第三方库封装，致力于为大家分享简单易用工具类。
 [jiffy](https://pub.dev/packages/jiffy)|一个受moment.js启发的程序包，用于解析，处理和格式化日期
+
 
 <br />
 
