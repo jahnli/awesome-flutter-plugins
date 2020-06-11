@@ -122,7 +122,7 @@
 [event_bus](https://pub.dev/packages/event_bus)|EventBus能够简化各组件间的通信，用于组件A调用组件B中的方法
 [flustars](https://pub.dev/packages/flustars)|依赖于Dart常用工具类库
 [common_utils](https://pub.dev/packages/common_utils)|以及对其他第三方库封装，致力于为大家分享简单易用工具类。
-
+[jiffy](https://pub.dev/packages/jiffy)|一个受moment.js启发的程序包，用于解析，处理和格式化日期
 
 <br />
 
@@ -175,6 +175,7 @@
 
 依赖|描述
 -|-
+[speech_to_text](https://pub.dev/packages/speech_to_text)| 将特定于设备的语音显示给文本识别功能
 [flutter_tts](https://pub.dev/packages/flutter_tts)| 用于文字转语音的Flutter插件。iOS，Android和Web支持该插件。
 [fluwx](https://pub.dev/packages/fluwx)| Flutter中实现WeChat SDK的功能。借助Fluwx，开发人员可以轻松使用WeChatSDK，例如分享，付款，小程序
 [flutter_qq](https://pub.dev/packages/flutter_qq)| QQ Flutter插件。
