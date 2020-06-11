@@ -34,7 +34,6 @@
 [curved_navigation_bar](https://pub.dev/packages/curved_navigation_bar)|可轻松实现弯曲的导航栏。
 [flutter_cupertino_date_picker](https://pub.dev/packages/flutter_cupertino_date_picker)|Flutter Cupertino日期选择器。以iOS样式显示DatePicker。
 [flutter_spinkit](https://pub.dev/packages/fl_chart)|随时间变化而变化的加载指示器集合
-[animated_text_kit](https://pub.dev/packages/animated_text_kit)|酷炫的漂亮文字动画.
 [flutter_datetime_picker](https://pub.dev/packages/flutter_datetime_picker)|日期时间选择器
 [barcode_scan](https://pub.dev/packages/barcode_scan)|用于通过相机扫描2D条形码和QRCode
 [flutter_swiper](https://pub.dev/packages/flutter_swiper)|最强大的siwiper，多种布局方式，无限轮播，Android和IOS双端适配。
@@ -89,7 +88,19 @@
 [url_launcher](https://pub.dev/packages/url_launcher)|一款支持android和IOS的插件，其中包含打开网址、发送邮件、拨打电话、以及发送信息功能。
 [local_auth](https://pub.dev/packages/local_auth)| 提供了对用户执行本地设备上身份验证的方法（指纹解锁）
 [device_apps](https://pub.dev/packages/device_apps)| 获取设备上安装的应用程序列表的插件（仅适用于Android）
-[file_picker](https://pub.dev/packages/file_picker)| 许您使用本机文件浏览器来选择单个或多个绝对文件路径，并具有扩展名过滤支持。
+[file_picker](https://pub.dev/packages/file_picker)| 允许您使用本机文件浏览器来选择单个或多个绝对文件路径，并具有扩展名过滤支持。
+[vibration](https://pub.dev/packages/vibration)| iOS和Android设备上处理震动的插件
+
+<br />
+
+> ### 动画类
+
+<br />
+
+依赖|描述
+-|-
+[flutter_staggered_animations](https://pub.dev/packages/flutter_staggered_animations)| 轻松将交错动画添加到ListView，GridView，Column和Row子级中
+[animated_text_kit](https://pub.dev/packages/animated_text_kit)|酷炫的漂亮文字动画.
 
 <br />
 
@@ -169,7 +180,7 @@
 
 <br />
 
-> ### 地图
+> ### 地图类
 
 <br />
 
