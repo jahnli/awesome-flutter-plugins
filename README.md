@@ -65,6 +65,7 @@
 [fab_circular_menu](https://pub.dev/packages/fab_circular_menu)| 使用Floating Action Button创建漂亮的圆形菜单。
 [screenshot](https://pub.dev/packages/screenshot)| Flutter屏幕截图程序包（运行时），将任何小部件捕获为图像。
 [city_pickers](https://pub.dev/packages/city_pickers)| 适用于城市选择器的Flutter插件，弹出窗口小部件，按功能调用。
+[argon_buttons_flutter](https://pub.dev/packages/argon_buttons_flutter)| 创建漂亮的“加载”和“计时器”按钮。无需担心每个按钮的动画和状态。
 
 <br />
 
@@ -94,6 +95,7 @@
 [file_picker](https://pub.dev/packages/file_picker)| 允许您使用本机文件浏览器来选择单个或多个绝对文件路径，并具有扩展名过滤支持。
 [vibration](https://pub.dev/packages/vibration)| iOS和Android设备上处理震动的插件
 [get_ip](https://pub.dev/packages/get_ip)| 您获取Android和iOS上用户设备的IP地址
+[system_info](https://pub.dev/packages/system_info)| 可以轻松访问有关系统的有用信息（architecture, bitness, kernel, memory, operating system, CPU, user)
 
 <br />
 
