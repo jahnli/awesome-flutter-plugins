@@ -69,6 +69,7 @@
 [timeline_tile](https://pub.dev/packages/timeline_tile)| 建立高度可定制的时间线
 [curved_drawer](https://pub.dev/packages/curved_drawer)| 动画侧边栏、菜单
 [flutter_zoom_drawer](https://pub.dev/packages/flutter_zoom_drawer)| 侧边菜单（抽屉）的自定义实现
+[touchable](https://pub.dev/packages/touchable)| 为CustomPainter中在画布上绘制的每个Shape添加各种手势回调
 <br />
 
 > ### 设备相关
