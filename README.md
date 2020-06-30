@@ -140,7 +140,7 @@
 [flutter_ijkplayer](https://pub.dev/packages/flutter_ijkplayer)|基于bilibili ijkplayer的视频/音频播放器，支持https，rtmp，m3u8和更多协议。
 [awsome_video_player](https://pub.dev/packages/awsome_video_player)|一个简单易用的而且可高度自定义的播放器。
 [chewie](https://pub.dev/packages/chewie)|Flutter的视频播放器，带有Cupertino和Material播放控件
-
+[flutter_webrtc](https://pub.dev/packages/flutter_webrtc)| Flutter WebRTC插件。
 
 <br />
 
