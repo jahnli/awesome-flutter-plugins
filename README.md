@@ -24,6 +24,7 @@
 依赖|描述
 -|-
 [Fliggy Mobile](https://github.com/Fliggy-Mobile)|【阿里巴巴-飞猪-FliggyMobile 技术团队】 开发维护的 FWidget 系列组件。
+[full_screen_menu](https://pub.dev/packages/full_screen_menu)|全屏菜单，为用户提供多种精美的方式。
 [timetable](https://pub.dev/packages/timetable)|可自定义的动画日历小部件，包括日和周视图
 [confetti](https://pub.dev/packages/confetti)|在屏幕上吹起五彩纸屑。以风格庆祝应用成就。控制速度，角度，重力和纸屑量。
 [convex_bottom_bar](https://pub.dev/packages/convex_bottom_bar)|实现ConvexAppBar以在底部栏中显示一个凸形选项卡。支持主题。
