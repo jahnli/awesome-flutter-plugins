@@ -67,9 +67,12 @@
 [city_pickers](https://pub.dev/packages/city_pickers)| 适用于城市选择器的Flutter插件，弹出窗口小部件，按功能调用。
 [argon_buttons_flutter](https://pub.dev/packages/argon_buttons_flutter)| 创建漂亮的“加载”和“计时器”按钮。无需担心每个按钮的动画和状态。
 [timeline_tile](https://pub.dev/packages/timeline_tile)| 建立高度可定制的时间线
+[flutter_staggered_animations](https://pub.dev/packages/flutter_staggered_animations)| 轻松将交错动画添加到ListView，GridView，Column和Row子级中
+[animated_text_kit](https://pub.dev/packages/animated_text_kit)|酷炫的漂亮文字动画
 [curved_drawer](https://pub.dev/packages/curved_drawer)| 动画侧边栏、菜单
 [flutter_zoom_drawer](https://pub.dev/packages/flutter_zoom_drawer)| 侧边菜单（抽屉）的自定义实现
 [touchable](https://pub.dev/packages/touchable)| 为CustomPainter中在画布上绘制的每个Shape添加各种手势回调
+[concentric_transition](https://pub.dev/packages/concentric_transition)| 同心过渡剪切器，创建视图。适用于入门，页面过渡，自定义剪切器，绘画工具等
 <br />
 
 > ### 设备相关
@@ -100,16 +103,6 @@
 [get_ip](https://pub.dev/packages/get_ip)| 您获取Android和iOS上用户设备的IP地址
 [system_info](https://pub.dev/packages/system_info)| 可以轻松访问有关系统的有用信息（architecture, bitness, kernel, memory, operating system, CPU, user)
 
-<br />
-
-> ### 动画类
-
-<br />
-
-依赖|描述
--|-
-[flutter_staggered_animations](https://pub.dev/packages/flutter_staggered_animations)| 轻松将交错动画添加到ListView，GridView，Column和Row子级中
-[animated_text_kit](https://pub.dev/packages/animated_text_kit)|酷炫的漂亮文字动画.
 
 <br />
 
