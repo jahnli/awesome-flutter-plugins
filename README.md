@@ -123,6 +123,7 @@
 [flustars](https://pub.dev/packages/flustars)|依赖于Dart常用工具类库
 [common_utils](https://pub.dev/packages/common_utils)|以及对其他第三方库封装，致力于为大家分享简单易用工具类。
 [jiffy](https://pub.dev/packages/jiffy)|一个受moment.js启发的程序包，用于解析，处理和格式化日期
+[timeago](https://pub.dev/packages/timeago)|创建模糊时间戳的库。（例如“ 15分钟前”）
 
 
 <br />
