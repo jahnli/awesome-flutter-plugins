@@ -169,6 +169,7 @@
 -|-
 [flutter_echarts](https://pub.dev/packages/flutter_echarts)|基于Echarts的数据可视化图表库，能够构建高级图表，例如WebGL 3D，GIS地图等。
 [fl_chart](https://pub.dev/packages/fl_chart)|Flutter图表库，当前支持折线图，条形图和饼图.
+[charts_flutter](https://pub.dev/packages/charts_flutter)|Material Design图表库。
 [percent_indicator](https://pub.dev/packages/percent_indicator)|根据百分比显示进度小部件，可以是圆形或线性的，也可以根据需要进行自定义.
 
 
