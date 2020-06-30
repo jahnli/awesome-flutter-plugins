@@ -67,6 +67,8 @@
 [city_pickers](https://pub.dev/packages/city_pickers)| 适用于城市选择器的Flutter插件，弹出窗口小部件，按功能调用。
 [argon_buttons_flutter](https://pub.dev/packages/argon_buttons_flutter)| 创建漂亮的“加载”和“计时器”按钮。无需担心每个按钮的动画和状态。
 [timeline_tile](https://pub.dev/packages/timeline_tile)| 建立高度可定制的时间线
+[curved_drawer](https://pub.dev/packages/curved_drawer)| 动画侧边栏、菜单
+[flutter_zoom_drawer](https://pub.dev/packages/flutter_zoom_drawer)| 侧边菜单（抽屉）的自定义实现
 <br />
 
 > ### 设备相关
