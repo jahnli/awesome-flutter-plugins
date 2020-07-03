@@ -105,7 +105,7 @@
 [get_ip](https://pub.dev/packages/get_ip)| 您获取Android和iOS上用户设备的IP地址
 [system_info](https://pub.dev/packages/system_info)| 可以轻松访问有关系统的有用信息（architecture, bitness, kernel, memory, operating system, CPU, user)
 [flutter_blue](https://pub.dev/packages/flutter_blue)| Android和iOS上与低功耗蓝牙设备连接和通信
-
+[camera](https://pub.dev/packages/camera)| 获取有关和控制Android和iOS上的相机​​的信息。支持预览摄像头，捕获图像，捕获视频
 <br />
 
 > ### 项目相关
