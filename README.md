@@ -158,7 +158,7 @@
 [font_awesome_flutter](https://pub.dev/packages/font_awesome_flutter)|以Flutter Icons的形式提供. 提供1500个其他图标供您的应用使用.
 [weather_icons](https://pub.dev/packages/weather_icons)|带有200多个天气主题图标的图标包。
 [photo_view](https://pub.dev/packages/photo_view)| 图像能够通过用户手势（例如捏，旋转和拖动）进行缩放和平移，还可以显示任何窗口小部件而不是图像，例如容器，文本或SVG。
-
+[flutter_emoji](https://pub.dev/packages/flutter_emoji)| 轻巧的表情符号。
 <br />
 
 > ### 图表类
