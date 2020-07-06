@@ -85,6 +85,7 @@
 
 依赖|描述
 -|-
+[flutter_contact](https://pub.dev/packages/flutter_contact)|在Android和iOS设备上检索，创建和保存联系人以及与联系人相关的事件。
 [sensors](https://pub.dev/packages/sensors)|访问Android和iOS加速度计和陀螺仪传感器。
 [app_settings](https://pub.dev/packages/app_settings)|从应用程序打开iOS和Android手机设置。
 [wakelock](https://pub.dev/packages/wakelock)| 在Android和iOS上启用和切换屏幕唤醒锁，以防止屏幕自动关闭，本质上，这使您可以使设备保持唤醒状态，即防止设备进入休眠状态。
