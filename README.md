@@ -66,7 +66,7 @@
 [badges](https://pub.dev/packages/badges)|用于创建徽章，可用于任何小部件的附加标记，例如，显示购物车中的许多物品。
 [flutter_spinkit](https://pub.dev/packages/flutter_spinkit)| 加载指示器集合。
 [table_calendar](https://pub.dev/packages/table_calendar)| 高度可定制的功能丰富的Flutter日历，具有手势，动画和多种格式。
-[fab_circular_menu](https://pub.dev/packages/fab_circular_menu)| 使用Floating Action Button创建漂亮的圆形菜单。
+[circular_menu](https://pub.dev/packages/circular_menu)| 一个简单多样的动画圆形菜单
 [screenshot](https://pub.dev/packages/screenshot)| Flutter屏幕截图程序包（运行时），将任何小部件捕获为图像。
 [city_pickers](https://pub.dev/packages/city_pickers)| 适用于城市选择器的Flutter插件，弹出窗口小部件，按功能调用。
 [argon_buttons_flutter](https://pub.dev/packages/argon_buttons_flutter)| 创建漂亮的“加载”和“计时器”按钮。无需担心每个按钮的动画和状态。
