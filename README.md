@@ -140,6 +140,8 @@
 
 依赖|描述
 -|-
+[audioplayers](https://pub.dev/packages/audioplayers)|可同时播放多个音频文件
+[flutter_sound](https://pub.dev/packages/flutter_sound)|音频录制处理
 [fijkplayer](https://pub.dev/packages/fijkplayer)|基于ijkplayer的Video Player Flutter插件，支持最流行的协议和编解码器
 [flutter_ijkplayer](https://pub.dev/packages/flutter_ijkplayer)|基于bilibili ijkplayer的视频/音频播放器，支持https，rtmp，m3u8和更多协议。
 [awsome_video_player](https://pub.dev/packages/awsome_video_player)|一个简单易用的而且可高度自定义的播放器。
