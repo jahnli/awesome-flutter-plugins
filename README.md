@@ -24,6 +24,7 @@
 依赖|描述
 -|-
 [Fliggy Mobile](https://github.com/Fliggy-Mobile)|【阿里巴巴-飞猪-FliggyMobile 技术团队】 开发维护的 FWidget 系列组件。
+[flare_flutter](https://pub.dev/packages/flare_flutter)| Flutter 的动画插件
 [gzx_dropdown_menu](https://pub.dev/packages/gzx_dropdown_menu)| 易于使用且功能强大的自定义功能，仿美团和淘宝下拉菜单
 [syncfusion_flutter_datepicker](https://pub.dev/packages/syncfusion_flutter_datepicker)| 可以轻松选择日期或日期范围，它具有内置视图，可以快速导航到所需日期。
 [rate_my_app](https://pub.dev/packages/rate_my_app)|询问用户是否对自定义条件（例如安装时间，启动次数等）进行评分。
