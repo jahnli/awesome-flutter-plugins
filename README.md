@@ -24,7 +24,8 @@
 依赖|描述
 -|-
 [Fliggy Mobile](https://github.com/Fliggy-Mobile)|【阿里巴巴-飞猪-FliggyMobile 技术团队】 开发维护的 FWidget 系列组件。
-[flutter_staggered_grid_view](https://github.com/flutter_staggered_grid_view)|瀑布流展示控件，支持多列且行大小不同。
+[flutter_staggered_grid_view](https://pub.dev/packages/flutter_staggered_grid_view)|瀑布流展示控件，支持多列且行大小不同。
+[shimmer](https://pub.dev/packages/shimmer)|为控件添加闪光效果
 [flare_flutter](https://pub.dev/packages/flare_flutter)| Flutter 的动画插件
 [gzx_dropdown_menu](https://pub.dev/packages/gzx_dropdown_menu)| 易于使用且功能强大的自定义功能，仿美团和淘宝下拉菜单
 [syncfusion_flutter_datepicker](https://pub.dev/packages/syncfusion_flutter_datepicker)| 可以轻松选择日期或日期范围，它具有内置视图，可以快速导航到所需日期。
