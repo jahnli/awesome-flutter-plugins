@@ -185,6 +185,7 @@
 
 依赖|描述
 -|-
+[dim](https://pub.dev/packages/dim)| 方便地与腾讯imsdk集成，可以轻松地在flutter上使用imsdk。
 [speech_to_text](https://pub.dev/packages/speech_to_text)| 将特定于设备的语音显示给文本识别功能
 [flutter_tts](https://pub.dev/packages/flutter_tts)| 用于文字转语音的Flutter插件。iOS，Android和Web支持该插件。
 [fluwx](https://pub.dev/packages/fluwx)| Flutter中实现WeChat SDK的功能。借助Fluwx，开发人员可以轻松使用WeChatSDK，例如分享，付款，小程序
