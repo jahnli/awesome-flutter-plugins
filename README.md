@@ -24,6 +24,7 @@
 依赖|描述
 -|-
 [Fliggy Mobile](https://github.com/Fliggy-Mobile)|【阿里巴巴-飞猪-FliggyMobile 技术团队】 开发维护的 FWidget 系列组件。
+[flutter_staggered_grid_view](https://github.com/flutter_staggered_grid_view)|瀑布流展示控件，支持多列且行大小不同。
 [flare_flutter](https://pub.dev/packages/flare_flutter)| Flutter 的动画插件
 [gzx_dropdown_menu](https://pub.dev/packages/gzx_dropdown_menu)| 易于使用且功能强大的自定义功能，仿美团和淘宝下拉菜单
 [syncfusion_flutter_datepicker](https://pub.dev/packages/syncfusion_flutter_datepicker)| 可以轻松选择日期或日期范围，它具有内置视图，可以快速导航到所需日期。
@@ -130,7 +131,7 @@
 [common_utils](https://pub.dev/packages/common_utils)|以及对其他第三方库封装，致力于为大家分享简单易用工具类。
 [jiffy](https://pub.dev/packages/jiffy)|一个受moment.js启发的程序包，用于解析，处理和格式化日期
 [timeago](https://pub.dev/packages/timeago)|创建模糊时间戳的库。（例如“ 15分钟前”）
-
+[intl](https://pub.dev/packages/intl)|国际化工具类
 
 <br />
 
