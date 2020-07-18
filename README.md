@@ -113,6 +113,7 @@
 [flutter_blue](https://pub.dev/packages/flutter_blue)| Android和iOS上与低功耗蓝牙设备连接和通信
 [camera](https://pub.dev/packages/camera)| 获取有关和控制Android和iOS上的相机的信息。支持预览摄像头，捕获图像，捕获视频
 [flutter_app_badger](https://pub.dev/packages/flutter_app_badger)|用于在启动器上更新应用程序徽章的插件
+[sounds](https://pub.dev/packages/sounds)|为音频播放和录制提供了完整的api和小部件
 <br />
 
 > ### 项目相关
