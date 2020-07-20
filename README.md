@@ -24,6 +24,7 @@
 依赖|描述
 -|-
 [Fliggy Mobile](https://github.com/Fliggy-Mobile)|【阿里巴巴-飞猪-FliggyMobile 技术团队】 开发维护的 FWidget 系列组件。
+[giffy_dialog](https://pub.dev/packages/giffy_dialog)|一个精美的自定义警报对话框
 [before_after](https://pub.dev/packages/before_after)|轻松地显示两个图像之间的差异。
 [flutter_neumorphic](https://pub.dev/packages/flutter_neumorphic)|随时可用的Neumorphic ui套件
 [persistent_bottom_nav_bar](https://pub.dev/packages/persistent_bottom_nav_bar)|高度可定制的持久性/静态底部导航栏
