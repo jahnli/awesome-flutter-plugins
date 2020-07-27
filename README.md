@@ -24,6 +24,7 @@
 依赖|描述
 -|-
 [Fliggy Mobile](https://github.com/Fliggy-Mobile)|【阿里巴巴-飞猪-FliggyMobile 技术团队】 开发维护的 FWidget 系列组件。
+[flutter_simple_calculator](https://pub.dev/packages/flutter_simple_calculator)|提供简单的计算器
 [giffy_dialog](https://pub.dev/packages/giffy_dialog)|一个精美的自定义警报对话框
 [before_after](https://pub.dev/packages/before_after)|轻松地显示两个图像之间的差异。
 [flutter_neumorphic](https://pub.dev/packages/flutter_neumorphic)|随时可用的Neumorphic ui套件
