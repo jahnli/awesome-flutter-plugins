@@ -24,6 +24,7 @@
 依赖|描述
 -|-
 [Fliggy Mobile](https://github.com/Fliggy-Mobile)|【阿里巴巴-飞猪-FliggyMobile 技术团队】 开发维护的 FWidget 系列组件。
+[flui](https://pub.dev/packages/flui)| Flutter小部件UI库
 [edge_detection](https://pub.dev/packages/edge_detection)|检测对象的边缘，扫描纸张，检测角，检测矩形。它允许裁剪检测到的对象图像并返回裁剪图像的路径。
 [imageview360](https://pub.dev/packages/imageview360)|通过旋转和手势自定义提供360度的图像视图。
 [flutter_simple_calculator](https://pub.dev/packages/flutter_simple_calculator)|提供简单的计算器
