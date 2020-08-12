@@ -191,7 +191,7 @@
 [fl_chart](https://pub.dev/packages/fl_chart)|Flutter图表库，当前支持折线图，条形图和饼图.
 [charts_flutter](https://pub.dev/packages/charts_flutter)|Material Design图表库。
 [percent_indicator](https://pub.dev/packages/percent_indicator)|根据百分比显示进度小部件，可以是圆形或线性的，也可以根据需要进行自定义.
-
+[graphview](https://pub.dev/packages/graphview)| 图形结构显示数据。它可以显示树形布局和层次结构图。
 
 <br />
 
