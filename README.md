@@ -8,7 +8,8 @@
 <br />
 <br />
 掘金文章地址：https://juejin.im/post/5edeee2e51882542f347030c
-
+<br />
+<br />
 上次更新 08-17  ：  [flame](https://pub.dev/packages/flame)
 
 <br />
@@ -27,7 +28,7 @@
 -|-
 [Fliggy Mobile](https://github.com/Fliggy-Mobile)|【阿里巴巴-飞猪-FliggyMobile 技术团队】 开发维护的 FWidget 系列组件。
 [flui](https://pub.dev/packages/flui)| Flutter小部件UI库
-[flame](https://pub.dev/packages/flame)| Flutter游戏引擎          收录：08-17
+[flame](https://pub.dev/packages/flame)| Flutter游戏引擎
 [flutter_tags](https://pub.dev/packages/flutter_tags)|创建可选和输入标签（TextField）。
 [model_viewer](https://pub.dev/packages/model_viewer)|用于以glTF和GLB格式呈现交互式3D模型。
 [edge_detection](https://pub.dev/packages/edge_detection)|检测对象的边缘，扫描纸张，检测角，检测矩形。它允许裁剪检测到的对象图像并返回裁剪图像的路径。
