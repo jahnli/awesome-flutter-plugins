@@ -12,9 +12,10 @@
 <br />
 <br />
 
-### 已收录 ：100+ ，上次更新（ 08-17 ）  新增：
+### 已收录 ：100+ ，上次更新（ 08-18）  新增：
 
-+ [flame](https://pub.dev/packages/flame)       -    Flutter游戏引擎
++ [like_button](https://pub.dev/packages/like_button)       -     点赞按钮动画
++ [flutter_swipe_action_cell](https://pub.dev/packages/flutter_swipe_action_cell)       -     iOS式单元格滑动操作效果
 
 <br />
 <br />
@@ -31,6 +32,8 @@
 -|-
 [Fliggy Mobile](https://github.com/Fliggy-Mobile)|【阿里巴巴-飞猪-FliggyMobile 技术团队】 开发维护的 FWidget 系列组件。
 [flui](https://pub.dev/packages/flui)| Flutter小部件UI库
+[like_button](https://pub.dev/packages/like_button)| 点赞按钮动画
+[flutter_swipe_action_cell](https://pub.dev/packages/flutter_swipe_action_cell)| iOS式单元格滑动操作效果
 [flame](https://pub.dev/packages/flame)| Flutter游戏引擎
 [flutter_tags](https://pub.dev/packages/flutter_tags)|创建可选和输入标签（TextField）。
 [model_viewer](https://pub.dev/packages/model_viewer)|用于以glTF和GLB格式呈现交互式3D模型。
