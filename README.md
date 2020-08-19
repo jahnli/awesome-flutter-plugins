@@ -14,7 +14,7 @@
 
 ### 已收录 ：100+ ，
 ### 08-18  新增：
-+ [iscflutterplugin](https://pub.dev/packages/iscflutterplugin) - 海康isc平台视频播放插件 - ❀  [xiaobug0929](https://github.com/xiaobug0929) 提供
++ [iscflutterplugin](https://pub.dev/packages/iscflutterplugin) - 海康isc平台视频播放插件 - ❀  [xiaobug0929](https://github.com/xiaobug0929) 提供 ！
 
 ### 08-17  新增：
 + [like_button](https://pub.dev/packages/like_button) - 点赞按钮动画
@@ -35,7 +35,7 @@
 -|-
 [Fliggy Mobile](https://github.com/Fliggy-Mobile)|【阿里巴巴-飞猪-FliggyMobile 技术团队】 开发维护的 FWidget 系列组件。
 [flui](https://pub.dev/packages/flui)| Flutter小部件UI库
-[iscflutterplugin](https://pub.dev/packages/iscflutterplugin)| 海康isc平台视频播放插件
+[iscflutterplugin](https://pub.dev/packages/iscflutterplugin)| 海康isc平台视频播放插件 - ❀  [xiaobug0929](https://github.com/xiaobug0929) 提供 ！
 [like_button](https://pub.dev/packages/like_button)| 点赞按钮动画
 [flutter_swipe_action_cell](https://pub.dev/packages/flutter_swipe_action_cell)| iOS式单元格滑动操作效果
 [flame](https://pub.dev/packages/flame)| Flutter游戏引擎
