@@ -14,7 +14,7 @@
 
 ### 已收录 ：100+ ，
 ### 08-18  新增：
-+ [iscflutterplugin](https://pub.dev/packages/iscflutterplugin) - 海康isc平台视频播放插件
++ [iscflutterplugin](https://pub.dev/packages/iscflutterplugin) - 海康isc平台视频播放插件   ❤  [xiaobug0929](https://github.com/xiaobug0929) 提供
 
 ### 08-17  新增：
 + [like_button](https://pub.dev/packages/like_button) - 点赞按钮动画
