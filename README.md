@@ -64,7 +64,7 @@
 [printing](https://pub.dev/packages/printing)|允许Flutter应用程序生成文档并将其打印到android或ios兼容打印机
 [curved_navigation_bar](https://pub.dev/packages/curved_navigation_bar)|可轻松实现弯曲的导航栏。
 [flutter_cupertino_date_picker](https://pub.dev/packages/flutter_cupertino_date_picker)|Flutter Cupertino日期选择器。以iOS样式显示DatePicker。
-[flutter_spinkit](https://pub.dev/packages/fl_chart)|随时间变化而变化的加载指示器集合
+[flutter_spinkit](https://pub.dev/packages/flutter_spinkit)|随时间变化而变化的加载指示器集合
 [flutter_datetime_picker](https://pub.dev/packages/flutter_datetime_picker)|日期时间选择器
 [barcode_scan](https://pub.dev/packages/barcode_scan)|用于通过相机扫描2D条形码和QRCode
 [flutter_swiper](https://pub.dev/packages/flutter_swiper)|最强大的siwiper，多种布局方式，无限轮播，Android和IOS双端适配。
@@ -75,7 +75,6 @@
 [solid_bottom_sheet](https://pub.dev/packages/solid_bottom_sheet)|完整的可定制的bottom_sheet。
 [rubber](https://pub.dev/packages/rubber)|Flutter的一种很好的弹性底片实现。
 [sliding_up_panel](https://pub.dev/packages/sliding_up_panel)|可拖动的底部弹片实现
-[curved_navigation_bar](https://pub.dev/packages/curved_navigation_bar)|可轻松实现弯曲的导航栏。
 [sticky_headers](https://pub.dev/packages/sticky_headers)|可以将标题放置在可滚动内容上，该内容在滚动内容时将粘贴在容器的顶部。
 [flutter_sticky_header](https://pub.dev/packages/flutter_sticky_header)|粘滞标题。在CustomScrollView中使用它。
 [flutter_easyloading](https://pub.dev/packages/flutter_easyloading)|一个简单易用的Flutter插件，包含23种loading动画效果、进度条展示、Toast展示。纯Flutter端实现，兼容性好，支持iOS、Android。
@@ -91,7 +90,6 @@
 [flutter_slidable](https://pub.dev/packages/flutter_slidable)|实现的可滑动列表项，具有可被取消的定向滑动动作。
 [logger](https://pub.dev/packages/logger)|小型，易于使用且可扩展的记录器，可打印精美的日志。
 [badges](https://pub.dev/packages/badges)|用于创建徽章，可用于任何小部件的附加标记，例如，显示购物车中的许多物品。
-[flutter_spinkit](https://pub.dev/packages/flutter_spinkit)| 加载指示器集合。
 [table_calendar](https://pub.dev/packages/table_calendar)| 高度可定制的功能丰富的Flutter日历，具有手势，动画和多种格式。
 [circular_menu](https://pub.dev/packages/circular_menu)| 一个简单多样的动画圆形菜单
 [screenshot](https://pub.dev/packages/screenshot)| Flutter屏幕截图程序包（运行时），将任何小部件捕获为图像。
