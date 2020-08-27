@@ -14,6 +14,10 @@
 
 ### 已收录 ：100+ ，
 
+### 08-27  新增：
++ [hidden_drawer_menu](https://pub.dev/packages/hidden_drawer_menu) - 带有透视动画的精美抽屉模式菜单功能的库。
++ [Fluttify系列插件](https://pub.flutter-io.cn/packages/amap_map_fluttify) -（百度地图、高德地图、讯飞、腾讯直播、网易直播、百度人脸识别、极光统计） （专业版需收费）
+
 ### 08-23  新增：
 + [filter_list](https://pub.dev/packages/iscflutterplugin) - 从列表中过滤数据。
 + [floating_action_bubble](https://pub.dev/packages/floating_action_bubble) - 浮动按钮的动画菜单
@@ -22,9 +26,6 @@
 ### 08-18  新增：
 + [iscflutterplugin](https://pub.dev/packages/iscflutterplugin) - 海康isc平台视频播放插件 - ❀  [xiaobug0929](https://github.com/xiaobug0929) 提供 ！
 
-### 08-17  新增：
-+ [like_button](https://pub.dev/packages/like_button) - 点赞按钮动画
-+ [flutter_swipe_action_cell](https://pub.dev/packages/flutter_swipe_action_cell) - IOS式单元格滑动操作效果
 
 <br />
 <br />
@@ -41,6 +42,8 @@
 -|-
 [Fliggy Mobile](https://github.com/Fliggy-Mobile)|【阿里巴巴-飞猪-FliggyMobile 技术团队】 开发维护的 FWidget 系列组件。
 [flui](https://pub.dev/packages/flui)| Flutter小部件UI库
+[Fluttify系列插件](https://pub.flutter-io.cn/packages/amap_map_fluttify)| （百度地图、高德地图、讯飞、腾讯直播、网易直播、百度人脸识别、极光统计（专业版需收费））
+[hidden_drawer_menu](https://pub.dev/packages/hidden_drawer_menu) |  带有透视动画的精美抽屉模式菜单功能的库。
 [filter_list](https://pub.dev/packages/iscflutterplugin) |  从列表中过滤数据。
 [floating_action_bubble](https://pub.dev/packages/floating_action_bubble) |  浮动按钮的动画菜单
 [flutter_unity_widget](https://pub.dev/packages/flutter_unity_widget) |  Flutter Unity 3D小部件，用于将Unity游戏场景嵌入flutter中
