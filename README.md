@@ -14,7 +14,7 @@
 
 ### 已收录 ：100+
 
-### 09-01  新增：
+### 09-07  新增：
 + [loading_gifs](https://pub.flutter-io.cn/packages/loading_gifs) - 加载指示器GIF
 + [liquid_progress_indicator](https://pub.dev/packages/liquid_progress_indicator) - 水波效果的进度指示器
 
