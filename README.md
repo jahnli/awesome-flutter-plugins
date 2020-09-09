@@ -12,7 +12,7 @@
 <br />
 <br />
 
-### 已收录 ：100+
+### 已收录 ：200+
 
 ### 09-07  新增：
 + [loading_gifs](https://pub.flutter-io.cn/packages/loading_gifs) - 加载指示器GIF
