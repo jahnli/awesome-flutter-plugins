@@ -45,7 +45,6 @@
 [flui](https://pub.dev/packages/flui)| Flutter小部件UI库
 [Fluttify系列插件](https://pub.flutter-io.cn/packages/amap_map_fluttify)| 百度地图、高德地图、讯飞、腾讯直播、网易直播、百度人脸识别、极光统计。（专业版需收费）
 [flutter_colorpicker](https://pub.flutter-io.cn/packages/flutter_colorpicker)| 一款受chrome devtools启发的HSV（HSB）/ HSL拾色器
-[flutter_avatars_bottts](https://pub.dev/packages/flutter_avatars_bottts) | svg头像渲染小部件
 [sliding_panel](https://pub.flutter-io.cn/packages/sliding_panel)| 可定制的底部滑动面板
 [loading_gifs](https://pub.flutter-io.cn/packages/loading_gifs)| 加载指示器GIF
 [liquid_progress_indicator](https://pub.dev/packages/liquid_progress_indicator) | 水波效果的进度指示器
@@ -55,17 +54,13 @@
 [filter_list](https://pub.dev/packages/iscflutterplugin) |  从列表中过滤数据。
 [floating_action_bubble](https://pub.dev/packages/floating_action_bubble) |  浮动按钮的动画菜单
 [flutter_unity_widget](https://pub.dev/packages/flutter_unity_widget) |  Flutter Unity 3D小部件，用于将Unity游戏场景嵌入flutter中
-[iscflutterplugin](https://pub.dev/packages/iscflutterplugin)| 海康isc平台视频播放插件 - ❀  [xiaobug0929](https://github.com/xiaobug0929) 提供 ！
 [like_button](https://pub.dev/packages/like_button)| 点赞按钮动画
 [flutter_swipe_action_cell](https://pub.dev/packages/flutter_swipe_action_cell)| iOS式单元格滑动操作效果
 [flame](https://pub.dev/packages/flame)| Flutter游戏引擎
 [flutter_tags](https://pub.dev/packages/flutter_tags)|创建可选和输入标签（TextField）。
 [model_viewer](https://pub.dev/packages/model_viewer)|用于以glTF和GLB格式呈现交互式3D模型。
-[edge_detection](https://pub.dev/packages/edge_detection)|检测对象的边缘，扫描纸张，检测角，检测矩形。它允许裁剪检测到的对象图像并返回裁剪图像的路径。
-[imageview360](https://pub.dev/packages/imageview360)|通过旋转和手势自定义提供360度的图像视图。
 [flutter_simple_calculator](https://pub.dev/packages/flutter_simple_calculator)|提供简单的计算器
 [giffy_dialog](https://pub.dev/packages/giffy_dialog)|一个精美的自定义警报对话框
-[before_after](https://pub.dev/packages/before_after)|轻松地显示两个图像之间的差异。
 [flutter_neumorphic](https://pub.dev/packages/flutter_neumorphic)|随时可用的Neumorphic ui套件
 [persistent_bottom_nav_bar](https://pub.dev/packages/persistent_bottom_nav_bar)|高度可定制的持久性/静态底部导航栏
 [flutter_staggered_grid_view](https://pub.dev/packages/flutter_staggered_grid_view)|瀑布流展示控件，支持多列且行大小不同。
@@ -81,12 +76,10 @@
 [flutter_icons](https://pub.dev/packages/flutter_icons)|可定制的Flutter图标，在Flutter项目中可以使用超过3K +图标
 [reorderables](https://pub.dev/packages/reorderables)|可重新排列的表格，行，列，环绕，条状列表，允许拖放其子级。
 [signature](https://pub.dev/packages/signature)|Flutter插件可提供性能优化的签名画布，并能够设置自定义样式，边界和初始状态。
-[printing](https://pub.dev/packages/printing)|允许Flutter应用程序生成文档并将其打印到android或ios兼容打印机
 [curved_navigation_bar](https://pub.dev/packages/curved_navigation_bar)|可轻松实现弯曲的导航栏。
 [flutter_cupertino_date_picker](https://pub.dev/packages/flutter_cupertino_date_picker)|Flutter Cupertino日期选择器。以iOS样式显示DatePicker。
 [flutter_spinkit](https://pub.dev/packages/flutter_spinkit)|随时间变化而变化的加载指示器集合
 [flutter_datetime_picker](https://pub.dev/packages/flutter_datetime_picker)|日期时间选择器
-[barcode_scan](https://pub.dev/packages/barcode_scan)|用于通过相机扫描2D条形码和QRCode
 [flutter_swiper](https://pub.dev/packages/flutter_swiper)|最强大的siwiper，多种布局方式，无限轮播，Android和IOS双端适配。
 [fluttertoast](https://pub.dev/packages/fluttertoast)|Toast 组件
 [pull_to_refresh](https://pub.dev/packages/pull_to_refresh)|一个提供上拉加载和下拉刷新的组件,同时支持Android和Ios
@@ -106,7 +99,6 @@
 [scroll_bottom_navigation_bar](https://pub.dev/packages/scroll_bottom_navigation_bar)|滚动时隐藏或显示底部导航栏。
 [flutter_sliver_tracker](https://pub.dev/packages/flutter_sliver_tracker)|滑动曝光埋点框架，支持SliverList、SliverGrid
 [wechat_assets_picker](https://pub.dev/packages/wechat_assets_picker)|对标微信的多选资源选择器，99%接近于原生微信的操作，纯Dart编写，支持选择的同时也支持预览资源
-[flutter_local_notifications](https://pub.dev/packages/flutter_local_notifications)|用于显示和推送Flutter应用程序的本地通知（定时、通知声音）
 [flutter_slidable](https://pub.dev/packages/flutter_slidable)|实现的可滑动列表项，具有可被取消的定向滑动动作。
 [logger](https://pub.dev/packages/logger)|小型，易于使用且可扩展的记录器，可打印精美的日志。
 [badges](https://pub.dev/packages/badges)|用于创建徽章，可用于任何小部件的附加标记，例如，显示购物车中的许多物品。
@@ -130,6 +122,9 @@
 
 依赖|描述
 -|-
+[printing](https://pub.dev/packages/printing)|允许Flutter应用程序生成文档并将其打印到android或ios兼容打印机
+[flutter_local_notifications](https://pub.dev/packages/flutter_local_notifications)|用于显示和推送Flutter应用程序的本地通知（定时、通知声音）
+[barcode_scan](https://pub.dev/packages/barcode_scan)|用于通过相机扫描2D条形码和QRCode
 [flutter_contact](https://pub.dev/packages/flutter_contact)|在Android和iOS设备上检索，创建和保存联系人以及与联系人相关的事件。
 [sensors](https://pub.dev/packages/sensors)|访问Android和iOS加速度计和陀螺仪传感器。
 [app_settings](https://pub.dev/packages/app_settings)|从应用程序打开iOS和Android手机设置。
@@ -185,6 +180,7 @@
 
 依赖|描述
 -|-
+[iscflutterplugin](https://pub.dev/packages/iscflutterplugin)| 海康isc平台视频播放插件 - ❀  [xiaobug0929](https://github.com/xiaobug0929) 提供 ！
 [audioplayers](https://pub.dev/packages/audioplayers)|可同时播放多个音频文件
 [flutter_sound](https://pub.dev/packages/flutter_sound)|音频录制处理
 [fijkplayer](https://pub.dev/packages/fijkplayer)|基于ijkplayer的Video Player Flutter插件，支持最流行的协议和编解码器
@@ -201,6 +197,10 @@
 
 依赖|描述
 -|-
+[edge_detection](https://pub.dev/packages/edge_detection)|检测对象的边缘，扫描纸张，检测角，检测矩形。它允许裁剪检测到的对象图像并返回裁剪图像的路径。
+[before_after](https://pub.dev/packages/before_after)|轻松地显示两个图像之间的差异。
+[imageview360](https://pub.dev/packages/imageview360)|通过旋转和手势自定义提供360度的图像视图。
+[flutter_avatars_bottts](https://pub.dev/packages/flutter_avatars_bottts) | svg头像渲染小部件
 [flutter_image_compress](https://pub.dev/packages/flutter_image_compress)|图片压缩
 [cached_network_image](https://pub.dev/packages/cached_network_image)|Flutter库可加载和缓存网络图像。
 [flutter_gifimage](https://pub.dev/packages/flutter_gifimage)|用于解决gif无法控制的速度，进度
