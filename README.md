@@ -14,6 +14,11 @@
 
 ### 已收录 ：200+
 
+### 09-21  新增：
++ [sliding_sheet](https://pub.flutter-io.cn/packages/sliding_sheet)-  以单个手势拖动和滚动并捕捉到范围列表的小部件
++ [upgrader](https://pub.flutter-io.cn/packages/upgrader)-  用于在商店中有较新版本的应用程序时提示用户进行升级。
++ [liquid_swipe](https://pub.flutter-io.cn/packages/liquid_swipe)- 液体效果的页面切换组件
+
 ### 09-14  新增：
 + [flutter_colorpicker](https://pub.flutter-io.cn/packages/flutter_colorpicker) - 一款受chrome devtools启发的HSV（HSB）/ HSL拾色器
 + [flutter_avatars_bottts](https://pub.dev/packages/flutter_avatars_bottts) - svg头像渲染小部件
@@ -22,11 +27,6 @@
 ### 09-07  新增：
 + [loading_gifs](https://pub.flutter-io.cn/packages/loading_gifs) - 加载指示器GIF
 + [liquid_progress_indicator](https://pub.dev/packages/liquid_progress_indicator) - 水波效果的进度指示器
-
-### 09-01  新增：
-+ [flashy_tab_bar](https://pub.flutter-io.cn/packages/flashy_tab_bar) - 不错的动画标签栏
-+ [bot_toast](https://pub.dev/packages/bot_toast) - 易于使用的Flutter Toast库，易于使用且功能丰富。
-
 
 <br />
 <br />
@@ -44,6 +44,9 @@
 [Fliggy Mobile](https://github.com/Fliggy-Mobile)|【阿里巴巴-飞猪-FliggyMobile 技术团队】 开发维护的 FWidget 系列组件。
 [flui](https://pub.dev/packages/flui)| Flutter小部件UI库
 [Fluttify系列插件](https://pub.flutter-io.cn/packages/amap_map_fluttify)| 百度地图、高德地图、讯飞、腾讯直播、网易直播、百度人脸识别、极光统计。（专业版需收费）
+[sliding_sheet](https://pub.flutter-io.cn/packages/sliding_sheet)| 以单个手势拖动和滚动并捕捉到范围列表的小部件
+[upgrader](https://pub.flutter-io.cn/packages/upgrader)| 用于在商店中有较新版本的应用程序时提示用户进行升级。
+[liquid_swipe](https://pub.flutter-io.cn/packages/liquid_swipe)| 液体效果的页面切换组件
 [flutter_colorpicker](https://pub.flutter-io.cn/packages/flutter_colorpicker)| 一款受chrome devtools启发的HSV（HSB）/ HSL拾色器
 [sliding_panel](https://pub.flutter-io.cn/packages/sliding_panel)| 可定制的底部滑动面板
 [loading_gifs](https://pub.flutter-io.cn/packages/loading_gifs)| 加载指示器GIF
