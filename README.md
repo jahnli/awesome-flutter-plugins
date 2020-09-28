@@ -14,6 +14,10 @@
 
 ### 已收录 ：200+
 
+### 09-28  新增：
++ [scratcher](https://pub.flutter-io.cn/packages/scratcher) -  刮刮卡小部件
++ [flip_card](https://pub.flutter-io.cn/packages/flip_card) -  翻页动画的组件，可以用于隐藏和显示产品的详细信息。
+
 ### 09-21  新增：
 + [sliding_sheet](https://pub.flutter-io.cn/packages/sliding_sheet)-  以单个手势拖动和滚动并捕捉到范围列表的小部件
 + [upgrader](https://pub.flutter-io.cn/packages/upgrader)-  用于在商店中有较新版本的应用程序时提示用户进行升级。
@@ -23,10 +27,6 @@
 + [flutter_colorpicker](https://pub.flutter-io.cn/packages/flutter_colorpicker) - 一款受chrome devtools启发的HSV（HSB）/ HSL拾色器
 + [flutter_avatars_bottts](https://pub.dev/packages/flutter_avatars_bottts) - svg头像渲染小部件
 + [sliding_panel](https://pub.dev/packages/sliding_panel) - 可定制的底部滑动面板
-
-### 09-07  新增：
-+ [loading_gifs](https://pub.flutter-io.cn/packages/loading_gifs) - 加载指示器GIF
-+ [liquid_progress_indicator](https://pub.dev/packages/liquid_progress_indicator) - 水波效果的进度指示器
 
 <br />
 <br />
@@ -42,6 +42,8 @@
 依赖|描述
 -|-
 [Fliggy Mobile](https://github.com/Fliggy-Mobile)|【阿里巴巴-飞猪-FliggyMobile 技术团队】 开发维护的 FWidget 系列组件。
+[scratcher](https://pub.flutter-io.cn/packages/scratcher)| 刮刮卡小部件
+[flip_card](https://pub.flutter-io.cn/packages/flip_card)| 翻页动画的组件，可以用于隐藏和显示产品的详细信息。
 [flui](https://pub.dev/packages/flui)| Flutter小部件UI库
 [Fluttify系列插件](https://pub.flutter-io.cn/packages/amap_map_fluttify)| 百度地图、高德地图、讯飞、腾讯直播、网易直播、百度人脸识别、极光统计。（专业版需收费）
 [sliding_sheet](https://pub.flutter-io.cn/packages/sliding_sheet)| 以单个手势拖动和滚动并捕捉到范围列表的小部件
