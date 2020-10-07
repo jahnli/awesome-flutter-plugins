@@ -14,6 +14,10 @@
 
 ### 已收录 ：200+
 
+### 10-07  新增：
++ [flutter_custom_clippers](https://pub.flutter-io.cn/packages/flutter_custom_clippers) - 将widget裁剪成各种自定义形状.
++ [flutter_speed_dial](https://pub.flutter-io.cn/packages/flutter_speed_dial) -  可展开选项的浮动按钮.
+
 ### 09-28  新增：
 + [scratcher](https://pub.flutter-io.cn/packages/scratcher) -  刮刮卡小部件
 + [flip_card](https://pub.flutter-io.cn/packages/flip_card) -  翻页动画的组件，可以用于隐藏和显示产品的详细信息。
@@ -23,10 +27,6 @@
 + [upgrader](https://pub.flutter-io.cn/packages/upgrader)-  用于在商店中有较新版本的应用程序时提示用户进行升级。
 + [liquid_swipe](https://pub.flutter-io.cn/packages/liquid_swipe)- 液体效果的页面切换组件
 
-### 09-14  新增：
-+ [flutter_colorpicker](https://pub.flutter-io.cn/packages/flutter_colorpicker) - 一款受chrome devtools启发的HSV（HSB）/ HSL拾色器
-+ [flutter_avatars_bottts](https://pub.dev/packages/flutter_avatars_bottts) - svg头像渲染小部件
-+ [sliding_panel](https://pub.dev/packages/sliding_panel) - 可定制的底部滑动面板
 
 <br />
 <br />
@@ -42,6 +42,8 @@
 依赖|描述
 -|-
 [Fliggy Mobile](https://github.com/Fliggy-Mobile)|【阿里巴巴-飞猪-FliggyMobile 技术团队】 开发维护的 FWidget 系列组件。
+[flutter_custom_clippers](https://pub.flutter-io.cn/packages/flutter_custom_clippers)| 将widget裁剪成各种自定义形状.
+[flutter_speed_dial](https://pub.flutter-io.cn/packages/flutter_speed_dial)| 可展开选项的浮动按钮.
 [scratcher](https://pub.flutter-io.cn/packages/scratcher)| 刮刮卡小部件
 [flip_card](https://pub.flutter-io.cn/packages/flip_card)| 翻页动画的组件，可以用于隐藏和显示产品的详细信息。
 [flui](https://pub.dev/packages/flui)| Flutter小部件UI库
