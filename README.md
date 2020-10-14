@@ -14,6 +14,10 @@
 
 ### 已收录 ：200+
 
+### 10-14  新增：
++ [flutter_markdown](https://pub.flutter-io.cn/packages/flutter_markdown) - Flutter的Markdown渲染器
++ [flutter_styled_toast](https://pub.flutter-io.cn/packages/flutter_styled_toast) - 自定义Toast
+
 ### 10-07  新增：
 + [flutter_custom_clippers](https://pub.flutter-io.cn/packages/flutter_custom_clippers) - 将widget裁剪成各种自定义形状.
 + [flutter_speed_dial](https://pub.flutter-io.cn/packages/flutter_speed_dial) -  可展开选项的浮动按钮.
@@ -21,11 +25,6 @@
 ### 09-28  新增：
 + [scratcher](https://pub.flutter-io.cn/packages/scratcher) -  刮刮卡小部件
 + [flip_card](https://pub.flutter-io.cn/packages/flip_card) -  翻页动画的组件，可以用于隐藏和显示产品的详细信息。
-
-### 09-21  新增：
-+ [sliding_sheet](https://pub.flutter-io.cn/packages/sliding_sheet)-  以单个手势拖动和滚动并捕捉到范围列表的小部件
-+ [upgrader](https://pub.flutter-io.cn/packages/upgrader)-  用于在商店中有较新版本的应用程序时提示用户进行升级。
-+ [liquid_swipe](https://pub.flutter-io.cn/packages/liquid_swipe)- 液体效果的页面切换组件
 
 
 <br />
@@ -42,6 +41,8 @@
 依赖|描述
 -|-
 [Fliggy Mobile](https://github.com/Fliggy-Mobile)|【阿里巴巴-飞猪-FliggyMobile 技术团队】 开发维护的 FWidget 系列组件。
+[flutter_markdown](https://pub.flutter-io.cn/packages/flutter_markdown)| Flutter的Markdown渲染器
+[flutter_styled_toast](https://pub.flutter-io.cn/packages/flutter_styled_toast)| 自定义Toast.
 [flutter_custom_clippers](https://pub.flutter-io.cn/packages/flutter_custom_clippers)| 将widget裁剪成各种自定义形状.
 [flutter_speed_dial](https://pub.flutter-io.cn/packages/flutter_speed_dial)| 可展开选项的浮动按钮.
 [scratcher](https://pub.flutter-io.cn/packages/scratcher)| 刮刮卡小部件
