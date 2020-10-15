@@ -59,7 +59,7 @@
 [flashy_tab_bar](https://pub.flutter-io.cn/packages/flashy_tab_bar)| 不错的动画标签栏
 [bot_toast](https://pub.dev/packages/bot_toast) | 易于使用的Flutter Toast库，易于使用且功能丰富。
 [hidden_drawer_menu](https://pub.dev/packages/hidden_drawer_menu) |  带有透视动画的精美抽屉模式菜单功能的库。
-[filter_list](https://pub.dev/packages/iscflutterplugin) |  从列表中过滤数据。
+[filter_list](https://pub.dev/packages/filter_list) |  从列表中过滤数据。
 [floating_action_bubble](https://pub.dev/packages/floating_action_bubble) |  浮动按钮的动画菜单
 [flutter_unity_widget](https://pub.dev/packages/flutter_unity_widget) |  Flutter Unity 3D小部件，用于将Unity游戏场景嵌入flutter中
 [like_button](https://pub.dev/packages/like_button)| 点赞按钮动画
