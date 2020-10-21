@@ -17,8 +17,12 @@
 ![image](http://cdn.jahnli.cn/Vue%E4%BA%A4%E6%B5%81%E2%91%A0%E7%BE%A4%E7%BE%A4%E8%81%8A%E4%BA%8C%E7%BB%B4%E7%A0%81.png)
 
 
-
 ### 已收录 ：200+
+
+### 10-21  新增：
++ [photofilters](https://pub.flutter-io.cn/packages/photofilters) - 用于将各种类型的滤镜应用于图像。
++ [some_calendar](https://pub.flutter-io.cn/packages/some_calendar) - 自定义日历（多选，单选，日期范围）
++ [showcaseview](https://pub.flutter-io.cn/packages/showcaseview) - 逐步展示/突出显示小部件，用于引导说明效果
 
 ### 10-14  新增：
 + [flutter_markdown](https://pub.flutter-io.cn/packages/flutter_markdown) - Flutter的Markdown渲染器
@@ -27,10 +31,6 @@
 ### 10-07  新增：
 + [flutter_custom_clippers](https://pub.flutter-io.cn/packages/flutter_custom_clippers) - 将widget裁剪成各种自定义形状.
 + [flutter_speed_dial](https://pub.flutter-io.cn/packages/flutter_speed_dial) -  可展开选项的浮动按钮.
-
-### 09-28  新增：
-+ [scratcher](https://pub.flutter-io.cn/packages/scratcher) -  刮刮卡小部件
-+ [flip_card](https://pub.flutter-io.cn/packages/flip_card) -  翻页动画的组件，可以用于隐藏和显示产品的详细信息。
 
 
 <br />
@@ -47,6 +47,9 @@
 依赖|描述
 -|-
 [Fliggy Mobile](https://github.com/Fliggy-Mobile)|【阿里巴巴-飞猪-FliggyMobile 技术团队】 开发维护的 FWidget 系列组件。
+[photofilters](https://pub.flutter-io.cn/packages/photofilters) | 用于将各种类型的滤镜应用于图像。
+[some_calendar](https://pub.flutter-io.cn/packages/some_calendar) | 自定义日历（多选，单选，日期范围）
+[showcaseview](https://pub.flutter-io.cn/packages/showcaseview) | 逐步展示/突出显示小部件，用于引导说明效果
 [flutter_markdown](https://pub.flutter-io.cn/packages/flutter_markdown)| Flutter的Markdown渲染器
 [flutter_styled_toast](https://pub.flutter-io.cn/packages/flutter_styled_toast)| 自定义Toast.
 [flutter_custom_clippers](https://pub.flutter-io.cn/packages/flutter_custom_clippers)| 将widget裁剪成各种自定义形状.
