@@ -19,6 +19,9 @@
 
 ### 已收录 ：200+
 
+### 10-22  新增：
++ [flutter_widget_from_html](https://pub.flutter-io.cn/packages/flutter_widget_from_html) - 用于从html构建小部件树的Flutter软件包，支持超链接，图像，嵌套列表等 - ❀  [niyangup](https://github.com/niyangup) 提供 ！
+
 ### 10-21  新增：
 + [photofilters](https://pub.flutter-io.cn/packages/photofilters) - 用于将各种类型的滤镜应用于图像。
 + [some_calendar](https://pub.flutter-io.cn/packages/some_calendar) - 自定义日历（多选，单选，日期范围）
@@ -280,6 +283,7 @@
 
 依赖|描述
 -|-
+[flutter_widget_from_html](https://pub.flutter-io.cn/packages/flutter_widget_from_html) | 用于从html构建小部件树的Flutter软件包，支持超链接，图像，嵌套列表等 - ❀  [niyangup](https://github.com/niyangup) 提供 ！
 [flutter_html](https://pub.dev/packages/flutter_html)|用于将静态html标记呈现为Flutter小部件。（将呈现超过70种不同的HTML标签！）
 [flutter_webview_plugin](https://pub.dev/packages/flutter_webview_plugin)|允许Flutter与本机WebView通信的插件。
 [flutter_inappbrowser](https://pub.dev/packages/flutter_inappbrowser)|一个Flutter插件，允许您添加内联webview或打开应用程序内浏览器窗口
