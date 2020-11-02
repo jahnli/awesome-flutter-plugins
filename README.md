@@ -19,6 +19,11 @@
 
 ### 已收录 ：200+
 
+### 11-02  新增：
++ [auto_size_text](https://pub.flutter-io.cn/packages/auto_size_text) - 可自动调整文本大小以使其完全适合其边界。
++ [direct_select_flutter](https://pub.flutter-io.cn/packages/direct_select_flutter) -  选择控件，具有飘渺的全屏模式弹出窗口
++ [bezier_chart](https://pub.flutter-io.cn/packages/bezier_chart) -  一个漂亮的贝塞尔曲线折线图窗口部件
+
 ### 10-22  新增：
 + [flutter_widget_from_html](https://pub.flutter-io.cn/packages/flutter_widget_from_html) - 用于从html构建小部件树的Flutter软件包，支持超链接，图像，嵌套列表等 - ❀  [niyangup](https://github.com/niyangup) 提供 ！
 
@@ -30,10 +35,6 @@
 ### 10-14  新增：
 + [flutter_markdown](https://pub.flutter-io.cn/packages/flutter_markdown) - Flutter的Markdown渲染器
 + [flutter_styled_toast](https://pub.flutter-io.cn/packages/flutter_styled_toast) - 自定义Toast
-
-### 10-07  新增：
-+ [flutter_custom_clippers](https://pub.flutter-io.cn/packages/flutter_custom_clippers) - 将widget裁剪成各种自定义形状.
-+ [flutter_speed_dial](https://pub.flutter-io.cn/packages/flutter_speed_dial) -  可展开选项的浮动按钮.
 
 
 <br />
@@ -50,6 +51,8 @@
 依赖|描述
 -|-
 [Fliggy Mobile](https://github.com/Fliggy-Mobile)|【阿里巴巴-飞猪-FliggyMobile 技术团队】 开发维护的 FWidget 系列组件。
+[auto_size_text](https://pub.flutter-io.cn/packages/auto_size_text) | 可自动调整文本大小以使其完全适合其边界。
+[direct_select_flutter](https://pub.flutter-io.cn/packages/direct_select_flutter) |  选择控件，具有飘渺的全屏模式弹出窗口
 [photofilters](https://pub.flutter-io.cn/packages/photofilters) | 用于将各种类型的滤镜应用于图像。
 [some_calendar](https://pub.flutter-io.cn/packages/some_calendar) | 自定义日历（多选，单选，日期范围）
 [showcaseview](https://pub.flutter-io.cn/packages/showcaseview) | 逐步展示/突出显示小部件，用于引导说明效果
@@ -239,6 +242,7 @@
 
 依赖|描述
 -|-
+[bezier_chart](https://pub.flutter-io.cn/packages/bezier_chart) |  一个漂亮的贝塞尔曲线折线图窗口部件
 [flutter_echarts](https://pub.dev/packages/flutter_echarts)|基于Echarts的数据可视化图表库，能够构建高级图表，例如WebGL 3D，GIS地图等。
 [fl_chart](https://pub.dev/packages/fl_chart)|Flutter图表库，当前支持折线图，条形图和饼图.
 [charts_flutter](https://pub.dev/packages/charts_flutter)|Material Design图表库。
