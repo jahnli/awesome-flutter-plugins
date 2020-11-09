@@ -19,6 +19,11 @@
 
 ### 已收录 ：200+
 
+### 11-09  新增：
++ [assets_audio_player](https://pub.flutter-io.cn/packages/assets_audio_player) - 播放存储在资产文件中的音乐/音频。
++ [dough](https://pub.flutter-io.cn/packages/dough) -  创建自定义的面团小部件以实现自定义的挤压效果
++ [json_table](https://pub.flutter-io.cn/packages/json_table) -  Json Table小部件，用于显示json（Map）中的表。支持列切换。
+
 ### 11-02  新增：
 + [auto_size_text](https://pub.flutter-io.cn/packages/auto_size_text) - 可自动调整文本大小以使其完全适合其边界。
 + [direct_select_flutter](https://pub.flutter-io.cn/packages/direct_select_flutter) -  选择控件，具有飘渺的全屏模式弹出窗口
@@ -31,11 +36,6 @@
 + [photofilters](https://pub.flutter-io.cn/packages/photofilters) - 用于将各种类型的滤镜应用于图像。
 + [some_calendar](https://pub.flutter-io.cn/packages/some_calendar) - 自定义日历（多选，单选，日期范围）
 + [showcaseview](https://pub.flutter-io.cn/packages/showcaseview) - 逐步展示/突出显示小部件，用于引导说明效果
-
-### 10-14  新增：
-+ [flutter_markdown](https://pub.flutter-io.cn/packages/flutter_markdown) - Flutter的Markdown渲染器
-+ [flutter_styled_toast](https://pub.flutter-io.cn/packages/flutter_styled_toast) - 自定义Toast
-
 
 <br />
 <br />
@@ -51,6 +51,8 @@
 依赖|描述
 -|-
 [Fliggy Mobile](https://github.com/Fliggy-Mobile)|【阿里巴巴-飞猪-FliggyMobile 技术团队】 开发维护的 FWidget 系列组件。
+[dough](https://pub.flutter-io.cn/packages/dough) |  创建自定义的面团小部件以实现自定义的挤压效果
+[json_table](https://pub.flutter-io.cn/packages/json_table) |  Json Table小部件，用于显示json（Map）中的表。支持列切换。
 [auto_size_text](https://pub.flutter-io.cn/packages/auto_size_text) | 可自动调整文本大小以使其完全适合其边界。
 [direct_select_flutter](https://pub.flutter-io.cn/packages/direct_select_flutter) |  选择控件，具有飘渺的全屏模式弹出窗口
 [photofilters](https://pub.flutter-io.cn/packages/photofilters) | 用于将各种类型的滤镜应用于图像。
@@ -203,7 +205,8 @@
 
 依赖|描述
 -|-
-[iscflutterplugin](https://pub.dev/packages/iscflutterplugin)| 海康isc平台视频播放插件 - ❀  [xiaobug0929](https://github.com/xiaobug0929) 提供 ！
+[assets_audio_player](https://pub.flutter-io.cn/packages/assets_audio_player) | 播放存储在资产文件中的音乐/音频。
+[iscflutterplugin](https://pub.dev/packages/iscflutterplugin) | 海康isc平台视频播放插件 - ❀  [xiaobug0929](https://github.com/xiaobug0929) 提供 ！
 [audioplayers](https://pub.dev/packages/audioplayers)|可同时播放多个音频文件
 [flutter_sound](https://pub.dev/packages/flutter_sound)|音频录制处理
 [fijkplayer](https://pub.dev/packages/fijkplayer)|基于ijkplayer的Video Player Flutter插件，支持最流行的协议和编解码器
