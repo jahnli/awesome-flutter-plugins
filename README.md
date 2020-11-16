@@ -37,11 +37,6 @@
 ### 10-22  新增：
 + [flutter_widget_from_html](https://pub.flutter-io.cn/packages/flutter_widget_from_html) - 用于从html构建小部件树的Flutter软件包，支持超链接，图像，嵌套列表等 - ❀  [niyangup](https://github.com/niyangup) 提供 ！
 
-### 10-21  新增：
-+ [photofilters](https://pub.flutter-io.cn/packages/photofilters) - 用于将各种类型的滤镜应用于图像。
-+ [some_calendar](https://pub.flutter-io.cn/packages/some_calendar) - 自定义日历（多选，单选，日期范围）
-+ [showcaseview](https://pub.flutter-io.cn/packages/showcaseview) - 逐步展示/突出显示小部件，用于引导说明效果
-
 <br />
 <br />
 <br />
