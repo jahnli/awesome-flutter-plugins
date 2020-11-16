@@ -19,6 +19,11 @@
 
 ### 已收录 ：200+
 
+### 11-16  新增：
++ [focused_menu](https://pub.flutter-io.cn/packages/focused_menu) - 长按菜单。
++ [arkit_plugin](https://pub.flutter-io.cn/packages/arkit_plugin) -  ARKit-Apple的iOS移动设备增强现实（AR）开发平台
++ [device_calendar](https://pub.flutter-io.cn/packages/device_calendar) -  修改用户设备上的日历
+
 ### 11-09  新增：
 + [assets_audio_player](https://pub.flutter-io.cn/packages/assets_audio_player) - 播放存储在资产文件中的音乐/音频。
 + [dough](https://pub.flutter-io.cn/packages/dough) -  创建自定义的面团小部件以实现自定义的挤压效果
@@ -51,7 +56,9 @@
 依赖|描述
 -|-
 [Fliggy Mobile](https://github.com/Fliggy-Mobile)|【阿里巴巴-飞猪-FliggyMobile 技术团队】 开发维护的 FWidget 系列组件。
+[focused_menu](https://pub.flutter-io.cn/packages/focused_menu) | 长按菜单。
 [dough](https://pub.flutter-io.cn/packages/dough) |  创建自定义的面团小部件以实现自定义的挤压效果
+[arkit_plugin](https://pub.flutter-io.cn/packages/arkit_plugin) | ARKit-Apple的iOS移动设备增强现实（AR）开发平台
 [json_table](https://pub.flutter-io.cn/packages/json_table) |  Json Table小部件，用于显示json（Map）中的表。支持列切换。
 [auto_size_text](https://pub.flutter-io.cn/packages/auto_size_text) | 可自动调整文本大小以使其完全适合其边界。
 [direct_select_flutter](https://pub.flutter-io.cn/packages/direct_select_flutter) |  选择控件，具有飘渺的全屏模式弹出窗口
@@ -176,6 +183,7 @@
 [camera](https://pub.dev/packages/camera)| 获取有关和控制Android和iOS上的相机的信息。支持预览摄像头，捕获图像，捕获视频
 [flutter_app_badger](https://pub.dev/packages/flutter_app_badger)|用于在启动器上更新应用程序徽章的插件
 [sounds](https://pub.dev/packages/sounds)|为音频播放和录制提供了完整的api和小部件
+[device_calendar](https://pub.flutter-io.cn/packages/device_calendar) | 修改用户设备上的日历
 <br />
 
 > ### 项目相关
