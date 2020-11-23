@@ -18,6 +18,11 @@
 
 ### 已收录 ：200+
 
+### 11-23  新增：
++ [camerawesome](https://pub.flutter-io.cn/packages/camerawesome) - 社区提供的开源相机插件
++ [video_trimmer](https://pub.flutter-io.cn/packages/video_trimmer) -  用于修剪视频。这支持将修剪后的视频文件检索，修剪和存储到文件系统。
++ [sticky_infinite_list](https://pub.flutter-io.cn/packages/device_calendar) -  具有粘性标头的无限列表
+
 ### 11-16  新增：
 + [focused_menu](https://pub.flutter-io.cn/packages/focused_menu) - 长按菜单。
 + [arkit_plugin](https://pub.flutter-io.cn/packages/arkit_plugin) -  ARKit-Apple的iOS移动设备增强现实（AR）开发平台
@@ -33,8 +38,6 @@
 + [direct_select_flutter](https://pub.flutter-io.cn/packages/direct_select_flutter) -  选择控件，具有飘渺的全屏模式弹出窗口
 + [bezier_chart](https://pub.flutter-io.cn/packages/bezier_chart) -  一个漂亮的贝塞尔曲线折线图窗口部件
 
-### 10-22  新增：
-+ [flutter_widget_from_html](https://pub.flutter-io.cn/packages/flutter_widget_from_html) - 用于从html构建小部件树的Flutter软件包，支持超链接，图像，嵌套列表等 - ❀  [niyangup](https://github.com/niyangup) 提供 ！
 
 <br />
 <br />
@@ -50,6 +53,7 @@
 依赖|描述
 -|-
 [Fliggy Mobile](https://github.com/Fliggy-Mobile)|【阿里巴巴-飞猪-FliggyMobile 技术团队】 开发维护的 FWidget 系列组件。
+[sticky_infinite_list](https://pub.flutter-io.cn/packages/device_calendar)  | 具有粘性标头的无限列表
 [focused_menu](https://pub.flutter-io.cn/packages/focused_menu) | 长按菜单。
 [dough](https://pub.flutter-io.cn/packages/dough) |  创建自定义的面团小部件以实现自定义的挤压效果
 [arkit_plugin](https://pub.flutter-io.cn/packages/arkit_plugin) | ARKit-Apple的iOS移动设备增强现实（AR）开发平台
@@ -148,6 +152,7 @@
 
 依赖|描述
 -|-
+[camerawesome](https://pub.flutter-io.cn/packages/camerawesome) | 社区提供的开源相机插件
 [printing](https://pub.dev/packages/printing)|允许Flutter应用程序生成文档并将其打印到android或ios兼容打印机
 [flutter_local_notifications](https://pub.dev/packages/flutter_local_notifications)|用于显示和推送Flutter应用程序的本地通知（定时、通知声音）
 [barcode_scan](https://pub.dev/packages/barcode_scan)|用于通过相机扫描2D条形码和QRCode
@@ -207,6 +212,8 @@
 
 依赖|描述
 -|-
+
+[video_trimmer](https://pub.flutter-io.cn/packages/video_trimmer) |  用于修剪视频。这支持将修剪后的视频文件检索，修剪和存储到文件系统。
 [assets_audio_player](https://pub.flutter-io.cn/packages/assets_audio_player) | 播放存储在资产文件中的音乐/音频。
 [iscflutterplugin](https://pub.dev/packages/iscflutterplugin) | 海康isc平台视频播放插件 - ❀  [xiaobug0929](https://github.com/xiaobug0929) 提供 ！
 [audioplayers](https://pub.dev/packages/audioplayers)|可同时播放多个音频文件
