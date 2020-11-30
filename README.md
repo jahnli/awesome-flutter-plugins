@@ -18,6 +18,10 @@
 
 ### 已收录 ：200+
 
+### 11-30  新增：
++ [flutter_inner_drawer](https://pub.flutter-io.cn/packages/flutter_inner_drawer) - 创建侧边抽屉
++ [image_cropper](https://pub.flutter-io.cn/packages/image_cropper) -  适用于Android和iOS支持裁剪图像的Flutter插件
+
 ### 11-23  新增：
 + [camerawesome](https://pub.flutter-io.cn/packages/camerawesome) - 社区提供的开源相机插件
 + [video_trimmer](https://pub.flutter-io.cn/packages/video_trimmer) -  用于修剪视频。这支持将修剪后的视频文件检索，修剪和存储到文件系统。
@@ -32,12 +36,6 @@
 + [assets_audio_player](https://pub.flutter-io.cn/packages/assets_audio_player) - 播放存储在资产文件中的音乐/音频。
 + [dough](https://pub.flutter-io.cn/packages/dough) -  创建自定义的面团小部件以实现自定义的挤压效果
 + [json_table](https://pub.flutter-io.cn/packages/json_table) -  Json Table小部件，用于显示json（Map）中的表。支持列切换。
-
-### 11-02  新增：
-+ [auto_size_text](https://pub.flutter-io.cn/packages/auto_size_text) - 可自动调整文本大小以使其完全适合其边界。
-+ [direct_select_flutter](https://pub.flutter-io.cn/packages/direct_select_flutter) -  选择控件，具有飘渺的全屏模式弹出窗口
-+ [bezier_chart](https://pub.flutter-io.cn/packages/bezier_chart) -  一个漂亮的贝塞尔曲线折线图窗口部件
-
 
 <br />
 <br />
@@ -232,6 +230,7 @@
 
 依赖|描述
 -|-
+[image_cropper](https://pub.flutter-io.cn/packages/image_cropper) |  适用于Android和iOS支持裁剪图像的Flutter插件
 [edge_detection](https://pub.dev/packages/edge_detection)|检测对象的边缘，扫描纸张，检测角，检测矩形。它允许裁剪检测到的对象图像并返回裁剪图像的路径。
 [before_after](https://pub.dev/packages/before_after)|轻松地显示两个图像之间的差异。
 [imageview360](https://pub.dev/packages/imageview360)|通过旋转和手势自定义提供360度的图像视图。
