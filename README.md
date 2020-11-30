@@ -52,6 +52,7 @@
 -|-
 [Fliggy Mobile](https://github.com/Fliggy-Mobile)|【阿里巴巴-飞猪-FliggyMobile 技术团队】 开发维护的 FWidget 系列组件。
 [sticky_infinite_list](https://pub.flutter-io.cn/packages/device_calendar)  | 具有粘性标头的无限列表
+[flutter_inner_drawer](https://pub.flutter-io.cn/packages/flutter_inner_drawer) | 创建侧边抽屉
 [focused_menu](https://pub.flutter-io.cn/packages/focused_menu) | 长按菜单。
 [dough](https://pub.flutter-io.cn/packages/dough) |  创建自定义的面团小部件以实现自定义的挤压效果
 [arkit_plugin](https://pub.flutter-io.cn/packages/arkit_plugin) | ARKit-Apple的iOS移动设备增强现实（AR）开发平台
