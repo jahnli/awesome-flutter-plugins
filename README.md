@@ -18,7 +18,7 @@
 
 ### 已收录 ：200+
 
-### 12-7  新增：
+### 12-07  新增：
 + [credit_card_input_form](https://pub.flutter-io.cn/packages/credit_card_input_form) - 信用卡信息输入表格
 + [titled_navigation_bar](https://pub.flutter-io.cn/packages/titled_navigation_bar) -  美观，干净，简单的底部导航栏
 
