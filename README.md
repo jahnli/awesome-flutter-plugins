@@ -18,9 +18,14 @@
 
 ### 已收录 ：200+
 
+### 12-7  新增：
++ [credit_card_input_form](https://pub.flutter-io.cn/packages/credit_card_input_form) - 信用卡信息输入表格
++ [titled_navigation_bar](https://pub.flutter-io.cn/packages/titled_navigation_bar) -  美观，干净，简单的底部导航栏
+
 ### 11-30  新增：
 + [flutter_inner_drawer](https://pub.flutter-io.cn/packages/flutter_inner_drawer) - 创建侧边抽屉
 + [image_cropper](https://pub.flutter-io.cn/packages/image_cropper) -  适用于Android和iOS支持裁剪图像的Flutter插件
+
 
 ### 11-23  新增：
 + [camerawesome](https://pub.flutter-io.cn/packages/camerawesome) - 社区提供的开源相机插件
@@ -31,11 +36,6 @@
 + [focused_menu](https://pub.flutter-io.cn/packages/focused_menu) - 长按菜单。
 + [arkit_plugin](https://pub.flutter-io.cn/packages/arkit_plugin) -  ARKit-Apple的iOS移动设备增强现实（AR）开发平台
 + [device_calendar](https://pub.flutter-io.cn/packages/device_calendar) -  修改用户设备上的日历
-
-### 11-09  新增：
-+ [assets_audio_player](https://pub.flutter-io.cn/packages/assets_audio_player) - 播放存储在资产文件中的音乐/音频。
-+ [dough](https://pub.flutter-io.cn/packages/dough) -  创建自定义的面团小部件以实现自定义的挤压效果
-+ [json_table](https://pub.flutter-io.cn/packages/json_table) -  Json Table小部件，用于显示json（Map）中的表。支持列切换。
 
 <br />
 <br />
@@ -51,6 +51,8 @@
 依赖|描述
 -|-
 [Fliggy Mobile](https://github.com/Fliggy-Mobile)|【阿里巴巴-飞猪-FliggyMobile 技术团队】 开发维护的 FWidget 系列组件。
+[credit_card_input_form](https://pub.flutter-io.cn/packages/credit_card_input_form) | 信用卡信息输入表格
+[titled_navigation_bar](https://pub.flutter-io.cn/packages/titled_navigation_bar) |  美观，干净，简单的底部导航栏
 [sticky_infinite_list](https://pub.flutter-io.cn/packages/device_calendar)  | 具有粘性标头的无限列表
 [flutter_inner_drawer](https://pub.flutter-io.cn/packages/flutter_inner_drawer) | 创建侧边抽屉
 [focused_menu](https://pub.flutter-io.cn/packages/focused_menu) | 长按菜单。
