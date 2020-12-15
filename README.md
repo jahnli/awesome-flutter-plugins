@@ -31,11 +31,6 @@
 + [image_cropper](https://pub.flutter-io.cn/packages/image_cropper) -  适用于Android和iOS支持裁剪图像的Flutter插件
 
 
-### 11-23  新增：
-+ [camerawesome](https://pub.flutter-io.cn/packages/camerawesome) - 社区提供的开源相机插件
-+ [video_trimmer](https://pub.flutter-io.cn/packages/video_trimmer) -  用于修剪视频。这支持将修剪后的视频文件检索，修剪和存储到文件系统。
-+ [sticky_infinite_list](https://pub.flutter-io.cn/packages/device_calendar) -  具有粘性标头的无限列表
-
 <br />
 <br />
 <br />
