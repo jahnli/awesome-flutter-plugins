@@ -18,6 +18,10 @@
 
 ### 已收录 ：200+
 
+### 12-15  新增：
++ [wave](https://pub.flutter-io.cn/packages/wave) - 创建具有自定义颜色，时间，浮动和模糊效果的波形小部件。
++ [photo_manager](https://pub.flutter-io.cn/packages/photo_manager) -  使用api创建图像选择器。或使用照片
+
 ### 12-07  新增：
 + [credit_card_input_form](https://pub.flutter-io.cn/packages/credit_card_input_form) - 信用卡信息输入表格
 + [titled_navigation_bar](https://pub.flutter-io.cn/packages/titled_navigation_bar) -  美观，干净，简单的底部导航栏
@@ -31,11 +35,6 @@
 + [camerawesome](https://pub.flutter-io.cn/packages/camerawesome) - 社区提供的开源相机插件
 + [video_trimmer](https://pub.flutter-io.cn/packages/video_trimmer) -  用于修剪视频。这支持将修剪后的视频文件检索，修剪和存储到文件系统。
 + [sticky_infinite_list](https://pub.flutter-io.cn/packages/device_calendar) -  具有粘性标头的无限列表
-
-### 11-16  新增：
-+ [focused_menu](https://pub.flutter-io.cn/packages/focused_menu) - 长按菜单。
-+ [arkit_plugin](https://pub.flutter-io.cn/packages/arkit_plugin) -  ARKit-Apple的iOS移动设备增强现实（AR）开发平台
-+ [device_calendar](https://pub.flutter-io.cn/packages/device_calendar) -  修改用户设备上的日历
 
 <br />
 <br />
@@ -51,6 +50,7 @@
 依赖|描述
 -|-
 [Fliggy Mobile](https://github.com/Fliggy-Mobile)|【阿里巴巴-飞猪-FliggyMobile 技术团队】 开发维护的 FWidget 系列组件。
+[wave](https://pub.flutter-io.cn/packages/wave) | 创建具有自定义颜色，时间，浮动和模糊效果的波形小部件。
 [credit_card_input_form](https://pub.flutter-io.cn/packages/credit_card_input_form) | 信用卡信息输入表格
 [titled_navigation_bar](https://pub.flutter-io.cn/packages/titled_navigation_bar) |  美观，干净，简单的底部导航栏
 [sticky_infinite_list](https://pub.flutter-io.cn/packages/device_calendar)  | 具有粘性标头的无限列表
@@ -233,6 +233,7 @@
 
 依赖|描述
 -|-
+[photo_manager](https://pub.flutter-io.cn/packages/photo_manager) | 使用api创建图像选择器。或使用照片
 [image_cropper](https://pub.flutter-io.cn/packages/image_cropper) |  适用于Android和iOS支持裁剪图像的Flutter插件
 [edge_detection](https://pub.dev/packages/edge_detection)|检测对象的边缘，扫描纸张，检测角，检测矩形。它允许裁剪检测到的对象图像并返回裁剪图像的路径。
 [before_after](https://pub.dev/packages/before_after)|轻松地显示两个图像之间的差异。
