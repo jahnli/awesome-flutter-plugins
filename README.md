@@ -209,7 +209,7 @@
 依赖|描述
 -|-
 
-[video_trimmer](https://pub.flutter-io.cn/packages/video_trimmer) |  用于修剪视频。这支持将修剪后的视频文件检索，修剪和存储到文件系统。
+
 [assets_audio_player](https://pub.flutter-io.cn/packages/assets_audio_player) | 播放存储在资产文件中的音乐/音频。
 [iscflutterplugin](https://pub.dev/packages/iscflutterplugin) | 海康isc平台视频播放插件 - ❀  [xiaobug0929](https://github.com/xiaobug0929) 提供 ！
 [audioplayers](https://pub.dev/packages/audioplayers)|可同时播放多个音频文件
