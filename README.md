@@ -19,8 +19,8 @@
 ### 已收录 ：200+
 
 ### 12-23  新增：
-+ [wave](https://pub.flutter-io.cn/packages/wave) - 创建具有自定义颜色，时间，浮动和模糊效果的波形小部件。
-+ [photo_manager](https://pub.flutter-io.cn/packages/photo_manager) -  使用api创建图像选择器。或使用照片
++ [flutter_weather_bg](https://pub.flutter-io.cn/packages/flutter_weather_bg) - 多种天气背景动画效果
++ [cuberto_bottom_bar](https://pub.flutter-io.cn/packages/cuberto_bottom_bar) -  动画底部导航栏
 
 ### 12-15  新增：
 + [wave](https://pub.flutter-io.cn/packages/wave) - 创建具有自定义颜色，时间，浮动和模糊效果的波形小部件。
@@ -46,8 +46,8 @@
 依赖|描述
 -|-
 [Fliggy Mobile](https://github.com/Fliggy-Mobile)|【阿里巴巴-飞猪-FliggyMobile 技术团队】 开发维护的 FWidget 系列组件。
-[wave](https://pub.flutter-io.cn/packages/wave) | 创建具有自定义颜色，时间，浮动和模糊效果的波形小部件。
-[photo_manager](https://pub.flutter-io.cn/packages/photo_manager) | 使用api创建图像选择器。或使用照片
+[flutter_weather_bg](https://pub.flutter-io.cn/packages/flutter_weather_bg) | 多种天气背景动画效果
+[cuberto_bottom_bar](https://pub.flutter-io.cn/packages/cuberto_bottom_bar) |  动画底部导航栏
 [wave](https://pub.flutter-io.cn/packages/wave) | 创建具有自定义颜色，时间，浮动和模糊效果的波形小部件。
 [credit_card_input_form](https://pub.flutter-io.cn/packages/credit_card_input_form) | 信用卡信息输入表格
 [titled_navigation_bar](https://pub.flutter-io.cn/packages/titled_navigation_bar) |  美观，干净，简单的底部导航栏
