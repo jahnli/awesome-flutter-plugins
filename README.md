@@ -1,7 +1,7 @@
 # awesome-flutter-plugins
 
 <br />
-🔥🔥  尽可能收集好用的Flutter插件以便更效率的开发，持续添加中，保持周更  ヾ(◍°∇°◍)ﾉﾞ
+🔥🔥  尽可能收集好用的Flutter插件以便更效率的开发，持续添加中  ヾ(◍°∇°◍)ﾉﾞ
 <br />
 <br />
 如果有好的插件或者建议，可直接提Issue  感谢您的分享 ~  ❀❀ 
@@ -18,6 +18,10 @@
 
 ### 已收录 ：200+
 
+### 12-23  新增：
++ [wave](https://pub.flutter-io.cn/packages/wave) - 创建具有自定义颜色，时间，浮动和模糊效果的波形小部件。
++ [photo_manager](https://pub.flutter-io.cn/packages/photo_manager) -  使用api创建图像选择器。或使用照片
+
 ### 12-15  新增：
 + [wave](https://pub.flutter-io.cn/packages/wave) - 创建具有自定义颜色，时间，浮动和模糊效果的波形小部件。
 + [photo_manager](https://pub.flutter-io.cn/packages/photo_manager) -  使用api创建图像选择器。或使用照片
@@ -26,9 +30,6 @@
 + [credit_card_input_form](https://pub.flutter-io.cn/packages/credit_card_input_form) - 信用卡信息输入表格
 + [titled_navigation_bar](https://pub.flutter-io.cn/packages/titled_navigation_bar) -  美观，干净，简单的底部导航栏
 
-### 11-30  新增：
-+ [flutter_inner_drawer](https://pub.flutter-io.cn/packages/flutter_inner_drawer) - 创建侧边抽屉
-+ [image_cropper](https://pub.flutter-io.cn/packages/image_cropper) -  适用于Android和iOS支持裁剪图像的Flutter插件
 
 
 <br />
@@ -45,6 +46,8 @@
 依赖|描述
 -|-
 [Fliggy Mobile](https://github.com/Fliggy-Mobile)|【阿里巴巴-飞猪-FliggyMobile 技术团队】 开发维护的 FWidget 系列组件。
+[wave](https://pub.flutter-io.cn/packages/wave) | 创建具有自定义颜色，时间，浮动和模糊效果的波形小部件。
+[photo_manager](https://pub.flutter-io.cn/packages/photo_manager) | 使用api创建图像选择器。或使用照片
 [wave](https://pub.flutter-io.cn/packages/wave) | 创建具有自定义颜色，时间，浮动和模糊效果的波形小部件。
 [credit_card_input_form](https://pub.flutter-io.cn/packages/credit_card_input_form) | 信用卡信息输入表格
 [titled_navigation_bar](https://pub.flutter-io.cn/packages/titled_navigation_bar) |  美观，干净，简单的底部导航栏
