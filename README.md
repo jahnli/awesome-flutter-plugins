@@ -1,10 +1,10 @@
 # awesome-flutter-plugins
 
 <br />
-🔥🔥  尽可能收集好用的Flutter插件以便更效率的开发，持续添加中  ヾ(◍°∇°◍)ﾉﾞ
+🔥🔥  尽可能收集好用的Flutter插件以便更效率的开发，持续添加中 不定期更新  ヾ(◍°∇°◍)ﾉﾞ
 <br />
 <br />
-如果有好的插件或者建议，可直接提Issue  感谢您的分享 ~  ❀❀ 
+如果您有好的插件或者建议，可直接提Issue  期待您的参与 ~  ❀❀ 
 <br />
 <br />
 掘金文章地址：https://juejin.im/post/5edeee2e51882542f347030c
@@ -16,6 +16,9 @@
 
 ### 已收录 ：200+
 
+### 01-05
++ [dokit](https://pub.flutter-io.cn/packages/dokit) - 滴滴DoKit For Flutter，一个DoKit针对Flutter环境的产研工具包，内部集成了各种丰富的小工具，UI、网络、内存、监控等等
+
 ### 12-31
 + [bottom_navy_bar](https://pub.flutter-io.cn/packages/bottom_navy_bar) - 精美而生动的底部导航。
 + [drag_select_grid_view](https://pub.flutter-io.cn/packages/drag_select_grid_view) -  一个同时支持拖动和点击以选择其项目的网格
@@ -23,10 +26,6 @@
 ### 12-23
 + [flutter_weather_bg](https://pub.flutter-io.cn/packages/flutter_weather_bg) - 多种天气背景动画效果
 + [cuberto_bottom_bar](https://pub.flutter-io.cn/packages/cuberto_bottom_bar) -  动画底部导航栏
-
-### 12-15
-+ [wave](https://pub.flutter-io.cn/packages/wave) - 创建具有自定义颜色，时间，浮动和模糊效果的波形小部件。
-+ [photo_manager](https://pub.flutter-io.cn/packages/photo_manager) -  使用api创建图像选择器。或使用照片
 
 <br />
 <br />
@@ -149,6 +148,7 @@
 
 依赖|描述
 -|-
+[dokit](https://pub.flutter-io.cn/packages/dokit) | 滴滴DoKit For Flutter，一个DoKit针对Flutter环境的产研工具包，内部集成了各种丰富的小工具，UI、网络、内存、监控等等
 [camerawesome](https://pub.flutter-io.cn/packages/camerawesome) | 社区提供的开源相机插件
 [printing](https://pub.dev/packages/printing)|允许Flutter应用程序生成文档并将其打印到android或ios兼容打印机
 [flutter_local_notifications](https://pub.dev/packages/flutter_local_notifications)|用于显示和推送Flutter应用程序的本地通知（定时、通知声音）
