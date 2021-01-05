@@ -41,27 +41,27 @@
 依赖|描述
 -|-
 [Fliggy Mobile](https://github.com/Fliggy-Mobile) |【阿里巴巴-飞猪-FliggyMobile 技术团队】 开发维护的 FWidget 系列组件。
-[drag_select_grid_view](https://pub.flutter-io.cn/packages/drag_select_grid_view) |  一个同时支持拖动和点击以选择其项目的网格
-[flutter_weather_bg](https://pub.flutter-io.cn/packages/flutter_weather_bg) | 多种天气背景动画效果
+[drag_select_grid_view](https://pub.flutter-io.cn/packages/drag_select_grid_view) |  一个同时支持拖动和点击以选择其项目的网格。
+[flutter_weather_bg](https://pub.flutter-io.cn/packages/flutter_weather_bg) | 多种天气背景动画效果。
 [wave](https://pub.flutter-io.cn/packages/wave) | 创建具有自定义颜色，时间，浮动和模糊效果的波形小部件。
-[credit_card_input_form](https://pub.flutter-io.cn/packages/credit_card_input_form) | 信用卡信息输入表格
-[sticky_infinite_list](https://pub.flutter-io.cn/packages/device_calendar)  | 具有粘性标头的无限列表
-[dough](https://pub.flutter-io.cn/packages/dough) |  创建自定义的面团小部件以实现自定义的挤压效果
-[arkit_plugin](https://pub.flutter-io.cn/packages/arkit_plugin) | ARKit-Apple的iOS移动设备增强现实（AR）开发平台
+[credit_card_input_form](https://pub.flutter-io.cn/packages/credit_card_input_form) | 信用卡信息输入表格。
+[sticky_infinite_list](https://pub.flutter-io.cn/packages/device_calendar)  | 具有粘性标头的无限列表。
+[dough](https://pub.flutter-io.cn/packages/dough) |  创建自定义的面团小部件以实现自定义的挤压效果。
+[arkit_plugin](https://pub.flutter-io.cn/packages/arkit_plugin) | ARKit-Apple的iOS移动设备增强现实（AR）开发平台。
 [json_table](https://pub.flutter-io.cn/packages/json_table) |  Json Table小部件，用于显示json（Map）中的表。支持列切换。
 [auto_size_text](https://pub.flutter-io.cn/packages/auto_size_text) | 可自动调整文本大小以使其完全适合其边界。
 [direct_select_flutter](https://pub.flutter-io.cn/packages/direct_select_flutter) |  选择控件，具有飘渺的全屏模式弹出窗口
 [photofilters](https://pub.flutter-io.cn/packages/photofilters) | 用于将各种类型的滤镜应用于图像。
-[some_calendar](https://pub.flutter-io.cn/packages/some_calendar) | 自定义日历（多选，单选，日期范围）
-[showcaseview](https://pub.flutter-io.cn/packages/showcaseview) | 逐步展示/突出显示小部件，用于引导说明效果
-[flutter_markdown](https://pub.flutter-io.cn/packages/flutter_markdown)| Flutter的Markdown渲染器
-[flutter_styled_toast](https://pub.flutter-io.cn/packages/flutter_styled_toast)| 自定义Toast.
-[flutter_custom_clippers](https://pub.flutter-io.cn/packages/flutter_custom_clippers)| 将widget裁剪成各种自定义形状.
-[scratcher](https://pub.flutter-io.cn/packages/scratcher)| 刮刮卡小部件
+[some_calendar](https://pub.flutter-io.cn/packages/some_calendar) | 自定义日历（多选，单选，日期范围）。
+[showcaseview](https://pub.flutter-io.cn/packages/showcaseview) | 逐步展示/突出显示小部件，用于引导说明效果。
+[flutter_markdown](https://pub.flutter-io.cn/packages/flutter_markdown)| Flutter的Markdown渲染器。
+[flutter_styled_toast](https://pub.flutter-io.cn/packages/flutter_styled_toast)| 自定义Toast。
+[flutter_custom_clippers](https://pub.flutter-io.cn/packages/flutter_custom_clippers)| 将widget裁剪成各种自定义形状。
+[scratcher](https://pub.flutter-io.cn/packages/scratcher)| 刮刮卡小部件。
 [flip_card](https://pub.flutter-io.cn/packages/flip_card)| 翻页动画的组件，可以用于隐藏和显示产品的详细信息。
-[flui](https://pub.dev/packages/flui)| Flutter小部件UI库
+[flui](https://pub.dev/packages/flui)| Flutter小部件UI库。
 [Fluttify系列插件](https://pub.flutter-io.cn/packages/amap_map_fluttify)| 百度地图、高德地图、讯飞、腾讯直播、网易直播、百度人脸识别、极光统计。（专业版需收费）
-[sliding_sheet](https://pub.flutter-io.cn/packages/sliding_sheet)| 以单个手势拖动和滚动并捕捉到范围列表的小部件
+[sliding_sheet](https://pub.flutter-io.cn/packages/sliding_sheet)| 以单个手势拖动和滚动并捕捉到范围列表的小部件。
 [upgrader](https://pub.flutter-io.cn/packages/upgrader)| 用于在商店中有较新版本的应用程序时提示用户进行升级。
 [liquid_swipe](https://pub.flutter-io.cn/packages/liquid_swipe)| 液体效果的页面切换组件
 [flutter_colorpicker](https://pub.flutter-io.cn/packages/flutter_colorpicker)| 一款受chrome devtools启发的HSV（HSB）/ HSL拾色器
@@ -71,59 +71,56 @@
 [bot_toast](https://pub.dev/packages/bot_toast) | 易于使用的Flutter Toast库，易于使用且功能丰富。
 [filter_list](https://pub.dev/packages/filter_list) |  从列表中过滤数据。
 [flutter_unity_widget](https://pub.dev/packages/flutter_unity_widget) |  Flutter Unity 3D小部件，用于将Unity游戏场景嵌入flutter中
-[like_button](https://pub.dev/packages/like_button)| 点赞按钮动画
-[flutter_swipe_action_cell](https://pub.dev/packages/flutter_swipe_action_cell)| iOS式单元格滑动操作效果
-[flame](https://pub.dev/packages/flame)| Flutter游戏引擎
+[like_button](https://pub.dev/packages/like_button)| 点赞按钮动画。
+[flutter_swipe_action_cell](https://pub.dev/packages/flutter_swipe_action_cell)| iOS式单元格滑动操作效果。
+[flame](https://pub.dev/packages/flame)| Flutter游戏引擎。
 [flutter_tags](https://pub.dev/packages/flutter_tags)|创建可选和输入标签（TextField）。
 [model_viewer](https://pub.dev/packages/model_viewer)|用于以glTF和GLB格式呈现交互式3D模型。
-[flutter_simple_calculator](https://pub.dev/packages/flutter_simple_calculator)|提供简单的计算器
-[giffy_dialog](https://pub.dev/packages/giffy_dialog)|一个精美的自定义警报对话框
-[flutter_neumorphic](https://pub.dev/packages/flutter_neumorphic)|随时可用的Neumorphic ui套件
+[flutter_simple_calculator](https://pub.dev/packages/flutter_simple_calculator)|提供简单的计算器。
+[giffy_dialog](https://pub.dev/packages/giffy_dialog)|一个精美的自定义警报对话框。
+[flutter_neumorphic](https://pub.dev/packages/flutter_neumorphic)|随时可用的Neumorphic ui套件。
 [flutter_staggered_grid_view](https://pub.dev/packages/flutter_staggered_grid_view)|瀑布流展示控件，支持多列且行大小不同。
-[shimmer](https://pub.dev/packages/shimmer)|为控件添加闪光效果
-[flare_flutter](https://pub.dev/packages/flare_flutter)| Flutter 的动画插件
-[gzx_dropdown_menu](https://pub.dev/packages/gzx_dropdown_menu)| 易于使用且功能强大的自定义功能，仿美团和淘宝下拉菜单
+[shimmer](https://pub.dev/packages/shimmer)|为控件添加闪光效果。
+[flare_flutter](https://pub.dev/packages/flare_flutter)| Flutter 的动画插件。
+[gzx_dropdown_menu](https://pub.dev/packages/gzx_dropdown_menu)| 易于使用且功能强大的自定义功能，仿美团和淘宝下拉菜单。
 [syncfusion_flutter_datepicker](https://pub.dev/packages/syncfusion_flutter_datepicker)| 可以轻松选择日期或日期范围，它具有内置视图，可以快速导航到所需日期。
 [rate_my_app](https://pub.dev/packages/rate_my_app)|询问用户是否对自定义条件（例如安装时间，启动次数等）进行评分。
-[full_screen_menu](https://pub.dev/packages/full_screen_menu)|全屏菜单，为用户提供多种精美的方式。
-[timetable](https://pub.dev/packages/timetable)|可自定义的动画日历小部件，包括日和周视图
+[timetable](https://pub.dev/packages/timetable)|可自定义的动画日历小部件，包括日和周视图。
 [confetti](https://pub.dev/packages/confetti)|在屏幕上吹起五彩纸屑。以风格庆祝应用成就。控制速度，角度，重力和纸屑量。
-[flutter_icons](https://pub.dev/packages/flutter_icons)|可定制的Flutter图标，在Flutter项目中可以使用超过3K +图标
+[flutter_icons](https://pub.dev/packages/flutter_icons)|可定制的Flutter图标，在Flutter项目中可以使用超过3K +图标。
 [reorderables](https://pub.dev/packages/reorderables)|可重新排列的表格，行，列，环绕，条状列表，允许拖放其子级。
 [signature](https://pub.dev/packages/signature)|Flutter插件可提供性能优化的签名画布，并能够设置自定义样式，边界和初始状态。
 [flutter_cupertino_date_picker](https://pub.dev/packages/flutter_cupertino_date_picker)|Flutter Cupertino日期选择器。以iOS样式显示DatePicker。
-[flutter_spinkit](https://pub.dev/packages/flutter_spinkit)|随时间变化而变化的加载指示器集合
-[flutter_datetime_picker](https://pub.dev/packages/flutter_datetime_picker)|日期时间选择器
+[flutter_spinkit](https://pub.dev/packages/flutter_spinkit)|随时间变化而变化的加载指示器集合。
+[flutter_datetime_picker](https://pub.dev/packages/flutter_datetime_picker)|日期时间选择器。
 [flutter_swiper](https://pub.dev/packages/flutter_swiper)|最强大的siwiper，多种布局方式，无限轮播，Android和IOS双端适配。
-[fluttertoast](https://pub.dev/packages/fluttertoast)|Toast 组件
-[pull_to_refresh](https://pub.dev/packages/pull_to_refresh)|一个提供上拉加载和下拉刷新的组件,同时支持Android和Ios
-[flutter_easyrefresh](https://pub.dev/packages/flutter_easyrefresh)|正如名字一样，EasyRefresh很容易就能在Flutter应用上实现下拉刷新以及上拉加载操作
-[flutter_rating_bar](https://pub.dev/packages/flutter_rating_bar)|一个简单但完全可定制的评分栏
+[fluttertoast](https://pub.dev/packages/fluttertoast)|Toast 组件。
+[pull_to_refresh](https://pub.dev/packages/pull_to_refresh)|一个提供上拉加载和下拉刷新的组件,同时支持Android和Ios。
+[flutter_easyrefresh](https://pub.dev/packages/flutter_easyrefresh)|正如名字一样，EasyRefresh很容易就能在Flutter应用上实现下拉刷新以及上拉加载操作。
+[flutter_rating_bar](https://pub.dev/packages/flutter_rating_bar)|一个简单但完全可定制的评分栏。
 [solid_bottom_sheet](https://pub.dev/packages/solid_bottom_sheet)|完整的可定制的bottom_sheet。
 [rubber](https://pub.dev/packages/rubber)|Flutter的一种很好的弹性底片实现。
-[sliding_up_panel](https://pub.dev/packages/sliding_up_panel)|可拖动的底部弹片实现
+[sliding_up_panel](https://pub.dev/packages/sliding_up_panel)|可拖动的底部弹片实现。
 [sticky_headers](https://pub.dev/packages/sticky_headers)|可以将标题放置在可滚动内容上，该内容在滚动内容时将粘贴在容器的顶部。
 [flutter_sticky_header](https://pub.dev/packages/flutter_sticky_header)|粘滞标题。在CustomScrollView中使用它。
 [flutter_easyloading](https://pub.dev/packages/flutter_easyloading)|一个简单易用的Flutter插件，包含23种loading动画效果、进度条展示、Toast展示。纯Flutter端实现，兼容性好，支持iOS、Android。
 [flash](https://pub.dev/packages/flash)|高度可定制，功能强大且易于使用的警报库。
-[fab_circular_menu](https://pub.dev/packages/fab_circular_menu)|使用Floating Action Button创建漂亮的圆形菜单。
 [flutter_annual_task](https://pub.dev/packages/flutter_annual_task)|用于显示日常任务（如Github-Contributions）的网格视图。
 [double_back_to_close_app](https://pub.dev/packages/double_back_to_close_app)|可让Android用户按下两次后退按钮以关闭应用程序。
 [modal_bottom_sheet](https://pub.dev/packages/modal_bottom_sheet)|创建令人敬畏而强大的模态底板。
-[flutter_sliver_tracker](https://pub.dev/packages/flutter_sliver_tracker)|滑动曝光埋点框架，支持SliverList、SliverGrid
+[flutter_sliver_tracker](https://pub.dev/packages/flutter_sliver_tracker)|滑动曝光埋点框架，支持SliverList、SliverGrid。
 [flutter_slidable](https://pub.dev/packages/flutter_slidable)|实现的可滑动列表项，具有可被取消的定向滑动动作。
 [logger](https://pub.dev/packages/logger)|小型，易于使用且可扩展的记录器，可打印精美的日志。
 [badges](https://pub.dev/packages/badges)|用于创建徽章，可用于任何小部件的附加标记，例如，显示购物车中的许多物品。
 [table_calendar](https://pub.dev/packages/table_calendar)| 高度可定制的功能丰富的Flutter日历，具有手势，动画和多种格式。
-[circular_menu](https://pub.dev/packages/circular_menu)| 一个简单多样的动画圆形菜单
 [screenshot](https://pub.dev/packages/screenshot)| Flutter屏幕截图程序包（运行时），将任何小部件捕获为图像。
 [city_pickers](https://pub.dev/packages/city_pickers)| 适用于城市选择器的Flutter插件，弹出窗口小部件，按功能调用。
 [argon_buttons_flutter](https://pub.dev/packages/argon_buttons_flutter)| 创建漂亮的“加载”和“计时器”按钮。无需担心每个按钮的动画和状态。
-[timeline_tile](https://pub.dev/packages/timeline_tile)| 建立高度可定制的时间线
-[flutter_staggered_animations](https://pub.dev/packages/flutter_staggered_animations)| 轻松将交错动画添加到ListView，GridView，Column和Row子级中
-[animated_text_kit](https://pub.dev/packages/animated_text_kit)|酷炫的漂亮文字动画
-[touchable](https://pub.dev/packages/touchable)| 为CustomPainter中在画布上绘制的每个Shape添加各种手势回调
-[concentric_transition](https://pub.dev/packages/concentric_transition)| 同心过渡剪切器，创建视图。适用于入门，页面过渡，自定义剪切器，绘画工具等
+[timeline_tile](https://pub.dev/packages/timeline_tile)| 建立高度可定制的时间线。
+[flutter_staggered_animations](https://pub.dev/packages/flutter_staggered_animations)| 轻松将交错动画添加到ListView，GridView，Column和Row子级中。
+[animated_text_kit](https://pub.dev/packages/animated_text_kit)|酷炫的漂亮文字动画。
+[touchable](https://pub.dev/packages/touchable)| 为CustomPainter中在画布上绘制的每个Shape添加各种手势回调。
+[concentric_transition](https://pub.dev/packages/concentric_transition)| 同心过渡剪切器，创建视图。适用于入门，页面过渡，自定义剪切器，绘画工具等。
 <br />
 
 > ### 设备相关
