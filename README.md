@@ -41,15 +41,11 @@
 依赖|描述
 -|-
 [Fliggy Mobile](https://github.com/Fliggy-Mobile) |【阿里巴巴-飞猪-FliggyMobile 技术团队】 开发维护的 FWidget 系列组件。
-[bottom_navy_bar](https://pub.flutter-io.cn/packages/bottom_navy_bar) | 精美而生动的底部导航。
 [drag_select_grid_view](https://pub.flutter-io.cn/packages/drag_select_grid_view) |  一个同时支持拖动和点击以选择其项目的网格
 [flutter_weather_bg](https://pub.flutter-io.cn/packages/flutter_weather_bg) | 多种天气背景动画效果
-[cuberto_bottom_bar](https://pub.flutter-io.cn/packages/cuberto_bottom_bar) |  动画底部导航栏
 [wave](https://pub.flutter-io.cn/packages/wave) | 创建具有自定义颜色，时间，浮动和模糊效果的波形小部件。
 [credit_card_input_form](https://pub.flutter-io.cn/packages/credit_card_input_form) | 信用卡信息输入表格
-[titled_navigation_bar](https://pub.flutter-io.cn/packages/titled_navigation_bar) |  美观，干净，简单的底部导航栏
 [sticky_infinite_list](https://pub.flutter-io.cn/packages/device_calendar)  | 具有粘性标头的无限列表
-[flutter_inner_drawer](https://pub.flutter-io.cn/packages/flutter_inner_drawer) | 创建侧边抽屉
 [focused_menu](https://pub.flutter-io.cn/packages/focused_menu) | 长按菜单。
 [dough](https://pub.flutter-io.cn/packages/dough) |  创建自定义的面团小部件以实现自定义的挤压效果
 [arkit_plugin](https://pub.flutter-io.cn/packages/arkit_plugin) | ARKit-Apple的iOS移动设备增强现实（AR）开发平台
@@ -74,9 +70,7 @@
 [sliding_panel](https://pub.flutter-io.cn/packages/sliding_panel)| 可定制的底部滑动面板
 [loading_gifs](https://pub.flutter-io.cn/packages/loading_gifs)| 加载指示器GIF
 [liquid_progress_indicator](https://pub.dev/packages/liquid_progress_indicator) | 水波效果的进度指示器
-[flashy_tab_bar](https://pub.flutter-io.cn/packages/flashy_tab_bar)| 不错的动画标签栏
 [bot_toast](https://pub.dev/packages/bot_toast) | 易于使用的Flutter Toast库，易于使用且功能丰富。
-[hidden_drawer_menu](https://pub.dev/packages/hidden_drawer_menu) |  带有透视动画的精美抽屉模式菜单功能的库。
 [filter_list](https://pub.dev/packages/filter_list) |  从列表中过滤数据。
 [floating_action_bubble](https://pub.dev/packages/floating_action_bubble) |  浮动按钮的动画菜单
 [flutter_unity_widget](https://pub.dev/packages/flutter_unity_widget) |  Flutter Unity 3D小部件，用于将Unity游戏场景嵌入flutter中
@@ -98,11 +92,9 @@
 [full_screen_menu](https://pub.dev/packages/full_screen_menu)|全屏菜单，为用户提供多种精美的方式。
 [timetable](https://pub.dev/packages/timetable)|可自定义的动画日历小部件，包括日和周视图
 [confetti](https://pub.dev/packages/confetti)|在屏幕上吹起五彩纸屑。以风格庆祝应用成就。控制速度，角度，重力和纸屑量。
-[convex_bottom_bar](https://pub.dev/packages/convex_bottom_bar)|实现ConvexAppBar以在底部栏中显示一个凸形选项卡。支持主题。
 [flutter_icons](https://pub.dev/packages/flutter_icons)|可定制的Flutter图标，在Flutter项目中可以使用超过3K +图标
 [reorderables](https://pub.dev/packages/reorderables)|可重新排列的表格，行，列，环绕，条状列表，允许拖放其子级。
 [signature](https://pub.dev/packages/signature)|Flutter插件可提供性能优化的签名画布，并能够设置自定义样式，边界和初始状态。
-[curved_navigation_bar](https://pub.dev/packages/curved_navigation_bar)|可轻松实现弯曲的导航栏。
 [flutter_cupertino_date_picker](https://pub.dev/packages/flutter_cupertino_date_picker)|Flutter Cupertino日期选择器。以iOS样式显示DatePicker。
 [flutter_spinkit](https://pub.dev/packages/flutter_spinkit)|随时间变化而变化的加载指示器集合
 [flutter_datetime_picker](https://pub.dev/packages/flutter_datetime_picker)|日期时间选择器
@@ -136,8 +128,6 @@
 [timeline_tile](https://pub.dev/packages/timeline_tile)| 建立高度可定制的时间线
 [flutter_staggered_animations](https://pub.dev/packages/flutter_staggered_animations)| 轻松将交错动画添加到ListView，GridView，Column和Row子级中
 [animated_text_kit](https://pub.dev/packages/animated_text_kit)|酷炫的漂亮文字动画
-[curved_drawer](https://pub.dev/packages/curved_drawer)| 动画侧边栏、菜单
-[flutter_zoom_drawer](https://pub.dev/packages/flutter_zoom_drawer)| 侧边菜单（抽屉）的自定义实现
 [touchable](https://pub.dev/packages/touchable)| 为CustomPainter中在画布上绘制的每个Shape添加各种手势回调
 [concentric_transition](https://pub.dev/packages/concentric_transition)| 同心过渡剪切器，创建视图。适用于入门，页面过渡，自定义剪切器，绘画工具等
 <br />
@@ -244,6 +234,7 @@
 [weather_icons](https://pub.dev/packages/weather_icons)|带有200多个天气主题图标的图标包。
 [photo_view](https://pub.dev/packages/photo_view)| 图像能够通过用户手势（例如捏，旋转和拖动）进行缩放和平移，还可以显示任何窗口小部件而不是图像，例如容器，文本或SVG。
 [flutter_emoji](https://pub.dev/packages/flutter_emoji)| 轻巧的表情符号。
+
 <br />
 
 > ### 图表类
@@ -258,6 +249,41 @@
 [charts_flutter](https://pub.dev/packages/charts_flutter)|Material Design图表库。
 [percent_indicator](https://pub.dev/packages/percent_indicator)|根据百分比显示进度小部件，可以是圆形或线性的，也可以根据需要进行自定义.
 [graphview](https://pub.dev/packages/graphview)| 图形结构显示数据。它可以显示树形布局和层次结构图。
+
+
+<br />
+
+> ### 侧边菜单 / 侧边栏
+
+<br />
+
+依赖|描述
+-|-
+[flutter_inner_drawer](https://pub.flutter-io.cn/packages/flutter_inner_drawer) | 创建侧边抽屉。
+[hidden_drawer_menu](https://pub.dev/packages/hidden_drawer_menu) |  带有透视动画的精美抽屉模式菜单功能的库。
+[curved_drawer](https://pub.dev/packages/curved_drawer)| 动画侧边栏、菜单。
+[flutter_zoom_drawer](https://pub.dev/packages/flutter_zoom_drawer)| 侧边菜单（抽屉）的自定义实现
+
+<br />
+
+> ### 底部导航栏 / 浮动菜单
+
+<br />
+
+依赖|描述
+-|-
+[bottom_navy_bar](https://pub.flutter-io.cn/packages/bottom_navy_bar) | 精美而生动的底部导航。
+[cuberto_bottom_bar](https://pub.flutter-io.cn/packages/cuberto_bottom_bar) |  动画底部导航栏
+[convex_bottom_bar](https://pub.dev/packages/convex_bottom_bar)|实现ConvexAppBar以在底部栏中显示一个凸形选项卡。支持主题。
+[full_screen_menu](https://pub.dev/packages/full_screen_menu)|全屏菜单，为用户提供多种精美的方式。
+[fab_circular_menu](https://pub.dev/packages/fab_circular_menu)|使用Floating Action Button创建漂亮的圆形菜单。
+[curved_navigation_bar](https://pub.dev/packages/curved_navigation_bar)|可轻松实现弯曲的导航栏。
+[persistent_bottom_nav_bar](https://pub.dev/packages/persistent_bottom_nav_bar)|高度可定制的持久性/静态底部导航栏。
+[flashy_tab_bar](https://pub.flutter-io.cn/packages/flashy_tab_bar)| 不错的动画标签栏。
+[circular_menu](https://pub.dev/packages/circular_menu)| 一个简单多样的动画圆形菜单。
+[floating_action_bubble](https://pub.dev/packages/floating_action_bubble) |  浮动按钮的动画菜单。
+[titled_navigation_bar](https://pub.flutter-io.cn/packages/titled_navigation_bar) |  美观，干净，简单的底部导航栏。
+
 
 <br />
 
