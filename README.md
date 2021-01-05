@@ -65,7 +65,6 @@
 [upgrader](https://pub.flutter-io.cn/packages/upgrader)| 用于在商店中有较新版本的应用程序时提示用户进行升级。
 [liquid_swipe](https://pub.flutter-io.cn/packages/liquid_swipe)| 液体效果的页面切换组件
 [flutter_colorpicker](https://pub.flutter-io.cn/packages/flutter_colorpicker)| 一款受chrome devtools启发的HSV（HSB）/ HSL拾色器
-[sliding_panel](https://pub.flutter-io.cn/packages/sliding_panel)| 可定制的底部滑动面板
 [loading_gifs](https://pub.flutter-io.cn/packages/loading_gifs)| 加载指示器GIF
 [liquid_progress_indicator](https://pub.dev/packages/liquid_progress_indicator) | 水波效果的进度指示器。
 [bot_toast](https://pub.dev/packages/bot_toast) | 易于使用的Flutter Toast库，易于使用且功能丰富。
@@ -98,16 +97,12 @@
 [pull_to_refresh](https://pub.dev/packages/pull_to_refresh)|一个提供上拉加载和下拉刷新的组件,同时支持Android和Ios。
 [flutter_easyrefresh](https://pub.dev/packages/flutter_easyrefresh)|正如名字一样，EasyRefresh很容易就能在Flutter应用上实现下拉刷新以及上拉加载操作。
 [flutter_rating_bar](https://pub.dev/packages/flutter_rating_bar)|一个简单但完全可定制的评分栏。
-[solid_bottom_sheet](https://pub.dev/packages/solid_bottom_sheet)|完整的可定制的bottom_sheet。
-[rubber](https://pub.dev/packages/rubber)|Flutter的一种很好的弹性底片实现。
-[sliding_up_panel](https://pub.dev/packages/sliding_up_panel)|可拖动的底部弹片实现。
 [sticky_headers](https://pub.dev/packages/sticky_headers)|可以将标题放置在可滚动内容上，该内容在滚动内容时将粘贴在容器的顶部。
 [flutter_sticky_header](https://pub.dev/packages/flutter_sticky_header)|粘滞标题。在CustomScrollView中使用它。
 [flutter_easyloading](https://pub.dev/packages/flutter_easyloading)|一个简单易用的Flutter插件，包含23种loading动画效果、进度条展示、Toast展示。纯Flutter端实现，兼容性好，支持iOS、Android。
 [flash](https://pub.dev/packages/flash)|高度可定制，功能强大且易于使用的警报库。
 [flutter_annual_task](https://pub.dev/packages/flutter_annual_task)|用于显示日常任务（如Github-Contributions）的网格视图。
 [double_back_to_close_app](https://pub.dev/packages/double_back_to_close_app)|可让Android用户按下两次后退按钮以关闭应用程序。
-[modal_bottom_sheet](https://pub.dev/packages/modal_bottom_sheet)|创建令人敬畏而强大的模态底板。
 [flutter_sliver_tracker](https://pub.dev/packages/flutter_sliver_tracker)|滑动曝光埋点框架，支持SliverList、SliverGrid。
 [flutter_slidable](https://pub.dev/packages/flutter_slidable)|实现的可滑动列表项，具有可被取消的定向滑动动作。
 [logger](https://pub.dev/packages/logger)|小型，易于使用且可扩展的记录器，可打印精美的日志。
@@ -278,7 +273,19 @@
 [circular_menu](https://pub.dev/packages/circular_menu)| 一个简单多样的动画圆形菜单。
 [titled_navigation_bar](https://pub.flutter-io.cn/packages/titled_navigation_bar) |  美观，干净，简单的底部导航栏。
 
+<br />
 
+> ### 底部弹片 / 弹性底片 / 模态底板
+
+<br />
+
+依赖|描述
+-|-
+[sliding_panel](https://pub.flutter-io.cn/packages/sliding_panel)| 可定制的底部滑动面板。
+[solid_bottom_sheet](https://pub.dev/packages/solid_bottom_sheet)|完整的可定制的bottom_sheet。
+[rubber](https://pub.dev/packages/rubber)|Flutter的一种很好的弹性底片实现。
+[sliding_up_panel](https://pub.dev/packages/sliding_up_panel)|可拖动的底部弹片实现。
+[modal_bottom_sheet](https://pub.dev/packages/modal_bottom_sheet)|创建令人敬畏而强大的模态底板。
 <br />
 
 > ### 通讯类
