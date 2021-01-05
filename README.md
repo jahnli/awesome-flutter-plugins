@@ -50,7 +50,7 @@
 [arkit_plugin](https://pub.flutter-io.cn/packages/arkit_plugin) | ARKit-Apple的iOS移动设备增强现实（AR）开发平台。
 [json_table](https://pub.flutter-io.cn/packages/json_table) |  Json Table小部件，用于显示json（Map）中的表。支持列切换。
 [auto_size_text](https://pub.flutter-io.cn/packages/auto_size_text) | 可自动调整文本大小以使其完全适合其边界。
-[direct_select_flutter](https://pub.flutter-io.cn/packages/direct_select_flutter) |  选择控件，具有飘渺的全屏模式弹出窗口
+[direct_select_flutter](https://pub.flutter-io.cn/packages/direct_select_flutter) |  选择控件，具有飘渺的全屏模式弹出窗口。
 [photofilters](https://pub.flutter-io.cn/packages/photofilters) | 用于将各种类型的滤镜应用于图像。
 [some_calendar](https://pub.flutter-io.cn/packages/some_calendar) | 自定义日历（多选，单选，日期范围）。
 [showcaseview](https://pub.flutter-io.cn/packages/showcaseview) | 逐步展示/突出显示小部件，用于引导说明效果。
@@ -63,13 +63,13 @@
 [Fluttify系列插件](https://pub.flutter-io.cn/packages/amap_map_fluttify)| 百度地图、高德地图、讯飞、腾讯直播、网易直播、百度人脸识别、极光统计。（专业版需收费）
 [sliding_sheet](https://pub.flutter-io.cn/packages/sliding_sheet)| 以单个手势拖动和滚动并捕捉到范围列表的小部件。
 [upgrader](https://pub.flutter-io.cn/packages/upgrader)| 用于在商店中有较新版本的应用程序时提示用户进行升级。
-[liquid_swipe](https://pub.flutter-io.cn/packages/liquid_swipe)| 液体效果的页面切换组件
-[flutter_colorpicker](https://pub.flutter-io.cn/packages/flutter_colorpicker)| 一款受chrome devtools启发的HSV（HSB）/ HSL拾色器
-[loading_gifs](https://pub.flutter-io.cn/packages/loading_gifs)| 加载指示器GIF
+[liquid_swipe](https://pub.flutter-io.cn/packages/liquid_swipe)| 液体效果的页面切换组件。
+[flutter_colorpicker](https://pub.flutter-io.cn/packages/flutter_colorpicker)| 一款受chrome devtools启发的HSV（HSB）/ HSL拾色器。
+[loading_gifs](https://pub.flutter-io.cn/packages/loading_gifs)| 加载指示器GIF。
 [liquid_progress_indicator](https://pub.dev/packages/liquid_progress_indicator) | 水波效果的进度指示器。
 [bot_toast](https://pub.dev/packages/bot_toast) | 易于使用的Flutter Toast库，易于使用且功能丰富。
 [filter_list](https://pub.dev/packages/filter_list) |  从列表中过滤数据。
-[flutter_unity_widget](https://pub.dev/packages/flutter_unity_widget) |  Flutter Unity 3D小部件，用于将Unity游戏场景嵌入flutter中
+[flutter_unity_widget](https://pub.dev/packages/flutter_unity_widget) |  Flutter Unity 3D小部件，用于将Unity游戏场景嵌入flutter中。
 [like_button](https://pub.dev/packages/like_button)| 点赞按钮动画。
 [flutter_swipe_action_cell](https://pub.dev/packages/flutter_swipe_action_cell)| iOS式单元格滑动操作效果。
 [flame](https://pub.dev/packages/flame)| Flutter游戏引擎。
@@ -165,18 +165,18 @@
 
 依赖|描述
 -|-
-[flutter_screenutil](https://pub.dev/packages/flutter_screenutil)|不同终端屏幕适配问题
+[flutter_screenutil](https://pub.dev/packages/flutter_screenutil)|不同终端屏幕适配问题。
 [Dio](https://pub.dev/packages/dio)|Dart的强大Http客户端，支持拦截器，全局配置，FormData，请求取消，文件下载，超时等。
-[shared_preferences](https://pub.dev/packages/shared_preferences)|读取、设置缓存
-[fluro](https://pub.dev/packages/fluro)|Flutter的 企业级的路由框架
-[provider](https://pub.dev/packages/provider)|官方推荐的状态管理
+[shared_preferences](https://pub.dev/packages/shared_preferences)|读取、设置缓存。
+[fluro](https://pub.dev/packages/fluro)|Flutter的 企业级的路由框架。
+[provider](https://pub.dev/packages/provider)|官方推荐的状态管理。
 [intl](https://pub.dev/packages/intl)|包含用于处理国际化/本地化消息，日期和数字格式和解析，双向文本以及其他国际化问题的代码。
-[event_bus](https://pub.dev/packages/event_bus)|EventBus能够简化各组件间的通信，用于组件A调用组件B中的方法
-[flustars](https://pub.dev/packages/flustars)|依赖于Dart常用工具类库
+[event_bus](https://pub.dev/packages/event_bus)|EventBus能够简化各组件间的通信，用于组件A调用组件B中的方法。
+[flustars](https://pub.dev/packages/flustars)|依赖于Dart常用工具类库。
 [common_utils](https://pub.dev/packages/common_utils)|以及对其他第三方库封装，致力于为大家分享简单易用工具类。
-[jiffy](https://pub.dev/packages/jiffy)|一个受moment.js启发的程序包，用于解析，处理和格式化日期
-[timeago](https://pub.dev/packages/timeago)|创建模糊时间戳的库。（例如“ 15分钟前”）
-[intl](https://pub.dev/packages/intl)|国际化工具类
+[jiffy](https://pub.dev/packages/jiffy)|一个受moment.js启发的程序包，用于解析，处理和格式化日期。
+[timeago](https://pub.dev/packages/timeago)|创建模糊时间戳的库（例如“ 15分钟前”）。
+[intl](https://pub.dev/packages/intl)|国际化工具类。
 
 <br />
 
@@ -188,13 +188,13 @@
 -|-
 [video_trimmer](https://pub.flutter-io.cn/packages/video_trimmer) |  用于修剪视频。这支持将修剪后的视频文件检索，修剪和存储到文件系统。
 [assets_audio_player](https://pub.flutter-io.cn/packages/assets_audio_player) | 播放存储在资产文件中的音乐/音频。
-[iscflutterplugin](https://pub.dev/packages/iscflutterplugin) | 海康isc平台视频播放插件 - ❀  [xiaobug0929](https://github.com/xiaobug0929) 提供 ！
-[audioplayers](https://pub.dev/packages/audioplayers)|可同时播放多个音频文件
-[flutter_sound](https://pub.dev/packages/flutter_sound)|音频录制处理
-[fijkplayer](https://pub.dev/packages/fijkplayer)|基于ijkplayer的Video Player Flutter插件，支持最流行的协议和编解码器
+[iscflutterplugin](https://pub.dev/packages/iscflutterplugin) | 海康isc平台视频播放插件。 - ❀  [xiaobug0929](https://github.com/xiaobug0929) 提供 ！
+[audioplayers](https://pub.dev/packages/audioplayers)|可同时播放多个音频文件。
+[flutter_sound](https://pub.dev/packages/flutter_sound)|音频录制处理。
+[fijkplayer](https://pub.dev/packages/fijkplayer)|基于ijkplayer的Video Player Flutter插件，支持最流行的协议和编解码器。
 [flutter_ijkplayer](https://pub.dev/packages/flutter_ijkplayer)|基于bilibili ijkplayer的视频/音频播放器，支持https，rtmp，m3u8和更多协议。
 [awsome_video_player](https://pub.dev/packages/awsome_video_player)|一个简单易用的而且可高度自定义的播放器。
-[chewie](https://pub.dev/packages/chewie)|Flutter的视频播放器，带有Cupertino和Material播放控件
+[chewie](https://pub.dev/packages/chewie)|Flutter的视频播放器，带有Cupertino和Material播放控件。
 [flutter_webrtc](https://pub.dev/packages/flutter_webrtc)| Flutter WebRTC插件。
 
 <br />
@@ -205,19 +205,19 @@
 
 依赖|描述
 -|-
-[photo_manager](https://pub.flutter-io.cn/packages/photo_manager) | 使用api创建图像选择器。或使用照片
-[image_cropper](https://pub.flutter-io.cn/packages/image_cropper) |  适用于Android和iOS支持裁剪图像的Flutter插件
+[photo_manager](https://pub.flutter-io.cn/packages/photo_manager) | 使用api创建图像选择器或使用照片。
+[image_cropper](https://pub.flutter-io.cn/packages/image_cropper) |  适用于Android和iOS支持裁剪图像的Flutter插件。
 [edge_detection](https://pub.dev/packages/edge_detection)|检测对象的边缘，扫描纸张，检测角，检测矩形。它允许裁剪检测到的对象图像并返回裁剪图像的路径。
 [before_after](https://pub.dev/packages/before_after)|轻松地显示两个图像之间的差异。
 [imageview360](https://pub.dev/packages/imageview360)|通过旋转和手势自定义提供360度的图像视图。
-[flutter_avatars_bottts](https://pub.dev/packages/flutter_avatars_bottts) | svg头像渲染小部件
-[flutter_image_compress](https://pub.dev/packages/flutter_image_compress)|图片压缩
+[flutter_avatars_bottts](https://pub.dev/packages/flutter_avatars_bottts) | svg头像渲染小部件。
+[flutter_image_compress](https://pub.dev/packages/flutter_image_compress)|图片压缩。
 [cached_network_image](https://pub.dev/packages/cached_network_image)|Flutter库可加载和缓存网络图像。
-[flutter_gifimage](https://pub.dev/packages/flutter_gifimage)|用于解决gif无法控制的速度，进度
-[extended_image](https://pub.dev/packages/extended_image)|强大的官方Image扩展组件, 支持加载以及失败显示，缓存网络图片，缩放拖拽图片，图片浏览(微信掘金效果)，滑动退出页面(微信掘金效果)，编辑图片(裁剪旋转翻转)，保存，绘制自定义效果等功能
-[extended_image_library](https://pub.dev/packages/extended_image_library)|extended_image的基础库，如果你只需要网络图片缓存功能，你可以只引用这个库
-[flutter_svg](https://pub.dev/packages/flutter_svg)| Flutter的SVG渲染和窗口小部件库，允许绘制和显示可缩放矢量图形
-[font_awesome_flutter](https://pub.dev/packages/font_awesome_flutter)|以Flutter Icons的形式提供. 提供1500个其他图标供您的应用使用.
+[flutter_gifimage](https://pub.dev/packages/flutter_gifimage)|用于解决gif无法控制的速度，进度。
+[extended_image](https://pub.dev/packages/extended_image)|强大的官方Image扩展组件, 支持加载以及失败显示，缓存网络图片，缩放拖拽图片，图片浏览(微信掘金效果)，滑动退出页面(微信掘金效果)，编辑图片(裁剪旋转翻转)，保存，绘制自定义效果等功能。
+[extended_image_library](https://pub.dev/packages/extended_image_library)|extended_image的基础库，如果你只需要网络图片缓存功能，你可以只引用这个库。
+[flutter_svg](https://pub.dev/packages/flutter_svg)| Flutter的SVG渲染和窗口小部件库，允许绘制和显示可缩放矢量图形。
+[font_awesome_flutter](https://pub.dev/packages/font_awesome_flutter)|以Flutter Icons的形式提供. 提供1500个其他图标供您的应用使用。
 [weather_icons](https://pub.dev/packages/weather_icons)|带有200多个天气主题图标的图标包。
 [photo_view](https://pub.dev/packages/photo_view)| 图像能够通过用户手势（例如捏，旋转和拖动）进行缩放和平移，还可以显示任何窗口小部件而不是图像，例如容器，文本或SVG。
 [flutter_emoji](https://pub.dev/packages/flutter_emoji)| 轻巧的表情符号。
@@ -230,11 +230,11 @@
 
 依赖|描述
 -|-
-[bezier_chart](https://pub.flutter-io.cn/packages/bezier_chart) |  一个漂亮的贝塞尔曲线折线图窗口部件
+[bezier_chart](https://pub.flutter-io.cn/packages/bezier_chart) |  一个漂亮的贝塞尔曲线折线图窗口部件。
 [flutter_echarts](https://pub.dev/packages/flutter_echarts)|基于Echarts的数据可视化图表库，能够构建高级图表，例如WebGL 3D，GIS地图等。
-[fl_chart](https://pub.dev/packages/fl_chart)|Flutter图表库，当前支持折线图，条形图和饼图.
+[fl_chart](https://pub.dev/packages/fl_chart)|Flutter图表库，当前支持折线图，条形图和饼图。
 [charts_flutter](https://pub.dev/packages/charts_flutter)|Material Design图表库。
-[percent_indicator](https://pub.dev/packages/percent_indicator)|根据百分比显示进度小部件，可以是圆形或线性的，也可以根据需要进行自定义.
+[percent_indicator](https://pub.dev/packages/percent_indicator)|根据百分比显示进度小部件，可以是圆形或线性的，也可以根据需要进行自定义。
 [graphview](https://pub.dev/packages/graphview)| 图形结构显示数据。它可以显示树形布局和层次结构图。
 
 
@@ -249,7 +249,7 @@
 [flutter_inner_drawer](https://pub.flutter-io.cn/packages/flutter_inner_drawer) | 创建侧边抽屉。
 [hidden_drawer_menu](https://pub.dev/packages/hidden_drawer_menu) |  带有透视动画的精美抽屉模式菜单功能的库。
 [curved_drawer](https://pub.dev/packages/curved_drawer)| 动画侧边栏、菜单。
-[flutter_zoom_drawer](https://pub.dev/packages/flutter_zoom_drawer)| 侧边菜单（抽屉）的自定义实现
+[flutter_zoom_drawer](https://pub.dev/packages/flutter_zoom_drawer)| 侧边菜单（抽屉）的自定义实现。
 
 <br />
 
@@ -295,12 +295,12 @@
 依赖|描述
 -|-
 [dim](https://pub.dev/packages/dim)| 方便地与腾讯imsdk集成，可以轻松地在flutter上使用imsdk。
-[speech_to_text](https://pub.dev/packages/speech_to_text)| 将特定于设备的语音显示给文本识别功能
+[speech_to_text](https://pub.dev/packages/speech_to_text)| 将特定于设备的语音显示给文本识别功能。
 [flutter_tts](https://pub.dev/packages/flutter_tts)| 用于文字转语音的Flutter插件。iOS，Android和Web支持该插件。
-[fluwx](https://pub.dev/packages/fluwx)| Flutter中实现WeChat SDK的功能。借助Fluwx，开发人员可以轻松使用WeChatSDK，例如分享，付款，小程序
+[fluwx](https://pub.dev/packages/fluwx)| Flutter中实现WeChat SDK的功能。借助Fluwx，开发人员可以轻松使用WeChatSDK，例如分享，付款，小程序。
 [flutter_qq](https://pub.dev/packages/flutter_qq)| QQ Flutter插件。
-[socket_io_client](https://pub.dev/packages/socket_io_client)| 用于Web，Flutter和dartvm的socket.io-client的Dartlang端口
-[jpush_flutter](https://pub.dev/packages/jpush_flutter)| 极光推送官方支持的 Flutter 插件
+[socket_io_client](https://pub.dev/packages/socket_io_client)| 用于Web，Flutter和dartvm的socket.io-client的Dartlang端口。
+[jpush_flutter](https://pub.dev/packages/jpush_flutter)| 极光推送官方支持的 Flutter 插件。
 
 <br />
 
@@ -310,11 +310,11 @@
 
 依赖|描述
 -|-
-[amap_all_fluttify](https://pub.dev/packages/amap_all_fluttify)| 由Fluttify提供的高德地图整合组件（包含搜索、定位、地图）
-[amap_location_fluttify ](https://pub.dev/packages/amap_location_fluttify )| 由Fluttify提供的高德定位组件
-[amap_map_fluttify](https://pub.dev/packages/amap_map_fluttify)| 由Fluttify提供的高德地图组件
-[amap_search_fluttify](https://pub.dev/packages/amap_search_fluttify)| 由Fluttify提供的高德地图搜索组件
-[amap_location](https://pub.dev/packages/amap_location)| 高德地图定位组件
+[amap_all_fluttify](https://pub.dev/packages/amap_all_fluttify)| 由Fluttify提供的高德地图整合组件（包含搜索、定位、地图）。
+[amap_location_fluttify ](https://pub.dev/packages/amap_location_fluttify )| 由Fluttify提供的高德定位组件。
+[amap_map_fluttify](https://pub.dev/packages/amap_map_fluttify)| 由Fluttify提供的高德地图组件。
+[amap_search_fluttify](https://pub.dev/packages/amap_search_fluttify)| 由Fluttify提供的高德地图搜索组件。
+[amap_location](https://pub.dev/packages/amap_location)| 高德地图定位组件。
 
 <br />
 
@@ -324,7 +324,7 @@
 
 依赖|描述
 -|-
-[flutter_widget_from_html](https://pub.flutter-io.cn/packages/flutter_widget_from_html) | 用于从html构建小部件树的Flutter软件包，支持超链接，图像，嵌套列表等 - ❀  [niyangup](https://github.com/niyangup) 提供：flutter_html插件不支持font-size等属性,但是上述的插件支持 有需要的小伙伴可以试试 亲测可用
-[flutter_html](https://pub.dev/packages/flutter_html)|用于将静态html标记呈现为Flutter小部件。（将呈现超过70种不同的HTML标签！）
+[flutter_widget_from_html](https://pub.flutter-io.cn/packages/flutter_widget_from_html) | 用于从html构建小部件树的Flutter软件包，支持超链接，图像，嵌套列表等。 - ❀  [niyangup](https://github.com/niyangup) 提供：flutter_html插件不支持font-size等属性,但是上述的插件支持 有需要的小伙伴可以试试 亲测可用。
+[flutter_html](https://pub.dev/packages/flutter_html)|用于将静态html标记呈现为Flutter小部件（将呈现超过70种不同的HTML标签！）。
 [flutter_webview_plugin](https://pub.dev/packages/flutter_webview_plugin)|允许Flutter与本机WebView通信的插件。
-[flutter_inappbrowser](https://pub.dev/packages/flutter_inappbrowser)|一个Flutter插件，允许您添加内联webview或打开应用程序内浏览器窗口
+[flutter_inappbrowser](https://pub.dev/packages/flutter_inappbrowser)|一个Flutter插件，允许您添加内联webview或打开应用程序内浏览器窗口。
