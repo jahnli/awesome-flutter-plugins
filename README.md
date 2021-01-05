@@ -46,7 +46,6 @@
 [wave](https://pub.flutter-io.cn/packages/wave) | 创建具有自定义颜色，时间，浮动和模糊效果的波形小部件。
 [credit_card_input_form](https://pub.flutter-io.cn/packages/credit_card_input_form) | 信用卡信息输入表格
 [sticky_infinite_list](https://pub.flutter-io.cn/packages/device_calendar)  | 具有粘性标头的无限列表
-[focused_menu](https://pub.flutter-io.cn/packages/focused_menu) | 长按菜单。
 [dough](https://pub.flutter-io.cn/packages/dough) |  创建自定义的面团小部件以实现自定义的挤压效果
 [arkit_plugin](https://pub.flutter-io.cn/packages/arkit_plugin) | ARKit-Apple的iOS移动设备增强现实（AR）开发平台
 [json_table](https://pub.flutter-io.cn/packages/json_table) |  Json Table小部件，用于显示json（Map）中的表。支持列切换。
@@ -58,7 +57,6 @@
 [flutter_markdown](https://pub.flutter-io.cn/packages/flutter_markdown)| Flutter的Markdown渲染器
 [flutter_styled_toast](https://pub.flutter-io.cn/packages/flutter_styled_toast)| 自定义Toast.
 [flutter_custom_clippers](https://pub.flutter-io.cn/packages/flutter_custom_clippers)| 将widget裁剪成各种自定义形状.
-[flutter_speed_dial](https://pub.flutter-io.cn/packages/flutter_speed_dial)| 可展开选项的浮动按钮.
 [scratcher](https://pub.flutter-io.cn/packages/scratcher)| 刮刮卡小部件
 [flip_card](https://pub.flutter-io.cn/packages/flip_card)| 翻页动画的组件，可以用于隐藏和显示产品的详细信息。
 [flui](https://pub.dev/packages/flui)| Flutter小部件UI库
@@ -69,10 +67,9 @@
 [flutter_colorpicker](https://pub.flutter-io.cn/packages/flutter_colorpicker)| 一款受chrome devtools启发的HSV（HSB）/ HSL拾色器
 [sliding_panel](https://pub.flutter-io.cn/packages/sliding_panel)| 可定制的底部滑动面板
 [loading_gifs](https://pub.flutter-io.cn/packages/loading_gifs)| 加载指示器GIF
-[liquid_progress_indicator](https://pub.dev/packages/liquid_progress_indicator) | 水波效果的进度指示器
+[liquid_progress_indicator](https://pub.dev/packages/liquid_progress_indicator) | 水波效果的进度指示器。
 [bot_toast](https://pub.dev/packages/bot_toast) | 易于使用的Flutter Toast库，易于使用且功能丰富。
 [filter_list](https://pub.dev/packages/filter_list) |  从列表中过滤数据。
-[floating_action_bubble](https://pub.dev/packages/floating_action_bubble) |  浮动按钮的动画菜单
 [flutter_unity_widget](https://pub.dev/packages/flutter_unity_widget) |  Flutter Unity 3D小部件，用于将Unity游戏场景嵌入flutter中
 [like_button](https://pub.dev/packages/like_button)| 点赞按钮动画
 [flutter_swipe_action_cell](https://pub.dev/packages/flutter_swipe_action_cell)| iOS式单元格滑动操作效果
@@ -82,7 +79,6 @@
 [flutter_simple_calculator](https://pub.dev/packages/flutter_simple_calculator)|提供简单的计算器
 [giffy_dialog](https://pub.dev/packages/giffy_dialog)|一个精美的自定义警报对话框
 [flutter_neumorphic](https://pub.dev/packages/flutter_neumorphic)|随时可用的Neumorphic ui套件
-[persistent_bottom_nav_bar](https://pub.dev/packages/persistent_bottom_nav_bar)|高度可定制的持久性/静态底部导航栏
 [flutter_staggered_grid_view](https://pub.dev/packages/flutter_staggered_grid_view)|瀑布流展示控件，支持多列且行大小不同。
 [shimmer](https://pub.dev/packages/shimmer)|为控件添加闪光效果
 [flare_flutter](https://pub.dev/packages/flare_flutter)| Flutter 的动画插件
@@ -272,8 +268,11 @@
 
 依赖|描述
 -|-
+[floating_action_bubble](https://pub.dev/packages/floating_action_bubble) |  浮动按钮的动画菜单。
+[flutter_speed_dial](https://pub.flutter-io.cn/packages/flutter_speed_dial)| 可展开选项的浮动按钮。
+[focused_menu](https://pub.flutter-io.cn/packages/focused_menu) | 长按菜单。
 [bottom_navy_bar](https://pub.flutter-io.cn/packages/bottom_navy_bar) | 精美而生动的底部导航。
-[cuberto_bottom_bar](https://pub.flutter-io.cn/packages/cuberto_bottom_bar) |  动画底部导航栏
+[cuberto_bottom_bar](https://pub.flutter-io.cn/packages/cuberto_bottom_bar) |  动画底部导航栏。
 [convex_bottom_bar](https://pub.dev/packages/convex_bottom_bar)|实现ConvexAppBar以在底部栏中显示一个凸形选项卡。支持主题。
 [full_screen_menu](https://pub.dev/packages/full_screen_menu)|全屏菜单，为用户提供多种精美的方式。
 [fab_circular_menu](https://pub.dev/packages/fab_circular_menu)|使用Floating Action Button创建漂亮的圆形菜单。
