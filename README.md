@@ -110,9 +110,7 @@
 [flutter_annual_task](https://pub.dev/packages/flutter_annual_task)|用于显示日常任务（如Github-Contributions）的网格视图。
 [double_back_to_close_app](https://pub.dev/packages/double_back_to_close_app)|可让Android用户按下两次后退按钮以关闭应用程序。
 [modal_bottom_sheet](https://pub.dev/packages/modal_bottom_sheet)|创建令人敬畏而强大的模态底板。
-[scroll_bottom_navigation_bar](https://pub.dev/packages/scroll_bottom_navigation_bar)|滚动时隐藏或显示底部导航栏。
 [flutter_sliver_tracker](https://pub.dev/packages/flutter_sliver_tracker)|滑动曝光埋点框架，支持SliverList、SliverGrid
-[wechat_assets_picker](https://pub.dev/packages/wechat_assets_picker)|对标微信的多选资源选择器，99%接近于原生微信的操作，纯Dart编写，支持选择的同时也支持预览资源
 [flutter_slidable](https://pub.dev/packages/flutter_slidable)|实现的可滑动列表项，具有可被取消的定向滑动动作。
 [logger](https://pub.dev/packages/logger)|小型，易于使用且可扩展的记录器，可打印精美的日志。
 [badges](https://pub.dev/packages/badges)|用于创建徽章，可用于任何小部件的附加标记，例如，显示购物车中的许多物品。
@@ -134,20 +132,21 @@
 
 依赖|描述
 -|-
-[dokit](https://pub.flutter-io.cn/packages/dokit) | 滴滴DoKit For Flutter，一个DoKit针对Flutter环境的产研工具包，内部集成了各种丰富的小工具，UI、网络、内存、监控等等
-[camerawesome](https://pub.flutter-io.cn/packages/camerawesome) | 社区提供的开源相机插件
-[printing](https://pub.dev/packages/printing)|允许Flutter应用程序生成文档并将其打印到android或ios兼容打印机
-[flutter_local_notifications](https://pub.dev/packages/flutter_local_notifications)|用于显示和推送Flutter应用程序的本地通知（定时、通知声音）
-[barcode_scan](https://pub.dev/packages/barcode_scan)|用于通过相机扫描2D条形码和QRCode
+[dokit](https://pub.flutter-io.cn/packages/dokit) | 滴滴DoKit For Flutter，一个DoKit针对Flutter环境的产研工具包，内部集成了各种丰富的小工具，UI、网络、内存、监控等等。
+[wechat_assets_picker](https://pub.dev/packages/wechat_assets_picker)|对标微信的多选资源选择器，99%接近于原生微信的操作，纯Dart编写，支持选择的同时也支持预览资源。
+[camerawesome](https://pub.flutter-io.cn/packages/camerawesome) | 社区提供的开源相机插件。
+[printing](https://pub.dev/packages/printing)|允许Flutter应用程序生成文档并将其打印到android或ios兼容打印机。
+[flutter_local_notifications](https://pub.dev/packages/flutter_local_notifications)|用于显示和推送Flutter应用程序的本地通知（定时、通知声音）。
+[barcode_scan](https://pub.dev/packages/barcode_scan)|用于通过相机扫描2D条形码和QRCode。
 [flutter_contact](https://pub.dev/packages/flutter_contact)|在Android和iOS设备上检索，创建和保存联系人以及与联系人相关的事件。
 [sensors](https://pub.dev/packages/sensors)|访问Android和iOS加速度计和陀螺仪传感器。
 [app_settings](https://pub.dev/packages/app_settings)|从应用程序打开iOS和Android手机设置。
 [wakelock](https://pub.dev/packages/wakelock)| 在Android和iOS上启用和切换屏幕唤醒锁，以防止屏幕自动关闭，本质上，这使您可以使设备保持唤醒状态，即防止设备进入休眠状态。
-[flutter_downloader](https://pub.dev/packages/flutter_downloader)|用于创建和管理下载任务的插件
-[open_file](https://pub.dev/packages/open_file)|调用本机APP打开带有字符串的文件
-[path_provider](https://pub.dev/packages/path_provider)|查找文件系统上的常用位置
-[package_info](https://pub.dev/packages/package_info)|查询有关应用程序包的信息
-[connectivity](https://pub.dev/packages/connectivity)|发现Android和iOS上的网络（WiFi和移动/蜂窝）连接状态
+[flutter_downloader](https://pub.dev/packages/flutter_downloader)|用于创建和管理下载任务的插件。
+[open_file](https://pub.dev/packages/open_file)|调用本机APP打开带有字符串的文件。
+[path_provider](https://pub.dev/packages/path_provider)|查找文件系统上的常用位置。
+[package_info](https://pub.dev/packages/package_info)|查询有关应用程序包的信息。
+[connectivity](https://pub.dev/packages/connectivity)|发现Android和iOS上的网络（WiFi和移动/蜂窝）连接状态。
 [image_picker](https://pub.dev/packages/image_picker)|用于从Android和iOS图像库中选择图像，并使用相机拍摄新照片。
 [permission_handler](https://pub.dev/packages/permission_handler)|提供一个跨平台(iOS, Android) API来请求和检查权限。Android上也称为应用程序快捷方式。
 [quick_actions](https://pub.dev/packages/quick_actions)|用于在主屏幕上创建快捷方式，在iOS上也称为快速操作，在Android上也称为应用程序快捷方式。
@@ -155,17 +154,17 @@
 [device_info](https://pub.dev/packages/device_info)|从Flutter应用程序中获取当前设备信息。
 [flutter_local_notifications](https://pub.dev/packages/flutter_local_notifications)|一个用于显示本地通知的多功能跨平台插件。
 [url_launcher](https://pub.dev/packages/url_launcher)|一款支持android和IOS的插件，其中包含打开网址、发送邮件、拨打电话、以及发送信息功能。
-[local_auth](https://pub.dev/packages/local_auth)| 提供了对用户执行本地设备上身份验证的方法（指纹解锁）
-[device_apps](https://pub.dev/packages/device_apps)| 获取设备上安装的应用程序列表的插件（仅适用于Android）
+[local_auth](https://pub.dev/packages/local_auth)| 提供了对用户执行本地设备上身份验证的方法（指纹解锁）。
+[device_apps](https://pub.dev/packages/device_apps)| 获取设备上安装的应用程序列表的插件（仅适用于Android）。
 [file_picker](https://pub.dev/packages/file_picker)| 允许您使用本机文件浏览器来选择单个或多个绝对文件路径，并具有扩展名过滤支持。
-[vibration](https://pub.dev/packages/vibration)| iOS和Android设备上处理震动的插件
-[get_ip](https://pub.dev/packages/get_ip)| 您获取Android和iOS上用户设备的IP地址
-[system_info](https://pub.dev/packages/system_info)| 可以轻松访问有关系统的有用信息（architecture, bitness, kernel, memory, operating system, CPU, user)
-[flutter_blue](https://pub.dev/packages/flutter_blue)| Android和iOS上与低功耗蓝牙设备连接和通信
-[camera](https://pub.dev/packages/camera)| 获取有关和控制Android和iOS上的相机的信息。支持预览摄像头，捕获图像，捕获视频
-[flutter_app_badger](https://pub.dev/packages/flutter_app_badger)|用于在启动器上更新应用程序徽章的插件
-[sounds](https://pub.dev/packages/sounds)|为音频播放和录制提供了完整的api和小部件
-[device_calendar](https://pub.flutter-io.cn/packages/device_calendar) | 修改用户设备上的日历
+[vibration](https://pub.dev/packages/vibration)| iOS和Android设备上处理震动的插件。
+[get_ip](https://pub.dev/packages/get_ip)| 您获取Android和iOS上用户设备的IP地址。
+[system_info](https://pub.dev/packages/system_info)| 可以轻松访问有关系统的有用信息（architecture, bitness, kernel, memory, operating system, CPU, user)。
+[flutter_blue](https://pub.dev/packages/flutter_blue)| Android和iOS上与低功耗蓝牙设备连接和通信。
+[camera](https://pub.dev/packages/camera)| 获取有关和控制Android和iOS上的相机的信息。支持预览摄像头，捕获图像，捕获视频。
+[flutter_app_badger](https://pub.dev/packages/flutter_app_badger)|用于在启动器上更新应用程序徽章的插件。
+[sounds](https://pub.dev/packages/sounds)|为音频播放和录制提供了完整的api和小部件。
+[device_calendar](https://pub.flutter-io.cn/packages/device_calendar) | 修改用户设备上的日历。
 <br />
 
 > ### 项目相关
