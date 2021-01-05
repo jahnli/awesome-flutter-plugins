@@ -276,7 +276,6 @@
 [persistent_bottom_nav_bar](https://pub.dev/packages/persistent_bottom_nav_bar)|高度可定制的持久性/静态底部导航栏。
 [flashy_tab_bar](https://pub.flutter-io.cn/packages/flashy_tab_bar)| 不错的动画标签栏。
 [circular_menu](https://pub.dev/packages/circular_menu)| 一个简单多样的动画圆形菜单。
-[floating_action_bubble](https://pub.dev/packages/floating_action_bubble) |  浮动按钮的动画菜单。
 [titled_navigation_bar](https://pub.flutter-io.cn/packages/titled_navigation_bar) |  美观，干净，简单的底部导航栏。
 
 
