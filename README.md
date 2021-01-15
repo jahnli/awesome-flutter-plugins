@@ -13,16 +13,16 @@
 
 ### 已收录 ：200+
 
+### 01-15
++ [bottom_bar_with_sheet](https://pub.flutter-io.cn/packages/bottom_bar_with_sheet) - 底部导航栏，该底部栏将在每个页面上放置BottomSheet小部件。
++ [crypto](https://pub.flutter-io.cn/packages/crypto) -  SHA，MD5和HMAC加密功能的实现
+
 ### 01-05
 + [dokit](https://pub.flutter-io.cn/packages/dokit) - 滴滴DoKit For Flutter，一个DoKit针对Flutter环境的产研工具包，内部集成了各种丰富的小工具，UI、网络、内存、监控等等
 
 ### 12-31
 + [bottom_navy_bar](https://pub.flutter-io.cn/packages/bottom_navy_bar) - 精美而生动的底部导航。
 + [drag_select_grid_view](https://pub.flutter-io.cn/packages/drag_select_grid_view) -  一个同时支持拖动和点击以选择其项目的网格
-
-### 12-23
-+ [flutter_weather_bg](https://pub.flutter-io.cn/packages/flutter_weather_bg) - 多种天气背景动画效果
-+ [cuberto_bottom_bar](https://pub.flutter-io.cn/packages/cuberto_bottom_bar) -  动画底部导航栏
 
 <br />
 <br />
@@ -163,6 +163,7 @@
 依赖|描述
 -|-
 [flutter_screenutil](https://pub.dev/packages/flutter_screenutil)|不同终端屏幕适配问题。
+[crypto](https://pub.flutter-io.cn/packages/crypto) | SHA，MD5和HMAC加密功能的实现
 [Dio](https://pub.dev/packages/dio)|Dart的强大Http客户端，支持拦截器，全局配置，FormData，请求取消，文件下载，超时等。
 [shared_preferences](https://pub.dev/packages/shared_preferences)|读取、设置缓存。
 [fluro](https://pub.dev/packages/fluro)|Flutter的 企业级的路由框架。
@@ -256,6 +257,7 @@
 
 依赖|描述
 -|-
+[bottom_bar_with_sheet](https://pub.flutter-io.cn/packages/bottom_bar_with_sheet) | 底部导航栏，该底部栏将在每个页面上放置BottomSheet小部件。
 [floating_action_bubble](https://pub.dev/packages/floating_action_bubble) |  浮动按钮的动画菜单。
 [flutter_speed_dial](https://pub.flutter-io.cn/packages/flutter_speed_dial)| 可展开选项的浮动按钮。
 [focused_menu](https://pub.flutter-io.cn/packages/focused_menu) | 长按菜单。
