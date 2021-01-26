@@ -13,16 +13,16 @@
 
 ### 已收录 ：200+
 
+### 01-26
++ [flutter_summernote](https://pub.flutter-io.cn/packages/flutter_summernote) - Flutter中的文本编辑器。
++ [animated_bottom_navigation_bar](https://pub.flutter-io.cn/packages/animated_bottom_navigation_bar) - 绚丽的动画底部导航栏。
+
 ### 01-15
 + [bottom_bar_with_sheet](https://pub.flutter-io.cn/packages/bottom_bar_with_sheet) - 底部导航栏，该底部栏将在每个页面上放置BottomSheet小部件。
-+ [crypto](https://pub.flutter-io.cn/packages/crypto) -  SHA，MD5和HMAC加密功能的实现
++ [crypto](https://pub.flutter-io.cn/packages/crypto) -  SHA，MD5和HMAC加密功能的实现。
 
 ### 01-05
-+ [dokit](https://pub.flutter-io.cn/packages/dokit) - 滴滴DoKit For Flutter，一个DoKit针对Flutter环境的产研工具包，内部集成了各种丰富的小工具，UI、网络、内存、监控等等
-
-### 12-31
-+ [bottom_navy_bar](https://pub.flutter-io.cn/packages/bottom_navy_bar) - 精美而生动的底部导航。
-+ [drag_select_grid_view](https://pub.flutter-io.cn/packages/drag_select_grid_view) -  一个同时支持拖动和点击以选择其项目的网格
++ [dokit](https://pub.flutter-io.cn/packages/dokit) - 滴滴DoKit For Flutter，一个DoKit针对Flutter环境的产研工具包，内部集成了各种丰富的小工具，UI、网络、内存、监控等等。
 
 <br />
 <br />
@@ -38,6 +38,7 @@
 依赖|描述
 -|-
 [Fliggy Mobile](https://github.com/Fliggy-Mobile) |【阿里巴巴-飞猪-FliggyMobile 技术团队】 开发维护的 FWidget 系列组件。
+[flutter_summernote](https://pub.flutter-io.cn/packages/flutter_summernote) | Flutter中的文本编辑器。
 [drag_select_grid_view](https://pub.flutter-io.cn/packages/drag_select_grid_view) |  一个同时支持拖动和点击以选择其项目的网格。
 [flutter_weather_bg](https://pub.flutter-io.cn/packages/flutter_weather_bg) | 多种天气背景动画效果。
 [wave](https://pub.flutter-io.cn/packages/wave) | 创建具有自定义颜色，时间，浮动和模糊效果的波形小部件。
@@ -257,6 +258,7 @@
 
 依赖|描述
 -|-
+[animated_bottom_navigation_bar](https://pub.flutter-io.cn/packages/animated_bottom_navigation_bar) | 绚丽的动画底部导航栏。
 [bottom_bar_with_sheet](https://pub.flutter-io.cn/packages/bottom_bar_with_sheet) | 底部导航栏，该底部栏将在每个页面上放置BottomSheet小部件。
 [floating_action_bubble](https://pub.dev/packages/floating_action_bubble) |  浮动按钮的动画菜单。
 [flutter_speed_dial](https://pub.flutter-io.cn/packages/flutter_speed_dial)| 可展开选项的浮动按钮。
