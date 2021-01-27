@@ -114,6 +114,8 @@
 [animated_text_kit](https://pub.dev/packages/animated_text_kit)|酷炫的漂亮文字动画。
 [touchable](https://pub.dev/packages/touchable)| 为CustomPainter中在画布上绘制的每个Shape添加各种手势回调。
 [concentric_transition](https://pub.dev/packages/concentric_transition)| 同心过渡剪切器，创建视图。适用于入门，页面过渡，自定义剪切器，绘画工具等。
+[nineold](https://pub.dev/packages/nineold)|朋友圈9宫格图片显示，支持9+以上图片。
+
 <br />
 
 > ### 设备相关
