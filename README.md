@@ -13,6 +13,9 @@
 
 ### 已收录 ：200+
 
+### 02-01
++ [nineold](https://pub.dev/packages/nineold) - 朋友圈9宫格图片显示，支持9+以上图片。 - ❀  [lanzhu1993](https://github.com/lanzhu1993) 提供 ！
+
 ### 01-26
 + [flutter_summernote](https://pub.flutter-io.cn/packages/flutter_summernote) - Flutter中的文本编辑器。
 + [animated_bottom_navigation_bar](https://pub.flutter-io.cn/packages/animated_bottom_navigation_bar) - 绚丽的动画底部导航栏。
@@ -20,9 +23,6 @@
 ### 01-15
 + [bottom_bar_with_sheet](https://pub.flutter-io.cn/packages/bottom_bar_with_sheet) - 底部导航栏，该底部栏将在每个页面上放置BottomSheet小部件。
 + [crypto](https://pub.flutter-io.cn/packages/crypto) -  SHA，MD5和HMAC加密功能的实现。
-
-### 01-05
-+ [dokit](https://pub.flutter-io.cn/packages/dokit) - 滴滴DoKit For Flutter，一个DoKit针对Flutter环境的产研工具包，内部集成了各种丰富的小工具，UI、网络、内存、监控等等。
 
 <br />
 <br />
@@ -114,7 +114,7 @@
 [animated_text_kit](https://pub.dev/packages/animated_text_kit)|酷炫的漂亮文字动画。
 [touchable](https://pub.dev/packages/touchable)| 为CustomPainter中在画布上绘制的每个Shape添加各种手势回调。
 [concentric_transition](https://pub.dev/packages/concentric_transition)| 同心过渡剪切器，创建视图。适用于入门，页面过渡，自定义剪切器，绘画工具等。
-[nineold](https://pub.dev/packages/nineold)|朋友圈9宫格图片显示，支持9+以上图片。
+
 
 <br />
 
@@ -206,6 +206,7 @@
 
 依赖|描述
 -|-
+[nineold](https://pub.dev/packages/nineold)|朋友圈9宫格图片显示，支持9+以上图片。 - ❀  [lanzhu1993](https://github.com/lanzhu1993) 提供 ！
 [photo_manager](https://pub.flutter-io.cn/packages/photo_manager) | 使用api创建图像选择器或使用照片。
 [image_cropper](https://pub.flutter-io.cn/packages/image_cropper) |  适用于Android和iOS支持裁剪图像的Flutter插件。
 [edge_detection](https://pub.dev/packages/edge_detection)|检测对象的边缘，扫描纸张，检测角，检测矩形。它允许裁剪检测到的对象图像并返回裁剪图像的路径。
@@ -327,7 +328,7 @@
 
 依赖|描述
 -|-
-[flutter_widget_from_html](https://pub.flutter-io.cn/packages/flutter_widget_from_html) | 用于从html构建小部件树的Flutter软件包，支持超链接，图像，嵌套列表等。 - ❀  [niyangup](https://github.com/niyangup) 提供：flutter_html插件不支持font-size等属性,但是上述的插件支持 有需要的小伙伴可以试试 亲测可用。
+[flutter_widget_from_html](https://pub.flutter-io.cn/packages/flutter_widget_from_html) | 用于从html构建小部件树的Flutter软件包，支持超链接，图像，嵌套列表等。 - ❀  [niyangup](https://github.com/niyangup) 提供，flutter_html插件不支持font-size等属性,但是上述的插件支持 有需要的小伙伴可以试试 亲测可用。
 [flutter_html](https://pub.dev/packages/flutter_html)|用于将静态html标记呈现为Flutter小部件（将呈现超过70种不同的HTML标签！）。
 [flutter_webview_plugin](https://pub.dev/packages/flutter_webview_plugin)|允许Flutter与本机WebView通信的插件。
 [flutter_inappbrowser](https://pub.dev/packages/flutter_inappbrowser)|一个Flutter插件，允许您添加内联webview或打开应用程序内浏览器窗口。
