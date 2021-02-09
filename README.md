@@ -13,16 +13,15 @@
 
 ### 已收录 ：200+
 
+### 02-09
++ [flutter_camera_ml_vision](https://pub.dev/packages/flutter_camera_ml_vision) - 可显示相机预览并使用Firebase ML Vision检测事物。
+
 ### 02-01
 + [nineold](https://pub.dev/packages/nineold) - 朋友圈9宫格图片显示，支持9+以上图片。 - ❀  [lanzhu1993](https://github.com/lanzhu1993) 提供 ！
 
 ### 01-26
 + [flutter_summernote](https://pub.flutter-io.cn/packages/flutter_summernote) - Flutter中的文本编辑器。
 + [animated_bottom_navigation_bar](https://pub.flutter-io.cn/packages/animated_bottom_navigation_bar) - 绚丽的动画底部导航栏。
-
-### 01-15
-+ [bottom_bar_with_sheet](https://pub.flutter-io.cn/packages/bottom_bar_with_sheet) - 底部导航栏，该底部栏将在每个页面上放置BottomSheet小部件。
-+ [crypto](https://pub.flutter-io.cn/packages/crypto) -  SHA，MD5和HMAC加密功能的实现。
 
 <br />
 <br />
@@ -124,6 +123,7 @@
 
 依赖|描述
 -|-
+[flutter_camera_ml_vision](https://pub.dev/packages/flutter_camera_ml_vision) | 可显示相机预览并使用Firebase ML Vision检测事物。
 [dokit](https://pub.flutter-io.cn/packages/dokit) | 滴滴DoKit For Flutter，一个DoKit针对Flutter环境的产研工具包，内部集成了各种丰富的小工具，UI、网络、内存、监控等等。
 [wechat_assets_picker](https://pub.dev/packages/wechat_assets_picker)|对标微信的多选资源选择器，99%接近于原生微信的操作，纯Dart编写，支持选择的同时也支持预览资源。
 [camerawesome](https://pub.flutter-io.cn/packages/camerawesome) | 社区提供的开源相机插件。
