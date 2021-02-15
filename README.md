@@ -13,15 +13,17 @@
 
 ### 已收录 ：200+
 
+
+### 02-15
++ [flutter_inappwebview](https://pub.flutter-io.cn/packages/flutter_inappwebview) - 可让您添加嵌入式Web视图，使用Web视图以及打开应用内浏览器窗口。
++ [better_player](https://pub.flutter-io.cn/packages/better_player) - 基于video_player和Chewie的高级视频播放器。
+
 ### 02-09
 + [flutter_camera_ml_vision](https://pub.dev/packages/flutter_camera_ml_vision) - 可显示相机预览并使用Firebase ML Vision检测事物。
 
 ### 02-01
 + [nineold](https://pub.dev/packages/nineold) - 朋友圈9宫格图片显示，支持9+以上图片。 - ❀  [lanzhu1993](https://github.com/lanzhu1993) 提供 ！
 
-### 01-26
-+ [flutter_summernote](https://pub.flutter-io.cn/packages/flutter_summernote) - Flutter中的文本编辑器。
-+ [animated_bottom_navigation_bar](https://pub.flutter-io.cn/packages/animated_bottom_navigation_bar) - 绚丽的动画底部导航栏。
 
 <br />
 <br />
@@ -155,7 +157,6 @@
 [flutter_blue](https://pub.dev/packages/flutter_blue)| Android和iOS上与低功耗蓝牙设备连接和通信。
 [camera](https://pub.dev/packages/camera)| 获取有关和控制Android和iOS上的相机的信息。支持预览摄像头，捕获图像，捕获视频。
 [flutter_app_badger](https://pub.dev/packages/flutter_app_badger)|用于在启动器上更新应用程序徽章的插件。
-[sounds](https://pub.dev/packages/sounds)|为音频播放和录制提供了完整的api和小部件。
 [device_calendar](https://pub.flutter-io.cn/packages/device_calendar) | 修改用户设备上的日历。
 <br />
 
@@ -187,6 +188,8 @@
 
 依赖|描述
 -|-
+[better_player](https://pub.flutter-io.cn/packages/better_player) | 基于video_player和Chewie的高级视频播放器。
+[sounds](https://pub.dev/packages/sounds) | 为音频播放和录制提供了完整的api和小部件。
 [video_trimmer](https://pub.flutter-io.cn/packages/video_trimmer) |  用于修剪视频。这支持将修剪后的视频文件检索，修剪和存储到文件系统。
 [assets_audio_player](https://pub.flutter-io.cn/packages/assets_audio_player) | 播放存储在资产文件中的音乐/音频。
 [iscflutterplugin](https://pub.dev/packages/iscflutterplugin) | 海康isc平台视频播放插件。 - ❀  [xiaobug0929](https://github.com/xiaobug0929) 提供 ！
@@ -328,6 +331,7 @@
 
 依赖|描述
 -|-
+[flutter_inappwebview](https://pub.flutter-io.cn/packages/flutter_inappwebview) | 可让您添加嵌入式Web视图，使用Web视图以及打开应用内浏览器窗口。
 [flutter_widget_from_html](https://pub.flutter-io.cn/packages/flutter_widget_from_html) | 用于从html构建小部件树的Flutter软件包，支持超链接，图像，嵌套列表等。 - ❀  [niyangup](https://github.com/niyangup) 提供，flutter_html插件不支持font-size等属性,但是上述的插件支持 有需要的小伙伴可以试试 亲测可用。
 [flutter_html](https://pub.dev/packages/flutter_html)|用于将静态html标记呈现为Flutter小部件（将呈现超过70种不同的HTML标签！）。
 [flutter_webview_plugin](https://pub.dev/packages/flutter_webview_plugin)|允许Flutter与本机WebView通信的插件。
