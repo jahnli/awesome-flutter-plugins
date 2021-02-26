@@ -13,17 +13,16 @@
 
 ### 已收录 ：200+
 
-
+### 02-26
++ [flutter_appavailability](https://pub.flutter-io.cn/packages/flutter_appavailability) - 检查是否已安装/启用应用程序，启动应用程序并获取已安装应用程序的列表。
++ [graphx](https://pub.flutter-io.cn/packages/graphx) - 使Flutter中的绘图和动画极其简单。
++ 
 ### 02-15
 + [flutter_inappwebview](https://pub.flutter-io.cn/packages/flutter_inappwebview) - 可让您添加嵌入式Web视图，使用Web视图以及打开应用内浏览器窗口。
 + [better_player](https://pub.flutter-io.cn/packages/better_player) - 基于video_player和Chewie的高级视频播放器。
 
 ### 02-09
 + [flutter_camera_ml_vision](https://pub.dev/packages/flutter_camera_ml_vision) - 可显示相机预览并使用Firebase ML Vision检测事物。
-
-### 02-01
-+ [nineold](https://pub.dev/packages/nineold) - 朋友圈9宫格图片显示，支持9+以上图片。 - ❀  [lanzhu1993](https://github.com/lanzhu1993) 提供 ！
-
 
 <br />
 <br />
@@ -39,6 +38,7 @@
 依赖|描述
 -|-
 [Fliggy Mobile](https://github.com/Fliggy-Mobile) |【阿里巴巴-飞猪-FliggyMobile 技术团队】 开发维护的 FWidget 系列组件。
+[graphx](https://pub.flutter-io.cn/packages/graphx) | 使Flutter中的绘图和动画极其简单。
 [flutter_summernote](https://pub.flutter-io.cn/packages/flutter_summernote) | Flutter中的文本编辑器。
 [drag_select_grid_view](https://pub.flutter-io.cn/packages/drag_select_grid_view) |  一个同时支持拖动和点击以选择其项目的网格。
 [flutter_weather_bg](https://pub.flutter-io.cn/packages/flutter_weather_bg) | 多种天气背景动画效果。
@@ -166,6 +166,7 @@
 
 依赖|描述
 -|-
+[flutter_appavailability](https://pub.flutter-io.cn/packages/flutter_appavailability) | 检查是否已安装/启用应用程序，启动应用程序并获取已安装应用程序的列表。
 [flutter_screenutil](https://pub.dev/packages/flutter_screenutil)|不同终端屏幕适配问题。
 [crypto](https://pub.flutter-io.cn/packages/crypto) | SHA，MD5和HMAC加密功能的实现
 [Dio](https://pub.dev/packages/dio)|Dart的强大Http客户端，支持拦截器，全局配置，FormData，请求取消，文件下载，超时等。
