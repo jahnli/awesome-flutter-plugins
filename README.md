@@ -13,6 +13,10 @@
 
 ### 已收录 ：200+
 
+### 03-10
++ [flutter_udid](https://pub.flutter-io.cn/packages/flutter_udid) - 在iOS和Android上重新安装的应用程序之间检索持久性UDID的插件。
++ [app_review](https://pub.flutter-io.cn/packages/app_review) - 在Flutter中申请和撰写评论以及Android和iOS的开放式商店列表。
+
 ### 02-26
 + [flutter_appavailability](https://pub.flutter-io.cn/packages/flutter_appavailability) - 检查是否已安装/启用应用程序，启动应用程序并获取已安装应用程序的列表。
 + [graphx](https://pub.flutter-io.cn/packages/graphx) - 使Flutter中的绘图和动画极其简单。
@@ -20,9 +24,6 @@
 ### 02-15
 + [flutter_inappwebview](https://pub.flutter-io.cn/packages/flutter_inappwebview) - 可让您添加嵌入式Web视图，使用Web视图以及打开应用内浏览器窗口。
 + [better_player](https://pub.flutter-io.cn/packages/better_player) - 基于video_player和Chewie的高级视频播放器。
-
-### 02-09
-+ [flutter_camera_ml_vision](https://pub.dev/packages/flutter_camera_ml_vision) - 可显示相机预览并使用Firebase ML Vision检测事物。
 
 <br />
 <br />
@@ -38,6 +39,7 @@
 依赖|描述
 -|-
 [Fliggy Mobile](https://github.com/Fliggy-Mobile) |【阿里巴巴-飞猪-FliggyMobile 技术团队】 开发维护的 FWidget 系列组件。
+[app_review](https://pub.flutter-io.cn/packages/app_review) | 在Flutter中申请和撰写评论以及Android和iOS的开放式商店列表。
 [graphx](https://pub.flutter-io.cn/packages/graphx) | 使Flutter中的绘图和动画极其简单。
 [flutter_summernote](https://pub.flutter-io.cn/packages/flutter_summernote) | Flutter中的文本编辑器。
 [drag_select_grid_view](https://pub.flutter-io.cn/packages/drag_select_grid_view) |  一个同时支持拖动和点击以选择其项目的网格。
@@ -125,6 +127,7 @@
 
 依赖|描述
 -|-
+[flutter_udid](https://pub.flutter-io.cn/packages/flutter_udid) | 在iOS和Android上重新安装的应用程序之间检索持久性UDID的插件。
 [flutter_camera_ml_vision](https://pub.dev/packages/flutter_camera_ml_vision) | 可显示相机预览并使用Firebase ML Vision检测事物。
 [dokit](https://pub.flutter-io.cn/packages/dokit) | 滴滴DoKit For Flutter，一个DoKit针对Flutter环境的产研工具包，内部集成了各种丰富的小工具，UI、网络、内存、监控等等。
 [wechat_assets_picker](https://pub.dev/packages/wechat_assets_picker)|对标微信的多选资源选择器，99%接近于原生微信的操作，纯Dart编写，支持选择的同时也支持预览资源。
