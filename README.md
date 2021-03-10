@@ -20,7 +20,7 @@
 ### 02-26
 + [flutter_appavailability](https://pub.flutter-io.cn/packages/flutter_appavailability) - 检查是否已安装/启用应用程序，启动应用程序并获取已安装应用程序的列表。
 + [graphx](https://pub.flutter-io.cn/packages/graphx) - 使Flutter中的绘图和动画极其简单。
-+ 
+
 ### 02-15
 + [flutter_inappwebview](https://pub.flutter-io.cn/packages/flutter_inappwebview) - 可让您添加嵌入式Web视图，使用Web视图以及打开应用内浏览器窗口。
 + [better_player](https://pub.flutter-io.cn/packages/better_player) - 基于video_player和Chewie的高级视频播放器。
