@@ -13,6 +13,10 @@
 
 ### 已收录 ：200+
 
+### 03-21
++ [fancy_bottom_navigation](https://pub.flutter-io.cn/packages/fancy_bottom_navigation) - 动画的底部导航栏。
++ [catcher](https://pub.flutter-io.cn/packages/catcher) - 用于捕获错误的插件。当开发人员未发现错误时，允许进行处理。插件提供了多个错误处理程序。
+
 ### 03-10
 + [flutter_udid](https://pub.flutter-io.cn/packages/flutter_udid) - 在iOS和Android上重新安装的应用程序之间检索持久性UDID的插件。
 + [app_review](https://pub.flutter-io.cn/packages/app_review) - 在Flutter中申请和撰写评论以及Android和iOS的开放式商店列表。
@@ -21,9 +25,6 @@
 + [flutter_appavailability](https://pub.flutter-io.cn/packages/flutter_appavailability) - 检查是否已安装/启用应用程序，启动应用程序并获取已安装应用程序的列表。
 + [graphx](https://pub.flutter-io.cn/packages/graphx) - 使Flutter中的绘图和动画极其简单。
 
-### 02-15
-+ [flutter_inappwebview](https://pub.flutter-io.cn/packages/flutter_inappwebview) - 可让您添加嵌入式Web视图，使用Web视图以及打开应用内浏览器窗口。
-+ [better_player](https://pub.flutter-io.cn/packages/better_player) - 基于video_player和Chewie的高级视频播放器。
 
 <br />
 <br />
@@ -39,6 +40,7 @@
 依赖|描述
 -|-
 [Fliggy Mobile](https://github.com/Fliggy-Mobile) |【阿里巴巴-飞猪-FliggyMobile 技术团队】 开发维护的 FWidget 系列组件。
+[catcher](https://pub.flutter-io.cn/packages/catcher) | 用于捕获错误的插件。当开发人员未发现错误时，允许进行处理。插件提供了多个错误处理程序。
 [app_review](https://pub.flutter-io.cn/packages/app_review) | 在Flutter中申请和撰写评论以及Android和iOS的开放式商店列表。
 [graphx](https://pub.flutter-io.cn/packages/graphx) | 使Flutter中的绘图和动画极其简单。
 [flutter_summernote](https://pub.flutter-io.cn/packages/flutter_summernote) | Flutter中的文本编辑器。
@@ -268,6 +270,7 @@
 
 依赖|描述
 -|-
+[fancy_bottom_navigation](https://pub.flutter-io.cn/packages/fancy_bottom_navigation) | 动画的底部导航栏。
 [animated_bottom_navigation_bar](https://pub.flutter-io.cn/packages/animated_bottom_navigation_bar) | 绚丽的动画底部导航栏。
 [bottom_bar_with_sheet](https://pub.flutter-io.cn/packages/bottom_bar_with_sheet) | 底部导航栏，该底部栏将在每个页面上放置BottomSheet小部件。
 [floating_action_bubble](https://pub.dev/packages/floating_action_bubble) |  浮动按钮的动画菜单。
