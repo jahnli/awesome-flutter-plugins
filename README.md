@@ -13,6 +13,9 @@
 
 ### 已收录 ：200+
 
+### 04-06
++ [geolocator](https://pub.flutter-io.cn/packages/geolocator) - Flutter的地理位置插件。该插件提供了用于通用位置（GPS等）功能。
+
 ### 03-21
 + [fancy_bottom_navigation](https://pub.flutter-io.cn/packages/fancy_bottom_navigation) - 动画的底部导航栏。
 + [catcher](https://pub.flutter-io.cn/packages/catcher) - 用于捕获错误的插件。当开发人员未发现错误时，允许进行处理。插件提供了多个错误处理程序。
@@ -40,6 +43,7 @@
 依赖|描述
 -|-
 [Fliggy Mobile](https://github.com/Fliggy-Mobile) |【阿里巴巴-飞猪-FliggyMobile 技术团队】 开发维护的 FWidget 系列组件。
+[geolocator](https://pub.flutter-io.cn/packages/geolocator) | Flutter的地理位置插件。该插件提供了用于通用位置（GPS等）功能。
 [catcher](https://pub.flutter-io.cn/packages/catcher) | 用于捕获错误的插件。当开发人员未发现错误时，允许进行处理。插件提供了多个错误处理程序。
 [app_review](https://pub.flutter-io.cn/packages/app_review) | 在Flutter中申请和撰写评论以及Android和iOS的开放式商店列表。
 [graphx](https://pub.flutter-io.cn/packages/graphx) | 使Flutter中的绘图和动画极其简单。
