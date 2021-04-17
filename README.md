@@ -13,6 +13,11 @@
 
 ### 已收录 ：200+
 
+
+### 04-17
++ [firebase_messaging](https://pub.flutter-io.cn/packages/firebase_messaging) - Firebase消息传递插件。
++ [markdown](https://pub.flutter-io.cn/packages/markdown) - 便携式Markdown库。它可以将Markdown解析为客户端和服务器上的HTML。。
+
 ### 04-06
 + [geolocator](https://pub.flutter-io.cn/packages/geolocator) - Flutter的地理位置插件。该插件提供了用于通用位置（GPS等）功能。
 
@@ -24,9 +29,6 @@
 + [flutter_udid](https://pub.flutter-io.cn/packages/flutter_udid) - 在iOS和Android上重新安装的应用程序之间检索持久性UDID的插件。
 + [app_review](https://pub.flutter-io.cn/packages/app_review) - 在Flutter中申请和撰写评论以及Android和iOS的开放式商店列表。
 
-### 02-26
-+ [flutter_appavailability](https://pub.flutter-io.cn/packages/flutter_appavailability) - 检查是否已安装/启用应用程序，启动应用程序并获取已安装应用程序的列表。
-+ [graphx](https://pub.flutter-io.cn/packages/graphx) - 使Flutter中的绘图和动画极其简单。
 
 
 <br />
@@ -43,6 +45,8 @@
 依赖|描述
 -|-
 [Fliggy Mobile](https://github.com/Fliggy-Mobile) |【阿里巴巴-飞猪-FliggyMobile 技术团队】 开发维护的 FWidget 系列组件。
+[firebase_messaging](https://pub.flutter-io.cn/packages/firebase_messaging) | Firebase消息传递插件。
+[markdown](https://pub.flutter-io.cn/packages/markdown) | 便携式Markdown库。它可以将Markdown解析为客户端和服务器上的HTML。。
 [geolocator](https://pub.flutter-io.cn/packages/geolocator) | Flutter的地理位置插件。该插件提供了用于通用位置（GPS等）功能。
 [catcher](https://pub.flutter-io.cn/packages/catcher) | 用于捕获错误的插件。当开发人员未发现错误时，允许进行处理。插件提供了多个错误处理程序。
 [app_review](https://pub.flutter-io.cn/packages/app_review) | 在Flutter中申请和撰写评论以及Android和iOS的开放式商店列表。
