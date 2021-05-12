@@ -13,6 +13,10 @@
 
 ### 已收录 ：200+
 
+### 05-12
++ [get](https://pub.flutter-io.cn/packages/get) - Flutter的轻便而强大的解决方案。它结合了高性能状态管理，智能依赖注入和快速实用的路由管理。
++ [get_storage](https://pub.flutter-io.cn/packages/get_storage) - 完全用Dart编写的快速，轻巧且同步的键值存储。
+
 ### 04-29
 + [extended_nested_scroll_view](https://pub.flutter-io.cn/packages/extended_nested_scroll_view) - 扩展的嵌套滚动视图。
 
@@ -22,11 +26,6 @@
 
 ### 04-06
 + [geolocator](https://pub.flutter-io.cn/packages/geolocator) - Flutter的地理位置插件。该插件提供了用于通用位置（GPS等）功能。
-
-### 03-21
-+ [fancy_bottom_navigation](https://pub.flutter-io.cn/packages/fancy_bottom_navigation) - 动画的底部导航栏。
-+ [catcher](https://pub.flutter-io.cn/packages/catcher) - 用于捕获错误的插件。当开发人员未发现错误时，允许进行处理。插件提供了多个错误处理程序。
-
 
 
 <br />
@@ -178,6 +177,8 @@
 
 依赖|描述
 -|-
+[get](https://pub.flutter-io.cn/packages/get) | Flutter的轻便而强大的解决方案。它结合了高性能状态管理，智能依赖注入和快速实用的路由管理。
+[get_storage](https://pub.flutter-io.cn/packages/get_storage) | 完全用Dart编写的快速，轻巧且同步的键值存储。
 [flutter_appavailability](https://pub.flutter-io.cn/packages/flutter_appavailability) | 检查是否已安装/启用应用程序，启动应用程序并获取已安装应用程序的列表。
 [flutter_screenutil](https://pub.dev/packages/flutter_screenutil)|不同终端屏幕适配问题。
 [crypto](https://pub.flutter-io.cn/packages/crypto) | SHA，MD5和HMAC加密功能的实现
