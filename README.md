@@ -44,6 +44,7 @@
 依赖|描述
 -|-
 [Fliggy Mobile](https://github.com/Fliggy-Mobile) |【阿里巴巴-飞猪-FliggyMobile 技术团队】 开发维护的 FWidget 系列组件。
+[time_planner](https://pub.flutter-io.cn/packages/time_planner) | 一个漂亮，易于使用且可自定义的日历规划器。
 [extended_nested_scroll_view](https://pub.flutter-io.cn/packages/extended_nested_scroll_view) | 扩展的嵌套滚动视图。
 [firebase_messaging](https://pub.flutter-io.cn/packages/firebase_messaging) | Firebase消息传递插件。
 [markdown](https://pub.flutter-io.cn/packages/markdown) | 便携式Markdown库。它可以将Markdown解析为客户端和服务器上的HTML。。
@@ -137,6 +138,7 @@
 
 依赖|描述
 -|-
+[nfc_manager](https://pub.flutter-io.cn/packages/nfc_manager) | 用于访问Android和iOS上的NFC功能。
 [flutter_udid](https://pub.flutter-io.cn/packages/flutter_udid) | 在iOS和Android上重新安装的应用程序之间检索持久性UDID的插件。
 [flutter_camera_ml_vision](https://pub.dev/packages/flutter_camera_ml_vision) | 可显示相机预览并使用Firebase ML Vision检测事物。
 [dokit](https://pub.flutter-io.cn/packages/dokit) | 滴滴DoKit For Flutter，一个DoKit针对Flutter环境的产研工具包，内部集成了各种丰富的小工具，UI、网络、内存、监控等等。
@@ -251,6 +253,7 @@
 
 依赖|描述
 -|-
+[time_chart](https://pub.flutter-io.cn/packages/time_chart) | 可滚动的时间图表。
 [bezier_chart](https://pub.flutter-io.cn/packages/bezier_chart) |  一个漂亮的贝塞尔曲线折线图窗口部件。
 [flutter_echarts](https://pub.dev/packages/flutter_echarts)|基于Echarts的数据可视化图表库，能够构建高级图表，例如WebGL 3D，GIS地图等。
 [fl_chart](https://pub.dev/packages/fl_chart)|Flutter图表库，当前支持折线图，条形图和饼图。
