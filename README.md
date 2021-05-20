@@ -11,7 +11,7 @@
 <br />
 
 
-### 已收录 ：200+
+### 已收录 ：200
 
 ### 05-20
 + [time_planner](https://pub.flutter-io.cn/packages/time_planner) - 一个漂亮，易于使用且可自定义的日历任务规划器。
