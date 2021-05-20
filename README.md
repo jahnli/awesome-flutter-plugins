@@ -13,7 +13,7 @@
 
 ### 已收录 ：200+
 
-### 05-19
+### 05-20
 + [time_planner](https://pub.flutter-io.cn/packages/time_planner) - 一个漂亮，易于使用且可自定义的日历任务规划器。
 + [time_chart](https://pub.flutter-io.cn/packages/time_chart) - 可滚动的时间图表。
 + [nfc_manager](https://pub.flutter-io.cn/packages/nfc_manager) - 用于访问Android和iOS上的NFC功能。
