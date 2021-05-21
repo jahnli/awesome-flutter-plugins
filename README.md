@@ -1,7 +1,7 @@
 <html><head></head><body>
 <h1>awesome-flutter-plugins</h1>
 <br>
-🔥🔥 尽可能收集好用的Flutter插件以便更效率的开发， 如果您有好的插件或者建议，请Issue 或 PR ， 期待您的参与。 ❀❀
+🔥🔥 尽可能收集好用的Flutter插件以便更效率的开发， 如果您有好的插件或者建议，请Issue 或 PR ， 期待您的参与。
 <br>
 <br>
   
