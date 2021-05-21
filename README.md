@@ -11,7 +11,7 @@
 <br>
 
 <h3 id="count">收录：214个</h3>   
-<h3 id="updateTime">最后更新于：2021-05-22 00:40</h3>
+<h3 id="updateTime">最后更新于：2021-05-22 00:55</h3>
 
 <br>
 <h3>05-20</h3>
@@ -291,7 +291,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/flutter_unity_widget">flutter_unity_widget</a></td>
     <td>Flutter Unity 3D小部件，用于将Unity游戏场景嵌入flutter中。</td>
     <td>Apr 6, 2021</td>
-    <td>288</td>
+    <td>289</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/like_button">like_button</a></td>
@@ -1044,7 +1044,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/image_cropper">image_cropper</a></td>
     <td>适用于Android和iOS支持裁剪图像的Flutter插件。</td>
     <td>Mar 7, 2021</td>
-    <td>643</td>
+    <td>645</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/edge_detection">edge_detection</a></td>
@@ -1086,7 +1086,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/flutter_gifimage">flutter_gifimage</a></td>
     <td>用于解决gif无法控制的速度，进度。</td>
     <td>Nov 7, 2019</td>
-    <td>26</td>
+    <td>27</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/extended_image">extended_image</a></td>
@@ -1335,7 +1335,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/persistent_bottom_nav_bar">persistent_bottom_nav_bar</a></td>
     <td>高度可定制的持久性/静态底部导航栏。</td>
     <td>Mar 27, 2021</td>
-    <td>654</td>
+    <td>655</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flashy_tab_bar">flashy_tab_bar</a></td>
@@ -1572,6 +1572,7 @@
   </tr>
   </tbody>
 </table>
+
 
 
 
