@@ -149,8 +149,8 @@
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/dough">dough</a></td>
     <td>创建自定义的面团小部件以实现自定义的挤压效果。</td>
-    <td></td>
-    <td></td>
+    <td>2012-12-12</td>
+    <td>1.1.1</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/arkit_plugin">arkit_plugin</a></td>
@@ -1407,12 +1407,6 @@
     <td>创建令人敬畏而强大的模态底板。</td>
     <td>2012-12-12</td>
     <td>1.1.1</td>
-  </tr>
-  <tr class="item">
-    <td><br></td>
-    <td></td>
-    <td></td>
-    <td></td>
   </tr>
   </tbody>
 </table>
