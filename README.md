@@ -9,7 +9,7 @@
 <br>
 
 <h3 id="count">收录：214个</h3>
-<h3 id="updateTime">最后更新于：2021-05-22 00:11</h3>
+<h3 id="updateTime">最后更新于：2021-05-22 00:16</h3>
 
 <br>
 <h3>05-20</h3>
@@ -615,7 +615,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/wechat_assets_picker">wechat_assets_picker</a></td>
     <td>对标微信的多选资源选择器，99%接近于原生微信的操作，纯Dart编写，支持选择的同时也支持预览资源。</td>
     <td>May 21, 2021</td>
-    <td>127</td>
+    <td>128</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/camerawesome">camerawesome</a></td>
@@ -1042,7 +1042,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/image_cropper">image_cropper</a></td>
     <td>适用于Android和iOS支持裁剪图像的Flutter插件。</td>
     <td>Mar 7, 2021</td>
-    <td>642</td>
+    <td>643</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/edge_detection">edge_detection</a></td>
@@ -1550,7 +1550,7 @@
       有需要的小伙伴可以试试 亲测可用。
     </td>
     <td>Apr 30, 2021</td>
-    <td>188</td>
+    <td>189</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_html">flutter_html</a></td>
