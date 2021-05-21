@@ -348,7 +348,7 @@
 <br />
 
 依赖|描述|最后更新时间|Likes
--|-|-|-
+-|-|-|- 
 [flutter_inappwebview](https://pub.flutter-io.cn/packages/flutter_inappwebview) | 可让您添加嵌入式Web视图，使用Web视图以及打开应用内浏览器窗口。| 2012-12-12 | 1.1.1
 [flutter_widget_from_html](https://pub.flutter-io.cn/packages/flutter_widget_from_html) | 用于从html构建小部件树的Flutter软件包，支持超链接，图像，嵌套列表等。 - ❀  [niyangup](https://github.com/niyangup) 提供，flutter_html插件不支持font-size等属性,但是上述的插件支持 有需要的小伙伴可以试试 亲测可用。| 2012-12-12 | 1.1.1
 [flutter_html](https://pub.dev/packages/flutter_html)|用于将静态html标记呈现为Flutter小部件（将呈现超过70种不同的HTML标签！）。| 2012-12-12 | 1.1.1
