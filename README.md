@@ -313,7 +313,6 @@
 [rubber](https://pub.flutter-io.cn/packages/rubber)|Flutter的一种很好的弹性底片实现。| 2012-12-12 | 1.1.1
 [sliding_up_panel](https://pub.flutter-io.cn/packages/sliding_up_panel)|可拖动的底部弹片实现。| 2012-12-12 | 1.1.1
 [modal_bottom_sheet](https://pub.flutter-io.cn/packages/modal_bottom_sheet)|创建令人敬畏而强大的模态底板。| 2012-12-12 | 1.1.1
-
 <br />
 
 > ### 通讯类
