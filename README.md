@@ -43,7 +43,7 @@
 
 |**依赖**|**描述**|**最后更新时间**|**Likes**|
 |---|---|---|---|
-|**Values**|`row \| row-reverse \| column \| column-reverse`|**Values**|`row \| row-reverse \| column \| column-reverse`|
+|**[Fliggy Mobile](https://github.com/Fliggy-Mobile)**|`\|【阿里巴巴-飞猪-FliggyMobile 技术团队】 开发维护的 FWidget 系列组件。`|**2012-12-12**|`2012-12-12`|
 
 依赖|描述|最后更新时间|Likes
 -|-|-|-
