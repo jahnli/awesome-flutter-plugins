@@ -960,7 +960,7 @@
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/iscflutterplugin">iscflutterplugin</a></td>
-    <td>海康isc平台视频播放插件。 - ❀ <a href="https://github.com/xiaobug0929">xiaobug0929</a> 提供 ！</td>
+    <td>海康isc平台视频播放插件</td>
     <td>Sep 21, 2020</td>
     <td>2</td>
   </tr>
