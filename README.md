@@ -32,13 +32,7 @@
 <ul>
   <li><a href="https://pub.flutter-io.cn/packages/extended_nested_scroll_view">extended_nested_scroll_view</a> - 扩展的嵌套滚动视图。</li>
 </ul>
-<h3>04-17</h3>
-<ul>
-  <li><a href="https://pub.flutter-io.cn/packages/firebase_messaging">firebase_messaging</a> - Firebase消息传递插件。</li>
-  <li>
-    <a href="https://pub.flutter-io.cn/packages/markdown">markdown</a> - 便携式Markdown库。它可以将Markdown解析为客户端和服务器上的HTML。
-  </li>
-</ul>
+
 <br>
 <br>
 
