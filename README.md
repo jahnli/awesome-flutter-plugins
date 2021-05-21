@@ -40,7 +40,7 @@
 <br />
 
 依赖|描述|最后更新时间|Likes
--|-|-|-
+-\|-\|-\|-
 [Fliggy Mobile](https://github.com/Fliggy-Mobile) |【阿里巴巴-飞猪-FliggyMobile 技术团队】 开发维护的 FWidget 系列组件。| 2012-12-12 | 1.1.1
 [time_planner](https://pub.flutter-io.cn/packages/time_planner) | 一个漂亮，易于使用且可自定义的日历规划器。| 2012-12-12 | 1.1.1
 [extended_nested_scroll_view](https://pub.flutter-io.cn/packages/extended_nested_scroll_view) | 扩展的嵌套滚动视图。| 2012-12-12 | 1.1.1
