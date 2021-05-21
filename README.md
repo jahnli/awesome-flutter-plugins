@@ -1536,37 +1536,39 @@
   </tr>
   </thead>
   <tbody>
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/flutter_inappwebview">flutter_inappwebview</a></td>
+  <tr>
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_inappwebview" rel="nofollow">flutter_inappwebview</a></td>
     <td>可让您添加嵌入式Web视图，使用Web视图以及打开应用内浏览器窗口。</td>
     <td>Apr 7, 2021</td>
     <td>574</td>
   </tr>
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/flutter_widget_from_html">flutter_widget_from_html</a></td>
+  <tr>
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_widget_from_html" rel="nofollow">flutter_widget_from_html</a></td>
     <td>
-      用于从html构建小部件树的Flutter软件包，支持超链接，图像，嵌套列表等。 
+      用于从html构建小部件树的Flutter软件包，支持超链接，图像，嵌套列表等。 - ❀
+      <a href="https://github.com/niyangup">niyangup</a> 提供，flutter_html插件不支持font-size等属性,但是上述的插件支持
+      有需要的小伙伴可以试试 亲测可用。
     </td>
     <td>Apr 30, 2021</td>
     <td>188</td>
   </tr>
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/flutter_html">flutter_html</a></td>
+  <tr>
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_html" rel="nofollow">flutter_html</a></td>
     <td>用于将静态html标记呈现为Flutter小部件（将呈现超过70种不同的HTML标签！）。</td>
     <td>May 11, 2021</td>
-    <td>587</td>
+    <td>586</td>
   </tr>
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/flutter_webview_plugin">flutter_webview_plugin</a></td>
+  <tr>
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_webview_plugin" rel="nofollow">flutter_webview_plugin</a></td>
     <td>允许Flutter与本机WebView通信的插件。</td>
     <td>Apr 7, 2020</td>
     <td>406</td>
   </tr>
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/flutter_inappbrowser">flutter_inappbrowser</a></td>
+  <tr>
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_inappbrowser" rel="nofollow">flutter_inappbrowser</a></td>
     <td>一个Flutter插件，允许您添加内联webview或打开应用程序内浏览器窗口。</td>
     <td>Nov 29, 2019</td>
-    <td>15</td>
+    <td>14</td>
   </tr>
   </tbody>
 </table>
