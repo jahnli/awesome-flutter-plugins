@@ -11,7 +11,7 @@
 <br>
 
 <h3 id="count">收录：214个</h3>   
-<h3 id="updateTime">最后更新：2021-05-22 02:22</h3>
+<h3 id="updateTime">最后更新：2021-05-22 02:23</h3>
 
 <br>
 <h3>05-20</h3>
@@ -303,7 +303,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/flame">flame</a></td>
     <td>Flutter游戏引擎。</td>
     <td>2021-03-30</td>
-    <td>431431</td>
+    <td>433433</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_tags">flutter_tags</a></td>
@@ -866,7 +866,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/provider">provider</a></td>
     <td>官方推荐的状态管理。</td>
     <td>2021-03-04</td>
-    <td>42284228</td>
+    <td>42294229</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/intl">intl</a></td>
