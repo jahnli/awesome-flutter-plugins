@@ -56,8 +56,8 @@
   <tr class="item">
     <td><a href="https://github.com/Fliggy-Mobile">Fliggy Mobile</a></td>
     <td>【阿里巴巴-飞猪-FliggyMobile 技术团队】 开发维护的 FWidget 系列组件。</td>
-    <td>2012-12-12</td>
-    <td>1.1.1</td>
+    <td>暂无</td>
+    <td>暂无</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/time_planner">time_planner</a></td>
