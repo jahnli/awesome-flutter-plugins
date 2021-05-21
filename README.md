@@ -10,7 +10,8 @@
 掘金文章地址：https://juejin.im/post/5edeee2e51882542f347030c
 <br>
 
-<h3 style="display: flex;justify-content: space-between;"><span id="count">收录：214个</span><span id="updateTime">0</span></h3>
+<p id="count">收录：214个</p>
+<p id="updateTime">最后更新于：214个</p>
 
 <h3>05-20</h3>
 <ul>
