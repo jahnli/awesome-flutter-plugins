@@ -39,7 +39,7 @@
 
 <br />
 
-依赖|描述|更新时间|版本号
+依赖|描述|最后更新时间|Likes
 -|-|-|-
 [Fliggy Mobile](https://github.com/Fliggy-Mobile) |【阿里巴巴-飞猪-FliggyMobile 技术团队】 开发维护的 FWidget 系列组件。| 2012-12-12 | 1.1.1
 [time_planner](https://pub.flutter-io.cn/packages/time_planner) | 一个漂亮，易于使用且可自定义的日历规划器。| 2012-12-12 | 1.1.1
@@ -134,8 +134,8 @@
 
 <br />
 
-依赖|描述
--|-
+依赖|描述|最后更新时间|Likes
+-|-|-|-
 [nfc_manager](https://pub.flutter-io.cn/packages/nfc_manager) | 用于访问Android和iOS上的NFC功能。| 2012-12-12 | 1.1.1
 [flutter_udid](https://pub.flutter-io.cn/packages/flutter_udid) | 在iOS和Android上重新安装的应用程序之间检索持久性UDID的插件。| 2012-12-12 | 1.1.1
 [flutter_camera_ml_vision](https://pub.dev/packages/flutter_camera_ml_vision) | 可显示相机预览并使用Firebase ML Vision检测事物。| 2012-12-12 | 1.1.1
@@ -177,8 +177,8 @@
 
 <br />
 
-依赖|描述
--|-
+依赖|描述|最后更新时间|Likes
+-|-|-|-
 [get](https://pub.flutter-io.cn/packages/get) | Flutter的轻便而强大的解决方案。它结合了高性能状态管理，智能依赖注入和快速实用的路由管理。| 2012-12-12 | 1.1.1
 [get_storage](https://pub.flutter-io.cn/packages/get_storage) | 完全用Dart编写的快速，轻巧且同步的键值存储。| 2012-12-12 | 1.1.1
 [flutter_appavailability](https://pub.flutter-io.cn/packages/flutter_appavailability) | 检查是否已安装/启用应用程序，启动应用程序并获取已安装应用程序的列表。| 2012-12-12 | 1.1.1
@@ -202,8 +202,8 @@
 
 <br />
 
-依赖|描述
--|-
+依赖|描述|最后更新时间|Likes
+-|-|-|-
 [better_player](https://pub.flutter-io.cn/packages/better_player) | 基于video_player和Chewie的高级视频播放器。| 2012-12-12 | 1.1.1
 [sounds](https://pub.dev/packages/sounds) | 为音频播放和录制提供了完整的api和小部件。| 2012-12-12 | 1.1.1
 [video_trimmer](https://pub.flutter-io.cn/packages/video_trimmer) |  用于修剪视频。这支持将修剪后的视频文件检索，修剪和存储到文件系统。| 2012-12-12 | 1.1.1
@@ -223,8 +223,8 @@
 
 <br />
 
-依赖|描述
--|-
+依赖|描述|最后更新时间|Likes
+-|-|-|-
 [nineold](https://pub.dev/packages/nineold)|朋友圈9宫格图片显示，支持9+以上图片。 - ❀  [lanzhu1993](https://github.com/lanzhu1993) 提供 ！| 2012-12-12 | 1.1.1
 [photo_manager](https://pub.flutter-io.cn/packages/photo_manager) | 使用api创建图像选择器或使用照片。| 2012-12-12 | 1.1.1
 [image_cropper](https://pub.flutter-io.cn/packages/image_cropper) |  适用于Android和iOS支持裁剪图像的Flutter插件。| 2012-12-12 | 1.1.1
@@ -249,8 +249,8 @@
 
 <br />
 
-依赖|描述
--|-
+依赖|描述|最后更新时间|Likes
+-|-|-|-
 [time_chart](https://pub.flutter-io.cn/packages/time_chart) | 可滚动的时间图表。| 2012-12-12 | 1.1.1
 [bezier_chart](https://pub.flutter-io.cn/packages/bezier_chart) |  一个漂亮的贝塞尔曲线折线图窗口部件。| 2012-12-12 | 1.1.1
 [flutter_echarts](https://pub.dev/packages/flutter_echarts)|基于Echarts的数据可视化图表库，能够构建高级图表，例如WebGL 3D，GIS地图等。| 2012-12-12 | 1.1.1
@@ -266,8 +266,8 @@
 
 <br />
 
-依赖|描述
--|-
+依赖|描述|最后更新时间|Likes
+-|-|-|-
 [flutter_inner_drawer](https://pub.flutter-io.cn/packages/flutter_inner_drawer) | 创建侧边抽屉。| 2012-12-12 | 1.1.1
 [hidden_drawer_menu](https://pub.dev/packages/hidden_drawer_menu) |  带有透视动画的精美抽屉模式菜单功能的库。| 2012-12-12 | 1.1.1
 [curved_drawer](https://pub.dev/packages/curved_drawer)| 动画侧边栏、菜单。| 2012-12-12 | 1.1.1
@@ -279,8 +279,8 @@
 
 <br />
 
-依赖|描述
--|-
+依赖|描述|最后更新时间|Likes
+-|-|-|-
 [fancy_bottom_navigation](https://pub.flutter-io.cn/packages/fancy_bottom_navigation) | 动画的底部导航栏。| 2012-12-12 | 1.1.1
 [animated_bottom_navigation_bar](https://pub.flutter-io.cn/packages/animated_bottom_navigation_bar) | 绚丽的动画底部导航栏。| 2012-12-12 | 1.1.1
 [bottom_bar_with_sheet](https://pub.flutter-io.cn/packages/bottom_bar_with_sheet) | 底部导航栏，该底部栏将在每个页面上放置BottomSheet小部件。| 2012-12-12 | 1.1.1
@@ -304,8 +304,8 @@
 
 <br />
 
-依赖|描述
--|-
+依赖|描述|最后更新时间|Likes
+-|-|-|-
 [sliding_panel](https://pub.flutter-io.cn/packages/sliding_panel)| 可定制的底部滑动面板。| 2012-12-12 | 1.1.1
 [solid_bottom_sheet](https://pub.dev/packages/solid_bottom_sheet)|完整的可定制的bottom_sheet。| 2012-12-12 | 1.1.1
 [rubber](https://pub.dev/packages/rubber)|Flutter的一种很好的弹性底片实现。| 2012-12-12 | 1.1.1
@@ -317,8 +317,8 @@
 
 <br />
 
-依赖|描述
--|-
+依赖|描述|最后更新时间|Likes
+-|-|-|-
 [dim](https://pub.dev/packages/dim)| 方便地与腾讯imsdk集成，可以轻松地在flutter上使用imsdk。| 2012-12-12 | 1.1.1
 [speech_to_text](https://pub.dev/packages/speech_to_text)| 将特定于设备的语音显示给文本识别功能。| 2012-12-12 | 1.1.1
 [flutter_tts](https://pub.dev/packages/flutter_tts)| 用于文字转语音的Flutter插件。iOS，Android和Web支持该插件。| 2012-12-12 | 1.1.1
@@ -333,8 +333,8 @@
 
 <br />
 
-依赖|描述
--|-
+依赖|描述|最后更新时间|Likes
+-|-|-|-
 [amap_all_fluttify](https://pub.dev/packages/amap_all_fluttify)| 由Fluttify提供的高德地图整合组件（包含搜索、定位、地图）。| 2012-12-12 | 1.1.1
 [amap_location_fluttify ](https://pub.dev/packages/amap_location_fluttify )| 由Fluttify提供的高德定位组件。| 2012-12-12 | 1.1.1
 [amap_map_fluttify](https://pub.dev/packages/amap_map_fluttify)| 由Fluttify提供的高德地图组件。| 2012-12-12 | 1.1.1
@@ -347,8 +347,8 @@
 
 <br />
 
-依赖|描述
--|-
+依赖|描述|最后更新时间|Likes
+-|-|-|-
 [flutter_inappwebview](https://pub.flutter-io.cn/packages/flutter_inappwebview) | 可让您添加嵌入式Web视图，使用Web视图以及打开应用内浏览器窗口。| 2012-12-12 | 1.1.1
 [flutter_widget_from_html](https://pub.flutter-io.cn/packages/flutter_widget_from_html) | 用于从html构建小部件树的Flutter软件包，支持超链接，图像，嵌套列表等。 - ❀  [niyangup](https://github.com/niyangup) 提供，flutter_html插件不支持font-size等属性,但是上述的插件支持 有需要的小伙伴可以试试 亲测可用。| 2012-12-12 | 1.1.1
 [flutter_html](https://pub.dev/packages/flutter_html)|用于将静态html标记呈现为Flutter小部件（将呈现超过70种不同的HTML标签！）。| 2012-12-12 | 1.1.1
