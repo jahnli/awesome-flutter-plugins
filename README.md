@@ -10,8 +10,8 @@
 掘金文章地址：https://juejin.im/post/5edeee2e51882542f347030c
 <br>
 
-<p class="info-area"><span id="count">收录：214个</span><span id="updateTime">最后更新于：0</span></p>
-  
+<h3 style="display: flex;justify-content: space-between;"><span id="count">收录：214个</span><span id="updateTime">0</span></h3>
+
 <h3>05-20</h3>
 <ul>
   <li><a href="https://pub.flutter-io.cn/packages/time_planner">time_planner</a> - 一个漂亮，易于使用且可自定义的日历任务规划器。</li>
