@@ -2,9 +2,9 @@
 <h1>awesome-flutter-plugins</h1>
 <br>
 🔥🔥 尽可能收集好用的Flutter插件以便更效率的开发， 如果您有好的插件或者建议，请Issue 或 PR ， 期待您的参与。
-  
-脚本每天定时爬取插件更新时间和likes指数。
 <br>
+脚本每天定时爬取插件更新时间和likes指数。
+
 <br>
   
 掘金文章地址：https://juejin.im/post/5edeee2e51882542f347030c
