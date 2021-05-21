@@ -796,12 +796,6 @@
     <td>2012-12-12</td>
     <td>1.1.1</td>
   </tr>
-  <tr class="item">
-    <td><br></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
   </tbody>
 </table>
 
