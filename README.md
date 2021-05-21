@@ -1,4 +1,5 @@
-<html><head></head><body><h1 id="awesome-flutter-plugins">awesome-flutter-plugins</h1>
+<html><head></head><body>
+<h1>awesome-flutter-plugins</h1>
 <br>
 🔥🔥 尽可能收集好用的Flutter插件以便更效率的开发，持续添加 ！！
 <br>
@@ -9,14 +10,14 @@
 掘金文章地址：https://juejin.im/post/5edeee2e51882542f347030c
 <br>
 
-<h3 id="count">已收录 ：200+</h3>
-<h3 id="05-20">05-20</h3>
+<h3 id="count">收录：214个</h3>
+<h3>05-20</h3>
 <ul>
   <li><a href="https://pub.flutter-io.cn/packages/time_planner">time_planner</a> - 一个漂亮，易于使用且可自定义的日历任务规划器。</li>
   <li><a href="https://pub.flutter-io.cn/packages/time_chart">time_chart</a> - 可滚动的时间图表。</li>
   <li><a href="https://pub.flutter-io.cn/packages/nfc_manager">nfc_manager</a> - 用于访问Android和iOS上的NFC功能。</li>
 </ul>
-<h3 id="05-12">05-12</h3>
+<h3 >05-12</h3>
 <ul>
   <li>
     <a href="https://pub.flutter-io.cn/packages/get">get</a> -
@@ -24,11 +25,11 @@
   </li>
   <li><a href="https://pub.flutter-io.cn/packages/get_storage">get_storage</a> - 完全用Dart编写的快速，轻巧且同步的键值存储。</li>
 </ul>
-<h3 id="04-29">04-29</h3>
+<h3 >04-29</h3>
 <ul>
   <li><a href="https://pub.flutter-io.cn/packages/extended_nested_scroll_view">extended_nested_scroll_view</a> - 扩展的嵌套滚动视图。</li>
 </ul>
-<h3 id="04-17">04-17</h3>
+<h3 >04-17</h3>
 <ul>
   <li><a href="https://pub.flutter-io.cn/packages/firebase_messaging">firebase_messaging</a> - Firebase消息传递插件。</li>
   <li>
@@ -41,7 +42,7 @@
 <br>
 
 <blockquote>
-  <h3 id="插件">插件</h3>
+  <h3>插件</h3>
 </blockquote>
 
 <br>
@@ -444,7 +445,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/flutter_easyrefresh">flutter_easyrefresh</a></td>
     <td>正如名字一样，EasyRefresh很容易就能在Flutter应用上实现下拉刷新以及上拉加载操作。</td>
     <td>Apr 12, 2021</td>
-    <td>275</td>
+    <td>276</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_rating_bar">flutter_rating_bar</a></td>
@@ -571,7 +572,7 @@
 <br>
 
 <blockquote>
-  <h3 id="设备相关">设备相关</h3>
+  <h3>设备相关</h3>
 </blockquote>
 
 <br>
@@ -716,7 +717,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/battery">battery</a></td>
     <td>用于访问有关Android和iOS上电池状态（充满，充电，放电）的信息。</td>
     <td>May 19, 2021</td>
-    <td>254</td>
+    <td>255</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/device_info">device_info</a></td>
@@ -802,7 +803,7 @@
 <br>
 
 <blockquote>
-  <h3 id="项目相关">项目相关</h3>
+  <h3>项目相关</h3>
 </blockquote>
 
 <br>
@@ -918,7 +919,7 @@
 <br>
 
 <blockquote>
-  <h3 id="音视频类">音视频类</h3>
+  <h3>音视频类</h3>
 </blockquote>
 
 <br>
@@ -955,7 +956,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/assets_audio_player">assets_audio_player</a></td>
     <td>播放存储在资产文件中的音乐/音频。</td>
     <td>May 3, 2021</td>
-    <td>486</td>
+    <td>487</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/iscflutterplugin">iscflutterplugin</a></td>
@@ -1010,7 +1011,7 @@
 <br>
 
 <blockquote>
-  <h3 id="图片类">图片类</h3>
+  <h3>图片类</h3>
 </blockquote>
 
 <br>
@@ -1135,7 +1136,7 @@
 <br>
 
 <blockquote>
-  <h3 id="图表类">图表类</h3>
+  <h3>图表类</h3>
 </blockquote>
 
 <br>
@@ -1197,7 +1198,7 @@
 <br>
 
 <blockquote>
-  <h3 id="侧边菜单--侧边栏">侧边菜单 / 侧边栏</h3>
+  <h3>侧边菜单 / 侧边栏</h3>
 </blockquote>
 
 <br>
@@ -1241,7 +1242,7 @@
 <br>
 
 <blockquote>
-  <h3 id="底部导航栏--浮动菜单">底部导航栏 / 浮动菜单</h3>
+  <h3>底部导航栏 / 浮动菜单</h3>
 </blockquote>
 
 <br>
@@ -1296,7 +1297,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/bottom_navy_bar">bottom_navy_bar</a></td>
     <td>精美而生动的底部导航。</td>
     <td>Mar 28, 2021</td>
-    <td>470</td>
+    <td>471</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/cuberto_bottom_bar">cuberto_bottom_bar</a></td>
@@ -1308,7 +1309,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/convex_bottom_bar">convex_bottom_bar</a></td>
     <td>实现ConvexAppBar以在底部栏中显示一个凸形选项卡。支持主题。</td>
     <td>Mar 17, 2021</td>
-    <td>1.08K</td>
+    <td>1.09K</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/full_screen_menu">full_screen_menu</a></td>
@@ -1357,7 +1358,7 @@
 <br>
 
 <blockquote>
-  <h3 id="底部弹片--弹性底片--模态底板">底部弹片 / 弹性底片 / 模态底板</h3>
+  <h3>底部弹片 / 弹性底片 / 模态底板</h3>
 </blockquote>
 
 <br>
@@ -1408,7 +1409,7 @@
 <br>
 
 <blockquote>
-  <h3 id="通讯类">通讯类</h3>
+  <h3>通讯类</h3>
 </blockquote>
 
 <br>
@@ -1470,7 +1471,7 @@
 <br>
 
 <blockquote>
-  <h3 id="地图类">地图类</h3>
+  <h3>地图类</h3>
 </blockquote>
 
 <br>
@@ -1520,7 +1521,7 @@
 <br>
 
 <blockquote>
-  <h3 id="web">Web</h3>
+  <h3>Web</h3>
 </blockquote>
 
 <br>
@@ -1571,4 +1572,5 @@
   </tr>
   </tbody>
 </table>
+
 </body></html>
