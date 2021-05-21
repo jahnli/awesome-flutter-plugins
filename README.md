@@ -1545,9 +1545,7 @@
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_widget_from_html">flutter_widget_from_html</a></td>
     <td>
-      用于从html构建小部件树的Flutter软件包，支持超链接，图像，嵌套列表等。 - ❀
-      <a href="https://github.com/niyangup">niyangup</a> 提供，flutter_html插件不支持font-size等属性,但是上述的插件支持
-      有需要的小伙伴可以试试 亲测可用。
+      用于从html构建小部件树的Flutter软件包，支持超链接，图像，嵌套列表等。
     </td>
     <td>Apr 30, 2021</td>
     <td>189</td>
