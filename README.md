@@ -41,9 +41,9 @@
 
 
 
-|**Meaning**|Main axis|
-|---|---|
-|**Values**|`row \| row-reverse \| column \| column-reverse`|
+|**依赖**|**描述**|**最后更新时间**|**Likes**|
+|---|---|---|---|
+|**Values**|`row \| row-reverse \| column \| column-reverse`|**Values**|`row \| row-reverse \| column \| column-reverse`|
 
 依赖|描述|最后更新时间|Likes
 -|-|-|-
