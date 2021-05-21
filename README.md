@@ -39,6 +39,12 @@
 
 <br />
 
+
+
+|**Meaning**|Main axis|
+|---|---|
+|**Values**|`row \| row-reverse \| column \| column-reverse`|
+
 依赖|描述|最后更新时间|Likes
 -|-|-|-
 [Fliggy Mobile](https://github.com/Fliggy-Mobile) |【阿里巴巴-飞猪-FliggyMobile 技术团队】 开发维护的 FWidget 系列组件。| 2012-12-12 | 1.1.1
