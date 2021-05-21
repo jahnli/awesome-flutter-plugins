@@ -171,9 +171,11 @@
 [camera](https://pub.flutter-io.cn/packages/camera)| 获取有关和控制Android和iOS上的相机的信息。支持预览摄像头，捕获图像，捕获视频。| 2012-12-12 | 1.1.1
 [flutter_app_badger](https://pub.flutter-io.cn/packages/flutter_app_badger)|用于在启动器上更新应用程序徽章的插件。| 2012-12-12 | 1.1.1
 [device_calendar](https://pub.flutter-io.cn/packages/device_calendar) | 修改用户设备上的日历。| 2012-12-12 | 1.1.1
+
+
 <br />
 
-> ### 项目相关
+> ### 设备相关
 
 <br />
 
