@@ -64,6 +64,30 @@
     <td>暂无</td>
   </tr>
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/popover">popover</a></td>
+    <td>点击元素，弹出气泡式的卡片浮层。</td>
+    <td>2021-04-15</td>
+    <td>29</td>
+  </tr>
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/tflite_flutter">tflite_flutter</a></td>
+    <td>TensorFlow Lite Flutter插件提供了轻松，灵活和快速的Dart API，可将TFLite模型集成到Flutter应用中。</td>
+    <td>2021-04-15</td>
+    <td>29</td>
+  </tr>
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_treeview">flutter_treeview</a></td>
+    <td>用于显示嵌套的分层数据。</td>
+    <td>2021-04-15</td>
+    <td>29</td>
+  </tr>
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/emoji_picker_flutter">emoji_picker_flutter</a></td>
+    <td>提供了一个表情符号选择器小部件，其中包含8种类别的1500多种表情符号。</td>
+    <td>2021-04-15</td>
+    <td>29</td>
+  </tr>
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/time_planner">time_planner</a></td>
     <td>一个漂亮，易于使用且可自定义的日历规划器。</td>
     <td>2021-04-15</td>
