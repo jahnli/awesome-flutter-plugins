@@ -80,12 +80,6 @@
     <td>43</td>
   </tr>
   <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/image_gallery_saver">image_gallery_saver</a></td>
-    <td>用于将图像保存到图库的flutter插件。</td>
-    <td>2021-03-12</td>
-    <td>43</td>
-  </tr>
-  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/crop_your_image">crop_your_image</a></td>
     <td>帮助您的应用嵌入用于裁剪图像的小部件。</td>
     <td>2021-03-12</td>
