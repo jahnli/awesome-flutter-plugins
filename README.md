@@ -22,6 +22,9 @@
     聊天气泡小部件，类似于Whatsapp和更多形状。易于使用和实现聊天气泡。
   </li>
   <li><a href="https://pub.flutter-io.cn/packages/crop_your_image">crop_your_image</a>帮助您的应用嵌入用于裁剪图像的小部件。</li>
+  <li><a href="https://pub.flutter-io.cn/packages/image_gallery_saver">image_gallery_saver</a>用于将图像保存到图库的flutter插件。</li>
+  <li><a href="https://pub.flutter-io.cn/packages/searchable_dropdown">searchable_dropdown</a>具有项目搜索功能的简单而强大的可搜索下拉列表。</li>
+  <li><a href="https://pub.flutter-io.cn/packages/dropdown_search">dropdown_search</a>用于让用户搜索在单个或多个选择列表中显示在对话框或菜单中的下拉列表。</li>
 </ul>
   
 <h3>05-22</h3>
@@ -31,15 +34,7 @@
   <li><a href="https://pub.flutter-io.cn/packages/dotted_line">dotted_line</a> - 使用Flutter绘制虚线。您可以绘制一条漂亮的虚线。</li>
   <li><a href="https://pub.flutter-io.cn/packages/flutter_treeview">flutter_treeview</a> - 用于显示嵌套的分层数据。</li>
   <li><a href="https://pub.flutter-io.cn/packages/emoji_picker_flutter">emoji_picker_flutter</a> - 提供了一个表情符号选择器小部件，其中包含8种类别的1500多种表情符号。</li>
-</ul>
   
-<h3>05-20</h3>
-<ul>
-  <li><a href="https://pub.flutter-io.cn/packages/time_planner">time_planner</a> - 一个漂亮，易于使用且可自定义的日历任务规划器。</li>
-  <li><a href="https://pub.flutter-io.cn/packages/time_chart">time_chart</a> - 可滚动的时间图表。</li>
-  <li><a href="https://pub.flutter-io.cn/packages/nfc_manager">nfc_manager</a> - 用于访问Android和iOS上的NFC功能。</li>
-</ul>
-
 <br>
 <br>
 
@@ -65,6 +60,30 @@
     <td>【阿里巴巴-飞猪-FliggyMobile 技术团队】 开发维护的 FWidget 系列组件。</td>
     <td>暂无</td>
     <td>暂无</td>
+  </tr>  
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/image_gallery_saver">image_gallery_saver</a></td>
+    <td>用于将图像保存到图库的flutter插件。</td>
+    <td>2021-03-12</td>
+    <td>43</td>
+  </tr>
+    <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/dropdown_search">dropdown_search</a></td>
+    <td>用于让用户搜索在单个或多个选择列表中显示在对话框或菜单中的下拉列表。</td>
+    <td>2021-03-12</td>
+    <td>43</td>
+  </tr>
+    <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/searchable_dropdown">searchable_dropdown</a></td>
+    <td>具有项目搜索功能的简单而强大的可搜索下拉列表。</td>
+    <td>2021-03-12</td>
+    <td>43</td>
+  </tr>
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/image_gallery_saver">image_gallery_saver</a></td>
+    <td>用于将图像保存到图库的flutter插件。</td>
+    <td>2021-03-12</td>
+    <td>43</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/crop_your_image">crop_your_image</a></td>
