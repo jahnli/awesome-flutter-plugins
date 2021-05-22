@@ -52,8 +52,8 @@
   <tr>
     <th>依赖</th>
     <th>描述</th>
-    <th>最后更新时间</th>
-    <th>Likes</th>
+    <th>更新时间</th>
+    <th>likes</th>
   </tr>
   </thead>
   <tbody>
@@ -612,8 +612,8 @@
   <tr>
     <th>依赖</th>
     <th>描述</th>
-    <th>最后更新时间</th>
-    <th>Likes</th>
+    <th>更新时间</th>
+    <th>likes</th>
   </tr>
   </thead>
   <tbody>
@@ -843,8 +843,8 @@
   <tr>
     <th>依赖</th>
     <th>描述</th>
-    <th>最后更新时间</th>
-    <th>Likes</th>
+    <th>更新时间</th>
+    <th>likes</th>
   </tr>
   </thead>
   <tbody>
@@ -959,8 +959,8 @@
   <tr>
     <th>依赖</th>
     <th>描述</th>
-    <th>最后更新时间</th>
-    <th>Likes</th>
+    <th>更新时间</th>
+    <th>likes</th>
   </tr>
   </thead>
   <tbody>
@@ -1051,8 +1051,8 @@
   <tr>
     <th>依赖</th>
     <th>描述</th>
-    <th>最后更新时间</th>
-    <th>Likes</th>
+    <th>更新时间</th>
+    <th>likes</th>
   </tr>
   </thead>
   <tbody>
@@ -1176,8 +1176,8 @@
   <tr>
     <th>依赖</th>
     <th>描述</th>
-    <th>最后更新时间</th>
-    <th>Likes</th>
+    <th>更新时间</th>
+    <th>likes</th>
   </tr>
   </thead>
   <tbody>
@@ -1238,8 +1238,8 @@
   <tr>
     <th>依赖</th>
     <th>描述</th>
-    <th>最后更新时间</th>
-    <th>Likes</th>
+    <th>更新时间</th>
+    <th>likes</th>
   </tr>
   </thead>
   <tbody>
@@ -1282,8 +1282,8 @@
   <tr>
     <th>依赖</th>
     <th>描述</th>
-    <th>最后更新时间</th>
-    <th>Likes</th>
+    <th>更新时间</th>
+    <th>likes</th>
   </tr>
   </thead>
   <tbody>
@@ -1398,8 +1398,8 @@
   <tr>
     <th>依赖</th>
     <th>描述</th>
-    <th>最后更新时间</th>
-    <th>Likes</th>
+    <th>更新时间</th>
+    <th>likes</th>
   </tr>
   </thead>
   <tbody>
@@ -1449,8 +1449,8 @@
   <tr>
     <th>依赖</th>
     <th>描述</th>
-    <th>最后更新时间</th>
-    <th>Likes</th>
+    <th>更新时间</th>
+    <th>likes</th>
   </tr>
   </thead>
   <tbody>
@@ -1511,8 +1511,8 @@
   <tr>
     <th>依赖</th>
     <th>描述</th>
-    <th>最后更新时间</th>
-    <th>Likes</th>
+    <th>更新时间</th>
+    <th>likes</th>
   </tr>
   </thead>
   <tbody>
@@ -1561,8 +1561,8 @@
   <tr>
     <th>依赖</th>
     <th>描述</th>
-    <th>最后更新时间</th>
-    <th>Likes</th>
+    <th>更新时间</th>
+    <th>likes</th>
   </tr>
   </thead>
   <tbody>
