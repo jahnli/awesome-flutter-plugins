@@ -64,6 +64,12 @@
     <td>暂无</td>
   </tr>
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/dotted_line">dotted_line</a></td>
+    <td>使用Flutter绘制虚线。您可以绘制一条漂亮的虚线。</td>
+    <td>2021-04-15</td>
+    <td>29</td>
+  </tr>
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/popover">popover</a></td>
     <td>点击元素，弹出气泡式的卡片浮层。</td>
     <td>2021-04-15</td>
