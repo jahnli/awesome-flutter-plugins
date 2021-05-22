@@ -14,6 +14,14 @@
 <h3 id="updateTime">最后更新：2021-05-22 06:30</h3>
 
 <br>
+<h3>05-22</h3>
+<ul>
+  <li><a href="https://pub.flutter-io.cn/packages/popover">popover</a> - 点击元素，弹出气泡式的卡片浮层。</li>
+  <li><a href="https://pub.flutter-io.cn/packages/tflite_flutter">tflite_flutter</a> - TensorFlow Lite Flutter插件提供了轻松，灵活和快速的Dart API，可将TFLite模型集成到Flutter应用中。</li>
+  <li><a href="https://pub.flutter-io.cn/packages/dotted_line">dotted_line</a> - 使用Flutter绘制虚线。您可以绘制一条漂亮的虚线。</li>
+  <li><a href="https://pub.flutter-io.cn/packages/flutter_treeview">flutter_treeview</a> - 用于显示嵌套的分层数据。</li>
+  <li><a href="https://pub.flutter-io.cn/packages/emoji_picker_flutter">emoji_picker_flutter</a> - 提供了一个表情符号选择器小部件，其中包含8种类别的1500多种表情符号。</li>
+</ul>
 <h3>05-20</h3>
 <ul>
   <li><a href="https://pub.flutter-io.cn/packages/time_planner">time_planner</a> - 一个漂亮，易于使用且可自定义的日历任务规划器。</li>
@@ -27,10 +35,6 @@
     Flutter的轻便而强大的解决方案。它结合了高性能状态管理，智能依赖注入和快速实用的路由管理。
   </li>
   <li><a href="https://pub.flutter-io.cn/packages/get_storage">get_storage</a> - 完全用Dart编写的快速，轻巧且同步的键值存储。</li>
-</ul>
-<h3>04-29</h3>
-<ul>
-  <li><a href="https://pub.flutter-io.cn/packages/extended_nested_scroll_view">extended_nested_scroll_view</a> - 扩展的嵌套滚动视图。</li>
 </ul>
 
 <br>
