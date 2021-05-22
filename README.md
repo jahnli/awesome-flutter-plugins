@@ -14,6 +14,16 @@
 <h3 id="updateTime">最新同步：2021-05-22 23:47</h3>
 
 <br>
+  
+<h3>05-23</h3>
+<ul>
+  <li>
+    <a href="https://pub.flutter-io.cn/packages/chat_bubbles">chat_bubbles</a> -
+    聊天气泡小部件，类似于Whatsapp和更多形状。易于使用和实现聊天气泡。
+  </li>
+  <li><a href="https://pub.flutter-io.cn/packages/crop_your_image">crop_your_image</a>帮助您的应用嵌入用于裁剪图像的小部件。</li>
+</ul>
+  
 <h3>05-22</h3>
 <ul>
   <li><a href="https://pub.flutter-io.cn/packages/popover">popover</a> - 点击元素，弹出气泡式的卡片浮层。</li>
@@ -22,19 +32,12 @@
   <li><a href="https://pub.flutter-io.cn/packages/flutter_treeview">flutter_treeview</a> - 用于显示嵌套的分层数据。</li>
   <li><a href="https://pub.flutter-io.cn/packages/emoji_picker_flutter">emoji_picker_flutter</a> - 提供了一个表情符号选择器小部件，其中包含8种类别的1500多种表情符号。</li>
 </ul>
+  
 <h3>05-20</h3>
 <ul>
   <li><a href="https://pub.flutter-io.cn/packages/time_planner">time_planner</a> - 一个漂亮，易于使用且可自定义的日历任务规划器。</li>
   <li><a href="https://pub.flutter-io.cn/packages/time_chart">time_chart</a> - 可滚动的时间图表。</li>
   <li><a href="https://pub.flutter-io.cn/packages/nfc_manager">nfc_manager</a> - 用于访问Android和iOS上的NFC功能。</li>
-</ul>
-<h3>05-12</h3>
-<ul>
-  <li>
-    <a href="https://pub.flutter-io.cn/packages/get">get</a> -
-    Flutter的轻便而强大的解决方案。它结合了高性能状态管理，智能依赖注入和快速实用的路由管理。
-  </li>
-  <li><a href="https://pub.flutter-io.cn/packages/get_storage">get_storage</a> - 完全用Dart编写的快速，轻巧且同步的键值存储。</li>
 </ul>
 
 <br>
@@ -63,6 +66,18 @@
     <td>暂无</td>
     <td>暂无</td>
   </tr>
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/crop_your_image">crop_your_image</a></td>
+    <td>帮助您的应用嵌入用于裁剪图像的小部件。</td>
+    <td>2021-03-12</td>
+    <td>43</td>
+  </tr>
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/chat_bubbles">chat_bubbles</a></td>
+    <td>聊天气泡小部件，类似于Whatsapp和更多形状。易于使用和实现聊天气泡。</td>
+    <td>2021-03-12</td>
+    <td>43</td>
+  </tr>    
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/dotted_line">dotted_line</a></td>
     <td>使用Flutter绘制虚线。您可以绘制一条漂亮的虚线。</td>
