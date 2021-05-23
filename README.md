@@ -63,7 +63,7 @@
     <th>likes</th>
   </tr>
   </thead>
-  <tbody>
+  <tbody class="插件">
   <tr class="item">
     <td><a href="https://github.com/Fliggy-Mobile">Fliggy Mobile</a></td>
     <td>【阿里巴巴-飞猪-FliggyMobile 技术团队】 开发维护的 FWidget 系列组件。</td>
@@ -645,7 +645,7 @@
     <th>likes</th>
   </tr>
   </thead>
-  <tbody>
+  <tbody class="设备相关">
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/nfc_manager">nfc_manager</a></td>
     <td>用于访问Android和iOS上的NFC功能。</td>
@@ -876,7 +876,7 @@
     <th>likes</th>
   </tr>
   </thead>
-  <tbody>
+  <tbody class="项目相关">
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/mobx">mobx</a></td><td>用于被动管理应用程序状态的库。</td>
     <td>2021-03-28</td><td>21</td>
@@ -998,7 +998,7 @@
     <th>likes</th>
   </tr>
   </thead>
-  <tbody>
+  <tbody class="音视频类">
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/better_player">better_player</a></td>
     <td>基于video_player和Chewie的高级视频播放器。</td>
@@ -1090,7 +1090,7 @@
     <th>likes</th>
   </tr>
   </thead>
-  <tbody>
+  <tbody class="图片类">
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/crop_your_image">crop_your_image</a></td>
     <td>帮助您的应用嵌入用于裁剪图像的小部件。</td>
@@ -1229,7 +1229,7 @@
     <th>likes</th>
   </tr>
   </thead>
-  <tbody>
+  <tbody class="图表类">
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/time_chart">time_chart</a></td>
     <td>可滚动的时间图表。</td>
@@ -1291,7 +1291,7 @@
     <th>likes</th>
   </tr>
   </thead>
-  <tbody>
+  <tbody class="侧边菜单 / 侧边栏">
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_inner_drawer">flutter_inner_drawer</a></td>
     <td>创建侧边抽屉。</td>
@@ -1335,7 +1335,7 @@
     <th>likes</th>
   </tr>
   </thead>
-  <tbody>
+  <tbody  class="底部导航栏 / 浮动菜单">
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/fancy_bottom_navigation">fancy_bottom_navigation</a></td>
     <td>动画的底部导航栏。</td>
@@ -1451,7 +1451,7 @@
     <th>likes</th>
   </tr>
   </thead>
-  <tbody>
+  <tbody class="底部弹片 / 弹性底片 / 模态底板">
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/sliding_panel">sliding_panel</a></td>
     <td>可定制的底部滑动面板。</td>
@@ -1502,7 +1502,7 @@
     <th>likes</th>
   </tr>
   </thead>
-  <tbody>
+  <tbody class="通讯类">
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/dim">dim</a></td>
     <td>方便地与腾讯imsdk集成，可以轻松地在flutter上使用imsdk。</td>
@@ -1564,7 +1564,7 @@
     <th>likes</th>
   </tr>
   </thead>
-  <tbody>
+  <tbody class="地图类">
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/amap_all_fluttify">amap_all_fluttify</a></td>
     <td>由Fluttify提供的高德地图整合组件（包含搜索、定位、地图）。</td>
@@ -1614,7 +1614,7 @@
     <th>likes</th>
   </tr>
   </thead>
-  <tbody>
+  <tbody class="Web">
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_inappwebview">flutter_inappwebview</a></td>
     <td>可让您添加嵌入式Web视图，使用Web视图以及打开应用内浏览器窗口。</td>
