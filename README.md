@@ -17,6 +17,10 @@
   
 <h3>05-24</h3>
 <ul>
+  <li><a href="https://pub.flutter-io.cn/packages/flutter_native_splash">flutter_native_splash</a> - 生成本机代码以使用背景颜色和初始图像来自定义Flutter的默认白色本机初始屏幕。支持暗模式，全屏等。</li>
+  <li><a href="https://pub.flutter-io.cn/packages/mobx">mobx</a> - 用于被动管理应用程序状态的库。</li>
+  <li><a href="https://pub.flutter-io.cn/packages/google_fonts">google_fonts</a> - 在Flutter应用程序中包含来自fonts.google.com中的字体的软件包。</li>
+  <li><a href="https://pub.flutter-io.cn/packages/flutter_bloc">flutter_bloc</a> - 可轻松实现BLoC（业务逻辑组件）设计模式。构建用于与bloc状态管理包一起使用。</li>
   <li><a href="https://pub.flutter-io.cn/packages/image_painter">image_painter</a> - 用于在图像上绘画的插件。</li>
   <li><a href="https://pub.flutter-io.cn/packages/chat_bubbles">chat_bubbles</a> - 聊天气泡小部件，类似于Whatsapp和更多形状。易于使用和实现聊天气泡。</li>
   <li><a href="https://pub.flutter-io.cn/packages/crop_your_image">crop_your_image</a> - 帮助您的应用嵌入用于裁剪图像的小部件。</li>
@@ -59,6 +63,22 @@
     <td>暂无</td>
     <td>暂无</td>
   </tr>
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_native_splash">flutter_native_splash</a></td><td>生成本机代码以使用背景颜色和初始图像来自定义Flutter的默认白色本机初始屏幕。支持暗模式，全屏等。</td>
+    <td>2021-03-28</td><td>21</td>
+  </tr>   
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/mobx">mobx</a></td><td>用于被动管理应用程序状态的库。</td>
+    <td>2021-03-28</td><td>21</td>
+  </tr>     
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/google_fonts">google_fonts</a></td><td>在Flutter应用程序中包含来自fonts.google.com中的字体的软件包。</td>
+    <td>2021-03-28</td><td>21</td>
+  </tr>     
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_bloc">flutter_bloc</a></td><td>可轻松实现BLoC（业务逻辑组件）设计模式。构建用于与bloc状态管理包一起使用。</td>
+    <td>2021-03-28</td><td>21</td>
+  </tr>   
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/image_painter">image_painter</a></td><td>用于在图像上绘画的插件。</td>
     <td>2021-03-28</td><td>21</td>
