@@ -979,12 +979,6 @@
     <td>2021-03-10</td>
     <td>554</td>
   </tr>
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/intl">intl</a></td>
-    <td>国际化工具类。</td>
-    <td>2021-02-03</td>
-    <td>1504</td>
-  </tr>
   </tbody>
 </table>
 <br>
