@@ -17,12 +17,12 @@
   
 <h3>05-24</h3>
 <ul>
-  <li><a href="https://pub.flutter-io.cn/packages/image_painter">image_painter</a>用于在图像上绘画的插件。</li>
-  <li><a href="https://pub.flutter-io.cn/packages/chat_bubbles">chat_bubbles</a>聊天气泡小部件，类似于Whatsapp和更多形状。易于使用和实现聊天气泡。</li>
-  <li><a href="https://pub.flutter-io.cn/packages/crop_your_image">crop_your_image</a>帮助您的应用嵌入用于裁剪图像的小部件。</li>
-  <li><a href="https://pub.flutter-io.cn/packages/image_gallery_saver">image_gallery_saver</a>用于将图像保存到图库的flutter插件。</li>
-  <li><a href="https://pub.flutter-io.cn/packages/searchable_dropdown">searchable_dropdown</a>具有项目搜索功能的简单而强大的可搜索下拉列表。</li>
-  <li><a href="https://pub.flutter-io.cn/packages/dropdown_search">dropdown_search</a>用于让用户搜索在单个或多个选择列表中显示在对话框或菜单中的下拉列表。</li>
+  <li><a href="https://pub.flutter-io.cn/packages/image_painter">image_painter</a> - 用于在图像上绘画的插件。</li>
+  <li><a href="https://pub.flutter-io.cn/packages/chat_bubbles">chat_bubbles</a> - 聊天气泡小部件，类似于Whatsapp和更多形状。易于使用和实现聊天气泡。</li>
+  <li><a href="https://pub.flutter-io.cn/packages/crop_your_image">crop_your_image</a> - 帮助您的应用嵌入用于裁剪图像的小部件。</li>
+  <li><a href="https://pub.flutter-io.cn/packages/image_gallery_saver">image_gallery_saver</a> - 用于将图像保存到图库的flutter插件。</li>
+  <li><a href="https://pub.flutter-io.cn/packages/searchable_dropdown">searchable_dropdown</a> - 具有项目搜索功能的简单而强大的可搜索下拉列表。</li>
+  <li><a href="https://pub.flutter-io.cn/packages/dropdown_search">dropdown_search</a> - 用于让用户搜索在单个或多个选择列表中显示在对话框或菜单中的下拉列表。</li>
 </ul>
   
 <h3>05-22</h3>
