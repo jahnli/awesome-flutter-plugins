@@ -17,6 +17,13 @@
   
 <h3>05-24</h3>
 <ul>
+  <li><a href="https://pub.flutter-io.cn/packages/connectivity_plus">connectivity_plus</a> - 用于发现Android和iOS上的网络状态（WiFi和移动/蜂窝）连接。</li>  
+  <li><a href="https://pub.flutter-io.cn/packages/share_plus">share_plus</a> - 通过平台的“共享”对话框共享Flutter应用程序中的内容。</li>  
+  <li><a href="https://pub.flutter-io.cn/packages/device_info_plus">device_info_plus</a> - 可提供有关设备（制造商，型号等）以及运行该应用程序的Android或iOS版本的详细信息。</li>  
+  <li><a href="https://pub.flutter-io.cn/packages/package_info_plus">package_info_plus</a> - 用于查询有关应用程序包的信息。</li>  
+  <li><a href="https://pub.flutter-io.cn/packages/infinite_scroll_pagination">infinite_scroll_pagination</a> - 当用户向下滚动屏幕时，懒惰地加载和显示项目页面。</li>  
+  <li><a href="https://pub.flutter-io.cn/packages/sentry_flutter">sentry_flutter</a> - Flutter的崩溃报告库，可将崩溃报告发送到Sentry.io。</li> 
+  <li><a href="https://pub.flutter-io.cn/packages/just_audio">just_audio</a> - Flutter的功能丰富的音频播放器。以各种音频格式循环播放，剪辑和连接来自任何来源）的任何声音，并实现无缝播放。</li> 
   <li><a href="https://pub.flutter-io.cn/packages/flutter_native_splash">flutter_native_splash</a> - 生成本机代码以使用背景颜色和初始图像来自定义Flutter的默认白色本机初始屏幕。支持暗模式，全屏等。</li>
   <li><a href="https://pub.flutter-io.cn/packages/mobx">mobx</a> - 用于被动管理应用程序状态的库。</li>
   <li><a href="https://pub.flutter-io.cn/packages/google_fonts">google_fonts</a> - 在Flutter应用程序中包含来自fonts.google.com中的字体的软件包。</li>
