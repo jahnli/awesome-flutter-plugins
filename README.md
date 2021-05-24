@@ -995,7 +995,7 @@
     <th>likes</th>
   </tr>
   </thead>
-  <tbody class="图像 / 图形">
+  <tbody class="图像">
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/emoji_picker_flutter">emoji_picker_flutter</a></td>
     <td>提供了一个表情符号选择器小部件，其中包含8种类别的1500多种表情符号。</td>
@@ -1274,7 +1274,7 @@
     <th>likes</th>
   </tr>
   </thead>
-  <tbody class="侧边菜单 / 侧边栏">
+  <tbody class="侧边栏">
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_inner_drawer">flutter_inner_drawer</a></td>
     <td>创建侧边抽屉。</td>
@@ -1318,7 +1318,7 @@
     <th>likes</th>
   </tr>
   </thead>
-  <tbody class="底部导航栏 / 浮动菜单">
+  <tbody class="底部导航栏">
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/fancy_bottom_navigation">fancy_bottom_navigation</a></td>
     <td>动画的底部导航栏。</td>
@@ -1434,7 +1434,7 @@
     <th>likes</th>
   </tr>
   </thead>
-  <tbody class="弹框 / 底部弹片 /Toast">
+  <tbody class="弹框">
    <tr class="item">
      <td><a href="https://pub.flutter-io.cn/packages/bot_toast">bot_toast</a></td> 
      <td>易于使用的Flutter Toast库，易于使用且功能丰富。</td>
