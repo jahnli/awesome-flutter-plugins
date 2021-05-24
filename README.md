@@ -213,12 +213,6 @@
     <td>224</td>
   </tr>
   <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/bot_toast">bot_toast</a></td>
-    <td>易于使用的Flutter Toast库，易于使用且功能丰富。</td>
-    <td>2021-03-13</td>
-    <td>437</td>
-  </tr>
-  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_unity_widget">flutter_unity_widget</a></td>
     <td>Flutter Unity 3D小部件，用于将Unity游戏场景嵌入flutter中。</td>
     <td>2021-04-06</td>
@@ -1476,6 +1470,12 @@
   </tr>
   </thead>
   <tbody class="弹框 / 底部弹片 /Toast">
+<tr class="item">
+<td><a href="https://pub.flutter-io.cn/packages/bot_toast">bot_toast</a></td>
+<td>易于使用的Flutter Toast库，易于使用且功能丰富。</td>
+<td>2021-03-13</td>
+<td>437</td>
+</tr>
 <tr class="item">
 <td><a href="https://pub.flutter-io.cn/packages/flash">flash</a></td>
 <td>高度可定制，功能强大且易于使用的警报库。</td>
