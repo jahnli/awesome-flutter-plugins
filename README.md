@@ -17,7 +17,7 @@
 
 <div class="changeLog">
 
-<div class="05-24">
+<div class="item 05-24">
 <h3>05-24</h3>
 <ul>
   <li><a href="https://pub.flutter-io.cn/packages/connectivity_plus">connectivity_plus</a> - 用于发现Android和iOS上的网络状态（WiFi和移动/蜂窝）连接。</li>  
@@ -40,7 +40,7 @@
 </ul>
 </div>
   
-<div class="05-22">
+<div class="item 05-22">
 <h3>05-22</h3>
 <ul>
   <li><a href="https://pub.flutter-io.cn/packages/popover">popover</a> - 点击元素，弹出气泡式的卡片浮层。</li>
