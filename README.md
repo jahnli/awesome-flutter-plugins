@@ -20,6 +20,7 @@
 <div class="changeLogItem 05-24">
       <h3>05-24</h3>
       <ul>
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_blurhash">flutter_blurhash</a> - 图像占位符</li>
         <li><a href="https://pub.flutter-io.cn/packages/just_audio">just_audio</a> - Flutter的功能丰富的音频播放器。以各种音频格式循环播放，剪辑和连接来自任何来源）的任何声音，并实现无缝播放。</li>  
         <li><a href="https://pub.flutter-io.cn/packages/sentry_flutter">sentry_flutter</a> - Flutter的崩溃报告库，可将崩溃报告发送到Sentry.io。</li>  
         <li><a href="https://pub.flutter-io.cn/packages/infinite_scroll_pagination">infinite_scroll_pagination</a> - 当用户向下滚动屏幕时，懒惰地加载和显示项目页面。</li>  
@@ -995,7 +996,12 @@
     <th>likes</th>
   </tr>
   </thead>
-  <tbody class="图像">
+  <tbody class="图像"><tr class="changeLogItem">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_blurhash" rel="nofollow">flutter_blurhash</a></td>
+    <td>图像占位符</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/emoji_picker_flutter">emoji_picker_flutter</a></td>
     <td>提供了一个表情符号选择器小部件，其中包含8种类别的1500多种表情符号。</td>
@@ -1705,6 +1711,7 @@
   </tr>
   </tbody>
 </table>
+
 
 
 </body></html>
