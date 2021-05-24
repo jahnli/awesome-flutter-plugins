@@ -273,7 +273,8 @@
     <td>可以轻松选择日期或日期范围，它具有内置视图，可以快速导航到所需日期。</td>
     <td>2021-05-19</td>
     <td>298</td>
-  </tr><tr class="item">
+  </tr>
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/timetable">timetable</a></td>
     <td>可自定义的动画日历小部件，包括日和周视图。</td>
     <td>2020-10-26</td>
@@ -1070,7 +1071,8 @@
     <td>Flutter启动器图标-一个软件包。</td>
     <td>暂无</td>
     <td>暂无</td>
-  </tr><tr class="changeLogItem">
+  </tr>
+  <tr class="changeLogItem">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_blurhash" rel="nofollow">flutter_blurhash</a></td>
     <td>图像占位符</td>
     <td>暂无</td>
