@@ -97,12 +97,7 @@
     <td>2021-05-14</td>
     <td>73</td>
   </tr>
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/emoji_picker_flutter">emoji_picker_flutter</a></td>
-    <td>提供了一个表情符号选择器小部件，其中包含8种类别的1500多种表情符号。</td>
-    <td>2021-05-14</td>
-    <td>27</td>
-  </tr>
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/time_planner">time_planner</a></td>
     <td>一个漂亮，易于使用且可自定义的日历规划器。</td>
@@ -128,22 +123,10 @@
     <td>143</td>
   </tr>
   <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/graphx">graphx</a></td>
-    <td>使Flutter中的绘图和动画极其简单。</td>
-    <td>2021-03-25</td>
-    <td>144</td>
-  </tr>
-  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_summernote">flutter_summernote</a></td>
     <td>Flutter中的文本编辑器。</td>
     <td>2021-02-05</td>
     <td>34</td>
-  </tr>
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/flutter_weather_bg">flutter_weather_bg</a></td>
-    <td>多种天气背景动画效果。</td>
-    <td>2020-10-01</td>
-    <td>17</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/wave">wave</a></td>
@@ -176,12 +159,6 @@
     <td>1369</td>
   </tr>
   <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/photofilters">photofilters</a></td>
-    <td>用于将各种类型的滤镜应用于图像。</td>
-    <td>2021-03-29</td>
-    <td>102</td>
-  </tr>
-  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/some_calendar">some_calendar</a></td>
     <td>自定义日历（多选，单选，日期范围）。</td>
     <td>2020-07-28</td>
@@ -192,18 +169,6 @@
     <td>Flutter的Markdown渲染器。</td>
     <td>2021-05-13</td>
     <td>323</td>
-  </tr>
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/flutter_styled_toast">flutter_styled_toast</a></td>
-    <td>自定义Toast。</td>
-    <td>2021-03-18</td>
-    <td>132</td>
-  </tr>
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/flutter_custom_clippers">flutter_custom_clippers</a></td>
-    <td>将widget裁剪成各种自定义形状。</td>
-    <td>2020-08-31</td>
-    <td>267</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/scratcher">scratcher</a></td>
@@ -223,6 +188,12 @@
     <td>2020-05-13</td>
     <td>85</td>
   </tr>
+<tr class="item">
+	<td><a href="https://pub.flutter-io.cn/packages/like_button">like_button</a></td>
+	<td>点赞按钮动画。</td>
+	<td>2021-03-24</td>
+	<td>393</td>
+</tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/amap_map_fluttify">Fluttify系列插件</a></td>
     <td>百度地图、高德地图、讯飞、腾讯直播、网易直播、百度人脸识别、极光统计。（专业版需收费）</td>
@@ -242,18 +213,6 @@
     <td>224</td>
   </tr>
   <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/loading_gifs">loading_gifs</a></td>
-    <td>加载指示器GIF。</td>
-    <td>2021-03-04</td>
-    <td>27</td>
-  </tr>
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/liquid_progress_indicator">liquid_progress_indicator</a></td>
-    <td>水波效果的进度指示器。</td>
-    <td>2019-08-13</td>
-    <td>362</td>
-  </tr>
-  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/bot_toast">bot_toast</a></td>
     <td>易于使用的Flutter Toast库，易于使用且功能丰富。</td>
     <td>2021-03-13</td>
@@ -266,12 +225,6 @@
     <td>289</td>
   </tr>
   <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/like_button">like_button</a></td>
-    <td>点赞按钮动画。</td>
-    <td>2021-03-24</td>
-    <td>393</td>
-  </tr>
-  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flame">flame</a></td>
     <td>Flutter游戏引擎。</td>
     <td>2021-03-30</td>
@@ -282,12 +235,6 @@
     <td>创建可选和输入标签（TextField）。</td>
     <td>2020-11-11</td>
     <td>189</td>
-  </tr>
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/model_viewer">model_viewer</a></td>
-    <td>用于以glTF和GLB格式呈现交互式3D模型。</td>
-    <td>2020-08-21</td>
-    <td>55</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_simple_calculator">flutter_simple_calculator</a></td>
@@ -323,24 +270,6 @@
     <td>可自定义的动画日历小部件，包括日和周视图。</td>
     <td>2020-10-26</td>
     <td>184</td>
-  </tr>
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/confetti">confetti</a></td>
-    <td>在屏幕上吹起五彩纸屑。以风格庆祝应用成就。控制速度，角度，重力和纸屑量。</td>
-    <td>2021-03-06</td>
-    <td>385</td>
-  </tr>
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/flutter_icons">flutter_icons</a></td>
-    <td>可定制的Flutter图标，在Flutter项目中可以使用超过3K +图标。</td>
-    <td>2020-04-16</td>
-    <td>486</td>
-  </tr>
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/signature">signature</a></td>
-    <td>Flutter插件可提供性能优化的签名画布，并能够设置自定义样式，边界和初始状态。</td>
-    <td>2021-05-07</td>
-    <td>127</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_cupertino_date_picker">flutter_cupertino_date_picker</a></td>
@@ -397,18 +326,6 @@
     <td>482</td>
   </tr>
   <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/flash">flash</a></td>
-    <td>高度可定制，功能强大且易于使用的警报库。</td>
-    <td>2021-05-17</td>
-    <td>385</td>
-  </tr>
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/flutter_annual_task">flutter_annual_task</a></td>
-    <td>用于显示日常任务（如Github-Contributions）的网格视图。</td>
-    <td>2021-03-07</td>
-    <td>16</td>
-  </tr>
-  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/double_back_to_close_app">double_back_to_close_app</a></td>
     <td>可让Android用户按下两次后退按钮以关闭应用程序。</td>
     <td>2020-12-20</td>
@@ -434,12 +351,6 @@
     <td>833</td>
   </tr>
   <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/screenshot">screenshot</a></td>
-    <td>Flutter屏幕截图程序包（运行时），将任何小部件捕获为图像。</td>
-    <td>2021-02-10</td>
-    <td>196</td>
-  </tr>
-  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/city_pickers">city_pickers</a></td>
     <td>适用于城市选择器的Flutter插件，弹出窗口小部件，按功能调用。</td>
     <td>2020-09-08</td>
@@ -458,12 +369,6 @@
     <td>843</td>
   </tr>
   <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/flutter_staggered_animations">flutter_staggered_animations</a></td>
-    <td>轻松将交错动画添加到ListView，GridView，Column和Row子级中。</td>
-    <td>2021-03-08</td>
-    <td>604</td>
-  </tr>
-  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/animated_text_kit">animated_text_kit</a></td>
     <td>酷炫的漂亮文字动画。</td>
     <td>2021-04-24</td>
@@ -474,12 +379,6 @@
     <td>为CustomPainter中在画布上绘制的每个Shape添加各种手势回调。</td>
     <td>2021-04-23</td>
     <td>69</td>
-  </tr>
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/concentric_transition">concentric_transition</a></td>
-    <td>同心过渡剪切器，创建视图。适用于入门，页面过渡，自定义剪切器，绘画工具等。</td>
-    <td>2021-05-19</td>
-    <td>172</td>
   </tr>
   </tbody>
 </table>
@@ -897,7 +796,19 @@
 <td>暂无</td>
 <td>暂无</td>
 </tr>
+<tr class="item">
+<td><a href="https://pub.flutter-io.cn/packages/flutter_annual_task">flutter_annual_task</a></td>
+<td>用于显示日常任务（如Github-Contributions）的网格视图。</td>
+<td>2021-03-07</td>
+<td>16</td>
+</tr>
 
+<tr class="item">
+<td><a href="https://pub.flutter-io.cn/packages/flutter_staggered_animations">flutter_staggered_animations</a></td>
+<td>轻松将交错动画添加到ListView，GridView，Column和Row子级中。</td>
+<td>2021-03-08</td>
+<td>604</td>
+</tr>
 <tr class="item">
 <td><a href="https://pub.flutter-io.cn/packages/dropdown_search">dropdown_search</a></td>
 <td>用于让用户搜索在单个或多个选择列表中显示在对话框或菜单中的下拉列表。</td>
@@ -1098,7 +1009,7 @@
 <br>
 
 <blockquote>
-  <h3>图片类</h3>
+  <h3>图像 / 图形</h3>
 </blockquote>
 
 <br>
@@ -1112,7 +1023,98 @@
     <th>likes</th>
   </tr>
   </thead>
-  <tbody class="图片类">
+  <tbody class="图像 / 图形">
+	  <tr class="item">
+<td><a href="https://pub.flutter-io.cn/packages/emoji_picker_flutter">emoji_picker_flutter</a></td>
+<td>提供了一个表情符号选择器小部件，其中包含8种类别的1500多种表情符号。</td>
+<td>2021-05-14</td>
+<td>27</td>
+</tr>
+
+<tr class="item">
+<td><a href="https://pub.flutter-io.cn/packages/graphx">graphx</a></td>
+<td>使Flutter中的绘图和动画极其简单。</td>
+<td>2021-03-25</td>
+<td>144</td>
+</tr>
+
+<tr class="item">
+<td><a href="https://pub.flutter-io.cn/packages/flutter_weather_bg">flutter_weather_bg</a></td>
+<td>多种天气背景动画效果。</td>
+<td>2020-10-01</td>
+<td>17</td>
+</tr>
+
+<tr class="item">
+<td><a href="https://pub.flutter-io.cn/packages/photofilters">photofilters</a></td>
+<td>用于将各种类型的滤镜应用于图像。</td>
+<td>2021-03-29</td>
+<td>102</td>
+</tr>
+
+<tr class="item">
+<td><a href="https://pub.flutter-io.cn/packages/flutter_custom_clippers">flutter_custom_clippers</a></td>
+<td>将widget裁剪成各种自定义形状。</td>
+<td>2020-08-31</td>
+<td>267</td>
+</tr>
+
+<tr class="item">
+<td><a href="https://pub.flutter-io.cn/packages/loading_gifs">loading_gifs</a></td>
+<td>加载指示器GIF。</td>
+<td>2021-03-04</td>
+<td>27</td>
+</tr>
+
+<tr class="item">
+<td><a href="https://pub.flutter-io.cn/packages/liquid_progress_indicator">liquid_progress_indicator</a></td>
+<td>水波效果的进度指示器。</td>
+<td>2019-08-13</td>
+<td>362</td>
+</tr>
+
+<tr class="item">
+<td><a href="https://pub.flutter-io.cn/packages/model_viewer">model_viewer</a></td>
+<td>用于以glTF和GLB格式呈现交互式3D模型。</td>
+<td>2020-08-21</td>
+<td>55</td>
+</tr>
+
+<tr class="item">
+<td><a href="https://pub.flutter-io.cn/packages/confetti">confetti</a></td>
+<td>在屏幕上吹起五彩纸屑。以风格庆祝应用成就。控制速度，角度，重力和纸屑量。</td>
+<td>2021-03-06</td>
+<td>385</td>
+</tr>
+
+<tr class="item">
+<td><a href="https://pub.flutter-io.cn/packages/flutter_icons">flutter_icons</a></td>
+<td>可定制的Flutter图标，在Flutter项目中可以使用超过3K +图标。</td>
+<td>2020-04-16</td>
+<td>486</td>
+</tr>
+
+<tr class="item">
+<td><a href="https://pub.flutter-io.cn/packages/signature">signature</a></td>
+<td>Flutter插件可提供性能优化的签名画布，并能够设置自定义样式，边界和初始状态。</td>
+<td>2021-05-07</td>
+<td>127</td>
+</tr>
+
+<tr class="item">
+<td><a href="https://pub.flutter-io.cn/packages/screenshot">screenshot</a></td>
+<td>Flutter屏幕截图程序包（运行时），将任何小部件捕获为图像。</td>
+<td>2021-02-10</td>
+<td>196</td>
+</tr>
+
+<tr class="item">
+<td><a href="https://pub.flutter-io.cn/packages/concentric_transition">concentric_transition</a></td>
+<td>同心过渡剪切器，创建视图。适用于入门，页面过渡，自定义剪切器，绘画工具等。</td>
+<td>2021-05-19</td>
+<td>172</td>
+</tr>
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/crop_your_image">crop_your_image</a></td>
     <td>帮助您的应用嵌入用于裁剪图像的小部件。</td>
@@ -1474,6 +1476,19 @@
   </tr>
   </thead>
   <tbody class="弹框 / 底部弹片 /Toast">
+<tr class="item">
+<td><a href="https://pub.flutter-io.cn/packages/flash">flash</a></td>
+<td>高度可定制，功能强大且易于使用的警报库。</td>
+<td>2021-05-17</td>
+<td>385</td>
+</tr>
+
+<tr class="item">
+<td><a href="https://pub.flutter-io.cn/packages/flutter_styled_toast">flutter_styled_toast</a></td>
+<td>自定义Toast。</td>
+<td>2021-03-18</td>
+<td>132</td>
+</tr>
 <tr class="item">
 <td><a href="https://pub.flutter-io.cn/packages/rate_my_app">rate_my_app</a></td>
 <td>询问用户是否对自定义条件（例如安装时间，启动次数等）进行评分。</td>
