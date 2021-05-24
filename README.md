@@ -1109,7 +1109,7 @@
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/nineold">nineold</a></td>
-    <td>朋友圈9宫格图片显示，支持9+以上图片。 - ❀ <a href="https://github.com/lanzhu1993">lanzhu1993</a> 提供 ！</td>
+    <td>朋友圈9宫格图片显示，支持9+以上图片。</td>
     <td>2021-04-13</td>
     <td>2</td>
   </tr>
