@@ -400,7 +400,7 @@
     <td>1749</td>
   </tr>
   <tr class="item">
-    <td class="item"><a href="https://pub.flutter-io.cn/packages/package_info_plus" rel="nofollow">package_info_plus</a></td>
+    <td><a href="https://pub.flutter-io.cn/packages/package_info_plus" rel="nofollow">package_info_plus</a></td>
     <td>用于查询有关应用程序包的信息。</td>
     <td>暂无</td>
     <td>暂无</td>
