@@ -20,6 +20,20 @@
 <div class="changeLogItem 05-24">
       <h3>05-24</h3>
       <ul>
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_launcher_icons">flutter_launcher_icons</a> - Flutter启动器图标-一个软件包。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/battery_plus">battery_plus</a> - 访问有关电池状态（充满，充电，放电）的信息。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/infinite_listview">infinite_listview</a> - 具有可以在两个方向上无限滚动的项目的ListView。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/draggable_scrollbar">draggable_scrollbar</a> - 可以拖动滚动条以快速浏览垂直列表。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/workmanager">workmanager</a> - Flutter Workmanager。此插件可让您安排Android和iOS上的后台工作。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/rxdart">rxdart</a> - RxDart是利用本机Dart Streams API为流行的用于异步编程的reactX api的实现。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_sms">flutter_sms</a> - 可在iOS和Android上发送短信和彩信。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/sensors_plus">sensors_plus</a> - 用于访问加速度计和陀螺仪传感器。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/network_info_plus">network_info_plus</a> - 用于发现网络信息（例如，WiFi详细信息）。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_redux">flutter_redux</a> - 轻松使用 Redux Store来构建Flutter Widgets。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/firebase_core">firebase_core</a> - 用于Firebase Core的Flutter插件，可连接到多个Firebase应用程序。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/cloud_firestore">cloud_firestore</a> - 用于Cloud Firestore的Flutter插件，这是一个云托管的noSQL数据库，具有实时同步功能。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/sqflite">sqflite</a> - SQLite的Flutter插件。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/firebase_auth">firebase_auth</a> - 用于Firebase身份验证的Flutter插件。</li>
         <li><a href="https://pub.flutter-io.cn/packages/flutter_blurhash">flutter_blurhash</a> - 图像占位符。</li>
         <li><a href="https://pub.flutter-io.cn/packages/just_audio">just_audio</a> - Flutter的功能丰富的音频播放器。以各种音频格式循环播放，剪辑和连接来自任何来源）的任何声音，并实现无缝播放。</li>  
         <li><a href="https://pub.flutter-io.cn/packages/sentry_flutter">sentry_flutter</a> - Flutter的崩溃报告库，可将崩溃报告发送到Sentry.io。</li>  
@@ -392,7 +406,37 @@
     <th>likes</th>
   </tr>
   </thead>
-  <tbody class="设备相关">
+  <tbody class="设备相关"><tr class="changeLogItem">
+    <td><a href="https://pub.flutter-io.cn/packages/battery_plus" rel="nofollow">battery_plus</a></td>
+    <td>访问有关电池状态（充满，充电，放电）的信息。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr><tr class="changeLogItem">
+    <td><a href="https://pub.flutter-io.cn/packages/draggable_scrollbar" rel="nofollow">draggable_scrollbar</a></td>
+    <td>可以拖动滚动条以快速浏览垂直列表。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr><tr class="changeLogItem">
+    <td><a href="https://pub.flutter-io.cn/packages/workmanager" rel="nofollow">workmanager</a></td>
+    <td>Flutter Workmanager。此插件可让您安排Android和iOS上的后台工作。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr><tr class="changeLogItem">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_sms" rel="nofollow">flutter_sms</a></td>
+    <td>可在iOS和Android上发送短信和彩信。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr><tr class="changeLogItem">
+    <td><a href="https://pub.flutter-io.cn/packages/sensors_plus" rel="nofollow">sensors_plus</a></td>
+    <td>用于访问加速度计和陀螺仪传感器。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr><tr class="changeLogItem">
+    <td><a href="https://pub.flutter-io.cn/packages/network_info_plus" rel="nofollow">network_info_plus</a></td>
+    <td>用于发现网络信息（例如，WiFi详细信息）。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/geolocator">geolocator</a></td>
     <td>Flutter的地理位置插件。该插件提供了用于通用位置（GPS等）功能。</td>
@@ -641,7 +685,17 @@
     <th>likes</th>
   </tr>
   </thead>
-  <tbody class="项目相关">
+  <tbody class="项目相关"><tr class="changeLogItem">
+    <td><a href="https://pub.flutter-io.cn/packages/rxdart" rel="nofollow">rxdart</a></td>
+    <td>RxDart是利用本机Dart Streams API为流行的用于异步编程的reactX api的实现。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr><tr class="changeLogItem">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_redux" rel="nofollow">flutter_redux</a></td>
+    <td>轻松使用 Redux Store来构建Flutter Widgets。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/catcher">catcher</a></td>
     <td>用于捕获错误的插件。当开发人员未发现错误时，允许进行处理。插件提供了多个错误处理程序。</td>
@@ -776,7 +830,12 @@
     <th>likes</th>
   </tr>
   </thead>
-  <tbody class="列表相关">
+  <tbody class="列表相关"><tr class="changeLogItem">
+    <td><a href="https://pub.flutter-io.cn/packages/infinite_listview" rel="nofollow">infinite_listview</a></td>
+    <td>具有可以在两个方向上无限滚动的项目的ListView。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/infinite_scroll_pagination" rel="nofollow">infinite_scroll_pagination</a></td>
     <td>当用户向下滚动屏幕时，懒惰地加载和显示项目页面。</td>
@@ -997,6 +1056,11 @@
   </tr>
   </thead>
   <tbody class="图像"><tr class="changeLogItem">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_launcher_icons" rel="nofollow">flutter_launcher_icons</a></td>
+    <td>Flutter启动器图标-一个软件包。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr><tr class="changeLogItem">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_blurhash" rel="nofollow">flutter_blurhash</a></td>
     <td>图像占位符</td>
     <td>暂无</td>
@@ -1558,7 +1622,27 @@
     <th>likes</th>
   </tr>
   </thead>
-  <tbody class="通讯类">
+  <tbody class="通讯类"><tr class="changeLogItem">
+    <td><a href="https://pub.flutter-io.cn/packages/firebase_core" rel="nofollow">firebase_core</a></td>
+    <td>用于Firebase Core的Flutter插件，可连接到多个Firebase应用程序。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr><tr class="changeLogItem">
+    <td><a href="https://pub.flutter-io.cn/packages/cloud_firestore" rel="nofollow">cloud_firestore</a></td>
+    <td>用于Cloud Firestore的Flutter插件，这是一个云托管的noSQL数据库，具有实时同步功能。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr><tr class="changeLogItem">
+    <td><a href="https://pub.flutter-io.cn/packages/sqflite" rel="nofollow">sqflite</a></td>
+    <td>SQLite的Flutter插件。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr><tr class="changeLogItem">
+    <td><a href="https://pub.flutter-io.cn/packages/firebase_auth" rel="nofollow">firebase_auth</a></td>
+    <td>用于Firebase身份验证的Flutter插件。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/share_plus" rel="nofollow">share_plus</a></td>
     <td>通过平台的“共享”对话框共享Flutter应用程序中的内容。</td>
@@ -1711,6 +1795,7 @@
   </tr>
   </tbody>
 </table>
+
 
 
 
