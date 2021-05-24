@@ -555,12 +555,6 @@
     <td>1025</td>
   </tr>
   <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/flutter_local_notifications">flutter_local_notifications</a></td>
-    <td>一个用于显示本地通知的多功能跨平台插件。</td>
-    <td>2021-05-22</td>
-    <td>1851</td>
-  </tr>
-  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/url_launcher">url_launcher</a></td>
     <td>一款支持android和IOS的插件，其中包含打开网址、发送邮件、拨打电话、以及发送信息功能。</td>
     <td>2021-05-19</td>
