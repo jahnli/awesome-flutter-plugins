@@ -15,7 +15,33 @@
 
 <br>
 
+<div class="changeLog">
 
+<div class="changeLogItem 05-24">
+      <h3>05-24</h3>
+      <ul>
+        <li><a href="https://pub.flutter-io.cn/packages/just_audio">just_audio</a> - Flutter的功能丰富的音频播放器。以各种音频格式循环播放，剪辑和连接来自任何来源）的任何声音，并实现无缝播放。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/sentry_flutter">sentry_flutter</a> - Flutter的崩溃报告库，可将崩溃报告发送到Sentry.io。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/infinite_scroll_pagination">infinite_scroll_pagination</a> - 当用户向下滚动屏幕时，懒惰地加载和显示项目页面。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/package_info_plus">package_info_plus</a> - 用于查询有关应用程序包的信息。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/device_info_plus">device_info_plus</a> - 可提供有关设备（制造商，型号等）以及运行该应用程序的Android或iOS版本的详细信息。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/share_plus">share_plus</a> - 通过平台的“共享”对话框共享Flutter应用程序中的内容。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/connectivity_plus">connectivity_plus</a> - 用于发现Android和iOS上的网络状态（WiFi和移动/蜂窝）连接。</li>  
+      </ul> 
+</div>
+
+<div class="changeLogItem 05-22">
+   <h3>05-22</h3>
+   <ul>
+	<li><a href="https://pub.flutter-io.cn/packages/popover">popover</a> - 点击元素，弹出气泡式的卡片浮层。</li>
+	<li><a href="https://pub.flutter-io.cn/packages/tflite_flutter">tflite_flutter</a> - TensorFlow Lite Flutter插件提供了轻松，灵活和快速的Dart API，可将TFLite模型集成到Flutter应用中。</li>
+	<li><a href="https://pub.flutter-io.cn/packages/dotted_line">dotted_line</a> - 使用Flutter绘制虚线。您可以绘制一条漂亮的虚线。</li>
+	<li><a href="https://pub.flutter-io.cn/packages/flutter_treeview">flutter_treeview</a> - 用于显示嵌套的分层数据。</li>
+	<li><a href="https://pub.flutter-io.cn/packages/emoji_picker_flutter">emoji_picker_flutter</a> - 提供了一个表情符号选择器小部件，其中包含8种类别的1500多种表情符号。</li>
+   </ul> 
+</div>  
+
+</div>
 
 <br>
 <br>
