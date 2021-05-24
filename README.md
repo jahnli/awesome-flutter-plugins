@@ -63,14 +63,12 @@
   </tr>
   </thead>
   <tbody class="插件">
-  <tr>
-    <td class="item"><a href="https://pub.flutter-io.cn/packages/infinite_scroll_pagination" rel="nofollow">infinite_scroll_pagination</a></td>
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/infinite_scroll_pagination" rel="nofollow">infinite_scroll_pagination</a></td>
     <td>当用户向下滚动屏幕时，懒惰地加载和显示项目页面。</td>
     <td>暂无</td>
     <td>暂无</td>
   </tr>
-
-      
   <tr class="item">
     <td><a href="https://github.com/Fliggy-Mobile">Fliggy Mobile</a></td>
     <td>【阿里巴巴-飞猪-FliggyMobile 技术团队】 开发维护的 FWidget 系列组件。</td>
@@ -653,20 +651,20 @@
   </tr>
   </thead>
   <tbody class="设备相关">
-  <tr>
+  <tr class="item">
     <td class="item"><a href="https://pub.flutter-io.cn/packages/package_info_plus" rel="nofollow">package_info_plus</a></td>
     <td>用于查询有关应用程序包的信息。</td>
     <td>暂无</td>
     <td>暂无</td>
   </tr>
-  <tr>
-    <td class="item"><a href="https://pub.flutter-io.cn/packages/device_info_plus" rel="nofollow">device_info_plus</a></td>
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/device_info_plus" rel="nofollow">device_info_plus</a></td>
     <td>可提供有关设备（制造商，型号等）以及运行该应用程序的Android或iOS版本的详细信息。</td>
     <td>暂无</td>
     <td>暂无</td>
   </tr>
-  <tr>
-    <td class="item"><a href="https://pub.flutter-io.cn/packages/connectivity_plus" rel="nofollow">connectivity_plus</a></td>
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/connectivity_plus" rel="nofollow">connectivity_plus</a></td>
     <td>用于发现Android和iOS上的网络状态（WiFi和移动/蜂窝）连接。</td>
     <td>暂无</td>
     <td>暂无</td>
@@ -902,8 +900,8 @@
   </tr>
   </thead>
   <tbody class="项目相关">
-  <tr>
-    <td class="item"><a href="https://pub.flutter-io.cn/packages/sentry_flutter" rel="nofollow">sentry_flutter</a></td>
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/sentry_flutter" rel="nofollow">sentry_flutter</a></td>
     <td>Flutter的崩溃报告库，可将崩溃报告发送到Sentry.io。</td>
     <td>暂无</td>
     <td>暂无</td>
@@ -1013,6 +1011,33 @@
   </tbody>
 </table>
 <br>
+	
+
+<blockquote>
+  <h3>列表相关</h3>
+</blockquote>
+
+<br>
+
+<table>
+  <thead>
+  <tr>
+    <th>依赖</th>
+    <th>描述</th>
+    <th>更新时间</th>
+    <th>likes</th>
+  </tr>
+  </thead>
+  <tbody class="列表相关">
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/sentry_flutter" rel="nofollow">sentry_flutter</a></td>
+    <td>Flutter的崩溃报告库，可将崩溃报告发送到Sentry.io。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+  </tbody>
+</table>
+<br>	
 
 <blockquote>
   <h3>音视频类</h3>
@@ -1030,8 +1055,8 @@
   </tr>
   </thead>
   <tbody class="音视频类">
-  <tr>
-    <td class="item"><a href="https://pub.flutter-io.cn/packages/just_audio" rel="nofollow">just_audio</a></td>
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/just_audio" rel="nofollow">just_audio</a></td>
     <td>Flutter的功能丰富的音频播放器。以各种音频格式循环播放，剪辑和连接来自任何来源）的任何声音，并实现无缝播放。</td>
     <td>暂无</td>
     <td>暂无</td>
@@ -1540,8 +1565,8 @@
   </tr>
   </thead>
   <tbody class="通讯类">
-  <tr>
-    <td class="item"><a href="https://pub.flutter-io.cn/packages/share_plus" rel="nofollow">share_plus</a></td>
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/share_plus" rel="nofollow">share_plus</a></td>
     <td>通过平台的“共享”对话框共享Flutter应用程序中的内容。</td>
     <td>暂无</td>
     <td>暂无</td>
