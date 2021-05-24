@@ -1008,14 +1008,12 @@
     <td>2021-05-14</td>
     <td>27</td>
     </tr>
-
    <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/graphx">graphx</a></td>
     <td>使Flutter中的绘图和动画极其简单。</td>
     <td>2021-03-25</td>
    <td>144</td>
    </tr>
-
    <tr class="item">
      <td><a href="https://pub.flutter-io.cn/packages/flutter_weather_bg">flutter_weather_bg</a></td>
      <td>多种天气背景动画效果。</td>
@@ -1028,145 +1026,135 @@
     <td>2021-03-29</td>
     <td>102</td>
   </tr>
-
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_custom_clippers">flutter_custom_clippers</a></td>
     <td>将widget裁剪成各种自定义形状。</td>
     <td>2020-08-31</td>
     <td>267</td>
   </tr>
-
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/loading_gifs">loading_gifs</a></td>
     <td>加载指示器GIF。</td>
     <td>2021-03-04</td>
     <td>27</td>
    </tr>
-
    <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/liquid_progress_indicator">liquid_progress_indicator</a></td>
     <td>水波效果的进度指示器。</td>
     <td>2019-08-13</td>
     <td>362</td>
-  </tr>
-
-  <tr class="item">
+   </tr>
+   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/model_viewer">model_viewer</a></td>
      <td>用于以glTF和GLB格式呈现交互式3D模型。</td>
      <td>2020-08-21</td>
      <td>55</td>
-  </tr>
-
+   </tr>
    <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/confetti">confetti</a></td>
     <td>在屏幕上吹起五彩纸屑。以风格庆祝应用成就。控制速度，角度，重力和纸屑量。</td>
     <td>2021-03-06</td> 
     <td>385</td>
-  </tr>
-
+   </tr>
    <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_icons">flutter_icons</a></td>
     <td>可定制的Flutter图标，在Flutter项目中可以使用超过3K +图标。</td>
     <td>2020-04-16</td>
     <td>486</td>
-  </tr>
-
+   </tr>
    <tr class="item"> 
      <td><a href="https://pub.flutter-io.cn/packages/signature">signature</a></td>
      <td>Flutter插件可提供性能优化的签名画布，并能够设置自定义样式，边界和初始状态。</td>
-    <td>2021-05-07</td>
-    <td>127</td>
+     <td>2021-05-07</td>
+     <td>127</td>
    </tr>
-
-  <tr class="item">
-   <td><a href="https://pub.flutter-io.cn/packages/screenshot">screenshot</a></td>
+   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/screenshot">screenshot</a></td>
     <td>Flutter屏幕截图程序包（运行时），将任何小部件捕获为图像。</td>
     <td>2021-02-10</td>
     <td>196</td>
    </tr>
-
    <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/concentric_transition">concentric_transition</a></td>
     <td>同心过渡剪切器，创建视图。适用于入门，页面过渡，自定义剪切器，绘画工具等。</td>
     <td>2021-05-19</td>
     <td>172</td>
-  </tr>
-
-  <tr class="item">
+   </tr>
+   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/crop_your_image">crop_your_image</a></td>
     <td>帮助您的应用嵌入用于裁剪图像的小部件。</td>
     <td>2021-04-07</td>
     <td>84</td>
-  </tr>
-  <tr class="item">
+   </tr>
+   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/image_painter">image_painter</a></td><td>用于在图像上绘画的插件。</td>
     <td>2021-03-28</td><td>21</td>
-  </tr>   
-  <tr class="item">
+   </tr>   
+   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/image_gallery_saver">image_gallery_saver</a></td><td>用于将图像保存到图库的flutter插件。</td>
     <td>2021-04-09</td><td>176</td>
-  </tr>
-  <tr class="item">
+   </tr>
+   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/nineold">nineold</a></td>
     <td>朋友圈9宫格图片显示，支持9+以上图片。</td>
     <td>2021-04-13</td>
     <td>2</td>
-  </tr>
-  <tr class="item">
+   </tr>
+   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/photo_manager">photo_manager</a></td>
     <td>使用api创建图像选择器或使用照片。</td>
     <td>2021-05-20</td>
     <td>156</td>
-  </tr>
-  <tr class="item">
+   </tr>
+   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/image_cropper">image_cropper</a></td>
     <td>适用于Android和iOS支持裁剪图像的Flutter插件。</td>
     <td>2021-03-07</td>
     <td>648</td>
-  </tr>
-  <tr class="item">
+   </tr>
+   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/edge_detection">edge_detection</a></td>
     <td>检测对象的边缘，扫描纸张，检测角，检测矩形。它允许裁剪检测到的对象图像并返回裁剪图像的路径。</td>
     <td>2021-05-18</td>
     <td>80</td>
-  </tr>
-  <tr class="item">
+   </tr>
+   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/before_after">before_after</a></td>
     <td>轻松地显示两个图像之间的差异。</td>
     <td>2020-11-07</td>
     <td>58</td>
   </tr>
-  <tr class="item">
+   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/imageview360">imageview360</a></td>
     <td>通过旋转和手势自定义提供360度的图像视图。</td>
     <td>2020-10-22</td>
     <td>72</td>
-  </tr>
-  <tr class="item">
+   </tr>
+   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_avatars_bottts">flutter_avatars_bottts</a></td>
     <td>svg头像渲染小部件。</td>
     <td>2020-09-05</td>
     <td>9</td>
-  </tr>
-  <tr class="item">
+   </tr>
+   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_image_compress">flutter_image_compress</a></td>
     <td>图片压缩。</td>
     <td>2021-03-25</td>
     <td>342</td>
-  </tr>
-  <tr class="item">
+   </tr>
+   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/cached_network_image">cached_network_image</a></td>
     <td>Flutter库可加载和缓存网络图像。</td>
     <td>2021-03-27</td>
     <td>1754</td>
-  </tr>
-  <tr class="item">
+   </tr>
+   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_gifimage">flutter_gifimage</a></td>
     <td>用于解决gif无法控制的速度，进度。</td>
     <td>2019-11-07</td>
     <td>27</td>
-  </tr>
-  <tr class="item">
+   </tr>
+   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/extended_image">extended_image</a></td>
     <td>
       强大的官方Image扩展组件,
@@ -1174,43 +1162,43 @@
     </td>
     <td>2021-05-06</td>
     <td>577</td>
-  </tr>
-  <tr class="item">
+   </tr>
+   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/extended_image_library">extended_image_library</a></td>
     <td>extended_image的基础库，如果你只需要网络图片缓存功能，你可以只引用这个库。</td>
     <td>2021-05-06</td>
     <td>29</td>
-  </tr>
-  <tr class="item">
+   </tr>
+   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_svg">flutter_svg</a></td>
     <td>Flutter的SVG渲染和窗口小部件库，允许绘制和显示可缩放矢量图形。</td>
     <td>2021-04-22</td>
     <td>1365</td>
-  </tr>
-  <tr class="item">
+   </tr>
+   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/font_awesome_flutter">font_awesome_flutter</a></td>
     <td>以Flutter Icons的形式提供. 提供1500个其他图标供您的应用使用。</td>
     <td>2021-03-19</td>
     <td>1424</td>
-  </tr>
-  <tr class="item">
+   </tr>
+   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/weather_icons">weather_icons</a></td>
     <td>带有200多个天气主题图标的图标包。</td>
     <td>2020-10-17</td>
     <td>34</td>
-  </tr>
-  <tr class="item">
+   </tr>
+   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/photo_view">photo_view</a></td>
     <td>图像能够通过用户手势（例如捏，旋转和拖动）进行缩放和平移，还可以显示任何窗口小部件而不是图像，例如容器，文本或SVG。</td>
     <td>2021-03-09</td>
     <td>925</td>
-  </tr>
-  <tr class="item">
+   </tr>
+   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_emoji">flutter_emoji</a></td>
     <td>轻巧的表情符号。</td>
     <td>2020-01-17</td>
     <td>68</td>
-  </tr>
+   </tr>
   </tbody>
 </table>
 <br>
@@ -1470,7 +1458,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/flutter_styled_toast">flutter_styled_toast</a></td>
     <td>自定义Toast。</td>
     <td>2021-03-18</td>
-   <td>132</td>
+    <td>132</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/rate_my_app">rate_my_app</a></td>
@@ -1478,42 +1466,36 @@
     <td>2021-03-22</td>
     <td>238</td>
   </tr>
-
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/gzx_dropdown_menu">gzx_dropdown_menu</a></td>
     <td>易于使用且功能强大的自定义功能，仿美团和淘宝下拉菜单。</td> 
     <td>2021-04-07</td>
     <td>73</td>
   </tr>
-
    <tr class="item"> 
      <td><a href="https://pub.flutter-io.cn/packages/giffy_dialog">giffy_dialog</a></td>
      <td>一个精美的自定义警报对话框。</td>
      <td>2020-07-16</td>
     <td>380</td>
   </tr>
-
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/popover">popover</a></td>
     <td>点击元素，弹出气泡式的卡片浮层。</td>
     <td>2021-05-21</td>
     <td>96</td>
   </tr>
-
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/showcaseview">showcaseview</a></td>
     <td>逐步展示/突出显示小部件，用于引导说明效果。</td>
     <td>2021-04-17</td>
     <td>424</td>
   </tr>
-
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/direct_select_flutter">direct_select_flutter</a></td>
     <td>选择控件，具有飘渺的全屏模式弹出窗口。</td>
     <td>2021-05-14</td>
     <td>119</td>
   </tr>
-
    <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/sliding_sheet">sliding_sheet</a></td>
     <td>以单个手势拖动和滚动并捕捉到范围列表的小部件。</td>
@@ -1521,10 +1503,10 @@
    <td>430</td>
   </tr>
   <tr class="item">
-	<td><a href="https://pub.flutter-io.cn/packages/upgrader">upgrader</a></td>
-	<td>用于在商店中有较新版本的应用程序时提示用户进行升级。</td>
-	<td>2021-05-15</td>
-	<td>313</td>
+    <td><a href="https://pub.flutter-io.cn/packages/upgrader">upgrader</a></td>
+    <td>用于在商店中有较新版本的应用程序时提示用户进行升级。</td>
+    <td>2021-05-15</td>
+    <td>313</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/sliding_panel">sliding_panel</a></td>
