@@ -17,6 +17,14 @@
 
 <div class="changeLog">
 
+<div class="item 05-24">
+      <h3>05-24</h3>
+      <ul>
+        <li><a href="https://pub.flutter-io.cn/packages/test1">test1</a> - test1test1test1test1</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/test">test</a> - testtesttesttesttest</li>  
+      </ul> 
+</div>
+
 <div class="item 05-22">
    <h3>05-22</h3>
    <ul>
@@ -50,6 +58,13 @@
   </tr>
   </thead>
   <tbody class="插件">
+        <tr>
+          <td class="item"><a href="https://pub.flutter-io.cn/packages/test" rel="nofollow">test</a></td>
+          <td>testtesttesttesttest</td>
+          <td>暂无</td>
+          <td>暂无</td>
+        </tr>
+      
   <tr class="item">
     <td><a href="https://github.com/Fliggy-Mobile">Fliggy Mobile</a></td>
     <td>【阿里巴巴-飞猪-FliggyMobile 技术团队】 开发维护的 FWidget 系列组件。</td>
@@ -863,6 +878,13 @@
   </tr>
   </thead>
   <tbody class="项目相关">
+        <tr>
+          <td class="item"><a href="https://pub.flutter-io.cn/packages/test1" rel="nofollow">test1</a></td>
+          <td>test1test1test1test1</td>
+          <td>暂无</td>
+          <td>暂无</td>
+        </tr>
+      
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/mobx">mobx</a></td><td>用于被动管理应用程序状态的库。</td>
     <td>2021-04-04</td><td>603</td>
@@ -1645,6 +1667,7 @@
 
 
 
-</ul>
+
+
 
 </body></html>
