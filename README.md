@@ -17,6 +17,19 @@
 
 <div class="changeLog">
 
+<div class="item 05-24">
+      <h3>05-24</h3>
+      <ul>
+        <li><a href="https://pub.flutter-io.cn/packages/just_audio">just_audio</a> - Flutter的功能丰富的音频播放器。以各种音频格式循环播放，剪辑和连接来自任何来源）的任何声音，并实现无缝播放。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/sentry_flutter">sentry_flutter</a> - Flutter的崩溃报告库，可将崩溃报告发送到Sentry.io。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/infinite_scroll_pagination">infinite_scroll_pagination</a> - 当用户向下滚动屏幕时，懒惰地加载和显示项目页面。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/package_info_plus">package_info_plus</a> - 用于查询有关应用程序包的信息。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/device_info_plus">device_info_plus</a> - 可提供有关设备（制造商，型号等）以及运行该应用程序的Android或iOS版本的详细信息。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/share_plus">share_plus</a> - 通过平台的“共享”对话框共享Flutter应用程序中的内容。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/connectivity_plus">connectivity_plus</a> - 用于发现Android和iOS上的网络状态（WiFi和移动/蜂窝）连接。</li>  
+      </ul> 
+</div>
+
 <div class="item 05-22">
    <h3>05-22</h3>
    <ul>
@@ -50,6 +63,12 @@
   </tr>
   </thead>
   <tbody class="插件">
+  <tr>
+    <td class="item"><a href="https://pub.flutter-io.cn/packages/infinite_scroll_pagination" rel="nofollow">infinite_scroll_pagination</a></td>
+    <td>当用户向下滚动屏幕时，懒惰地加载和显示项目页面。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
 
       
   <tr class="item">
@@ -634,6 +653,24 @@
   </tr>
   </thead>
   <tbody class="设备相关">
+  <tr>
+    <td class="item"><a href="https://pub.flutter-io.cn/packages/package_info_plus" rel="nofollow">package_info_plus</a></td>
+    <td>用于查询有关应用程序包的信息。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+  <tr>
+    <td class="item"><a href="https://pub.flutter-io.cn/packages/device_info_plus" rel="nofollow">device_info_plus</a></td>
+    <td>可提供有关设备（制造商，型号等）以及运行该应用程序的Android或iOS版本的详细信息。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+  <tr>
+    <td class="item"><a href="https://pub.flutter-io.cn/packages/connectivity_plus" rel="nofollow">connectivity_plus</a></td>
+    <td>用于发现Android和iOS上的网络状态（WiFi和移动/蜂窝）连接。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/nfc_manager">nfc_manager</a></td>
     <td>用于访问Android和iOS上的NFC功能。</td>
@@ -865,6 +902,12 @@
   </tr>
   </thead>
   <tbody class="项目相关">
+  <tr>
+    <td class="item"><a href="https://pub.flutter-io.cn/packages/sentry_flutter" rel="nofollow">sentry_flutter</a></td>
+    <td>Flutter的崩溃报告库，可将崩溃报告发送到Sentry.io。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/mobx">mobx</a></td><td>用于被动管理应用程序状态的库。</td>
     <td>2021-04-04</td><td>603</td>
@@ -987,6 +1030,12 @@
   </tr>
   </thead>
   <tbody class="音视频类">
+  <tr>
+    <td class="item"><a href="https://pub.flutter-io.cn/packages/just_audio" rel="nofollow">just_audio</a></td>
+    <td>Flutter的功能丰富的音频播放器。以各种音频格式循环播放，剪辑和连接来自任何来源）的任何声音，并实现无缝播放。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/better_player">better_player</a></td>
     <td>基于video_player和Chewie的高级视频播放器。</td>
@@ -1491,6 +1540,12 @@
   </tr>
   </thead>
   <tbody class="通讯类">
+  <tr>
+    <td class="item"><a href="https://pub.flutter-io.cn/packages/share_plus" rel="nofollow">share_plus</a></td>
+    <td>通过平台的“共享”对话框共享Flutter应用程序中的内容。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/dim">dim</a></td>
     <td>方便地与腾讯imsdk集成，可以轻松地在flutter上使用imsdk。</td>
@@ -1637,6 +1692,7 @@
   </tr>
   </tbody>
 </table>
+
 
 
 
