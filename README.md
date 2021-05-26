@@ -1502,7 +1502,7 @@
 <br>
 
 <blockquote>
-  <h3>弹框 / 底部弹片 /Toast</h3>
+  <h3>弹框 / 底部弹片 / Toast</h3>
 </blockquote>
 
 <br>
