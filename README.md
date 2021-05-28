@@ -20,6 +20,12 @@
 <div class="changeLogItem 05-28">
       <h3>05-28</h3>
       <ul>
+        <li><a href="https://pub.flutter-io.cn/packages/crop">crop</a> - 裁剪任何小部件，不仅限于图像。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_picker">flutter_picker</a> - Flutter插件选择器。包括NumberPicker，DateTimePicker，ArrayPicker和默认链接选择器。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/share_extend">share_extend</a> - 用于与系统ui共享文本，图像，视频和文件。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/device_preview">device_preview</a> - 预览Flutter应用在其他设备上的外观和性能。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/drawing_animation">drawing_animation</a> - 画布上逐渐绘制SVG路径对象。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/location">location</a> - 可轻松处理iOS和Android中的实时位置。</li>
         <li><a href="https://pub.flutter-io.cn/packages/flutter_vpn">flutter_vpn</a> - 应用内调用 VPN 服务。</li>  
         <li><a href="https://pub.flutter-io.cn/packages/pluto_grid">pluto_grid</a> - 数据表格展示。</li>  
         <li><a href="https://pub.flutter-io.cn/packages/flutter_statusbarcolor_ns">flutter_statusbarcolor_ns</a> - Flutter的翻译和国际化（i18n）。大型和小型项目均易于使用。</li>  
@@ -90,6 +96,13 @@
   </tr>
   </thead>
   <tbody class="插件">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_picker" rel="nofollow">flutter_picker</a></td>
+    <td>Flutter插件选择器。包括NumberPicker，DateTimePicker，ArrayPicker和默认链接选择器。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/biometric_storage" rel="nofollow">biometric_storage</a></td>
@@ -429,6 +442,13 @@
   <tbody class="设备相关">
       
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/share_extend" rel="nofollow">share_extend</a></td>
+    <td>用于与系统ui共享文本，图像，视频和文件。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_vpn" rel="nofollow">flutter_vpn</a></td>
     <td>应用内调用 VPN 服务。</td>
     <td>暂无</td>
@@ -733,6 +753,13 @@
   </tr>
   </thead>
   <tbody class="项目相关">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/device_preview" rel="nofollow">device_preview</a></td>
+    <td>预览Flutter应用在其他设备上的外观和性能。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_statusbarcolor_ns" rel="nofollow">flutter_statusbarcolor_ns</a></td>
@@ -1120,6 +1147,20 @@
   </tr>
   </thead>
   <tbody class="图像">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/crop" rel="nofollow">crop</a></td>
+    <td>裁剪任何小部件，不仅限于图像。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/drawing_animation" rel="nofollow">drawing_animation</a></td>
+    <td>画布上逐渐绘制SVG路径对象。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_launcher_icons" rel="nofollow">flutter_launcher_icons</a></td>
     <td>Flutter启动器图标-一个软件包。</td>
@@ -1781,6 +1822,13 @@
   </tr>
   </thead>
   <tbody class="地图类">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/location" rel="nofollow">location</a></td>
+    <td>可轻松处理iOS和Android中的实时位置。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/amap_all_fluttify">amap_all_fluttify</a></td>
     <td>由Fluttify提供的高德地图整合组件（包含搜索、定位、地图）。</td>
