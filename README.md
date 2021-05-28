@@ -35,7 +35,6 @@
         <li><a href="https://pub.flutter-io.cn/packages/flutter_vpn">flutter_vpn</a> - 应用内调用 VPN 服务。</li>  
         <li><a href="https://pub.flutter-io.cn/packages/pluto_grid">pluto_grid</a> - 数据表格展示。</li>  
         <li><a href="https://pub.flutter-io.cn/packages/flutter_statusbarcolor_ns">flutter_statusbarcolor_ns</a> - Flutter的翻译和国际化（i18n）。大型和小型项目均易于使用。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/i18n_extension">i18n_extension</a> - 帮助您以编程方式更改Flutter应用程序状态栏的颜色或导航栏的颜色。</li>  
         <li><a href="https://pub.flutter-io.cn/packages/biometric_storage">biometric_storage</a> - 加密的文件存储，可以选择通过针对Android，iOS，MacOS的生物特征识别锁进行保护，并部分支持Linux，Windows和Web。</li>  
         <li><a href="https://pub.flutter-io.cn/packages/flutter_statusbarcolor_ns">flutter_statusbarcolor_ns</a> - 帮助您以编程方式更改Flutter应用程序状态栏的颜色或导航栏的颜色。</li>  
       </ul> 
@@ -477,13 +476,6 @@
     <td>应用内调用 VPN 服务。</td>
     <td>2021-02-27</td>
     <td>33</td>
-  </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/i18n_extension" rel="nofollow">i18n_extension</a></td>
-    <td>帮助您以编程方式更改Flutter应用程序状态栏的颜色或导航栏的颜色。</td>
-    <td>2021-04-14</td>
-    <td>221</td>
   </tr>
       
   <tr class="item">
