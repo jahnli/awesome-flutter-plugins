@@ -20,6 +20,12 @@
 <div class="changeLogItem 05-28">
       <h3>05-28</h3>
       <ul>
+        <li><a href="https://pub.flutter-io.cn/packages/responsive_framework">responsive_framework</a> - 轻松使Flutter应用程序具有响应能力。自动使UI适应不同的屏幕尺寸。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/panorama">panorama</a> - 全景图-360度全景图查看器。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/carousel_slider">carousel_slider</a> - 轮播控件，支持无限滚动和自定义子控件。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/native_pdf_view">native_pdf_view</a> - 可在Web，MacOS，Android和iOS上呈现PDF文件。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/pdf">pdf</a> - 为Web或Flutter创建pdf文件。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/arcore_flutter_plugin">arcore_flutter_plugin</a> - 用于ARCore SDK的Flutter插件，Android平台可构建新的增强现实体验。</li>
         <li><a href="https://pub.flutter-io.cn/packages/crop">crop</a> - 裁剪任何小部件，不仅限于图像。</li>
         <li><a href="https://pub.flutter-io.cn/packages/flutter_picker">flutter_picker</a> - Flutter插件选择器。包括NumberPicker，DateTimePicker，ArrayPicker和默认链接选择器。</li>
         <li><a href="https://pub.flutter-io.cn/packages/share_extend">share_extend</a> - 用于与系统ui共享文本，图像，视频和文件。</li>
@@ -96,6 +102,34 @@
   </tr>
   </thead>
   <tbody class="插件">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/carousel_slider" rel="nofollow">carousel_slider</a></td>
+    <td>轮播控件，支持无限滚动和自定义子控件。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/native_pdf_view" rel="nofollow">native_pdf_view</a></td>
+    <td>可在Web，MacOS，Android和iOS上呈现PDF文件。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/pdf" rel="nofollow">pdf</a></td>
+    <td>为Web或Flutter创建pdf文件。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/arcore_flutter_plugin" rel="nofollow">arcore_flutter_plugin</a></td>
+    <td>用于ARCore SDK的Flutter插件，Android平台可构建新的增强现实体验。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_picker" rel="nofollow">flutter_picker</a></td>
@@ -755,6 +789,13 @@
   <tbody class="项目相关">
       
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/responsive_framework" rel="nofollow">responsive_framework</a></td>
+    <td>轻松使Flutter应用程序具有响应能力。自动使UI适应不同的屏幕尺寸。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/device_preview" rel="nofollow">device_preview</a></td>
     <td>预览Flutter应用在其他设备上的外观和性能。</td>
     <td>2021-05-25</td>
@@ -1147,6 +1188,13 @@
   </tr>
   </thead>
   <tbody class="图像">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/panorama" rel="nofollow">panorama</a></td>
+    <td>全景图-360度全景图查看器。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/crop" rel="nofollow">crop</a></td>
