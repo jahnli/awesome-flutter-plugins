@@ -17,6 +17,18 @@
 
 <div class="changeLog">
 
+<div class="changeLogItem 05-28">
+      <h3>05-28</h3>
+      <ul>
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_vpn">flutter_vpn</a> - 应用内调用 VPN 服务。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/pluto_grid">pluto_grid</a> - 数据表格展示。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_statusbarcolor_ns">flutter_statusbarcolor_ns</a> - Flutter的翻译和国际化（i18n）。大型和小型项目均易于使用。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/i18n_extension">i18n_extension</a> - 帮助您以编程方式更改Flutter应用程序状态栏的颜色或导航栏的颜色。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/biometric_storage">biometric_storage</a> - 加密的文件存储，可以选择通过针对Android，iOS，MacOS的生物特征识别锁进行保护，并部分支持Linux，Windows和Web。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_statusbarcolor_ns">flutter_statusbarcolor_ns</a> - 帮助您以编程方式更改Flutter应用程序状态栏的颜色或导航栏的颜色。</li>  
+      </ul> 
+</div>
+
 <div class="changeLogItem 05-24">
       <h3>05-24</h3>
       <ul>
@@ -78,6 +90,13 @@
   </tr>
   </thead>
   <tbody class="插件">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/biometric_storage" rel="nofollow">biometric_storage</a></td>
+    <td>加密的文件存储，可以选择通过针对Android，iOS，MacOS的生物特征识别锁进行保护，并部分支持Linux，Windows和Web。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
   <tr class="item">
     <td><a href="https://github.com/Fliggy-Mobile">Fliggy Mobile</a></td>
     <td>【阿里巴巴-飞猪-FliggyMobile 技术团队】 开发维护的 FWidget 系列组件。</td>
@@ -408,6 +427,27 @@
   </tr>
   </thead>
   <tbody class="设备相关">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_vpn" rel="nofollow">flutter_vpn</a></td>
+    <td>应用内调用 VPN 服务。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/i18n_extension" rel="nofollow">i18n_extension</a></td>
+    <td>帮助您以编程方式更改Flutter应用程序状态栏的颜色或导航栏的颜色。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_statusbarcolor_ns" rel="nofollow">flutter_statusbarcolor_ns</a></td>
+    <td>帮助您以编程方式更改Flutter应用程序状态栏的颜色或导航栏的颜色。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/battery_plus" rel="nofollow">battery_plus</a></td>
     <td>访问有关电池状态（充满，充电，放电）的信息。</td>
@@ -693,6 +733,13 @@
   </tr>
   </thead>
   <tbody class="项目相关">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_statusbarcolor_ns" rel="nofollow">flutter_statusbarcolor_ns</a></td>
+    <td>Flutter的翻译和国际化（i18n）。大型和小型项目均易于使用。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/rxdart" rel="nofollow">rxdart</a></td>
     <td>RxDart是利用本机Dart Streams API为流行的用于异步编程的reactX api的实现。</td>
@@ -840,6 +887,13 @@
   </tr>
   </thead>
   <tbody class="列表相关">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/pluto_grid" rel="nofollow">pluto_grid</a></td>
+    <td>数据表格展示。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/infinite_listview" rel="nofollow">infinite_listview</a></td>
     <td>具有可以在两个方向上无限滚动的项目的ListView。</td>
