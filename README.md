@@ -36,7 +36,6 @@
         <li><a href="https://pub.flutter-io.cn/packages/material_floating_search_bar">material_floating_search_bar</a> - 可扩展的动画浮动搜索栏的Flutter实现。</li>  
         <li><a href="https://pub.flutter-io.cn/packages/syncfusion_flutter_datepicker">syncfusion_flutter_datepicker</a> - 使用户可以轻松选择日期或日期范围。</li>  
         <li><a href="https://pub.flutter-io.cn/packages/flutter_secure_keyboard">flutter_secure_keyboard</a> - 移动安全键盘可防止KeyLogger攻击和屏幕捕获。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/GSYVideoPlayer">GSYVideoPlayer</a> - 持播放幕，外挂字幕，支持滤镜，水印，gif截图，片头广告，中间广告，多个同时播放，支持基本的实现，声音，亮度调节，，支持边播边缓存，支持视频自带旋转的旋转（90,270之类），重力旋转与手动旋转的同步支持，支持列表播放，列表全屏动画，视频加载速度，列表小窗口支持最大化，动画效果，调整比例，多分辨率切换，支持切换播放器，进度条小窗口预览的播放器。。</li>  
         <li><a href="https://pub.flutter-io.cn/packages/flutter_charset_detector">flutter_charset_detector</a> - 检测并解码文本字节的字符集（字符编码）。</li>  
         <li><a href="https://pub.flutter-io.cn/packages/flutter_tencentplayer">flutter_tencentplayer</a> - 用于播放腾讯云点播视频，实时流媒体，离线下载等的本机插件。</li>  
         <li><a href="https://pub.flutter-io.cn/packages/editable">editable</a> - 高度可定制，可编辑的数据表格。</li>  
@@ -1225,14 +1224,7 @@
   </tr>
   </thead>
   <tbody class="音视频类">
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/GSYVideoPlayer" rel="nofollow">GSYVideoPlayer</a></td>
-    <td>持播放幕，外挂字幕，支持滤镜，水印，gif截图，片头广告，中间广告，多个同时播放，支持基本的实现，声音，亮度调节，，支持边播边缓存，支持视频自带旋转的旋转（90,270之类），重力旋转与手动旋转的同步支持，支持列表播放，列表全屏动画，视频加载速度，列表小窗口支持最大化，动画效果，调整比例，多分辨率切换，支持切换播放器，进度条小窗口预览的播放器。。</td>
-    <td>暂无</td>
-    <td>暂无</td>
-  </tr>
-      
+           
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_tencentplayer" rel="nofollow">flutter_tencentplayer</a></td>
     <td>用于播放腾讯云点播视频，实时流媒体，离线下载等的本机插件。</td>
