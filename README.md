@@ -24,7 +24,6 @@
         <li><a href="https://pub.flutter-io.cn/packages/date_format">date_format</a> - 用于格式化日期。提供各种常量以构建Date格式的字符串。使用`formatDate`方法根据格式字符串格式化日期。</li>  
         <li><a href="https://pub.flutter-io.cn/packages/flutter_form_builder">flutter_form_builder</a> - 通过删除样板代码，重用验证，对更改做出反应并收集最终用户输入来帮助在Flutter中创建表单。</li>  
         <li><a href="https://pub.flutter-io.cn/packages/flutter_platform_widgets">flutter_platform_widgets</a> - 通过单个小部件简化了Material和Cupertino小部件的使用。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_login">flutter_login</a> -  具有登录/注册功能的登录小部件，可帮助加快开发速度。</li>  
         <li><a href="https://pub.flutter-io.cn/packages/splashscreen">splashscreen</a> - 大量定制可轻松为任何flutter应用程序创建一个介绍性的启动画面包。</li>  
         <li><a href="https://pub.flutter-io.cn/packages/lazy_load_scrollview">lazy_load_scrollview</a> - 延迟加载ScrollView的包装器。</li>  
         <li><a href="https://pub.flutter-io.cn/packages/flutter_quill">flutter_quill</a> - 支持移动和Web的富文本编辑器。</li>  
