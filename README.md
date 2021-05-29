@@ -10,8 +10,8 @@
 掘金文章地址：https://juejin.im/post/5edeee2e51882542f347030c
 <br>
 
-<h3 id="count">收录 297 个</h3>   
-<h3 id="updateTime">最新同步：2021-05-30 00:17</h3>
+<h3 id="count">收录 304 个</h3>   
+<h3 id="updateTime">最新同步：2021-05-30 01:10</h3>
 
 <br>
 
@@ -215,7 +215,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/arcore_flutter_plugin" rel="nofollow">arcore_flutter_plugin</a></td>
     <td>用于ARCore SDK的Flutter插件，Android平台可构建新的增强现实体验。</td>
     <td>2021-05-15</td>
-    <td>126</td>
+    <td>127</td>
   </tr>
       
   <tr class="item">
@@ -299,7 +299,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/wave">wave</a></td>
     <td>创建具有自定义颜色，时间，浮动和模糊效果的波形小部件。</td>
     <td>2021-03-31</td>
-    <td>263</td>
+    <td>264</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/credit_card_input_form">credit_card_input_form</a></td>
@@ -317,7 +317,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/arkit_plugin">arkit_plugin</a></td>
     <td>ARKit-Apple的iOS移动设备增强现实（AR）开发平台。</td>
     <td>2021-03-27</td>
-    <td>152</td>
+    <td>153</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/auto_size_text">auto_size_text</a></td>
@@ -479,13 +479,13 @@
     <td><a href="https://pub.flutter-io.cn/packages/flutter_rating_bar">flutter_rating_bar</a></td>
     <td>一个简单但完全可定制的评分栏。</td>
     <td>2021-02-19</td>
-    <td>586</td>
+    <td>587</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_easyloading">flutter_easyloading</a></td>
     <td>一个简单易用的Flutter插件，包含23种loading动画效果、进度条展示、Toast展示。纯Flutter端实现，兼容性好，支持iOS、Android。</td>
     <td>2021-03-12</td>
-    <td>488</td>
+    <td>489</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/double_back_to_close_app">double_back_to_close_app</a></td>
@@ -527,7 +527,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/timeline_tile">timeline_tile</a></td>
     <td>建立高度可定制的时间线。</td>
     <td>2021-03-10</td>
-    <td>850</td>
+    <td>851</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/animated_text_kit">animated_text_kit</a></td>
@@ -630,7 +630,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/network_info_plus" rel="nofollow">network_info_plus</a></td>
     <td>用于发现网络信息（例如，WiFi详细信息）。</td>
     <td>2021-04-28</td>
-    <td>16</td>
+    <td>17</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/geolocator">geolocator</a></td>
@@ -977,7 +977,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/get">get</a></td>
     <td>Flutter的轻便而强大的解决方案。它结合了高性能状态管理，智能依赖注入和快速实用的路由管理。</td>
     <td>2021-04-11</td>
-    <td>4638</td>
+    <td>4639</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/get_storage">get_storage</a></td>
@@ -1007,13 +1007,13 @@
     <td><a href="https://pub.flutter-io.cn/packages/dio">Dio</a></td>
     <td>Dart的强大Http客户端，支持拦截器，全局配置，FormData，请求取消，文件下载，超时等。</td>
     <td>2021-03-28</td>
-    <td>2190</td>
+    <td>2191</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/shared_preferences">shared_preferences</a></td>
     <td>读取、设置缓存。</td>
     <td>2021-05-25</td>
-    <td>3295</td>
+    <td>3296</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/fluro">fluro</a></td>
@@ -1025,7 +1025,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/provider">provider</a></td>
     <td>官方推荐的状态管理。</td>
     <td>2021-03-04</td>
-    <td>4296</td>
+    <td>4297</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/intl">intl</a></td>
@@ -1190,7 +1190,7 @@
    <td><a href="https://pub.flutter-io.cn/packages/filter_list">filter_list</a></td>
    <td>从列表中过滤数据。</td>
    <td>2021-05-21</td>
-   <td>101</td>
+   <td>102</td>
   </tr>
   <tr class="item">
    <td><a href="https://pub.flutter-io.cn/packages/flutter_swipe_action_cell">flutter_swipe_action_cell</a></td>
@@ -1202,7 +1202,7 @@
    <td><a href="https://pub.flutter-io.cn/packages/flutter_staggered_grid_view">flutter_staggered_grid_view</a></td>
    <td>瀑布流展示控件，支持多列且行大小不同。</td>
    <td>2021-04-11</td>
-   <td>1075</td>
+   <td>1076</td>
   </tr>
   <tr class="item">
    <td><a href="https://pub.flutter-io.cn/packages/reorderables">reorderables</a></td>
@@ -1496,7 +1496,7 @@
    </tr>   
    <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/image_gallery_saver">image_gallery_saver</a></td><td>用于将图像保存到图库的flutter插件。</td>
-    <td>2021-04-09</td><td>181</td>
+    <td>2021-04-09</td><td>182</td>
    </tr>
    <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/nineold">nineold</a></td>
@@ -1862,7 +1862,7 @@
      <td><a href="https://pub.flutter-io.cn/packages/flash">flash</a></td>
      <td>高度可定制，功能强大且易于使用的警报库。</td>
       <td>2021-05-17</td>
-     <td>395</td>
+     <td>396</td>
   </tr>
 
   <tr class="item">
@@ -1899,7 +1899,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/showcaseview">showcaseview</a></td>
     <td>逐步展示/突出显示小部件，用于引导说明效果。</td>
     <td>2021-04-17</td>
-    <td>429</td>
+    <td>430</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/direct_select_flutter">direct_select_flutter</a></td>
@@ -1974,43 +1974,43 @@
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/jmlink_flutter_plugin" rel="nofollow">jmlink_flutter_plugin</a></td>
     <td>移动端 JMLink 服务可以从多种渠道中唤醒 APP 内一个具体的页面。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-05-25</td>
+    <td>0</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/jshare_flutter_plugin" rel="nofollow">jshare_flutter_plugin</a></td>
     <td>具备国内外主流社交平台分享和第三方登录功能，提供新浪微博、QQ、微信、Facebook、twitter 等第三方社会化服务。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-05-25</td>
+    <td>0</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/janalytics" rel="nofollow">janalytics</a></td>
     <td>利用极光推送的数据和网络优势而推出的数据统计分析服务。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-05-25</td>
+    <td>1</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/jverify" rel="nofollow">jverify</a></td>
     <td>整合了三大运营商的网关认证能力，为开发者提供了一键登录和号码认证功能，优化用户注册/登录、号码验证的体验，提高安全性。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-05-25</td>
+    <td>2</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/jmessage_flutter" rel="nofollow">jmessage_flutter</a></td>
     <td>极光 IM（英文名 JMessage）致力于帮助 App 解决应用内聊天和跨应用聊天问题。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-05-25</td>
+    <td>5</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/jpush_flutter" rel="nofollow">jpush_flutter</a></td>
     <td>极光推送官方支持的Flutter插件。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-05-25</td>
+    <td>29</td>
   </tr>
       
   <tr class="item">
@@ -2115,15 +2115,15 @@
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_baidu_mapapi_map" rel="nofollow">flutter_baidu_mapapi_map</a></td>
     <td>百度地图Flutter插件。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-02-26</td>
+    <td>3</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_bmflocation" rel="nofollow">flutter_bmflocation</a></td>
     <td>百度地图定位Flutter插件。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-02-26</td>
+    <td>10</td>
   </tr>
       
   <tr class="item">
