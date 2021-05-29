@@ -20,6 +20,14 @@
 <div class="changeLogItem 05-30">
       <h3>05-30</h3>
       <ul>
+        <li><a href="https://pub.flutter-io.cn/packages/jmlink_flutter_plugin">jmlink_flutter_plugin</a> - 移动端 JMLink 服务可以从多种渠道中唤醒 APP 内一个具体的页面。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/jshare_flutter_plugin">jshare_flutter_plugin</a> - 具备国内外主流社交平台分享和第三方登录功能，提供新浪微博、QQ、微信、Facebook、twitter 等第三方社会化服务。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/janalytics">janalytics</a> - 利用极光推送的数据和网络优势而推出的数据统计分析服务。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/jverify">jverify</a> - 整合了三大运营商的网关认证能力，为开发者提供了一键登录和号码认证功能，优化用户注册/登录、号码验证的体验，提高安全性。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/jmessage_flutter">jmessage_flutter</a> - 极光 IM（英文名 JMessage）致力于帮助 App 解决应用内聊天和跨应用聊天问题。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/jpush_flutter">jpush_flutter</a> - 极光推送官方支持的Flutter插件。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_baidu_mapapi_map">flutter_baidu_mapapi_map</a> - 百度地图Flutter插件。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_bmflocation">flutter_bmflocation</a> - 百度地图定位Flutter插件。</li>
         <li><a href="https://pub.flutter-io.cn/packages/google_mobile_ads">google_mobile_ads</a> - 希望通过Flutter应用获利的发布商，适用于Google移动广告的Flutter插件，支持横幅广告，非页内广告（全屏），奖励广告和原生广告。</li>  
         <li><a href="https://pub.flutter-io.cn/packages/custom_timer">custom_timer</a> - 高度可定制的计时器构建器，具有控制器，动画，间隔，回调，自定义操作等。</li>  
         <li><a href="https://pub.flutter-io.cn/packages/amap_flutter_location">amap_flutter_location</a> - 高德官方定位Flutter插件。</li>  
@@ -1964,6 +1972,48 @@
   <tbody class="通讯类">
       
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/jmlink_flutter_plugin" rel="nofollow">jmlink_flutter_plugin</a></td>
+    <td>移动端 JMLink 服务可以从多种渠道中唤醒 APP 内一个具体的页面。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/jshare_flutter_plugin" rel="nofollow">jshare_flutter_plugin</a></td>
+    <td>具备国内外主流社交平台分享和第三方登录功能，提供新浪微博、QQ、微信、Facebook、twitter 等第三方社会化服务。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/janalytics" rel="nofollow">janalytics</a></td>
+    <td>利用极光推送的数据和网络优势而推出的数据统计分析服务。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/jverify" rel="nofollow">jverify</a></td>
+    <td>整合了三大运营商的网关认证能力，为开发者提供了一键登录和号码认证功能，优化用户注册/登录、号码验证的体验，提高安全性。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/jmessage_flutter" rel="nofollow">jmessage_flutter</a></td>
+    <td>极光 IM（英文名 JMessage）致力于帮助 App 解决应用内聊天和跨应用聊天问题。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/jpush_flutter" rel="nofollow">jpush_flutter</a></td>
+    <td>极光推送官方支持的Flutter插件。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_bugly" rel="nofollow">flutter_bugly</a></td>
     <td>用于腾讯Bugly，崩溃监控，崩溃分析，异常报告，应用程序更新，数据统计等。</td>
     <td>2021-04-11</td>
@@ -2063,6 +2113,20 @@
   <tbody class="地图类">
       
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_baidu_mapapi_map" rel="nofollow">flutter_baidu_mapapi_map</a></td>
+    <td>百度地图Flutter插件。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_bmflocation" rel="nofollow">flutter_bmflocation</a></td>
+    <td>百度地图定位Flutter插件。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/amap_flutter_location" rel="nofollow">amap_flutter_location</a></td>
     <td>高德官方定位Flutter插件。</td>
     <td>2021-04-21</td>
@@ -2153,6 +2217,7 @@
   </tr>
   </tbody>
 </table>
+
 
 
 
