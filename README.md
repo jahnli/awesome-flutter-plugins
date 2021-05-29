@@ -17,6 +17,33 @@
 
 <div class="changeLog">
 
+<div class="changeLogItem 05-29">
+      <h3>05-29</h3>
+      <ul>
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_scankit">flutter_scankit</a> - 扫描代码Flutter插件，是华为扫描SDK的Flutter软件包。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/date_format">date_format</a> - 用于格式化日期。提供各种常量以构建Date格式的字符串。使用`formatDate`方法根据格式字符串格式化日期。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_form_builder">flutter_form_builder</a> - 通过删除样板代码，重用验证，对更改做出反应并收集最终用户输入来帮助在Flutter中创建表单。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_platform_widgets">flutter_platform_widgets</a> - 通过单个小部件简化了Material和Cupertino小部件的使用。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_login">flutter_login</a> -  具有登录/注册功能的登录小部件，可帮助加快开发速度。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/splashscreen">splashscreen</a> - 大量定制可轻松为任何flutter应用程序创建一个介绍性的启动画面包。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/lazy_load_scrollview">lazy_load_scrollview</a> - 延迟加载ScrollView的包装器。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_quill">flutter_quill</a> - 支持移动和Web的富文本编辑器。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/flex_color_scheme">flex_color_scheme</a> - 制作和使用基于MaterialApp主题的精美配色方案。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/sign_button">sign_button</a> - 为不同的社交媒体帐户生成登录按钮。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/velocity_x">velocity_x</a> - 开源极简UI框架，可快速构建定制设计。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/getwidget">getwidget</a> - 带有预构建的1000多个UI组件。它使开发更快，更愉快。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/draggable_scrollbar">draggable_scrollbar</a> - 可以拖动滚动条以快速浏览垂直列表。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/material_floating_search_bar">material_floating_search_bar</a> - 可扩展的动画浮动搜索栏的Flutter实现。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/syncfusion_flutter_datepicker">syncfusion_flutter_datepicker</a> - 使用户可以轻松选择日期或日期范围。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_secure_keyboard">flutter_secure_keyboard</a> - 移动安全键盘可防止KeyLogger攻击和屏幕捕获。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/GSYVideoPlayer">GSYVideoPlayer</a> - 持播放幕，外挂字幕，支持滤镜，水印，gif截图，片头广告，中间广告，多个同时播放，支持基本的实现，声音，亮度调节，，支持边播边缓存，支持视频自带旋转的旋转（90,270之类），重力旋转与手动旋转的同步支持，支持列表播放，列表全屏动画，视频加载速度，列表小窗口支持最大化，动画效果，调整比例，多分辨率切换，支持切换播放器，进度条小窗口预览的播放器。。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_charset_detector">flutter_charset_detector</a> - 检测并解码文本字节的字符集（字符编码）。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_tencentplayer">flutter_tencentplayer</a> - 用于播放腾讯云点播视频，实时流媒体，离线下载等的本机插件。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/editable">editable</a> - 高度可定制，可编辑的数据表格。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/dartx">dartx</a> - 静态扩展方法的集合。</li>  
+      </ul> 
+</div>
+
 <div class="changeLogItem 05-28">
       <h3>05-28</h3>
       <ul>
@@ -91,6 +118,83 @@
   </tr>
   </thead>
   <tbody class="插件">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_form_builder" rel="nofollow">flutter_form_builder</a></td>
+    <td>通过删除样板代码，重用验证，对更改做出反应并收集最终用户输入来帮助在Flutter中创建表单。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_platform_widgets" rel="nofollow">flutter_platform_widgets</a></td>
+    <td>通过单个小部件简化了Material和Cupertino小部件的使用。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_login" rel="nofollow">flutter_login</a></td>
+    <td> 具有登录/注册功能的登录小部件，可帮助加快开发速度。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/splashscreen" rel="nofollow">splashscreen</a></td>
+    <td>大量定制可轻松为任何flutter应用程序创建一个介绍性的启动画面包。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_quill" rel="nofollow">flutter_quill</a></td>
+    <td>支持移动和Web的富文本编辑器。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/sign_button" rel="nofollow">sign_button</a></td>
+    <td>为不同的社交媒体帐户生成登录按钮。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/velocity_x" rel="nofollow">velocity_x</a></td>
+    <td>开源极简UI框架，可快速构建定制设计。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/getwidget" rel="nofollow">getwidget</a></td>
+    <td>带有预构建的1000多个UI组件。它使开发更快，更愉快。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/syncfusion_flutter_datepicker" rel="nofollow">syncfusion_flutter_datepicker</a></td>
+    <td>使用户可以轻松选择日期或日期范围。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_secure_keyboard" rel="nofollow">flutter_secure_keyboard</a></td>
+    <td>移动安全键盘可防止KeyLogger攻击和屏幕捕获。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_charset_detector" rel="nofollow">flutter_charset_detector</a></td>
+    <td>检测并解码文本字节的字符集（字符编码）。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/carousel_slider" rel="nofollow">carousel_slider</a></td>
@@ -771,6 +875,27 @@
   <tbody class="项目相关">
       
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/date_format" rel="nofollow">date_format</a></td>
+    <td>用于格式化日期。提供各种常量以构建Date格式的字符串。使用`formatDate`方法根据格式字符串格式化日期。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flex_color_scheme" rel="nofollow">flex_color_scheme</a></td>
+    <td>制作和使用基于MaterialApp主题的精美配色方案。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/dartx" rel="nofollow">dartx</a></td>
+    <td>静态扩展方法的集合。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/responsive_framework" rel="nofollow">responsive_framework</a></td>
     <td>轻松使Flutter应用程序具有响应能力。自动使UI适应不同的屏幕尺寸。</td>
     <td>2021-03-15</td>
@@ -939,6 +1064,34 @@
   <tbody class="列表相关">
       
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/lazy_load_scrollview" rel="nofollow">lazy_load_scrollview</a></td>
+    <td>延迟加载ScrollView的包装器。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/draggable_scrollbar" rel="nofollow">draggable_scrollbar</a></td>
+    <td>可以拖动滚动条以快速浏览垂直列表。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/material_floating_search_bar" rel="nofollow">material_floating_search_bar</a></td>
+    <td>可扩展的动画浮动搜索栏的Flutter实现。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/editable" rel="nofollow">editable</a></td>
+    <td>高度可定制，可编辑的数据表格。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/pluto_grid" rel="nofollow">pluto_grid</a></td>
     <td>数据表格展示。</td>
     <td>2021-05-29</td>
@@ -1072,6 +1225,20 @@
   </tr>
   </thead>
   <tbody class="音视频类">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/GSYVideoPlayer" rel="nofollow">GSYVideoPlayer</a></td>
+    <td>持播放幕，外挂字幕，支持滤镜，水印，gif截图，片头广告，中间广告，多个同时播放，支持基本的实现，声音，亮度调节，，支持边播边缓存，支持视频自带旋转的旋转（90,270之类），重力旋转与手动旋转的同步支持，支持列表播放，列表全屏动画，视频加载速度，列表小窗口支持最大化，动画效果，调整比例，多分辨率切换，支持切换播放器，进度条小窗口预览的播放器。。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_tencentplayer" rel="nofollow">flutter_tencentplayer</a></td>
+    <td>用于播放腾讯云点播视频，实时流媒体，离线下载等的本机插件。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/just_audio" rel="nofollow">just_audio</a></td>
     <td>Flutter的功能丰富的音频播放器。以各种音频格式循环播放，剪辑和连接来自任何来源）的任何声音，并实现无缝播放。</td>
