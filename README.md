@@ -10,8 +10,8 @@
 掘金文章地址：https://juejin.im/post/5edeee2e51882542f347030c
 <br>
 
-<h3 id="count">收录 284 个</h3>   
-<h3 id="updateTime">最新同步：2021-05-29 23:50</h3>
+<h3 id="count">收录 297 个</h3>   
+<h3 id="updateTime">最新同步：2021-05-30 00:16</h3>
 
 <br>
 
@@ -88,22 +88,22 @@
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/google_mobile_ads" rel="nofollow">google_mobile_ads</a></td>
     <td>希望通过Flutter应用获利的发布商，适用于Google移动广告的Flutter插件，支持横幅广告，非页内广告（全屏），奖励广告和原生广告。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-05-18</td>
+    <td>528</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/custom_timer" rel="nofollow">custom_timer</a></td>
     <td>高度可定制的计时器构建器，具有控制器，动画，间隔，回调，自定义操作等。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-01-08</td>
+    <td>31</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/lottie" rel="nofollow">lottie</a></td>
     <td>在Flutter上本地渲染After Effects动画。该软件包是Lottie播放器的纯Dart实现。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-03-08</td>
+    <td>790</td>
   </tr>
        <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_form_builder" rel="nofollow">flutter_form_builder</a></td>
@@ -557,15 +557,15 @@
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_statusbar_manager" rel="nofollow">flutter_statusbar_manager</a></td>
     <td>控制iOS和Android上的状态栏颜色，样式（主题），可见性和半透明属性。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2020-08-27</td>
+    <td>75</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/qr_code_scanner" rel="nofollow">qr_code_scanner</a></td>
     <td>在iOS和Android上运行的QR码扫描仪，与Flutter无缝集成，比本机Activity或ViewController进行扫描要好得多。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-03-25</td>
+    <td>473</td>
   </tr>
       
   <tr class="item">
@@ -877,15 +877,15 @@
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/web_socket_channel" rel="nofollow">web_socket_channel</a></td>
     <td>WebSocket的StreamChannel包装器。提供跨平台的WebSocketChannel API，该API的跨平台实现可通过基础StreamChannel进行通信。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-05-03</td>
+    <td>251</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/json_serializable" rel="nofollow">json_serializable</a></td>
     <td>通过注释Dart类自动生成用于与JSON相互转换的代码。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-05-26</td>
+    <td>1039</td>
   </tr>
       
   <tr class="item">
@@ -1080,8 +1080,8 @@
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/scrollable_positioned_list" rel="nofollow">scrollable_positioned_list</a></td>
     <td>滚动列表，允许滚动到列表中的特定项目。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-02-26</td>
+    <td>499</td>
   </tr>
       
   <tr class="item">
@@ -1250,8 +1250,8 @@
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/better_player" rel="nofollow">better_player</a></td>
     <td>基于video_player和Chewie的高级视频播放器。它解决了许多典型的用例，并且易于运行。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-05-22</td>
+    <td>329</td>
   </tr>
            
   <tr class="item">
@@ -1362,8 +1362,8 @@
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/wechat_camera_picker" rel="nofollow">wechat_camera_picker</a></td>
     <td>wechat_assets_picker的扩展，基于camera相机功能和photo_manager。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-05-13</td>
+    <td>38</td>
   </tr>
       
   <tr class="item">
@@ -1841,8 +1841,8 @@
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/adaptive_dialog" rel="nofollow">adaptive_dialog</a></td>
     <td>根据平台自适应地显示对话框或模态框。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-05-28</td>
+    <td>325</td>
   </tr>
    <tr class="item">
      <td><a href="https://pub.flutter-io.cn/packages/bot_toast">bot_toast</a></td> 
@@ -1966,8 +1966,8 @@
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_bugly" rel="nofollow">flutter_bugly</a></td>
     <td>用于腾讯Bugly，崩溃监控，崩溃分析，异常报告，应用程序更新，数据统计等。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-04-11</td>
+    <td>15</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/firebase_core" rel="nofollow">firebase_core</a></td>
@@ -2065,8 +2065,8 @@
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/amap_flutter_location" rel="nofollow">amap_flutter_location</a></td>
     <td>高德官方定位Flutter插件。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-04-21</td>
+    <td>9</td>
   </tr>
       
   <tr class="item">
@@ -2159,6 +2159,7 @@
   </tr>
   </tbody>
 </table>
+
 
 
 
