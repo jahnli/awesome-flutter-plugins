@@ -66,33 +66,6 @@
       </ul> 
 </div>
 
-<div class="changeLogItem 05-24">
-      <h3>05-24</h3>
-      <ul>
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_launcher_icons">flutter_launcher_icons</a> - Flutter启动器图标-一个软件包。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/battery_plus">battery_plus</a> - 访问有关电池状态（充满，充电，放电）的信息。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/infinite_listview">infinite_listview</a> - 具有可以在两个方向上无限滚动的项目的ListView。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/draggable_scrollbar">draggable_scrollbar</a> - 可以拖动滚动条以快速浏览垂直列表。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/workmanager">workmanager</a> - Flutter Workmanager。此插件可让您安排Android和iOS上的后台工作。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/rxdart">rxdart</a> - RxDart是利用本机Dart Streams API为流行的用于异步编程的reactX api的实现。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_sms">flutter_sms</a> - 可在iOS和Android上发送短信和彩信。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/sensors_plus">sensors_plus</a> - 用于访问加速度计和陀螺仪传感器。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/network_info_plus">network_info_plus</a> - 用于发现网络信息（例如，WiFi详细信息）。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_redux">flutter_redux</a> - 轻松使用 Redux Store来构建Flutter Widgets。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/firebase_core">firebase_core</a> - 用于Firebase Core的Flutter插件，可连接到多个Firebase应用程序。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/cloud_firestore">cloud_firestore</a> - 用于Cloud Firestore的Flutter插件，这是一个云托管的noSQL数据库，具有实时同步功能。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/sqflite">sqflite</a> - SQLite的Flutter插件。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/firebase_auth">firebase_auth</a> - 用于Firebase身份验证的Flutter插件。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_blurhash">flutter_blurhash</a> - 图像占位符。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/just_audio">just_audio</a> - Flutter的功能丰富的音频播放器。以各种音频格式循环播放，剪辑和连接来自任何来源）的任何声音，并实现无缝播放。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/sentry_flutter">sentry_flutter</a> - Flutter的崩溃报告库，可将崩溃报告发送到Sentry.io。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/infinite_scroll_pagination">infinite_scroll_pagination</a> - 当用户向下滚动屏幕时，懒惰地加载和显示项目页面。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/package_info_plus">package_info_plus</a> - 用于查询有关应用程序包的信息。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/device_info_plus">device_info_plus</a> - 可提供有关设备（制造商，型号等）以及运行该应用程序的Android或iOS版本的详细信息。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/share_plus">share_plus</a> - 通过平台的“共享”对话框共享Flutter应用程序中的内容。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/connectivity_plus">connectivity_plus</a> - 用于发现Android和iOS上的网络状态（WiFi和移动/蜂窝）连接。</li>  
-      </ul> 
-</div>
 
 
 </div>
