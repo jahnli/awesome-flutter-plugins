@@ -2076,12 +2076,6 @@
     <td>1133</td>
   </tr>
   <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/amap_all_fluttify">amap_all_fluttify</a></td>
-    <td>由Fluttify提供的高德地图整合组件（包含搜索、定位、地图）。</td>
-    <td>2020-07-15</td>
-    <td>8</td>
-  </tr>
-  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/amap_location_fluttify">amap_location_fluttify </a></td>
     <td>由Fluttify提供的高德定位组件。</td>
     <td>2020-10-30</td>
