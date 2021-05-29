@@ -104,14 +104,7 @@
     <td>暂无</td>
     <td>暂无</td>
   </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/flutter_login" rel="nofollow">flutter_login</a></td>
-    <td> 具有登录/注册功能的登录小部件，可帮助加快开发速度。</td>
-    <td>暂无</td>
-    <td>暂无</td>
-  </tr>
-      
+           
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/splashscreen" rel="nofollow">splashscreen</a></td>
     <td>大量定制可轻松为任何flutter应用程序创建一个介绍性的启动画面包。</td>
