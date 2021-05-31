@@ -2209,12 +2209,6 @@
     <td>2021-05-24</td>
     <td>410</td>
   </tr>
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/flutter_inappbrowser">flutter_inappbrowser</a></td>
-    <td>一个Flutter插件，允许您添加内联webview或打开应用程序内浏览器窗口。</td>
-    <td>2019-11-29</td>
-    <td>15</td>
-  </tr>
   </tbody>
 </table>
 
