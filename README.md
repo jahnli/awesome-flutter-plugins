@@ -1323,12 +1323,6 @@
     <td>59</td>
   </tr>
   <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/flutter_ijkplayer">flutter_ijkplayer</a></td>
-    <td>基于bilibili ijkplayer的视频/音频播放器，支持https，rtmp，m3u8和更多协议。</td>
-    <td>2019-11-19</td>
-    <td>38</td>
-  </tr>
-  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/awsome_video_player">awsome_video_player</a></td>
     <td>一个简单易用的而且可高度自定义的播放器。</td>
     <td>2020-04-18</td>
