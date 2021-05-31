@@ -2151,12 +2151,6 @@
     <td>2020-11-28</td>
     <td>5</td>
   </tr>
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/amap_location">amap_location</a></td>
-    <td>高德地图定位组件。</td>
-    <td>2019-04-03</td>
-    <td>10</td>
-  </tr>
   </tbody>
 </table>
 <br>
