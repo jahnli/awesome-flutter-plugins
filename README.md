@@ -57,31 +57,6 @@
       </ul> 
 </div>
 
-<div class="changeLogItem 05-29">
-      <h3>05-29</h3>
-      <ul>
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_scankit">flutter_scankit</a> - 扫描代码Flutter插件，是华为扫描SDK的Flutter软件包。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/date_format">date_format</a> - 用于格式化日期。提供各种常量以构建Date格式的字符串。使用`formatDate`方法根据格式字符串格式化日期。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_form_builder">flutter_form_builder</a> - 通过删除样板代码，重用验证，对更改做出反应并收集最终用户输入来帮助在Flutter中创建表单。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_platform_widgets">flutter_platform_widgets</a> - 通过单个小部件简化了Material和Cupertino小部件的使用。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/splashscreen">splashscreen</a> - 大量定制可轻松为任何flutter应用程序创建一个介绍性的启动画面包。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/lazy_load_scrollview">lazy_load_scrollview</a> - 延迟加载ScrollView的包装器。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_quill">flutter_quill</a> - 支持移动和Web的富文本编辑器。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flex_color_scheme">flex_color_scheme</a> - 制作和使用基于MaterialApp主题的精美配色方案。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/sign_button">sign_button</a> - 为不同的社交媒体帐户生成登录按钮。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/velocity_x">velocity_x</a> - 开源极简UI框架，可快速构建定制设计。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/getwidget">getwidget</a> - 带有预构建的1000多个UI组件。它使开发更快，更愉快。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/draggable_scrollbar">draggable_scrollbar</a> - 可以拖动滚动条以快速浏览垂直列表。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/material_floating_search_bar">material_floating_search_bar</a> - 可扩展的动画浮动搜索栏的Flutter实现。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/syncfusion_flutter_datepicker">syncfusion_flutter_datepicker</a> - 使用户可以轻松选择日期或日期范围。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_secure_keyboard">flutter_secure_keyboard</a> - 移动安全键盘可防止KeyLogger攻击和屏幕捕获。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_charset_detector">flutter_charset_detector</a> - 检测并解码文本字节的字符集（字符编码）。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_tencentplayer">flutter_tencentplayer</a> - 用于播放腾讯云点播视频，实时流媒体，离线下载等的本机插件。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/editable">editable</a> - 高度可定制，可编辑的数据表格。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/dartx">dartx</a> - 静态扩展方法的集合。</li>  
-      </ul> 
-</div>
-
 
 </div>
 
