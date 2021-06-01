@@ -17,6 +17,19 @@
 
 <div class="changeLog">
 
+<div class="changeLogItem 06-01">
+      <h3>06-01</h3>
+      <ul>
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_device_details">flutter_device_details</a> - 针对 Android 和 iOS 设备的设备详情信息</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/wifi_iot">wifi_iot</a> - 处理 WiFi 连接和热点（AP、STA）</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/open_settings">open_settings</a> - Android和Ios中打开各种设置界面最全的flutter插件包。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/date_picker_timeline">date_picker_timeline</a> - 日期选择器库，提供日历作为水平时间线。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_calendar_carousel">flutter_calendar_carousel</a> - 可滑动的日历小部件。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/chat_ui_kit">chat_ui_kit</a> - 完整的 Flutter 聊天 UI 套件，它为您提供基本结构以及一组工具，可让您快速构建现代聊天 UI。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/syncfusion_flutter_calendar">syncfusion_flutter_calendar</a> - 九个内置的可配置视图，提供用于高效安排和表示约会/事件的基本功能。</li>  
+      </ul> 
+</div>
+
 <div class="changeLogItem 05-30">
       <h3>05-30</h3>
       <ul>
@@ -92,6 +105,34 @@
   </tr>
   </thead>
   <tbody class="插件">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/date_picker_timeline" rel="nofollow">date_picker_timeline</a></td>
+    <td>日期选择器库，提供日历作为水平时间线。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_calendar_carousel" rel="nofollow">flutter_calendar_carousel</a></td>
+    <td>可滑动的日历小部件。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/chat_ui_kit" rel="nofollow">chat_ui_kit</a></td>
+    <td>完整的 Flutter 聊天 UI 套件，它为您提供基本结构以及一组工具，可让您快速构建现代聊天 UI。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/syncfusion_flutter_calendar" rel="nofollow">syncfusion_flutter_calendar</a></td>
+    <td>九个内置的可配置视图，提供用于高效安排和表示约会/事件的基本功能。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/google_mobile_ads" rel="nofollow">google_mobile_ads</a></td>
@@ -561,6 +602,27 @@
   </tr>
   </thead>
   <tbody class="设备相关">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_device_details" rel="nofollow">flutter_device_details</a></td>
+    <td>针对 Android 和 iOS 设备的设备详情信息</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/wifi_iot" rel="nofollow">wifi_iot</a></td>
+    <td>处理 WiFi 连接和热点（AP、STA）</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/open_settings" rel="nofollow">open_settings</a></td>
+    <td>Android和Ios中打开各种设置界面最全的flutter插件包。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_statusbar_manager" rel="nofollow">flutter_statusbar_manager</a></td>
