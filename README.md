@@ -17,6 +17,22 @@
 
 <div class="changeLog">
 
+<div class="changeLogItem 06-04">
+      <h3>06-04</h3>
+      <ul>
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_hooks">flutter_hooks</a> - React 钩子的flutter实现。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/responsive_builder">responsive_builder</a> - 为小部件定义可读的响应式 UI。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/supercharged">supercharged</a> - 为所有 Flutter 开发人员带来了 Kotlin 等语言的所有舒适功能。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/auto_route">auto_route</a> - 声明式路由解决方案。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/syncfusion_flutter_charts">syncfusion_flutter_charts</a> - Dart 原生编写的数据可视化库，用于创建美观、动画和高性能的图表</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/simple_animations">simple_animations</a> - 创建精美的自定义动画。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/introduction_screen">introduction_screen</a> - 应用程序的介绍/入门页。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/animate_do">animate_do</a> - 受Animate.css启发的动画包，仅使用 Flutter 动画构建，没有额外的包。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_bloc">flutter_bloc</a> - 轻松实现 BLoC（业务逻辑组件）设计模式。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/animations">animations</a> - 轻松集成到任何 Flutter 应用程序中的精美预建动画。</li>  
+      </ul> 
+</div>
+
 <div class="changeLogItem 06-01">
       <h3>06-01</h3>
       <ul>
@@ -80,6 +96,13 @@
   </tr>
   </thead>
   <tbody class="插件">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/introduction_screen" rel="nofollow">introduction_screen</a></td>
+    <td>应用程序的介绍/入门页。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/date_picker_timeline" rel="nofollow">date_picker_timeline</a></td>
@@ -920,6 +943,41 @@
   <tbody class="项目相关">
       
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_hooks" rel="nofollow">flutter_hooks</a></td>
+    <td>React 钩子的flutter实现。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/responsive_builder" rel="nofollow">responsive_builder</a></td>
+    <td>为小部件定义可读的响应式 UI。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/supercharged" rel="nofollow">supercharged</a></td>
+    <td>为所有 Flutter 开发人员带来了 Kotlin 等语言的所有舒适功能。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/auto_route" rel="nofollow">auto_route</a></td>
+    <td>声明式路由解决方案。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_bloc" rel="nofollow">flutter_bloc</a></td>
+    <td>轻松实现 BLoC（业务逻辑组件）设计模式。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/web_socket_channel" rel="nofollow">web_socket_channel</a></td>
     <td>WebSocket的StreamChannel包装器。提供跨平台的WebSocketChannel API，该API的跨平台实现可通过基础StreamChannel进行通信。</td>
     <td>2021-05-03</td>
@@ -1655,6 +1713,27 @@
   </tr>
   </thead>
   <tbody class="动画">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/simple_animations" rel="nofollow">simple_animations</a></td>
+    <td>创建精美的自定义动画。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/animate_do" rel="nofollow">animate_do</a></td>
+    <td>受Animate.css启发的动画包，仅使用 Flutter 动画构建，没有额外的包。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/animations" rel="nofollow">animations</a></td>
+    <td>轻松集成到任何 Flutter 应用程序中的精美预建动画。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
   </tbody>
 </table>
 <br>
@@ -1675,6 +1754,13 @@
   </tr>
   </thead>
   <tbody class="图表类">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/syncfusion_flutter_charts" rel="nofollow">syncfusion_flutter_charts</a></td>
+    <td>Dart 原生编写的数据可视化库，用于创建美观、动画和高性能的图表</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/time_chart">time_chart</a></td>
     <td>可滚动的时间图表。</td>
@@ -2257,6 +2343,7 @@
   </tr>
   </tbody>
 </table>
+
 
 
 
