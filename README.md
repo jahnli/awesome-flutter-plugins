@@ -10,8 +10,8 @@
 掘金文章地址：https://juejin.im/post/5edeee2e51882542f347030c
 <br>
 
-<h3 id="count">收录 318 个</h3>   
-<h3 id="updateTime">最新同步：2021-06-04 21:10</h3>
+<h3 id="count">收录 326 个</h3>   
+<h3 id="updateTime">最新同步：2021-06-04 21:20</h3>
 
 <br>
 
@@ -80,36 +80,36 @@
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/intro_slider" rel="nofollow">intro_slider</a></td>
     <td>帮助你为你的应用制作一个很酷的介绍/入门页。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-05-10</td>
+    <td>545</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/expandable" rel="nofollow">expandable</a></td>
     <td>通过单击标题或图标来展开或折叠的 Flutter 小部件。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-03-16</td>
+    <td>559</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/in_app_purchase" rel="nofollow">in_app_purchase</a></td>
     <td>用于在 Flutter 应用程序中购买的独立于店面的 API。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-06-03</td>
+    <td>593</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_typeahead" rel="nofollow">flutter_typeahead</a></td>
     <td>高度可定制的预先输入（自动完成）文本输入字段。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-05-07</td>
+    <td>621</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/pin_code_fields" rel="nofollow">pin_code_fields</a></td>
     <td>帮助您生成 pin 码字段。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-05-26</td>
+    <td>648</td>
   </tr>
       
   <tr class="item">
@@ -619,15 +619,15 @@
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/sign_in_with_apple" rel="nofollow">sign_in_with_apple</a></td>
     <td>Flutter 启动 Apple 登录。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-03-05</td>
+    <td>563</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/uuid" rel="nofollow">uuid</a></td>
     <td>适用于所有 Dart 平台（Web、VM、Flutter）的 RFC4122（v1、v4、v5）UUID 生成器和解析器。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-04-07</td>
+    <td>566</td>
   </tr>
       
   <tr class="item">
@@ -982,7 +982,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/responsive_builder" rel="nofollow">responsive_builder</a></td>
     <td>为小部件定义可读的响应式 UI。</td>
     <td>2021-03-28</td>
-    <td>660</td>
+    <td>659</td>
   </tr>
       
   <tr class="item">
@@ -1137,7 +1137,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/shared_preferences">shared_preferences</a></td>
     <td>读取、设置缓存。</td>
     <td>2021-05-25</td>
-    <td>3334</td>
+    <td>3335</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/fluro">fluro</a></td>
@@ -1149,7 +1149,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/provider">provider</a></td>
     <td>官方推荐的状态管理。</td>
     <td>2021-03-04</td>
-    <td>4351</td>
+    <td>4352</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/intl">intl</a></td>
@@ -1382,8 +1382,8 @@
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/youtube_player_flutter" rel="nofollow">youtube_player_flutter</a></td>
     <td>使用官方 iFrame 播放器 API 播放或流式传输内联 YouTube 视频。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-03-27</td>
+    <td>526</td>
   </tr>
       
   <tr class="item">
@@ -1601,7 +1601,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/screenshot">screenshot</a></td>
     <td>Flutter屏幕截图程序包（运行时），将任何小部件捕获为图像。</td>
     <td>2021-02-10</td>
-    <td>205</td>
+    <td>206</td>
    </tr>
    <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/concentric_transition">concentric_transition</a></td>
@@ -1621,7 +1621,7 @@
    </tr>   
    <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/image_gallery_saver">image_gallery_saver</a></td><td>用于将图像保存到图库的flutter插件。</td>
-    <td>2021-04-09</td><td>185</td>
+    <td>2021-04-09</td><td>186</td>
    </tr>
    <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/nineold">nineold</a></td>
@@ -2221,7 +2221,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/share_plus" rel="nofollow">share_plus</a></td>
     <td>通过平台的“共享”对话框共享Flutter应用程序中的内容。</td>
     <td>2021-05-23</td>
-    <td>90</td>
+    <td>91</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/dim">dim</a></td>
@@ -2379,6 +2379,7 @@
   </tr>
   </tbody>
 </table>
+
 
 
 
