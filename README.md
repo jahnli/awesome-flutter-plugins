@@ -20,6 +20,14 @@
 <div class="changeLogItem 06-04">
       <h3>06-04</h3>
       <ul>
+        <li><a href="https://pub.flutter-io.cn/packages/youtube_player_flutter">youtube_player_flutter</a> - 使用官方 iFrame 播放器 API 播放或流式传输内联 YouTube 视频。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/intro_slider">intro_slider</a> - 帮助你为你的应用制作一个很酷的介绍/入门页。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/expandable">expandable</a> - 通过单击标题或图标来展开或折叠的 Flutter 小部件。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/sign_in_with_apple">sign_in_with_apple</a> - Flutter 启动 Apple 登录。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/uuid">uuid</a> - 适用于所有 Dart 平台（Web、VM、Flutter）的 RFC4122（v1、v4、v5）UUID 生成器和解析器。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/in_app_purchase">in_app_purchase</a> - 用于在 Flutter 应用程序中购买的独立于店面的 API。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_typeahead">flutter_typeahead</a> - 高度可定制的预先输入（自动完成）文本输入字段。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/pin_code_fields">pin_code_fields</a> - 帮助您生成 pin 码字段。</li>
         <li><a href="https://pub.flutter-io.cn/packages/flutter_hooks">flutter_hooks</a> - React 钩子的flutter实现。</li>  
         <li><a href="https://pub.flutter-io.cn/packages/responsive_builder">responsive_builder</a> - 为小部件定义可读的响应式 UI。</li>  
         <li><a href="https://pub.flutter-io.cn/packages/supercharged">supercharged</a> - 为所有 Flutter 开发人员带来了 Kotlin 等语言的所有舒适功能。</li>  
@@ -69,6 +77,41 @@
   </tr>
   </thead>
   <tbody class="插件">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/intro_slider" rel="nofollow">intro_slider</a></td>
+    <td>帮助你为你的应用制作一个很酷的介绍/入门页。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/expandable" rel="nofollow">expandable</a></td>
+    <td>通过单击标题或图标来展开或折叠的 Flutter 小部件。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/in_app_purchase" rel="nofollow">in_app_purchase</a></td>
+    <td>用于在 Flutter 应用程序中购买的独立于店面的 API。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_typeahead" rel="nofollow">flutter_typeahead</a></td>
+    <td>高度可定制的预先输入（自动完成）文本输入字段。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/pin_code_fields" rel="nofollow">pin_code_fields</a></td>
+    <td>帮助您生成 pin 码字段。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/introduction_screen" rel="nofollow">introduction_screen</a></td>
@@ -573,6 +616,20 @@
   </tr>
   </thead>
   <tbody class="设备相关">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/sign_in_with_apple" rel="nofollow">sign_in_with_apple</a></td>
+    <td>Flutter 启动 Apple 登录。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/uuid" rel="nofollow">uuid</a></td>
+    <td>适用于所有 Dart 平台（Web、VM、Flutter）的 RFC4122（v1、v4、v5）UUID 生成器和解析器。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_device_details" rel="nofollow">flutter_device_details</a></td>
@@ -1322,6 +1379,13 @@
   </tr>
   </thead>
   <tbody class="音视频类">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/youtube_player_flutter" rel="nofollow">youtube_player_flutter</a></td>
+    <td>使用官方 iFrame 播放器 API 播放或流式传输内联 YouTube 视频。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/better_player" rel="nofollow">better_player</a></td>
