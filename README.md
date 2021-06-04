@@ -46,33 +46,6 @@
       </ul> 
 </div>
 
-<div class="changeLogItem 05-30">
-      <h3>05-30</h3>
-      <ul>
-        <li><a href="https://pub.flutter-io.cn/packages/jmlink_flutter_plugin">jmlink_flutter_plugin</a> - 移动端 JMLink 服务可以从多种渠道中唤醒 APP 内一个具体的页面。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/jshare_flutter_plugin">jshare_flutter_plugin</a> - 具备国内外主流社交平台分享和第三方登录功能，提供新浪微博、QQ、微信、Facebook、twitter 等第三方社会化服务。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/janalytics">janalytics</a> - 利用极光推送的数据和网络优势而推出的数据统计分析服务。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/jverify">jverify</a> - 整合了三大运营商的网关认证能力，为开发者提供了一键登录和号码认证功能，优化用户注册/登录、号码验证的体验，提高安全性。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/jmessage_flutter">jmessage_flutter</a> - 极光 IM（英文名 JMessage）致力于帮助 App 解决应用内聊天和跨应用聊天问题。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/jpush_flutter">jpush_flutter</a> - 极光推送官方支持的Flutter插件。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_baidu_mapapi_map">flutter_baidu_mapapi_map</a> - 百度地图Flutter插件。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_bmflocation">flutter_bmflocation</a> - 百度地图定位Flutter插件。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/google_mobile_ads">google_mobile_ads</a> - 希望通过Flutter应用获利的发布商，适用于Google移动广告的Flutter插件，支持横幅广告，非页内广告（全屏），奖励广告和原生广告。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/custom_timer">custom_timer</a> - 高度可定制的计时器构建器，具有控制器，动画，间隔，回调，自定义操作等。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/amap_flutter_location">amap_flutter_location</a> - 高德官方定位Flutter插件。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_bugly">flutter_bugly</a> - 用于腾讯Bugly，崩溃监控，崩溃分析，异常报告，应用程序更新，数据统计等。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/web_socket_channel">web_socket_channel</a> - WebSocket的StreamChannel包装器。提供跨平台的WebSocketChannel API，该API的跨平台实现可通过基础StreamChannel进行通信。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/better_player">better_player</a> - 基于video_player和Chewie的高级视频播放器。它解决了许多典型的用例，并且易于运行。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_statusbar_manager">flutter_statusbar_manager</a> - 控制iOS和Android上的状态栏颜色，样式（主题），可见性和半透明属性。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/lottie">lottie</a> - 在Flutter上本地渲染After Effects动画。该软件包是Lottie播放器的纯Dart实现。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/json_serializable">json_serializable</a> - 通过注释Dart类自动生成用于与JSON相互转换的代码。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/qr_code_scanner">qr_code_scanner</a> - 在iOS和Android上运行的QR码扫描仪，与Flutter无缝集成，比本机Activity或ViewController进行扫描要好得多。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/scrollable_positioned_list">scrollable_positioned_list</a> - 滚动列表，允许滚动到列表中的特定项目。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/adaptive_dialog">adaptive_dialog</a> - 根据平台自适应地显示对话框或模态框。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/wechat_camera_picker">wechat_camera_picker</a> - wechat_assets_picker的扩展，基于camera相机功能和photo_manager。</li>  
-      </ul> 
-</div>
-
 
 </div>
 
