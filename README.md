@@ -98,7 +98,7 @@
 	<li><a href="#图表类-title">图表类</a></li>
 	<li><a href="#侧边栏-title">侧边栏</a></li>
 	<li><a href="#底部导航栏-title">底部导航栏</a></li>
-	<li><a href="#弹框-title">弹框</a></li>
+	<li><a href="#对话框-title">对话框</a></li>
 	<li><a href="#通讯类-title">通讯类</a></li>
 	<li><a href="#地图类-title">地图类</a></li>
 	<li><a href="#Web-title">Web</a></li>
