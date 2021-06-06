@@ -19,6 +19,16 @@
 <div class="changeLogItem 06-06">
       <h3>06-06</h3>
       <ul>
+        <li><a href="https://pub.flutter-io.cn/packages/bitsdojo_window">bitsdojo_window</a> - 帮助使用 Flutter 桌面（自定义边框、标题栏和最小化/最大化/关闭按钮）和 Windows 和 macOS 的常见桌面窗口操作（在屏幕上显示/隐藏/定位）创建自定义窗口。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_layout_grid">flutter_layout_grid</a> - 强大的 Flutter 网格布局系统</li>
+        <li><a href="https://pub.flutter-io.cn/packages/numberpicker">numberpicker</a> - 数字选择器，支持滚动</li>
+        <li><a href="https://pub.flutter-io.cn/packages/esys_flutter_share">esys_flutter_share</a> - esys_flutter_share</li>
+        <li><a href="https://pub.flutter-io.cn/packages/translator">translator</a> - 用于 Dart 的免费且无限制的 Google 翻译 API。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/archive">archive</a> - 为各种存档和压缩格式（例如 zip、tar、bzip2、gzip 和 zlib）提供编码器和解码器。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/blobs">blobs</a> - 用最少的代码创建漂亮的斑点形状。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/image_editor_pro">image_editor_pro</a> - 图像编辑器插件，简单、轻松地支持使用油漆、文本和表情符号。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/custom_navigation_bar">custom_navigation_bar</a> - 带有气泡点击效果的自定义导航栏。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/skeleton_text">skeleton_text</a> - 提供了一种在 Flutter 项目中添加骨架文本加载动画的简单方法。</li>
         <li><a href="https://pub.flutter-io.cn/packages/video_compress">video_compress</a> - 视频操作的轻量级库。压缩视频，删除音频，从 dart 代码中获取视频缩略图。</li>  
         <li><a href="https://pub.flutter-io.cn/packages/syncfusion_flutter_sliders">syncfusion_flutter_sliders</a> - 用于创建高度可定制且 UI 丰富的滑块、范围滑块和范围选择器小部件</li>  
         <li><a href="https://pub.flutter-io.cn/packages/flutter_email_sender">flutter_email_sender</a> - 允许使用本机平台功能从 flutter 发送电子邮件。</li>  
@@ -107,6 +117,48 @@
   </tr>
   </thead>
   <tbody id="插件">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/bitsdojo_window" rel="nofollow">bitsdojo_window</a></td>
+    <td>帮助使用 Flutter 桌面（自定义边框、标题栏和最小化/最大化/关闭按钮）和 Windows 和 macOS 的常见桌面窗口操作（在屏幕上显示/隐藏/定位）创建自定义窗口。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/numberpicker" rel="nofollow">numberpicker</a></td>
+    <td>数字选择器，支持滚动</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/translator" rel="nofollow">translator</a></td>
+    <td>用于 Dart 的免费且无限制的 Google 翻译 API。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/archive" rel="nofollow">archive</a></td>
+    <td>为各种存档和压缩格式（例如 zip、tar、bzip2、gzip 和 zlib）提供编码器和解码器。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/blobs" rel="nofollow">blobs</a></td>
+    <td>用最少的代码创建漂亮的斑点形状。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/skeleton_text" rel="nofollow">skeleton_text</a></td>
+    <td>提供了一种在 Flutter 项目中添加骨架文本加载动画的简单方法。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/video_compress" rel="nofollow">video_compress</a></td>
@@ -476,6 +528,13 @@
   </tr>
   </thead>
   <tbody id="设备相关">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/esys_flutter_share" rel="nofollow">esys_flutter_share</a></td>
+    <td>esys_flutter_share</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_email_sender" rel="nofollow">flutter_email_sender</a></td>
@@ -1119,6 +1178,13 @@
   <tbody id="列表相关">
       
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_layout_grid" rel="nofollow">flutter_layout_grid</a></td>
+    <td>强大的 Flutter 网格布局系统</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/scrollable_positioned_list" rel="nofollow">scrollable_positioned_list</a></td>
     <td>滚动列表，允许滚动到列表中的特定项目。</td>
     <td>2021-02-26</td>
@@ -1400,6 +1466,13 @@
   </tr>
   </thead>
   <tbody id="图像">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/image_editor_pro" rel="nofollow">image_editor_pro</a></td>
+    <td>图像编辑器插件，简单、轻松地支持使用油漆、文本和表情符号。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/palette_generator" rel="nofollow">palette_generator</a></td>
@@ -2006,6 +2079,13 @@
   </tr>
   </thead>
   <tbody id="底部导航栏">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/custom_navigation_bar" rel="nofollow">custom_navigation_bar</a></td>
+    <td>带有气泡点击效果的自定义导航栏。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/salomon_bottom_bar" rel="nofollow">salomon_bottom_bar</a></td>
