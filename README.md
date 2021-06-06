@@ -141,14 +141,7 @@
     <td>完整的 Flutter 聊天 UI 套件，它为您提供基本结构以及一组工具，可让您快速构建现代聊天 UI。</td>
     <td>2021-06-04</td>
     <td>21</td>
-  </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/google_mobile_ads" rel="nofollow">google_mobile_ads</a></td>
-    <td>希望通过Flutter应用获利的发布商，适用于Google移动广告的Flutter插件，支持横幅广告，非页内广告（全屏），奖励广告和原生广告。</td>
-    <td>2021-05-18</td>
-    <td>547</td>
-  </tr>
+  </tr> 
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_form_builder" rel="nofollow">flutter_form_builder</a></td>
@@ -247,13 +240,6 @@
     <td>2021-05-14</td>
     <td>76</td>
   </tr>
-
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/firebase_messaging">firebase_messaging</a></td>
-    <td>Firebase消息传递插件。</td>
-    <td>2021-06-03</td>
-    <td>1343</td>
-  </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/markdown">markdown</a></td>
     <td>便携式Markdown库。它可以将Markdown解析为客户端和服务器上的HTML。</td>
@@ -302,7 +288,6 @@
     <td>2019-08-13</td>
     <td>1402</td>
   </tr>
-
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_markdown">flutter_markdown</a></td>
     <td>Flutter的Markdown渲染器。</td>
@@ -316,22 +301,10 @@
     <td>178</td>
   </tr>
   <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/flip_card">flip_card</a></td>
-    <td>翻页动画的组件，可以用于隐藏和显示产品的详细信息。</td>
-    <td>2021-04-01</td>
-    <td>323</td>
-  </tr>
-  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flui">flui</a></td>
     <td>Flutter小部件UI库。</td>
     <td>2020-05-13</td>
     <td>87</td>
-  </tr>
-  <tr class="item">
-     <td><a href="https://pub.flutter-io.cn/packages/like_button">like_button</a></td>
-     <td>点赞按钮动画。</td>
-     <td>2021-03-24</td>
-     <td>411</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_colorpicker">flutter_colorpicker</a></td>
@@ -434,12 +407,6 @@
     <td>创建漂亮的“加载”和“计时器”按钮。无需担心每个按钮的动画和状态。</td>
     <td>2021-05-07</td>
     <td>201</td>
-  </tr>
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/animated_text_kit">animated_text_kit</a></td>
-    <td>酷炫的漂亮文字动画。</td>
-    <td>2021-04-24</td>
-    <td>1581</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/touchable">touchable</a></td>
@@ -939,6 +906,12 @@
     <td>RxDart是利用本机Dart Streams API为流行的用于异步编程的reactX api的实现。</td>
     <td>2021-05-30</td>
     <td>1147</td>
+  </tr>
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/google_mobile_ads" rel="nofollow">google_mobile_ads</a></td>
+    <td>希望通过Flutter应用获利的发布商，适用于Google移动广告的Flutter插件，支持横幅广告，非页内广告（全屏），奖励广告和原生广告。</td>
+    <td>2021-05-18</td>
+    <td>547</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_redux" rel="nofollow">flutter_redux</a></td>
@@ -1740,6 +1713,28 @@
   </tr>
   </thead>
   <tbody id="动画">
+	  
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flip_card">flip_card</a></td>
+    <td>翻页动画的组件，可以用于隐藏和显示产品的详细信息。</td>
+    <td>2021-04-01</td>
+    <td>323</td>
+  </tr>
+	  
+  <tr class="item">
+     <td><a href="https://pub.flutter-io.cn/packages/like_button">like_button</a></td>
+     <td>点赞按钮动画。</td>
+     <td>2021-03-24</td>
+     <td>411</td>
+  </tr>
+	  
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/animated_text_kit">animated_text_kit</a></td>
+    <td>酷炫的漂亮文字动画。</td>
+    <td>2021-04-24</td>
+    <td>1581</td>
+  </tr>
+	  
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/liquid_swipe">liquid_swipe</a></td>
     <td>液体效果的页面切换组件。</td>
@@ -2189,7 +2184,14 @@
     <td>2021-05-25</td>
     <td>0</td>
   </tr>
-      
+	  
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/firebase_messaging">firebase_messaging</a></td>
+    <td>Firebase消息传递插件。</td>
+    <td>2021-06-03</td>
+    <td>1343</td>
+  </tr>
+	  
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/jshare_flutter_plugin" rel="nofollow">jshare_flutter_plugin</a></td>
     <td>具备国内外主流社交平台分享和第三方登录功能，提供新浪微博、QQ、微信、Facebook、twitter 等第三方社会化服务。</td>
