@@ -1660,7 +1660,34 @@
   </tr>
   </thead>
   <tbody class="动画">
-      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/intro_slider" rel="nofollow">intro_slider</a></td>
+    <td>帮助你为你的应用制作一个很酷的介绍/入门页。</td>
+    <td>2021-05-10</td>
+    <td>545</td>
+  </tr>
+	  
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/introduction_screen" rel="nofollow">introduction_screen</a></td>
+    <td>应用程序的介绍/入门页。</td>
+    <td>2021-03-30</td>
+    <td>933</td>
+  </tr>
+	  
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/lottie" rel="nofollow">lottie</a></td>
+    <td>在Flutter上本地渲染After Effects动画。该软件包是Lottie播放器的纯Dart实现。</td>
+    <td>2021-03-08</td>
+    <td>809</td>
+  </tr>
+	  
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/splashscreen" rel="nofollow">splashscreen</a></td>
+    <td>大量定制可轻松为任何flutter应用程序创建一个介绍性的启动画面包。</td>
+    <td>2020-11-17</td>
+    <td>319</td>
+  </tr>
+	  
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/simple_animations" rel="nofollow">simple_animations</a></td>
     <td>创建精美的自定义动画。</td>
