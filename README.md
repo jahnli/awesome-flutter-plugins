@@ -1,5 +1,5 @@
 <html><head></head><body>
-<img src="https://user-images.githubusercontent.com/20943608/120912379-1d731080-c6c1-11eb-8871-281f4092a703.png"  alt="awesome-flutter-plugins" />
+<img src="https://user-images.githubusercontent.com/20943608/120912379-1d731080-c6c1-11eb-8871-281f4092a703.png" alt="awesome-flutter-plugins">
 <br>
 🔥🔥 尽可能收集好用的Flutter插件以便更效率的开发， 如果您有好的插件或者建议，请Issue 或 PR ， 期待您的参与。
 <br>
@@ -11,7 +11,7 @@
 <br>
 
 <h3 id="count">收录 324 个</h3>   
-<h3 id="updateTime">最新同步：2021-06-06 11:33</h3>
+<h3 id="updateTime">最新同步：2021-06-06 13:30</h3>
 
 <br>	
 <div class="changeLog">
@@ -458,7 +458,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/uuid" rel="nofollow">uuid</a></td>
     <td>适用于所有 Dart 平台（Web、VM、Flutter）的 RFC4122（v1、v4、v5）UUID 生成器和解析器。</td>
     <td>2021-04-07</td>
-    <td>567</td>
+    <td>568</td>
   </tr>
       
   <tr class="item">
@@ -556,7 +556,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/geolocator">geolocator</a></td>
     <td>Flutter的地理位置插件。该插件提供了用于通用位置（GPS等）功能。</td>
     <td>2021-04-14</td>
-    <td>1806</td>
+    <td>1807</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/package_info_plus" rel="nofollow">package_info_plus</a></td>
@@ -841,7 +841,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/flutter_bloc" rel="nofollow">flutter_bloc</a></td>
     <td>轻松实现 BLoC（业务逻辑组件）设计模式。</td>
     <td>2021-05-29</td>
-    <td>2310</td>
+    <td>2311</td>
   </tr>
       
   <tr class="item">
@@ -897,7 +897,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/i18n_extension" rel="nofollow">i18n_extension</a></td>
     <td>Flutter的翻译和国际化（i18n）。大型和小型项目均易于使用。</td>
     <td>2021-06-06</td>
-    <td>221</td>
+    <td>222</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/rxdart" rel="nofollow">rxdart</a></td>
@@ -939,13 +939,13 @@
   </tr>     
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_bloc">flutter_bloc</a></td><td>可轻松实现BLoC（业务逻辑组件）设计模式。构建用于与bloc状态管理包一起使用。</td>
-    <td>2021-05-29</td><td>2310</td>
+    <td>2021-05-29</td><td>2311</td>
   </tr>   
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/get">get</a></td>
     <td>Flutter的轻便而强大的解决方案。它结合了高性能状态管理，智能依赖注入和快速实用的路由管理。</td>
     <td>2021-04-11</td>
-    <td>4766</td>
+    <td>4768</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/get_storage">get_storage</a></td>
@@ -981,7 +981,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/shared_preferences">shared_preferences</a></td>
     <td>读取、设置缓存。</td>
     <td>2021-05-25</td>
-    <td>3344</td>
+    <td>3345</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/fluro">fluro</a></td>
@@ -1313,7 +1313,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/flutter_webrtc">flutter_webrtc</a></td>
     <td>Flutter WebRTC插件。</td>
     <td>2021-05-29</td>
-    <td>329</td>
+    <td>330</td>
   </tr>
   </tbody>
 </table>
@@ -1367,7 +1367,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/flutter_launcher_icons" rel="nofollow">flutter_launcher_icons</a></td>
     <td>Flutter启动器图标-一个软件包。</td>
     <td>2021-02-28</td>
-    <td>2147</td>
+    <td>2148</td>
   </tr>
   <tr class="changeLogItem">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_blurhash" rel="nofollow">flutter_blurhash</a></td>
@@ -1445,7 +1445,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/screenshot">screenshot</a></td>
     <td>Flutter屏幕截图程序包（运行时），将任何小部件捕获为图像。</td>
     <td>2021-02-10</td>
-    <td>206</td>
+    <td>207</td>
    </tr>
    <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/concentric_transition">concentric_transition</a></td>
@@ -1610,7 +1610,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/table_calendar">table_calendar</a></td>
     <td>高度可定制的功能丰富的Flutter日历，具有手势，动画和多种格式。</td>
     <td>2021-04-06</td>
-    <td>859</td>
+    <td>860</td>
   </tr>
 	  
   <tr class="item">
@@ -1792,7 +1792,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/animate_do" rel="nofollow">animate_do</a></td>
     <td>受Animate.css启发的动画包，仅使用 Flutter 动画构建，没有额外的包。</td>
     <td>2021-03-05</td>
-    <td>1511</td>
+    <td>1512</td>
   </tr>
       
   <tr class="item">
@@ -1968,7 +1968,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/focused_menu">focused_menu</a></td>
     <td>长按菜单。</td>
     <td>2021-03-13</td>
-    <td>219</td>
+    <td>220</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/bottom_navy_bar">bottom_navy_bar</a></td>
@@ -2104,7 +2104,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/showcaseview">showcaseview</a></td>
     <td>逐步展示/突出显示小部件，用于引导说明效果。</td>
     <td>2021-04-17</td>
-    <td>442</td>
+    <td>443</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/direct_select_flutter">direct_select_flutter</a></td>
@@ -2417,5 +2417,6 @@
   </tr>
   </tbody>
 </table>
+
 
 </body></html>
