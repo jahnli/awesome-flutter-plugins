@@ -63,7 +63,7 @@
 	<li><a href="#列表相关">列表相关</a></li>
 	<li><a href="#音视频类">音视频类</a></li>
 	<li><a href="#图像">图像</a></li>
-	<li><a href="#时间">时间</a></li>
+	<li><a href="#时间">时间相关</a></li>
 	 <li><a href="#动画">动画</a></li>
 	<li><a href="#图表类">图表类</a></li>
 	<li><a href="#侧边栏">侧边栏</a></li>
@@ -114,21 +114,21 @@
     <td>2021-05-26</td>
     <td>650</td>
   </tr>
-
+	  
   <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/date_picker_timeline" rel="nofollow">date_picker_timeline</a></td>
-    <td>日期选择器库，提供日历作为水平时间线。</td>
-    <td>2021-03-06</td>
-    <td>148</td>
+    <td><a href="https://pub.flutter-io.cn/packages/native_pdf_view" rel="nofollow">native_pdf_view</a></td>
+    <td>可在Web，MacOS，Android和iOS上呈现PDF文件。</td>
+    <td>2021-03-11</td>
+    <td>203</td>
   </tr>
       
   <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/flutter_calendar_carousel" rel="nofollow">flutter_calendar_carousel</a></td>
-    <td>可滑动的日历小部件。</td>
-    <td>2021-04-09</td>
-    <td>229</td>
+    <td><a href="https://pub.flutter-io.cn/packages/pdf" rel="nofollow">pdf</a></td>
+    <td>为Web或Flutter创建pdf文件。</td>
+    <td>2021-04-26</td>
+    <td>699</td>
   </tr>
-      
+	  
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/chat_ui_kit" rel="nofollow">chat_ui_kit</a></td>
     <td>完整的 Flutter 聊天 UI 套件，它为您提供基本结构以及一组工具，可让您快速构建现代聊天 UI。</td>
@@ -143,13 +143,6 @@
     <td>547</td>
   </tr>
       
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/custom_timer" rel="nofollow">custom_timer</a></td>
-    <td>高度可定制的计时器构建器，具有控制器，动画，间隔，回调，自定义操作等。</td>
-    <td>2021-01-08</td>
-    <td>31</td>
-  </tr>
-
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_form_builder" rel="nofollow">flutter_form_builder</a></td>
     <td>通过删除样板代码，重用验证，对更改做出反应并收集最终用户输入来帮助在Flutter中创建表单。</td>
@@ -247,12 +240,7 @@
     <td>2021-05-14</td>
     <td>76</td>
   </tr>
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/time_planner">time_planner</a></td>
-    <td>一个漂亮，易于使用且可自定义的日历规划器。</td>
-    <td>2021-04-15</td>
-    <td>31</td>
-  </tr>
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/firebase_messaging">firebase_messaging</a></td>
     <td>Firebase消息传递插件。</td>
@@ -307,12 +295,7 @@
     <td>2019-08-13</td>
     <td>1402</td>
   </tr>
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/some_calendar">some_calendar</a></td>
-    <td>自定义日历（多选，单选，日期范围）。</td>
-    <td>2020-07-28</td>
-    <td>49</td>
-  </tr>
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_markdown">flutter_markdown</a></td>
     <td>Flutter的Markdown渲染器。</td>
@@ -342,18 +325,6 @@
      <td>点赞按钮动画。</td>
      <td>2021-03-24</td>
      <td>411</td>
-  </tr>
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/amap_map_fluttify">Fluttify系列插件</a></td>
-    <td>百度地图、高德地图、讯飞、腾讯直播、网易直播、百度人脸识别、极光统计。（专业版需收费）</td>
-    <td>2020-12-15</td>
-    <td>22</td>
-  </tr>
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/liquid_swipe">liquid_swipe</a></td>
-    <td>液体效果的页面切换组件。</td>
-    <td>2021-04-01</td>
-    <td>431</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_colorpicker">flutter_colorpicker</a></td>
@@ -392,46 +363,10 @@
     <td>616</td>
   </tr>
   <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/shimmer">shimmer</a></td>
-    <td>为控件添加闪光效果。</td>
-    <td>2021-04-12</td>
-    <td>1374</td>
-  </tr>
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/flare_flutter">flare_flutter</a></td>
-    <td>Flutter 的动画插件。</td>
-    <td>2021-06-03</td>
-    <td>456</td>
-  </tr>
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/syncfusion_flutter_datepicker">syncfusion_flutter_datepicker</a></td>
-    <td>可以轻松选择日期或日期范围，它具有内置视图，可以快速导航到所需日期。</td>
-    <td>2021-06-01</td>
-    <td>314</td>
-  </tr>
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/timetable">timetable</a></td>
-    <td>可自定义的动画日历小部件，包括日和周视图。</td>
-    <td>2020-10-26</td>
-    <td>190</td>
-  </tr>
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/flutter_cupertino_date_picker">flutter_cupertino_date_picker</a></td>
-    <td>Flutter Cupertino日期选择器。以iOS样式显示DatePicker。</td>
-    <td>2020-06-17</td>
-    <td>99</td>
-  </tr>
-  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_spinkit">flutter_spinkit</a></td>
     <td>随时间变化而变化的加载指示器集合。</td>
     <td>2021-03-04</td>
     <td>1497</td>
-  </tr>
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/flutter_datetime_picker">flutter_datetime_picker</a></td>
-    <td>日期时间选择器。</td>
-    <td>2021-04-23</td>
-    <td>390</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_swiper">flutter_swiper</a></td>
@@ -470,12 +405,6 @@
     <td>498</td>
   </tr>
   <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/double_back_to_close_app">double_back_to_close_app</a></td>
-    <td>可让Android用户按下两次后退按钮以关闭应用程序。</td>
-    <td>2020-12-20</td>
-    <td>160</td>
-  </tr>
-  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/logger">logger</a></td>
     <td>小型，易于使用且可扩展的记录器，可打印精美的日志。</td>
     <td>2021-03-18</td>
@@ -488,12 +417,6 @@
     <td>824</td>
   </tr>
   <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/table_calendar">table_calendar</a></td>
-    <td>高度可定制的功能丰富的Flutter日历，具有手势，动画和多种格式。</td>
-    <td>2021-04-06</td>
-    <td>859</td>
-  </tr>
-  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/city_pickers">city_pickers</a></td>
     <td>适用于城市选择器的Flutter插件，弹出窗口小部件，按功能调用。</td>
     <td>2020-09-08</td>
@@ -504,12 +427,6 @@
     <td>创建漂亮的“加载”和“计时器”按钮。无需担心每个按钮的动画和状态。</td>
     <td>2021-05-07</td>
     <td>201</td>
-  </tr>
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/timeline_tile">timeline_tile</a></td>
-    <td>建立高度可定制的时间线。</td>
-    <td>2021-03-10</td>
-    <td>856</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/animated_text_kit">animated_text_kit</a></td>
@@ -1682,7 +1599,7 @@
 <br>
 	
 <blockquote>
-  <h3>时间</h3>
+  <h3>时间相关</h3>
 </blockquote>
 
 <br>
@@ -1696,21 +1613,97 @@
     <th>likes</th>
    </tr>
   </thead>
-  <tbody id="时间">
+  <tbody id="时间相关">
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/syncfusion_flutter_datepicker">syncfusion_flutter_datepicker</a></td>
+    <td>可以轻松选择日期或日期范围，它具有内置视图，可以快速导航到所需日期。</td>
+    <td>2021-06-01</td>
+    <td>314</td>
+  </tr>
 	  
-   <tr class="item">
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/table_calendar">table_calendar</a></td>
+    <td>高度可定制的功能丰富的Flutter日历，具有手势，动画和多种格式。</td>
+    <td>2021-04-06</td>
+    <td>859</td>
+  </tr>
+	  
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_calendar_carousel" rel="nofollow">flutter_calendar_carousel</a></td>
+    <td>可滑动的日历小部件。</td>
+    <td>2021-04-09</td>
+    <td>229</td>
+  </tr>
+	  
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_cupertino_date_picker">flutter_cupertino_date_picker</a></td>
+    <td>Flutter Cupertino日期选择器。以iOS样式显示DatePicker。</td>
+    <td>2020-06-17</td>
+    <td>99</td>
+  </tr>  
+	  
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/timeline_tile">timeline_tile</a></td>
+    <td>建立高度可定制的时间线。</td>
+    <td>2021-03-10</td>
+    <td>856</td>
+  </tr>
+	  
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_datetime_picker">flutter_datetime_picker</a></td>
+    <td>日期时间选择器。</td>
+    <td>2021-04-23</td>
+    <td>390</td>
+  </tr>
+	  
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/date_picker_timeline" rel="nofollow">date_picker_timeline</a></td>
+    <td>日期选择器库，提供日历作为水平时间线。</td>
+    <td>2021-03-06</td>
+    <td>148</td>
+  </tr>
+
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/time_planner">time_planner</a></td>
+    <td>一个漂亮，易于使用且可自定义的日历规划器。</td>
+    <td>2021-04-15</td>
+    <td>31</td>
+  </tr>
+
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/custom_timer" rel="nofollow">custom_timer</a></td>
+    <td>高度可定制的计时器构建器，具有控制器，动画，间隔，回调，自定义操作等。</td>
+    <td>2021-01-08</td>
+    <td>31</td>
+  </tr>
+	  
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/timetable">timetable</a></td>
+    <td>可自定义的动画日历小部件，包括日和周视图。</td>
+    <td>2020-10-26</td>
+    <td>190</td>
+  </tr>
+	  
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/some_calendar">some_calendar</a></td>
+    <td>自定义日历（多选，单选，日期范围）。</td>
+    <td>2020-07-28</td>
+    <td>49</td>
+  </tr>  
+	  
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/syncfusion_flutter_datepicker" rel="nofollow">syncfusion_flutter_datepicker</a></td>
     <td>使用户可以轻松选择日期或日期范围。</td>
     <td>2021-06-01</td>
     <td>314</td>
-   </tr>
+  </tr>
 	  
-   <tr class="item">
-     <td><a href="https://pub.flutter-io.cn/packages/syncfusion_flutter_calendar" rel="nofollow">syncfusion_flutter_calendar</a></td>
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/syncfusion_flutter_calendar" rel="nofollow">syncfusion_flutter_calendar</a></td>
     <td>九个内置的可配置视图，提供用于高效安排和表示约会/事件的基本功能。</td>
     <td>2021-06-01</td>
     <td>415</td>
-   </tr>   
+  </tr>   
 	  
   </tbody>
 </table>
