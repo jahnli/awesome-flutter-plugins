@@ -19,8 +19,6 @@
 <div class="changeLogItem 06-06">
       <h3>06-06</h3>
       <ul>
-        <li><a href="https://pub.flutter-io.cn/packages/step_progress_indicator">step_progress_indicator</a> - 一系列选定和未选定步骤组成的条形指示器。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/qr_flutter">qr_flutter</a> - 简单快速地渲染二维码。</li>
         <li><a href="https://pub.flutter-io.cn/packages/marquee">marquee</a> - 无限滚动文本的 Flutter 小部件。</li>
         <li><a href="https://pub.flutter-io.cn/packages/agora_rtc_engine">agora_rtc_engine</a> - Agora Video SDK 的 Flutter 插件。</li>
         <li><a href="https://pub.flutter-io.cn/packages/settings_ui">settings_ui</a> - Agora Video SDK 的 Flutter 插件。</li>
