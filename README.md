@@ -19,6 +19,15 @@
 <div class="changeLogItem 06-06">
       <h3>06-06</h3>
       <ul>
+        <li><a href="https://pub.flutter-io.cn/packages/step_progress_indicator">step_progress_indicator</a> - 一系列选定和未选定步骤组成的条形指示器。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/html">html</a> - 用于在浏览器外解析和操作 HTML 内容的 API。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/tobias">tobias</a> - 允许用户使用原生 Android 和 iOS 支付宝 SDK 进行身份验证或支付。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/lpinyin">lpinyin</a> - 汉字转换拼音库。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/qr_flutter">qr_flutter</a> - 简单快速地渲染二维码。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/marquee">marquee</a> - 无限滚动文本的 Flutter 小部件。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/agora_rtc_engine">agora_rtc_engine</a> - Agora Video SDK 的 Flutter 插件。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/settings_ui">settings_ui</a> - Agora Video SDK 的 Flutter 插件。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/slimy_card">slimy_card</a> - 漂亮的类似粘液的卡片动画，将卡片分成两部分。</li>
         <li><a href="https://pub.flutter-io.cn/packages/flutter_map">flutter_map</a> - Leaflet 的 Dart 实现，为 Flutter 应用程序提供地图小部件。</li>
         <li><a href="https://pub.flutter-io.cn/packages/keyboard_actions">keyboard_actions</a> - 向 Android / iOS 键盘添加功能。。</li>
         <li><a href="https://pub.flutter-io.cn/packages/feature_discovery">feature_discovery</a> - 向新用户显示特定功能的描述。</li>
@@ -118,6 +127,13 @@
   </tr>
   </thead>
   <tbody id="插件">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/lpinyin" rel="nofollow">lpinyin</a></td>
+    <td>汉字转换拼音库。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/tflite" rel="nofollow">tflite</a></td>
@@ -1139,6 +1155,34 @@
   </tr>
   </thead>
   <tbody id="UI">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/step_progress_indicator" rel="nofollow">step_progress_indicator</a></td>
+    <td>一系列选定和未选定步骤组成的条形指示器。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/marquee" rel="nofollow">marquee</a></td>
+    <td>无限滚动文本的 Flutter 小部件。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/settings_ui" rel="nofollow">settings_ui</a></td>
+    <td>Agora Video SDK 的 Flutter 插件。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/slimy_card" rel="nofollow">slimy_card</a></td>
+    <td>漂亮的类似粘液的卡片动画，将卡片分成两部分。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_credit_card" rel="nofollow">flutter_credit_card</a></td>
     <td>一个信用卡小部件包，支持输入卡片详细信息，卡片翻转动画。</td>
@@ -1429,6 +1473,13 @@
   </tr>
   </thead>
   <tbody id="音视频类">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/agora_rtc_engine" rel="nofollow">agora_rtc_engine</a></td>
+    <td>Agora Video SDK 的 Flutter 插件。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
 	  
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/video_compress" rel="nofollow">video_compress</a></td>
@@ -1556,6 +1607,13 @@
   </tr>
   </thead>
   <tbody id="图像">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/qr_flutter" rel="nofollow">qr_flutter</a></td>
+    <td>简单快速地渲染二维码。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/image_editor_pro" rel="nofollow">image_editor_pro</a></td>
@@ -2440,6 +2498,13 @@
   <tbody id="通讯类">
       
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/tobias" rel="nofollow">tobias</a></td>
+    <td>允许用户使用原生 Android 和 iOS 支付宝 SDK 进行身份验证或支付。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/jmlink_flutter_plugin" rel="nofollow">jmlink_flutter_plugin</a></td>
     <td>移动端 JMLink 服务可以从多种渠道中唤醒 APP 内一个具体的页面。</td>
     <td>2021-05-25</td>
@@ -2659,6 +2724,13 @@
   </tr>
   </thead>
   <tbody id="Web">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/html" rel="nofollow">html</a></td>
+    <td>用于在浏览器外解析和操作 HTML 内容的 API。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_inappwebview">flutter_inappwebview</a></td>
     <td>可让您添加嵌入式Web视图，使用Web视图以及打开应用内浏览器窗口。</td>
