@@ -15,6 +15,22 @@
 
 <br>	
 <div class="changeLog">
+
+<div class="changeLogItem 06-06">
+      <h3>06-06</h3>
+      <ul>
+        <li><a href="https://pub.flutter-io.cn/packages/video_compress">video_compress</a> - 视频操作的轻量级库。压缩视频，删除音频，从 dart 代码中获取视频缩略图。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/syncfusion_flutter_sliders">syncfusion_flutter_sliders</a> - 用于创建高度可定制且 UI 丰富的滑块、范围滑块和范围选择器小部件</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_email_sender">flutter_email_sender</a> - 允许使用本机平台功能从 flutter 发送电子邮件。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/palette_generator">palette_generator</a> - 用于从源图像生成调色板颜色。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/salomon_bottom_bar">salomon_bottom_bar</a> - 炫酷的底部导航栏。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/clay_containers">clay_containers</a> - 为您自己的独特设计轻松创建自定义的新形态容器小部件。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_offline">flutter_offline</a> - 用来处理离线在线连接。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/bubble_bottom_bar">bubble_bottom_bar</a> - 动画的底部导航栏。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/clipboard">clipboard</a> - 帮助将文本复制到剪贴板并从剪贴板粘贴。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/syncfusion_flutter_sliders">syncfusion_flutter_sliders</a> - 用于创建高度可定制且 UI 丰富的滑块、范围滑块和范围选择器小部件。</li>  
+      </ul> 
+</div>
 <div class="changeLogItem 06-04">
       <h3>06-04</h3>
       <ul>
@@ -91,6 +107,34 @@
   </tr>
   </thead>
   <tbody id="插件">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/video_compress" rel="nofollow">video_compress</a></td>
+    <td>视频操作的轻量级库。压缩视频，删除音频，从 dart 代码中获取视频缩略图。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/syncfusion_flutter_sliders" rel="nofollow">syncfusion_flutter_sliders</a></td>
+    <td>用于创建高度可定制且 UI 丰富的滑块、范围滑块和范围选择器小部件</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/clay_containers" rel="nofollow">clay_containers</a></td>
+    <td>为您自己的独特设计轻松创建自定义的新形态容器小部件。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/syncfusion_flutter_sliders" rel="nofollow">syncfusion_flutter_sliders</a></td>
+    <td>用于创建高度可定制且 UI 丰富的滑块、范围滑块和范围选择器小部件。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/expandable" rel="nofollow">expandable</a></td>
@@ -432,6 +476,27 @@
   </tr>
   </thead>
   <tbody id="设备相关">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_email_sender" rel="nofollow">flutter_email_sender</a></td>
+    <td>允许使用本机平台功能从 flutter 发送电子邮件。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_offline" rel="nofollow">flutter_offline</a></td>
+    <td>用来处理离线在线连接。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/clipboard" rel="nofollow">clipboard</a></td>
+    <td>帮助将文本复制到剪贴板并从剪贴板粘贴。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/sign_in_with_apple" rel="nofollow">sign_in_with_apple</a></td>
@@ -1337,6 +1402,13 @@
   <tbody id="图像">
       
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/palette_generator" rel="nofollow">palette_generator</a></td>
+    <td>用于从源图像生成调色板颜色。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/wechat_camera_picker" rel="nofollow">wechat_camera_picker</a></td>
     <td>wechat_assets_picker的扩展，基于camera相机功能和photo_manager。</td>
     <td>2021-05-13</td>
@@ -1934,6 +2006,20 @@
   </tr>
   </thead>
   <tbody id="底部导航栏">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/salomon_bottom_bar" rel="nofollow">salomon_bottom_bar</a></td>
+    <td>炫酷的底部导航栏。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/bubble_bottom_bar" rel="nofollow">bubble_bottom_bar</a></td>
+    <td>动画的底部导航栏。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/fancy_bottom_navigation">fancy_bottom_navigation</a></td>
     <td>动画的底部导航栏。</td>
