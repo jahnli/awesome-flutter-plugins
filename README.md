@@ -60,6 +60,18 @@
  <ul>
 	<li><a href="#插件">插件</a></li>
 	<li><a href="#设备相关">设备相关</a></li>
+	<li><a href="#列表相关">列表相关</a></li>
+	<li><a href="#音视频类">音视频类</a></li>
+	<li><a href="#图像">图像</a></li>
+	<li><a href="#时间">时间</a></li>
+	 <li><a href="#动画">动画</a></li>
+	<li><a href="#图表类">图表类</a></li>
+	<li><a href="#侧边栏">侧边栏</a></li>
+	<li><a href="#底部导航栏">底部导航栏</a></li>
+	<li><a href="#弹框">弹框</a></li>
+	<li><a href="#通讯类">通讯类</a></li>
+	<li><a href="#地图类">地图类</a></li>
+	<li><a href="#Web">Web</a></li>
  </ul> 
 
 
