@@ -1,7 +1,5 @@
-![uugai](https://user-images.githubusercontent.com/20943608/120912379-1d731080-c6c1-11eb-8871-281f4092a703.png)
-
 <html><head></head><body>
-<h1>awesome-flutter-plugins</h1>
+![uugai](https://user-images.githubusercontent.com/20943608/120912379-1d731080-c6c1-11eb-8871-281f4092a703.png)
 <br>
 🔥🔥 尽可能收集好用的Flutter插件以便更效率的开发， 如果您有好的插件或者建议，请Issue 或 PR ， 期待您的参与。
 <br>
