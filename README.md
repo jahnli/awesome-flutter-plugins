@@ -19,6 +19,18 @@
 <div class="changeLogItem 06-06">
       <h3>06-06</h3>
       <ul>
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_map">flutter_map</a> - Leaflet 的 Dart 实现，为 Flutter 应用程序提供地图小部件。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/keyboard_actions">keyboard_actions</a> - 向 Android / iOS 键盘添加功能。。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/feature_discovery">feature_discovery</a> - 向新用户显示特定功能的描述。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/tflite">tflite</a> - 用于访问 TensorFlow Lite 的 Flutter 插件。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_dotenv">flutter_dotenv</a> - 使用 `.env` 文件轻松配置任何带有全局变量的 Flutter 应用程序。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/contacts_service">contacts_service</a> - 用于在 Android 和 iOS 设备上检索和管理联系人。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/excel">excel</a> - 一个 flutter 和 dart 库，用于读取、创建、编辑和更新 Excel 表。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/syncfusion_flutter_pdf">syncfusion_flutter_pdf</a> - 用于在 Android、iOS 和 Web 平台上创建、阅读、编辑和保护 PDF 文件。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_credit_card">flutter_credit_card</a> - 一个信用卡小部件包，支持输入卡片详细信息，卡片翻转动画。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_ffmpeg">flutter_ffmpeg</a> - 移动平台上运行 FFmpeg 的 Flutter 插件。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_inapp_purchase">flutter_inapp_purchase</a> - 应用程序购买。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/expansion_card">expansion_card</a> - 提供了扩展类型卡的简单实现。您还可以在随卡片展开的背景中添加 gif 或图像。</li>
         <li><a href="https://pub.flutter-io.cn/packages/bitsdojo_window">bitsdojo_window</a> - 帮助使用 Flutter 桌面（自定义边框、标题栏和最小化/最大化/关闭按钮）和 Windows 和 macOS 的常见桌面窗口操作（在屏幕上显示/隐藏/定位）创建自定义窗口。</li>
         <li><a href="https://pub.flutter-io.cn/packages/flutter_layout_grid">flutter_layout_grid</a> - 强大的 Flutter 网格布局系统</li>
         <li><a href="https://pub.flutter-io.cn/packages/numberpicker">numberpicker</a> - 数字选择器，支持滚动</li>
@@ -117,6 +129,48 @@
   </tr>
   </thead>
   <tbody id="插件">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/tflite" rel="nofollow">tflite</a></td>
+    <td>用于访问 TensorFlow Lite 的 Flutter 插件。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/excel" rel="nofollow">excel</a></td>
+    <td>一个 flutter 和 dart 库，用于读取、创建、编辑和更新 Excel 表。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/syncfusion_flutter_pdf" rel="nofollow">syncfusion_flutter_pdf</a></td>
+    <td>用于在 Android、iOS 和 Web 平台上创建、阅读、编辑和保护 PDF 文件。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_credit_card" rel="nofollow">flutter_credit_card</a></td>
+    <td>一个信用卡小部件包，支持输入卡片详细信息，卡片翻转动画。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_inapp_purchase" rel="nofollow">flutter_inapp_purchase</a></td>
+    <td>应用程序购买。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/expansion_card" rel="nofollow">expansion_card</a></td>
+    <td>提供了扩展类型卡的简单实现。您还可以在随卡片展开的背景中添加 gif 或图像。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/bitsdojo_window" rel="nofollow">bitsdojo_window</a></td>
@@ -530,6 +584,20 @@
   <tbody id="设备相关">
       
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/keyboard_actions" rel="nofollow">keyboard_actions</a></td>
+    <td>向 Android / iOS 键盘添加功能。。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/contacts_service" rel="nofollow">contacts_service</a></td>
+    <td>用于在 Android 和 iOS 设备上检索和管理联系人。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/esys_flutter_share" rel="nofollow">esys_flutter_share</a></td>
     <td>esys_flutter_share</td>
     <td>暂无</td>
@@ -925,6 +993,13 @@
   </tr>
   </thead>
   <tbody id="项目相关">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_dotenv" rel="nofollow">flutter_dotenv</a></td>
+    <td>使用 `.env` 文件轻松配置任何带有全局变量的 Flutter 应用程序。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
 	  
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/biometric_storage" rel="nofollow">biometric_storage</a></td>
@@ -1353,6 +1428,13 @@
   </tr>
   </thead>
   <tbody id="音视频类">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_ffmpeg" rel="nofollow">flutter_ffmpeg</a></td>
+    <td>移动平台上运行 FFmpeg 的 Flutter 插件。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/youtube_player_flutter" rel="nofollow">youtube_player_flutter</a></td>
@@ -1856,6 +1938,13 @@
   </tr>
   </thead>
   <tbody id="动画">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/feature_discovery" rel="nofollow">feature_discovery</a></td>
+    <td>向新用户显示特定功能的描述。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
 	  
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flip_card">flip_card</a></td>
@@ -2489,6 +2578,13 @@
   </tr>
   </thead>
   <tbody id="地图类">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_map" rel="nofollow">flutter_map</a></td>
+    <td>Leaflet 的 Dart 实现，为 Flutter 应用程序提供地图小部件。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_baidu_mapapi_map" rel="nofollow">flutter_baidu_mapapi_map</a></td>
