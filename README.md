@@ -533,7 +533,21 @@
     <td>2021-03-05</td>
     <td>563</td>
   </tr>
-      
+	  
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_secure_keyboard" rel="nofollow">flutter_secure_keyboard</a></td>
+    <td>移动安全键盘可防止KeyLogger攻击和屏幕捕获。</td>
+    <td>2021-05-27</td>
+    <td>12</td>
+  </tr>
+	  
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/in_app_purchase" rel="nofollow">in_app_purchase</a></td>
+    <td>用于在 Flutter 应用程序中购买的独立于店面的 API。</td>
+    <td>2021-06-03</td>
+    <td>593</td>
+  </tr> 
+	  
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/uuid" rel="nofollow">uuid</a></td>
     <td>适用于所有 Dart 平台（Web、VM、Flutter）的 RFC4122（v1、v4、v5）UUID 生成器和解析器。</td>
@@ -881,10 +895,17 @@
   </tr>
   </thead>
   <tbody class="项目相关">
-      
+	  
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/biometric_storage" rel="nofollow">biometric_storage</a></td>
+    <td>加密的文件存储，可以选择通过针对Android，iOS，MacOS的生物特征识别锁进行保护，并部分支持Linux，Windows和Web。</td>
+    <td>2021-03-11</td>
+    <td>69</td>
+  </tr>
+	  
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_hooks" rel="nofollow">flutter_hooks</a></td>
-    <td>React 钩子的flutter实现。</td>
+    <td>React hooks的flutter实现。</td>
     <td>2021-05-13</td>
     <td>663</td>
   </tr>
