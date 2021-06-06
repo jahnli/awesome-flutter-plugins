@@ -78,24 +78,10 @@
   <tbody class="插件">
       
   <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/intro_slider" rel="nofollow">intro_slider</a></td>
-    <td>帮助你为你的应用制作一个很酷的介绍/入门页。</td>
-    <td>2021-05-10</td>
-    <td>545</td>
-  </tr>
-      
-  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/expandable" rel="nofollow">expandable</a></td>
     <td>通过单击标题或图标来展开或折叠的 Flutter 小部件。</td>
     <td>2021-03-16</td>
     <td>561</td>
-  </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/in_app_purchase" rel="nofollow">in_app_purchase</a></td>
-    <td>用于在 Flutter 应用程序中购买的独立于店面的 API。</td>
-    <td>2021-06-03</td>
-    <td>593</td>
   </tr>
       
   <tr class="item">
@@ -111,14 +97,7 @@
     <td>2021-05-26</td>
     <td>650</td>
   </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/introduction_screen" rel="nofollow">introduction_screen</a></td>
-    <td>应用程序的介绍/入门页。</td>
-    <td>2021-03-30</td>
-    <td>933</td>
-  </tr>
-      
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/date_picker_timeline" rel="nofollow">date_picker_timeline</a></td>
     <td>日期选择器库，提供日历作为水平时间线。</td>
@@ -141,13 +120,6 @@
   </tr>
       
   <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/syncfusion_flutter_calendar" rel="nofollow">syncfusion_flutter_calendar</a></td>
-    <td>九个内置的可配置视图，提供用于高效安排和表示约会/事件的基本功能。</td>
-    <td>2021-06-01</td>
-    <td>415</td>
-  </tr>
-      
-  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/google_mobile_ads" rel="nofollow">google_mobile_ads</a></td>
     <td>希望通过Flutter应用获利的发布商，适用于Google移动广告的Flutter插件，支持横幅广告，非页内广告（全屏），奖励广告和原生广告。</td>
     <td>2021-05-18</td>
@@ -160,14 +132,8 @@
     <td>2021-01-08</td>
     <td>31</td>
   </tr>
-      
+
   <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/lottie" rel="nofollow">lottie</a></td>
-    <td>在Flutter上本地渲染After Effects动画。该软件包是Lottie播放器的纯Dart实现。</td>
-    <td>2021-03-08</td>
-    <td>809</td>
-  </tr>
-       <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_form_builder" rel="nofollow">flutter_form_builder</a></td>
     <td>通过删除样板代码，重用验证，对更改做出反应并收集最终用户输入来帮助在Flutter中创建表单。</td>
     <td>2021-05-19</td>
@@ -186,13 +152,6 @@
     <td> 具有登录/注册功能的登录小部件，可帮助加快开发速度。</td>
     <td>2021-03-30</td>
     <td>475</td>
-  </tr>
-	  
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/splashscreen" rel="nofollow">splashscreen</a></td>
-    <td>大量定制可轻松为任何flutter应用程序创建一个介绍性的启动画面包。</td>
-    <td>2020-11-17</td>
-    <td>319</td>
   </tr>
       
   <tr class="item">
@@ -222,69 +181,21 @@
     <td>2021-05-10</td>
     <td>565</td>
   </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/syncfusion_flutter_datepicker" rel="nofollow">syncfusion_flutter_datepicker</a></td>
-    <td>使用户可以轻松选择日期或日期范围。</td>
-    <td>2021-06-01</td>
-    <td>314</td>
-  </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/flutter_secure_keyboard" rel="nofollow">flutter_secure_keyboard</a></td>
-    <td>移动安全键盘可防止KeyLogger攻击和屏幕捕获。</td>
-    <td>2021-05-27</td>
-    <td>12</td>
-  </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/flutter_charset_detector" rel="nofollow">flutter_charset_detector</a></td>
-    <td>检测并解码文本字节的字符集（字符编码）。</td>
-    <td>2021-04-10</td>
-    <td>3</td>
-  </tr>
-      
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/carousel_slider" rel="nofollow">carousel_slider</a></td>
     <td>轮播控件，支持无限滚动和自定义子控件。</td>
     <td>2021-01-30</td>
     <td>1690</td>
   </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/native_pdf_view" rel="nofollow">native_pdf_view</a></td>
-    <td>可在Web，MacOS，Android和iOS上呈现PDF文件。</td>
-    <td>2021-03-11</td>
-    <td>203</td>
-  </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/pdf" rel="nofollow">pdf</a></td>
-    <td>为Web或Flutter创建pdf文件。</td>
-    <td>2021-04-26</td>
-    <td>699</td>
-  </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/arcore_flutter_plugin" rel="nofollow">arcore_flutter_plugin</a></td>
-    <td>用于ARCore SDK的Flutter插件，Android平台可构建新的增强现实体验。</td>
-    <td>2021-05-15</td>
-    <td>127</td>
-  </tr>
-      
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_picker" rel="nofollow">flutter_picker</a></td>
     <td>Flutter插件选择器。包括NumberPicker，DateTimePicker，ArrayPicker和默认链接选择器。</td>
     <td>2021-03-26</td>
     <td>204</td>
   </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/biometric_storage" rel="nofollow">biometric_storage</a></td>
-    <td>加密的文件存储，可以选择通过针对Android，iOS，MacOS的生物特征识别锁进行保护，并部分支持Linux，Windows和Web。</td>
-    <td>2021-03-11</td>
-    <td>69</td>
-  </tr>
+	  
   <tr class="item">
     <td><a href="https://github.com/Fliggy-Mobile">Fliggy Mobile</a></td>
     <td>【阿里巴巴-飞猪-FliggyMobile 技术团队】 开发维护的 FWidget 系列组件。</td>
