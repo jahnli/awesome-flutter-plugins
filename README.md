@@ -20,9 +20,6 @@
       <h3>06-06</h3>
       <ul>
         <li><a href="https://pub.flutter-io.cn/packages/step_progress_indicator">step_progress_indicator</a> - 一系列选定和未选定步骤组成的条形指示器。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/html">html</a> - 用于在浏览器外解析和操作 HTML 内容的 API。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/tobias">tobias</a> - 允许用户使用原生 Android 和 iOS 支付宝 SDK 进行身份验证或支付。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/lpinyin">lpinyin</a> - 汉字转换拼音库。</li>
         <li><a href="https://pub.flutter-io.cn/packages/qr_flutter">qr_flutter</a> - 简单快速地渲染二维码。</li>
         <li><a href="https://pub.flutter-io.cn/packages/marquee">marquee</a> - 无限滚动文本的 Flutter 小部件。</li>
         <li><a href="https://pub.flutter-io.cn/packages/agora_rtc_engine">agora_rtc_engine</a> - Agora Video SDK 的 Flutter 插件。</li>
