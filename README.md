@@ -121,6 +121,13 @@
     <td>2021-03-11</td>
     <td>203</td>
   </tr>
+	  
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/arcore_flutter_plugin" rel="nofollow">arcore_flutter_plugin</a></td>
+    <td>用于ARCore SDK的Flutter插件，Android平台可构建新的增强现实体验。</td>
+    <td>2021-05-15</td>
+    <td>127</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/pdf" rel="nofollow">pdf</a></td>
@@ -885,12 +892,12 @@
     <td>2021-05-26</td>
     <td>1054</td>
   </tr>
-      
+ 
   <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/date_format" rel="nofollow">date_format</a></td>
-    <td>用于格式化日期。提供各种常量以构建Date格式的字符串。使用`formatDate`方法根据格式字符串格式化日期。</td>
-    <td>2021-03-12</td>
-    <td>185</td>
+    <td><a href="https://pub.flutter-io.cn/packages/double_back_to_close_app">double_back_to_close_app</a></td>
+    <td>可让Android用户按下两次后退按钮以关闭应用程序。</td>
+    <td>2020-12-20</td>
+    <td>160</td>
   </tr>
       
   <tr class="item">
@@ -1615,6 +1622,13 @@
   </thead>
   <tbody id="时间相关">
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/date_format" rel="nofollow">date_format</a></td>
+    <td>用于格式化日期。提供各种常量以构建Date格式的字符串。使用`formatDate`方法根据格式字符串格式化日期。</td>
+    <td>2021-03-12</td>
+    <td>185</td>
+  </tr>
+	  
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/syncfusion_flutter_datepicker">syncfusion_flutter_datepicker</a></td>
     <td>可以轻松选择日期或日期范围，它具有内置视图，可以快速导航到所需日期。</td>
     <td>2021-06-01</td>
@@ -1726,6 +1740,26 @@
   </tr>
   </thead>
   <tbody id="动画">
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/liquid_swipe">liquid_swipe</a></td>
+    <td>液体效果的页面切换组件。</td>
+    <td>2021-04-01</td>
+    <td>431</td>
+  </tr>
+        <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/shimmer">shimmer</a></td>
+    <td>为控件添加闪光效果。</td>
+    <td>2021-04-12</td>
+    <td>1374</td>
+  </tr>
+
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flare_flutter">flare_flutter</a></td>
+    <td>Flutter 的动画插件。</td>
+    <td>2021-06-03</td>
+    <td>456</td>
+  </tr>
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/intro_slider" rel="nofollow">intro_slider</a></td>
     <td>帮助你为你的应用制作一个很酷的介绍/入门页。</td>
