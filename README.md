@@ -167,14 +167,7 @@
     <td>2021-03-02</td>
     <td>179</td>
   </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/skeleton_text" rel="nofollow">skeleton_text</a></td>
-    <td>提供了一种在 Flutter 项目中添加骨架屏加载动画的简单方法。</td>
-    <td>2021-03-12</td>
-    <td>174</td>
-  </tr>
-      
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/pin_code_fields" rel="nofollow">pin_code_fields</a></td>
     <td>帮助您生成 pin 码字段。</td>
@@ -1187,6 +1180,13 @@
     <td>为您自己的独特设计轻松创建自定义的新形态容器小部件。</td>
     <td>2021-03-09</td>
     <td>162</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/skeleton_text" rel="nofollow">skeleton_text</a></td>
+    <td>提供了一种在 Flutter 项目中添加骨架屏加载动画的简单方法。</td>
+    <td>2021-03-12</td>
+    <td>174</td>
   </tr>
 	  
   <tr class="item">
