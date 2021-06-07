@@ -1887,14 +1887,7 @@
     <td>2021-03-12</td>
     <td>185</td>
   </tr>
-	  
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/syncfusion_flutter_datepicker">syncfusion_flutter_datepicker</a></td>
-    <td>可以轻松选择日期或日期范围，它具有内置视图，可以快速导航到所需日期。</td>
-    <td>2021-06-01</td>
-    <td>314</td>
-  </tr>
-	  
+	  	  
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/table_calendar">table_calendar</a></td>
     <td>高度可定制的功能丰富的Flutter日历，具有手势，动画和多种格式。</td>
