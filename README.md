@@ -100,7 +100,6 @@
         <li><a href="https://pub.flutter-io.cn/packages/custom_navigation_bar">custom_navigation_bar</a> - 带有气泡点击效果的自定义导航栏。</li>
         <li><a href="https://pub.flutter-io.cn/packages/skeleton_text">skeleton_text</a> - 提供了一种在 Flutter 项目中添加骨架文本加载动画的简单方法。</li>
         <li><a href="https://pub.flutter-io.cn/packages/video_compress">video_compress</a> - 视频操作的轻量级库。压缩视频，删除音频，从 dart 代码中获取视频缩略图。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/syncfusion_flutter_sliders">syncfusion_flutter_sliders</a> - 用于创建高度可定制且 UI 丰富的滑块、范围滑块和范围选择器小部件</li>  
         <li><a href="https://pub.flutter-io.cn/packages/flutter_email_sender">flutter_email_sender</a> - 允许使用本机平台功能从 flutter 发送电子邮件。</li>  
         <li><a href="https://pub.flutter-io.cn/packages/palette_generator">palette_generator</a> - 用于从源图像生成调色板颜色。</li>  
         <li><a href="https://pub.flutter-io.cn/packages/salomon_bottom_bar">salomon_bottom_bar</a> - 炫酷的底部导航栏。</li>  
@@ -1497,14 +1496,7 @@
     <td>2020-05-25</td>
     <td>178</td>
   </tr>
-      
-<tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/syncfusion_flutter_sliders" rel="nofollow">syncfusion_flutter_sliders</a></td>
-    <td>用于创建高度可定制且 UI 丰富的滑块、范围滑块和范围选择器小部件</td>
-    <td>2021-06-08</td>
-    <td>161</td>
-  </tr>
-      
+        
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/clay_containers" rel="nofollow">clay_containers</a></td>
     <td>为您自己的独特设计轻松创建自定义的新形态容器小部件。</td>
