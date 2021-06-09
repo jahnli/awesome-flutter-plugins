@@ -11,7 +11,7 @@
 掘金文章地址：https://juejin.im/post/5edeee2e51882542f347030c
 <br>
 
-<h3 id="count">收录 393 个</h3>   
+<h3 id="count">收录 403 个</h3>   
 <h3 id="updateTime">最新同步：2021-06-09 16:00</h3>
 
 <br>	
@@ -150,15 +150,15 @@
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/mask_text_input_formatter" rel="nofollow">mask_text_input_formatter</a></td>
     <td>为 TextField 和 TextFormField 提供了 TextInputFormatter。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-05-26</td>
+    <td>322</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/email_validator" rel="nofollow">email_validator</a></td>
     <td>简单（但正确）的用于验证电子邮件地址的 dart 类。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-03-13</td>
+    <td>332</td>
   </tr>
       
   <tr class="item">
@@ -381,8 +381,8 @@
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/background_fetch" rel="nofollow">background_fetch</a></td>
     <td>iOS 和 Android 的后台定期回调。包括 Android Headless 实现。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-04-01</td>
+    <td>421</td>
   </tr>
       
   <tr class="item">
@@ -834,15 +834,15 @@
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/sizer" rel="nofollow">sizer</a></td>
     <td>可轻松使 Flutter 应用程序响应。自动调整 UI 以适应不同的屏幕尺寸。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-05-03</td>
+    <td>291</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_mobx" rel="nofollow">flutter_mobx</a></td>
     <td>MobX 的 Flutter 集成。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-04-01</td>
+    <td>343</td>
   </tr>
       
   <tr class="item">
@@ -1290,15 +1290,15 @@
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/story_view" rel="nofollow">story_view</a></td>
     <td>像 Whatsapp 和 Instagram 一样显示故事。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-05-23</td>
+    <td>275</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/pinput" rel="nofollow">pinput</a></td>
     <td>密码输入 (OTP) 文本字段，支持自定义数字键盘。密码、密码、验证码、安全、优惠券、Wowcher、2FA、两步验证、双因素身份验证。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-03-12</td>
+    <td>332</td>
   </tr>
       
   <tr class="item">
@@ -1854,15 +1854,15 @@
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/image" rel="nofollow">image</a></td>
     <td>使服务器和 Web 应用程序能够加载、操作和保存具有各种图像文件格式的图像。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-03-19</td>
+    <td>459</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/image" rel="nofollow">image</a></td>
     <td>使服务器和 Web 应用程序能够加载、操作和保存具有各种图像文件格式的图像。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-03-19</td>
+    <td>459</td>
   </tr>
       
   <tr class="item">
@@ -2488,8 +2488,8 @@
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_snake_navigationbar" rel="nofollow">flutter_snake_navigationbar</a></td>
     <td>底部导航栏小部件在更改项上带有蛇形动画。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-03-12</td>
+    <td>303</td>
   </tr>
       
   <tr class="item">
