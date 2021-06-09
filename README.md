@@ -11,8 +11,8 @@
 掘金文章地址：https://juejin.im/post/5edeee2e51882542f347030c
 <br>
 
-<h3 id="count">收录 403 个</h3>   
-<h3 id="updateTime">最新同步：2021-06-09 16:00</h3>
+<h3 id="count">收录 411 个</h3>   
+<h3 id="updateTime">最新同步：2021-06-09 16:20</h3>
 
 <br>	
 <div class="changeLog">
@@ -158,8 +158,8 @@
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/syncfusion_flutter_pdfviewer" rel="nofollow">syncfusion_flutter_pdfviewer</a></td>
     <td>Flutter PDF Viewer 库用于无缝高效地显示 PDF 文档。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-06-08</td>
+    <td>158</td>
   </tr>
       
   <tr class="item">
@@ -396,8 +396,8 @@
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/syncfusion_flutter_barcodes" rel="nofollow">syncfusion_flutter_barcodes</a></td>
     <td>生成器库用于生成和显示机器可读的行业标准一维和二维条码中的数据。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-06-08</td>
+    <td>36</td>
   </tr>
       
   <tr class="item">
@@ -1128,22 +1128,22 @@
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/syncfusion_officechart" rel="nofollow">syncfusion_officechart</a></td>
     <td>用于从头开始创建 Office 图表。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-06-08</td>
+    <td>16</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/syncfusion_flutter_xlsio" rel="nofollow">syncfusion_flutter_xlsio</a></td>
     <td>创建带有公式、图表、图像、超链接、自动调整行和列等的 Excel 文档。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-06-08</td>
+    <td>94</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/syncfusion_flutter_datagrid" rel="nofollow">syncfusion_flutter_datagrid</a></td>
     <td> 用于在表格视图中显示和操作数据</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-06-08</td>
+    <td>170</td>
   </tr>
       
   <tr class="item">
@@ -1897,8 +1897,8 @@
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/syncfusion_flutter_signaturepad" rel="nofollow">syncfusion_flutter_signaturepad</a></td>
     <td>允许您通过绘制的手势捕捉平滑和更逼真的签名并将其保存为图像。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-06-08</td>
+    <td>28</td>
   </tr>
       
   <tr class="item">
@@ -2418,15 +2418,15 @@
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/syncfusion_flutter_treemap" rel="nofollow">syncfusion_flutter_treemap</a></td>
     <td>用于创建交互式树图，以基于平方、切片和切块算法可视化平面和分层数据。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-06-08</td>
+    <td>13</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/syncfusion_flutter_gauges" rel="nofollow">syncfusion_flutter_gauges</a></td>
     <td>Flutter 仪表库包括线性仪表和径向仪表（又名圆形仪表），用于创建现代、交互式、动画仪表和径向滑块。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-06-08</td>
+    <td>297</td>
   </tr>
       
   <tr class="item">
