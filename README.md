@@ -58,30 +58,8 @@
         <li><a href="https://pub.flutter-io.cn/packages/syncfusion_flutter_sliders">syncfusion_flutter_sliders</a> - 用于创建高度可定制且 UI 丰富的滑块、范围滑块和范围选择器小部件。</li>  
       </ul> 
 </div>
-<div class="changeLogItem 06-04">
-      <h3>06-04</h3>
-      <ul>
-        <li><a href="https://pub.flutter-io.cn/packages/intro_slider">intro_slider</a> - 帮助你为你的应用制作一个很酷的介绍/入门页。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/expandable">expandable</a> - 通过单击标题或图标来展开或折叠的 Flutter 小部件。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/sign_in_with_apple">sign_in_with_apple</a> - Flutter 启动 Apple 登录。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/uuid">uuid</a> - 适用于所有 Dart 平台（Web、VM、Flutter）的 RFC4122（v1、v4、v5）UUID 生成器和解析器。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/in_app_purchase">in_app_purchase</a> - 用于在 Flutter 应用程序中购买的独立于店面的 API。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_typeahead">flutter_typeahead</a> - 高度可定制的预先输入（自动完成）文本输入字段。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/pin_code_fields">pin_code_fields</a> - 帮助您生成 pin 码字段。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_hooks">flutter_hooks</a> - React 钩子的flutter实现。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/responsive_builder">responsive_builder</a> - 为小部件定义可读的响应式 UI。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/supercharged">supercharged</a> - 为所有 Flutter 开发人员带来了 Kotlin 等语言的所有舒适功能。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/auto_route">auto_route</a> - 声明式路由解决方案。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/syncfusion_flutter_charts">syncfusion_flutter_charts</a> - Dart 原生编写的数据可视化库，用于创建美观、动画和高性能的图表</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/simple_animations">simple_animations</a> - 创建精美的自定义动画。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/introduction_screen">introduction_screen</a> - 应用程序的介绍/入门页。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/animate_do">animate_do</a> - 受Animate.css启发的动画包，仅使用 Flutter 动画构建，没有额外的包。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_bloc">flutter_bloc</a> - 轻松实现 BLoC（业务逻辑组件）设计模式。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/animations">animations</a> - 轻松集成到任何 Flutter 应用程序中的精美预建动画。</li>  
-      </ul> 
-</div>
 
-	
+
 </div>
 
 <br>
@@ -1151,7 +1129,35 @@
   </tr>
   </thead>
   <tbody id="UI">
-      
+      	  
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/splashscreen" rel="nofollow">splashscreen</a></td>
+    <td>大量定制可轻松为任何flutter应用程序创建一个介绍性的启动画面包。</td>
+    <td>2020-11-17</td>
+    <td>319</td>
+  </tr>
+
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/intro_slider" rel="nofollow">intro_slider</a></td>
+    <td>帮助你为你的应用制作一个很酷的介绍/入门页。</td>
+    <td>2021-05-10</td>
+    <td>546</td>
+  </tr>
+	  
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/introduction_screen" rel="nofollow">introduction_screen</a></td>
+    <td>应用程序的介绍/入门页。</td>
+    <td>2021-03-30</td>
+    <td>936</td>
+  </tr>
+ 
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/feature_discovery" rel="nofollow">feature_discovery</a></td>
+    <td>向新用户显示特定功能的描述。</td>
+    <td>2021-04-03</td>
+    <td>411</td>
+  </tr>
+	  
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/step_progress_indicator" rel="nofollow">step_progress_indicator</a></td>
     <td>一系列选定和未选定步骤组成的条形指示器。</td>
@@ -1993,13 +1999,6 @@
   </tr>
   </thead>
   <tbody id="动画">
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/feature_discovery" rel="nofollow">feature_discovery</a></td>
-    <td>向新用户显示特定功能的描述。</td>
-    <td>2021-04-03</td>
-    <td>411</td>
-  </tr>
 	  
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flip_card">flip_card</a></td>
@@ -2041,33 +2040,12 @@
     <td>2021-06-03</td>
     <td>458</td>
   </tr>
-
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/intro_slider" rel="nofollow">intro_slider</a></td>
-    <td>帮助你为你的应用制作一个很酷的介绍/入门页。</td>
-    <td>2021-05-10</td>
-    <td>546</td>
-  </tr>
-	  
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/introduction_screen" rel="nofollow">introduction_screen</a></td>
-    <td>应用程序的介绍/入门页。</td>
-    <td>2021-03-30</td>
-    <td>936</td>
-  </tr>
 	  
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/lottie" rel="nofollow">lottie</a></td>
     <td>在Flutter上本地渲染After Effects动画。该软件包是Lottie播放器的纯Dart实现。</td>
     <td>2021-03-08</td>
     <td>817</td>
-  </tr>
-	  
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/splashscreen" rel="nofollow">splashscreen</a></td>
-    <td>大量定制可轻松为任何flutter应用程序创建一个介绍性的启动画面包。</td>
-    <td>2020-11-17</td>
-    <td>319</td>
   </tr>
 	  
   <tr class="item">
