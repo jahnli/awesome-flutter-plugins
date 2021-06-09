@@ -20,6 +20,21 @@
 <div class="changeLogItem 06-09">
       <h3>06-09</h3>
       <ul>
+        <li><a href="https://pub.flutter-io.cn/packages/awesome_dialog">awesome_dialog</a> - 尽可能简单的动画显示漂亮的对话框。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/page_transition">page_transition</a> - 漂亮的页面过渡包。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/audio_service">audio_service</a> - 可在屏幕关闭时在后台播放音频。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/sleek_circular_slider">sleek_circular_slider</a> - Flutter 的高度可定制的圆形滑块/进度条。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/backdrop">backdrop</a> - material背景实现。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/phone_number">phone_number</a> - 用于解析、格式化和验证国际电话号码。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_windowmanager">flutter_windowmanager</a> - 用于在应用程序运行时动态操作 Android WindowManager LayoutParams。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_vector_icons">flutter_vector_icons</a> - Flutter 的可自定义图标，包括 AntDesign、Entypo、EvilIcons、Feather、FontAwesome、Foundation、Ionicons、MaterialCommunityIcons、MaterialIcons、Octicons、SimpleLineIcons 和 Zocial。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_showcase">flutter_showcase</a> - 快速、简单和酷炫的方式，可以与全世界分享您的 Flutter 项目。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/stream_transform">stream_transform</a> - 用于转换和操作流的实用程序。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/weekday_selector">weekday_selector</a> - 帮助您在应用中选择工作日。非常适合重复发生的事件、警报。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/im_stepper">im_stepper</a> - 漂亮、易于使用的步进器和页面指示器小部件。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/ota_update">ota_update</a> - 为 Android 和 iOS 提供 ota 更新，带有下载进度（仅限 Android）。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/collection">collection</a> - 包含的实用函数和类的风格dart:collection使集合的工作更容易。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/transparent_image">transparent_image</a> - Dart 代码中的透明图像。</li>
         <li><a href="https://pub.flutter-io.cn/packages/path">path</a> - 一个全面的、跨平台的 Dart 路径操作库。</li>  
         <li><a href="https://pub.flutter-io.cn/packages/tutorial_coach_mark">tutorial_coach_mark</a> - 帮助您以美观、简单和可定制的方式展示您的应用程序及其功能的指南。</li>  
         <li><a href="https://pub.flutter-io.cn/packages/graphql_flutter">graphql_flutter</a> - Flutter 的 GraphQL 客户端。</li>  
@@ -121,6 +136,34 @@
   </tr>
   </thead>
   <tbody id="插件">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/phone_number" rel="nofollow">phone_number</a></td>
+    <td>用于解析、格式化和验证国际电话号码。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/stream_transform" rel="nofollow">stream_transform</a></td>
+    <td>用于转换和操作流的实用程序。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/ota_update" rel="nofollow">ota_update</a></td>
+    <td>为 Android 和 iOS 提供 ota 更新，带有下载进度（仅限 Android）。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/collection" rel="nofollow">collection</a></td>
+    <td>包含的实用函数和类的风格dart:collection使集合的工作更容易。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/admob_flutter" rel="nofollow">admob_flutter</a></td>
@@ -310,6 +353,20 @@
   </tr>
   </thead>
   <tbody id="设备相关">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/audio_service" rel="nofollow">audio_service</a></td>
+    <td>可在屏幕关闭时在后台播放音频。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_windowmanager" rel="nofollow">flutter_windowmanager</a></td>
+    <td>用于在应用程序运行时动态操作 Android WindowManager LayoutParams。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/path" rel="nofollow">path</a></td>
@@ -1186,6 +1243,34 @@
   <tbody id="UI">
       
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/backdrop" rel="nofollow">backdrop</a></td>
+    <td>material背景实现。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_showcase" rel="nofollow">flutter_showcase</a></td>
+    <td>快速、简单和酷炫的方式，可以与全世界分享您的 Flutter 项目。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/weekday_selector" rel="nofollow">weekday_selector</a></td>
+    <td>帮助您在应用中选择工作日。非常适合重复发生的事件、警报。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/im_stepper" rel="nofollow">im_stepper</a></td>
+    <td>漂亮、易于使用的步进器和页面指示器小部件。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/tutorial_coach_mark" rel="nofollow">tutorial_coach_mark</a></td>
     <td>帮助您以美观、简单和可定制的方式展示您的应用程序及其功能的指南。</td>
     <td>2021-06-08</td>
@@ -1708,6 +1793,20 @@
   <tbody id="图像">
       
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_vector_icons" rel="nofollow">flutter_vector_icons</a></td>
+    <td>Flutter 的可自定义图标，包括 AntDesign、Entypo、EvilIcons、Feather、FontAwesome、Foundation、Ionicons、MaterialCommunityIcons、MaterialIcons、Octicons、SimpleLineIcons 和 Zocial。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/transparent_image" rel="nofollow">transparent_image</a></td>
+    <td>Dart 代码中的透明图像。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/qr_flutter" rel="nofollow">qr_flutter</a></td>
     <td>简单快速地渲染二维码。</td>
     <td>2021-03-14</td>
@@ -2096,6 +2195,13 @@
   </tr>
   </thead>
   <tbody id="动画">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/page_transition" rel="nofollow">page_transition</a></td>
+    <td>漂亮的页面过渡包。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
 	  
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flip_card">flip_card</a></td>
@@ -2185,6 +2291,13 @@
   </tr>
   </thead>
   <tbody id="图表类">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/sleek_circular_slider" rel="nofollow">sleek_circular_slider</a></td>
+    <td>Flutter 的高度可定制的圆形滑块/进度条。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/syncfusion_flutter_charts" rel="nofollow">syncfusion_flutter_charts</a></td>
@@ -2442,6 +2555,13 @@
   </tr>
   </thead>
   <tbody id="对话框">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/awesome_dialog" rel="nofollow">awesome_dialog</a></td>
+    <td>尽可能简单的动画显示漂亮的对话框。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/adaptive_dialog" rel="nofollow">adaptive_dialog</a></td>
