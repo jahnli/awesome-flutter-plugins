@@ -20,6 +20,14 @@
 <div class="changeLogItem 06-09">
       <h3>06-09</h3>
       <ul>
+        <li><a href="https://pub.flutter-io.cn/packages/syncfusion_flutter_treemap">syncfusion_flutter_treemap</a> - 用于创建交互式树图，以基于平方、切片和切块算法可视化平面和分层数据。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/syncfusion_officechart">syncfusion_officechart</a> - 用于从头开始创建 Office 图表。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/syncfusion_flutter_signaturepad">syncfusion_flutter_signaturepad</a> - 允许您通过绘制的手势捕捉平滑和更逼真的签名并将其保存为图像。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/syncfusion_flutter_barcodes">syncfusion_flutter_barcodes</a> - 生成器库用于生成和显示机器可读的行业标准一维和二维条码中的数据。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/syncfusion_flutter_xlsio">syncfusion_flutter_xlsio</a> - 创建带有公式、图表、图像、超链接、自动调整行和列等的 Excel 文档。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/syncfusion_flutter_datagrid">syncfusion_flutter_datagrid</a> -  用于在表格视图中显示和操作数据</li>
+        <li><a href="https://pub.flutter-io.cn/packages/syncfusion_flutter_pdfviewer">syncfusion_flutter_pdfviewer</a> - Flutter PDF Viewer 库用于无缝高效地显示 PDF 文档。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/syncfusion_flutter_gauges">syncfusion_flutter_gauges</a> - Flutter 仪表库包括线性仪表和径向仪表（又名圆形仪表），用于创建现代、交互式、动画仪表和径向滑块。</li>
         <li><a href="https://pub.flutter-io.cn/packages/story_view">story_view</a> - 像 Whatsapp 和 Instagram 一样显示故事。</li>
         <li><a href="https://pub.flutter-io.cn/packages/image">image</a> - 使服务器和 Web 应用程序能够加载、操作和保存具有各种图像文件格式的图像。</li>
         <li><a href="https://pub.flutter-io.cn/packages/sizer">sizer</a> - 可轻松使 Flutter 应用程序响应。自动调整 UI 以适应不同的屏幕尺寸。</li>
@@ -146,6 +154,13 @@
   </tr>
   </thead>
   <tbody id="插件">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/syncfusion_flutter_pdfviewer" rel="nofollow">syncfusion_flutter_pdfviewer</a></td>
+    <td>Flutter PDF Viewer 库用于无缝高效地显示 PDF 文档。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/mask_text_input_formatter" rel="nofollow">mask_text_input_formatter</a></td>
@@ -377,6 +392,13 @@
   </tr>
   </thead>
   <tbody id="设备相关">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/syncfusion_flutter_barcodes" rel="nofollow">syncfusion_flutter_barcodes</a></td>
+    <td>生成器库用于生成和显示机器可读的行业标准一维和二维条码中的数据。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/background_fetch" rel="nofollow">background_fetch</a></td>
@@ -1102,6 +1124,27 @@
   </tr>
   </thead>
   <tbody id="列表相关">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/syncfusion_officechart" rel="nofollow">syncfusion_officechart</a></td>
+    <td>用于从头开始创建 Office 图表。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/syncfusion_flutter_xlsio" rel="nofollow">syncfusion_flutter_xlsio</a></td>
+    <td>创建带有公式、图表、图像、超链接、自动调整行和列等的 Excel 文档。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/syncfusion_flutter_datagrid" rel="nofollow">syncfusion_flutter_datagrid</a></td>
+    <td> 用于在表格视图中显示和操作数据</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/sliver_tools" rel="nofollow">sliver_tools</a></td>
@@ -1852,6 +1895,13 @@
   <tbody id="图像">
       
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/syncfusion_flutter_signaturepad" rel="nofollow">syncfusion_flutter_signaturepad</a></td>
+    <td>允许您通过绘制的手势捕捉平滑和更逼真的签名并将其保存为图像。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/image" rel="nofollow">image</a></td>
     <td>使服务器和 Web 应用程序能够加载、操作和保存具有各种图像文件格式的图像。</td>
     <td>2021-03-19</td>
@@ -2364,6 +2414,20 @@
   </tr>
   </thead>
   <tbody id="图表类">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/syncfusion_flutter_treemap" rel="nofollow">syncfusion_flutter_treemap</a></td>
+    <td>用于创建交互式树图，以基于平方、切片和切块算法可视化平面和分层数据。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/syncfusion_flutter_gauges" rel="nofollow">syncfusion_flutter_gauges</a></td>
+    <td>Flutter 仪表库包括线性仪表和径向仪表（又名圆形仪表），用于创建现代、交互式、动画仪表和径向滑块。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/sleek_circular_slider" rel="nofollow">sleek_circular_slider</a></td>
