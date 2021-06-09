@@ -17,6 +17,26 @@
 <br>	
 <div class="changeLog">
 
+<div class="changeLogItem 06-09">
+      <h3>06-09</h3>
+      <ul>
+        <li><a href="https://pub.flutter-io.cn/packages/path">path</a> - 一个全面的、跨平台的 Dart 路径操作库。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/tutorial_coach_mark">tutorial_coach_mark</a> - 帮助您以美观、简单和可定制的方式展示您的应用程序及其功能的指南。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/graphql_flutter">graphql_flutter</a> - Flutter 的 GraphQL 客户端。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/avatar_glow">avatar_glow</a> - 带有炫酷背景发光动画的 Avatar Glow Widget。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/awesome_notifications">awesome_notifications</a> - 通过 Firebase 或其他服务创建本地通知和推送通知（媒体通知、大图片、大文本等）的完整解决方案。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/google_nav_bar">google_nav_bar</a> - 谷歌风格的底部导航栏。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_cache_manager">flutter_cache_manager</a> - 用于在应用程序的缓存目录中下载和缓存文件。可以更改有关文件保留时间的各种设置。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/admob_flutter">admob_flutter</a> - 使用本机平台视图显示横幅广告的 Admob 插件。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/country_code_picker">country_code_picker</a> - 用于显示国家/地区代码选择器。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/dash_chat">dash_chat</a> - 受 react-native-gifted-chat 启发的最完整的 Flutter 聊天 UI。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/bubble">bubble</a> - 用于像 Whatsapp 和其他人中的对话气泡一样聊天。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/qrscan">qrscan</a> - 使用 android 设备扫描条码和二维码。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/smooth_star_rating">smooth_star_rating</a> - 一个平滑的评级栏，支持完整和一半的评级，并具有简单的图标可定制性。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/sliver_tools">sliver_tools</a> - 一组有用的 sliver 工具。</li>  
+      </ul> 
+</div>
+
 <div class="changeLogItem 06-06">
       <h3>06-06</h3>
       <ul>
@@ -101,6 +121,13 @@
   </tr>
   </thead>
   <tbody id="插件">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/admob_flutter" rel="nofollow">admob_flutter</a></td>
+    <td>使用本机平台视图显示横幅广告的 Admob 插件。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/lpinyin" rel="nofollow">lpinyin</a></td>
@@ -283,6 +310,27 @@
   </tr>
   </thead>
   <tbody id="设备相关">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/path" rel="nofollow">path</a></td>
+    <td>一个全面的、跨平台的 Dart 路径操作库。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/awesome_notifications" rel="nofollow">awesome_notifications</a></td>
+    <td>通过 Firebase 或其他服务创建本地通知和推送通知（媒体通知、大图片、大文本等）的完整解决方案。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/qrscan" rel="nofollow">qrscan</a></td>
+    <td>使用 android 设备扫描条码和二维码。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/keyboard_actions" rel="nofollow">keyboard_actions</a></td>
@@ -954,6 +1002,13 @@
   <tbody id="列表相关">
       
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/sliver_tools" rel="nofollow">sliver_tools</a></td>
+    <td>一组有用的 sliver 工具。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_layout_grid" rel="nofollow">flutter_layout_grid</a></td>
     <td>强大的 Flutter 网格布局系统</td>
     <td>2021-03-26</td>
@@ -1129,6 +1184,48 @@
   </tr>
   </thead>
   <tbody id="UI">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/tutorial_coach_mark" rel="nofollow">tutorial_coach_mark</a></td>
+    <td>帮助您以美观、简单和可定制的方式展示您的应用程序及其功能的指南。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/avatar_glow" rel="nofollow">avatar_glow</a></td>
+    <td>带有炫酷背景发光动画的 Avatar Glow Widget。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/country_code_picker" rel="nofollow">country_code_picker</a></td>
+    <td>用于显示国家/地区代码选择器。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/dash_chat" rel="nofollow">dash_chat</a></td>
+    <td>受 react-native-gifted-chat 启发的最完整的 Flutter 聊天 UI。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/bubble" rel="nofollow">bubble</a></td>
+    <td>用于像 Whatsapp 和其他人中的对话气泡一样聊天。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/smooth_star_rating" rel="nofollow">smooth_star_rating</a></td>
+    <td>一个平滑的评级栏，支持完整和一半的评级，并具有简单的图标可定制性。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       	  
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/splashscreen" rel="nofollow">splashscreen</a></td>
@@ -2203,6 +2300,13 @@
   <tbody id="底部导航栏">
       
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/google_nav_bar" rel="nofollow">google_nav_bar</a></td>
+    <td>谷歌风格的底部导航栏。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/custom_navigation_bar" rel="nofollow">custom_navigation_bar</a></td>
     <td>带有气泡点击效果的自定义导航栏。</td>
     <td>2021-03-29</td>
@@ -2463,6 +2567,20 @@
   </tr>
   </thead>
   <tbody id="通讯类">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/graphql_flutter" rel="nofollow">graphql_flutter</a></td>
+    <td>Flutter 的 GraphQL 客户端。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_cache_manager" rel="nofollow">flutter_cache_manager</a></td>
+    <td>用于在应用程序的缓存目录中下载和缓存文件。可以更改有关文件保留时间的各种设置。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/tobias" rel="nofollow">tobias</a></td>
@@ -2726,6 +2844,7 @@
   </tr>
   </tbody>
 </table>
+
 
 
 
