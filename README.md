@@ -20,6 +20,16 @@
 <div class="changeLogItem 06-09">
       <h3>06-09</h3>
       <ul>
+        <li><a href="https://pub.flutter-io.cn/packages/story_view">story_view</a> - 像 Whatsapp 和 Instagram 一样显示故事。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/image">image</a> - 使服务器和 Web 应用程序能够加载、操作和保存具有各种图像文件格式的图像。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/sizer">sizer</a> - 可轻松使 Flutter 应用程序响应。自动调整 UI 以适应不同的屏幕尺寸。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_snake_navigationbar">flutter_snake_navigationbar</a> - 底部导航栏小部件在更改项上带有蛇形动画。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/mask_text_input_formatter">mask_text_input_formatter</a> - 为 TextField 和 TextFormField 提供了 TextInputFormatter。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/pinput">pinput</a> - 密码输入 (OTP) 文本字段，支持自定义数字键盘。密码、密码、验证码、安全、优惠券、Wowcher、2FA、两步验证、双因素身份验证。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/email_validator">email_validator</a> - 简单（但正确）的用于验证电子邮件地址的 dart 类。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_mobx">flutter_mobx</a> - MobX 的 Flutter 集成。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/background_fetch">background_fetch</a> - iOS 和 Android 的后台定期回调。包括 Android Headless 实现。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/image">image</a> - 使服务器和 Web 应用程序能够加载、操作和保存具有各种图像文件格式的图像。</li>
         <li><a href="https://pub.flutter-io.cn/packages/awesome_dialog">awesome_dialog</a> - 尽可能简单的动画显示漂亮的对话框。</li>
         <li><a href="https://pub.flutter-io.cn/packages/page_transition">page_transition</a> - 漂亮的页面过渡包。</li>
         <li><a href="https://pub.flutter-io.cn/packages/audio_service">audio_service</a> - 可在屏幕关闭时在后台播放音频。</li>
@@ -136,6 +146,20 @@
   </tr>
   </thead>
   <tbody id="插件">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/mask_text_input_formatter" rel="nofollow">mask_text_input_formatter</a></td>
+    <td>为 TextField 和 TextFormField 提供了 TextInputFormatter。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/email_validator" rel="nofollow">email_validator</a></td>
+    <td>简单（但正确）的用于验证电子邮件地址的 dart 类。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/phone_number" rel="nofollow">phone_number</a></td>
@@ -353,6 +377,13 @@
   </tr>
   </thead>
   <tbody id="设备相关">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/background_fetch" rel="nofollow">background_fetch</a></td>
+    <td>iOS 和 Android 的后台定期回调。包括 Android Headless 实现。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/audio_service" rel="nofollow">audio_service</a></td>
@@ -801,6 +832,20 @@
   <tbody id="项目相关">
       
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/sizer" rel="nofollow">sizer</a></td>
+    <td>可轻松使 Flutter 应用程序响应。自动调整 UI 以适应不同的屏幕尺寸。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_mobx" rel="nofollow">flutter_mobx</a></td>
+    <td>MobX 的 Flutter 集成。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_dotenv" rel="nofollow">flutter_dotenv</a></td>
     <td>使用 `.env` 文件轻松配置任何带有全局变量的 Flutter 应用程序。</td>
     <td>2021-05-28</td>
@@ -1241,6 +1286,20 @@
   </tr>
   </thead>
   <tbody id="UI">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/story_view" rel="nofollow">story_view</a></td>
+    <td>像 Whatsapp 和 Instagram 一样显示故事。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/pinput" rel="nofollow">pinput</a></td>
+    <td>密码输入 (OTP) 文本字段，支持自定义数字键盘。密码、密码、验证码、安全、优惠券、Wowcher、2FA、两步验证、双因素身份验证。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/backdrop" rel="nofollow">backdrop</a></td>
@@ -1791,6 +1850,20 @@
   </tr>
   </thead>
   <tbody id="图像">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/image" rel="nofollow">image</a></td>
+    <td>使服务器和 Web 应用程序能够加载、操作和保存具有各种图像文件格式的图像。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/image" rel="nofollow">image</a></td>
+    <td>使服务器和 Web 应用程序能够加载、操作和保存具有各种图像文件格式的图像。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_vector_icons" rel="nofollow">flutter_vector_icons</a></td>
@@ -2411,6 +2484,13 @@
   </tr>
   </thead>
   <tbody id="底部导航栏">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_snake_navigationbar" rel="nofollow">flutter_snake_navigationbar</a></td>
+    <td>底部导航栏小部件在更改项上带有蛇形动画。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/google_nav_bar" rel="nofollow">google_nav_bar</a></td>
