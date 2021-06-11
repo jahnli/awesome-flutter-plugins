@@ -80,47 +80,6 @@
       </ul> 
 </div>
 
-<div class="changeLogItem 06-06">
-      <h3>06-06</h3>
-      <ul>
-        <li><a href="https://pub.flutter-io.cn/packages/marquee">marquee</a> - 无限滚动文本的 Flutter 小部件。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/agora_rtc_engine">agora_rtc_engine</a> - Agora Video SDK 的 Flutter 插件。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/settings_ui">settings_ui</a> - Agora Video SDK 的 Flutter 插件。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/slimy_card">slimy_card</a> - 漂亮的类似粘液的卡片动画，将卡片分成两部分。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_map">flutter_map</a> - Leaflet 的 Dart 实现，为 Flutter 应用程序提供地图小部件。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/keyboard_actions">keyboard_actions</a> - 向 Android / iOS 键盘添加功能。。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/feature_discovery">feature_discovery</a> - 向新用户显示特定功能的描述。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/tflite">tflite</a> - 用于访问 TensorFlow Lite 的 Flutter 插件。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_dotenv">flutter_dotenv</a> - 使用 `.env` 文件轻松配置任何带有全局变量的 Flutter 应用程序。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/contacts_service">contacts_service</a> - 用于在 Android 和 iOS 设备上检索和管理联系人。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/excel">excel</a> - 一个 flutter 和 dart 库，用于读取、创建、编辑和更新 Excel 表。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/syncfusion_flutter_pdf">syncfusion_flutter_pdf</a> - 用于在 Android、iOS 和 Web 平台上创建、阅读、编辑和保护 PDF 文件。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_credit_card">flutter_credit_card</a> - 一个信用卡小部件包，支持输入卡片详细信息，卡片翻转动画。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_ffmpeg">flutter_ffmpeg</a> - 移动平台上运行 FFmpeg 的 Flutter 插件。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_inapp_purchase">flutter_inapp_purchase</a> - 应用程序购买。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/expansion_card">expansion_card</a> - 提供了扩展类型卡的简单实现。您还可以在随卡片展开的背景中添加 gif 或图像。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/bitsdojo_window">bitsdojo_window</a> - 帮助使用 Flutter 桌面（自定义边框、标题栏和最小化/最大化/关闭按钮）和 Windows 和 macOS 的常见桌面窗口操作（在屏幕上显示/隐藏/定位）创建自定义窗口。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_layout_grid">flutter_layout_grid</a> - 强大的 Flutter 网格布局系统</li>
-        <li><a href="https://pub.flutter-io.cn/packages/numberpicker">numberpicker</a> - 数字选择器，支持滚动</li>
-        <li><a href="https://pub.flutter-io.cn/packages/esys_flutter_share">esys_flutter_share</a> - esys_flutter_share</li>
-        <li><a href="https://pub.flutter-io.cn/packages/translator">translator</a> - 用于 Dart 的免费且无限制的 Google 翻译 API。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/archive">archive</a> - 为各种存档和压缩格式（例如 zip、tar、bzip2、gzip 和 zlib）提供编码器和解码器。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/blobs">blobs</a> - 用最少的代码创建漂亮的斑点形状。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/image_editor_pro">image_editor_pro</a> - 图像编辑器插件，简单、轻松地支持使用油漆、文本和表情符号。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/custom_navigation_bar">custom_navigation_bar</a> - 带有气泡点击效果的自定义导航栏。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/skeleton_text">skeleton_text</a> - 提供了一种在 Flutter 项目中添加骨架文本加载动画的简单方法。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/video_compress">video_compress</a> - 视频操作的轻量级库。压缩视频，删除音频，从 dart 代码中获取视频缩略图。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_email_sender">flutter_email_sender</a> - 允许使用本机平台功能从 flutter 发送电子邮件。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/palette_generator">palette_generator</a> - 用于从源图像生成调色板颜色。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/salomon_bottom_bar">salomon_bottom_bar</a> - 炫酷的底部导航栏。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/clay_containers">clay_containers</a> - 为您自己的独特设计轻松创建自定义的新形态容器小部件。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_offline">flutter_offline</a> - 用来处理离线在线连接。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/bubble_bottom_bar">bubble_bottom_bar</a> - 动画的底部导航栏。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/clipboard">clipboard</a> - 帮助将文本复制到剪贴板并从剪贴板粘贴。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/syncfusion_flutter_sliders">syncfusion_flutter_sliders</a> - 用于创建高度可定制且 UI 丰富的滑块、范围滑块和范围选择器小部件。</li>  
-      </ul> 
-</div>
-
 
 </div>
 
