@@ -17,6 +17,16 @@
 <br>	
 <div class="changeLog">
 
+<div class="changeLogItem 06-11">
+      <h3>06-11</h3>
+      <ul>
+        <li><a href="https://pub.flutter-io.cn/packages/slider_button">slider_button</a> - 用于激活/停用某些事件的可定制滑块按钮小部件。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_xlider">flutter_xlider</a> - 一个 Material Design 滑块和范围滑块，水平和垂直，支持 RTL 和大量的选项和自定义。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/time_range">time_range</a> - 选择时间范围的 Flutter 小部件。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_time_range">flutter_time_range</a> - 完全可定制的颤动小部件，允许用户选择时间范围。</li>  
+      </ul> 
+</div>
+
 <div class="changeLogItem 06-09">
       <h3>06-09</h3>
       <ul>
@@ -1330,6 +1340,20 @@
   <tbody id="UI">
       
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/slider_button" rel="nofollow">slider_button</a></td>
+    <td>用于激活/停用某些事件的可定制滑块按钮小部件。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_xlider" rel="nofollow">flutter_xlider</a></td>
+    <td>一个 Material Design 滑块和范围滑块，水平和垂直，支持 RTL 和大量的选项和自定义。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/story_view" rel="nofollow">story_view</a></td>
     <td>像 Whatsapp 和 Instagram 一样显示故事。</td>
     <td>2021-05-23</td>
@@ -2198,6 +2222,20 @@
    </tr>
   </thead>
   <tbody id="时间相关">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/time_range" rel="nofollow">time_range</a></td>
+    <td>选择时间范围的 Flutter 小部件。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_time_range" rel="nofollow">flutter_time_range</a></td>
+    <td>完全可定制的颤动小部件，允许用户选择时间范围。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/date_format" rel="nofollow">date_format</a></td>
     <td>用于格式化日期。提供各种常量以构建Date格式的字符串。使用`formatDate`方法根据格式字符串格式化日期。</td>
