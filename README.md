@@ -27,17 +27,7 @@
         <li><a href="https://pub.flutter-io.cn/packages/vertical_weight_slider">vertical_weight_slider</a> - 提供易于使用且可滚动的垂直重量滑块。</li>  
       </ul> 
 </div>
-
-<div class="changeLogItem 06-11">
-      <h3>06-11</h3>
-      <ul>
-        <li><a href="https://pub.flutter-io.cn/packages/slider_button">slider_button</a> - 用于激活/停用某些事件的可定制滑块按钮小部件。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_xlider">flutter_xlider</a> - 一个 Material Design 滑块和范围滑块，水平和垂直，支持 RTL 和大量的选项和自定义。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/time_range">time_range</a> - 选择时间范围的 Flutter 小部件。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_time_range">flutter_time_range</a> - 完全可定制的颤动小部件，允许用户选择时间范围。</li>  
-      </ul> 
-</div>
-
+	
 </div>
 
 <br>
