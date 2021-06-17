@@ -1575,12 +1575,6 @@
     <td>1294</td>
   </tr>
   <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/fluttertoast">fluttertoast</a></td>
-    <td>Toast 组件。</td>
-    <td>2021-05-19</td>
-    <td>1073</td>
-  </tr>
-  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/pull_to_refresh">pull_to_refresh</a></td>
     <td>一个提供上拉加载和下拉刷新的组件,同时支持Android和Ios。</td>
     <td>2021-05-07</td>
@@ -2650,7 +2644,14 @@
     <td>2021-05-28</td>
     <td>480</td>
   </tr>
-      
+	  
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/fluttertoast">fluttertoast</a></td>
+    <td>Toast 组件。</td>
+    <td>2021-05-19</td>
+    <td>1073</td>
+  </tr>
+	  
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/adaptive_dialog" rel="nofollow">adaptive_dialog</a></td>
     <td>根据平台自适应地显示对话框或模态框。</td>
