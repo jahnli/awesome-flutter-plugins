@@ -17,6 +17,17 @@
 <br>	
 <div class="changeLog">
 
+<div class="changeLogItem 06-17">
+      <h3>06-17</h3>
+      <ul>
+        <li><a href="https://pub.flutter-io.cn/packages/hive">hive</a> - 用纯 Dart 编写的轻量级和极快的键值数据库。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/stripe_sdk">stripe_sdk</a> - Flutter 唯一的原生 Stripe 库，完全支持 SCA/PSD2、支付和最新的 Stripe 功能。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_stripe">flutter_stripe</a> - Stripe 的flutter库，支持 PaymentSheets、Apple 和 Google Pay、SCA、PSD2 等。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/material_design_icons_flutter">material_design_icons_flutter</a> - 社区为 Flutter 设计的 Material Design 图标。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/vertical_weight_slider">vertical_weight_slider</a> - 提供易于使用且可滚动的垂直重量滑块。</li>  
+      </ul> 
+</div>
+
 <div class="changeLogItem 06-11">
       <h3>06-11</h3>
       <ul>
@@ -1245,6 +1256,13 @@
   <tbody id="UI">
       
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/vertical_weight_slider" rel="nofollow">vertical_weight_slider</a></td>
+    <td>提供易于使用且可滚动的垂直重量滑块。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/slider_button" rel="nofollow">slider_button</a></td>
     <td>用于激活/停用某些事件的可定制滑块按钮小部件。</td>
     <td>2021-05-31</td>
@@ -1814,6 +1832,13 @@
   </tr>
   </thead>
   <tbody id="图像">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/material_design_icons_flutter" rel="nofollow">material_design_icons_flutter</a></td>
+    <td>社区为 Flutter 设计的 Material Design 图标。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/syncfusion_flutter_signaturepad" rel="nofollow">syncfusion_flutter_signaturepad</a></td>
@@ -2768,6 +2793,27 @@
   <tbody id="通讯类">
       
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/hive" rel="nofollow">hive</a></td>
+    <td>用纯 Dart 编写的轻量级和极快的键值数据库。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/stripe_sdk" rel="nofollow">stripe_sdk</a></td>
+    <td>Flutter 唯一的原生 Stripe 库，完全支持 SCA/PSD2、支付和最新的 Stripe 功能。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_stripe" rel="nofollow">flutter_stripe</a></td>
+    <td>Stripe 的flutter库，支持 PaymentSheets、Apple 和 Google Pay、SCA、PSD2 等。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/graphql_flutter" rel="nofollow">graphql_flutter</a></td>
     <td>Flutter 的 GraphQL 客户端。</td>
     <td>2021-06-07</td>
@@ -3043,6 +3089,7 @@
   </tr>
   </tbody>
 </table>
+
 
 
 
