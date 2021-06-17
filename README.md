@@ -27,59 +27,6 @@
       </ul> 
 </div>
 
-<div class="changeLogItem 06-09">
-      <h3>06-09</h3>
-      <ul>
-        <li><a href="https://pub.flutter-io.cn/packages/syncfusion_flutter_treemap">syncfusion_flutter_treemap</a> - 用于创建交互式树图，以基于平方、切片和切块算法可视化平面和分层数据。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/syncfusion_officechart">syncfusion_officechart</a> - 用于从头开始创建 Office 图表。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/syncfusion_flutter_signaturepad">syncfusion_flutter_signaturepad</a> - 允许您通过绘制的手势捕捉平滑和更逼真的签名并将其保存为图像。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/syncfusion_flutter_barcodes">syncfusion_flutter_barcodes</a> - 生成器库用于生成和显示机器可读的行业标准一维和二维条码中的数据。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/syncfusion_flutter_xlsio">syncfusion_flutter_xlsio</a> - 创建带有公式、图表、图像、超链接、自动调整行和列等的 Excel 文档。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/syncfusion_flutter_datagrid">syncfusion_flutter_datagrid</a> -  用于在表格视图中显示和操作数据</li>
-        <li><a href="https://pub.flutter-io.cn/packages/syncfusion_flutter_pdfviewer">syncfusion_flutter_pdfviewer</a> - Flutter PDF Viewer 库用于无缝高效地显示 PDF 文档。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/syncfusion_flutter_gauges">syncfusion_flutter_gauges</a> - Flutter 仪表库包括线性仪表和径向仪表（又名圆形仪表），用于创建现代、交互式、动画仪表和径向滑块。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/story_view">story_view</a> - 像 Whatsapp 和 Instagram 一样显示故事。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/image">image</a> - 使服务器和 Web 应用程序能够加载、操作和保存具有各种图像文件格式的图像。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/sizer">sizer</a> - 可轻松使 Flutter 应用程序响应。自动调整 UI 以适应不同的屏幕尺寸。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_snake_navigationbar">flutter_snake_navigationbar</a> - 底部导航栏小部件在更改项上带有蛇形动画。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/mask_text_input_formatter">mask_text_input_formatter</a> - 为 TextField 和 TextFormField 提供了 TextInputFormatter。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/pinput">pinput</a> - 密码输入 (OTP) 文本字段，支持自定义数字键盘。密码、密码、验证码、安全、优惠券、Wowcher、2FA、两步验证、双因素身份验证。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/email_validator">email_validator</a> - 简单（但正确）的用于验证电子邮件地址的 dart 类。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_mobx">flutter_mobx</a> - MobX 的 Flutter 集成。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/background_fetch">background_fetch</a> - iOS 和 Android 的后台定期回调。包括 Android Headless 实现。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/image">image</a> - 使服务器和 Web 应用程序能够加载、操作和保存具有各种图像文件格式的图像。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/awesome_dialog">awesome_dialog</a> - 尽可能简单的动画显示漂亮的对话框。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/page_transition">page_transition</a> - 漂亮的页面过渡包。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/audio_service">audio_service</a> - 可在屏幕关闭时在后台播放音频。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/sleek_circular_slider">sleek_circular_slider</a> - Flutter 的高度可定制的圆形滑块/进度条。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/backdrop">backdrop</a> - material背景实现。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/phone_number">phone_number</a> - 用于解析、格式化和验证国际电话号码。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_windowmanager">flutter_windowmanager</a> - 用于在应用程序运行时动态操作 Android WindowManager LayoutParams。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_vector_icons">flutter_vector_icons</a> - Flutter 的可自定义图标，包括 AntDesign、Entypo、EvilIcons、Feather、FontAwesome、Foundation、Ionicons、MaterialCommunityIcons、MaterialIcons、Octicons、SimpleLineIcons 和 Zocial。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_showcase">flutter_showcase</a> - 快速、简单和酷炫的方式，可以与全世界分享您的 Flutter 项目。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/stream_transform">stream_transform</a> - 用于转换和操作流的实用程序。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/weekday_selector">weekday_selector</a> - 帮助您在应用中选择工作日。非常适合重复发生的事件、警报。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/im_stepper">im_stepper</a> - 漂亮、易于使用的步进器和页面指示器小部件。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/ota_update">ota_update</a> - 为 Android 和 iOS 提供 ota 更新，带有下载进度（仅限 Android）。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/collection">collection</a> - 包含的实用函数和类的风格dart:collection使集合的工作更容易。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/transparent_image">transparent_image</a> - Dart 代码中的透明图像。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/path">path</a> - 一个全面的、跨平台的 Dart 路径操作库。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/tutorial_coach_mark">tutorial_coach_mark</a> - 帮助您以美观、简单和可定制的方式展示您的应用程序及其功能的指南。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/graphql_flutter">graphql_flutter</a> - Flutter 的 GraphQL 客户端。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/avatar_glow">avatar_glow</a> - 带有炫酷背景发光动画的 Avatar Glow Widget。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/awesome_notifications">awesome_notifications</a> - 通过 Firebase 或其他服务创建本地通知和推送通知（媒体通知、大图片、大文本等）的完整解决方案。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/google_nav_bar">google_nav_bar</a> - 谷歌风格的底部导航栏。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_cache_manager">flutter_cache_manager</a> - 用于在应用程序的缓存目录中下载和缓存文件。可以更改有关文件保留时间的各种设置。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/admob_flutter">admob_flutter</a> - 使用本机平台视图显示横幅广告的 Admob 插件。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/country_code_picker">country_code_picker</a> - 用于显示国家/地区代码选择器。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/dash_chat">dash_chat</a> - 受 react-native-gifted-chat 启发的最完整的 Flutter 聊天 UI。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/bubble">bubble</a> - 用于像 Whatsapp 和其他人中的对话气泡一样聊天。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/qrscan">qrscan</a> - 使用 android 设备扫描条码和二维码。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/smooth_star_rating">smooth_star_rating</a> - 一个平滑的评级栏，支持完整和一半的评级，并具有简单的图标可定制性。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/sliver_tools">sliver_tools</a> - 一组有用的 sliver 工具。</li>  
-      </ul> 
-</div>
-
 
 </div>
 
