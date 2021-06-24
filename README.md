@@ -573,12 +573,6 @@
     <td>33</td>
   </tr>
   <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/draggable_scrollbar" rel="nofollow">draggable_scrollbar</a></td>
-    <td>可以拖动滚动条以快速浏览垂直列表。</td>
-    <td>2021-04-04</td>
-    <td>163</td>
-  </tr>
-  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/workmanager" rel="nofollow">workmanager</a></td>
     <td>Flutter Workmanager。此插件可让您安排Android和iOS上的后台工作。</td>
     <td>2021-06-07</td>
