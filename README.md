@@ -20,6 +20,15 @@
 <div class="changeLogItem 06-24">
       <h3>06-24</h3>
       <ul>
+        <li><a href="https://pub.flutter-io.cn/packages/pay">pay</a> - 对 Flutter 应用程序付款支持的插件。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/fullscreen">fullscreen</a> - 可以轻松地在 Flutter 应用程序中启用全屏。实现了android平台的三种全屏模式。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_uploader">flutter_uploader</a> - 用于创建和管理上传任务的插件。支持iOS和安卓。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/after_layout">after_layout</a> - 您的小部件的第一个布局完成后执行代码，即在显示第一帧之后。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/background_location">background_location</a> - 用于在 Android 和 iOS 的后台获取位置更新。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/map_launcher">map_launcher</a> - 查找安装在设备上的可用地图，并使用标记启动它们或显示方向。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/syncfusion_flutter_maps">syncfusion_flutter_maps</a> - 用于从形状文件或 WMTS 服务创建美观、交互式和可自定义的地图，以可视化地理区域。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_background_geolocation">flutter_background_geolocation</a> - 先进的背景位置跟踪和地理围栏模块。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/mqtt_client">mqtt_client</a> - 用于 Dart 的基于服务器和浏览器的 MQTT 客户端。</li>
         <li><a href="https://pub.flutter-io.cn/packages/flutter_nfc_kit">flutter_nfc_kit</a> - 在 Android 和 iOS 上提供 NFC 功能，包括读取元数据、读写 NDEF 记录。</li>  
         <li><a href="https://pub.flutter-io.cn/packages/blue_thermal_printer">blue_thermal_printer</a> - 过蓝牙连接到热敏打印机的 Flutter 插件。</li>  
         <li><a href="https://pub.flutter-io.cn/packages/flutter_bluetooth_serial">flutter_bluetooth_serial</a> -  Flutter 蓝牙串行库。</li>  
@@ -90,6 +99,27 @@
   </tr>
   </thead>
   <tbody id="插件">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/fullscreen" rel="nofollow">fullscreen</a></td>
+    <td>可以轻松地在 Flutter 应用程序中启用全屏。实现了android平台的三种全屏模式。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_uploader" rel="nofollow">flutter_uploader</a></td>
+    <td>用于创建和管理上传任务的插件。支持iOS和安卓。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/after_layout" rel="nofollow">after_layout</a></td>
+    <td>您的小部件的第一个布局完成后执行代码，即在显示第一帧之后。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/desktop_window" rel="nofollow">desktop_window</a></td>
@@ -2884,6 +2914,20 @@
   <tbody id="通讯类">
       
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/pay" rel="nofollow">pay</a></td>
+    <td>对 Flutter 应用程序付款支持的插件。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/mqtt_client" rel="nofollow">mqtt_client</a></td>
+    <td>用于 Dart 的基于服务器和浏览器的 MQTT 客户端。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/hive" rel="nofollow">hive</a></td>
     <td>用纯 Dart 编写的轻量级和极快的键值数据库。</td>
     <td>2021-04-19</td>
@@ -3072,6 +3116,34 @@
   </tr>
   </thead>
   <tbody id="地图类">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/background_location" rel="nofollow">background_location</a></td>
+    <td>用于在 Android 和 iOS 的后台获取位置更新。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/map_launcher" rel="nofollow">map_launcher</a></td>
+    <td>查找安装在设备上的可用地图，并使用标记启动它们或显示方向。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/syncfusion_flutter_maps" rel="nofollow">syncfusion_flutter_maps</a></td>
+    <td>用于从形状文件或 WMTS 服务创建美观、交互式和可自定义的地图，以可视化地理区域。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_background_geolocation" rel="nofollow">flutter_background_geolocation</a></td>
+    <td>先进的背景位置跟踪和地理围栏模块。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/maps_curved_line" rel="nofollow">maps_curved_line</a></td>
