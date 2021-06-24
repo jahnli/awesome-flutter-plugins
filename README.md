@@ -11,8 +11,8 @@
 掘金文章地址：https://juejin.im/post/5edeee2e51882542f347030c
 <br>
 
-<h3 id="count">收录 432 个</h3>   
-<h3 id="updateTime">最新同步：2021-06-24 13:30</h3>
+<h3 id="count">收录 441 个</h3>   
+<h3 id="updateTime">最新同步：2021-06-24 13:44</h3>
 
 <br>	
 <div class="changeLog">
@@ -103,22 +103,22 @@
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/fullscreen" rel="nofollow">fullscreen</a></td>
     <td>可以轻松地在 Flutter 应用程序中启用全屏。实现了android平台的三种全屏模式。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-03-14</td>
+    <td>15</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_uploader" rel="nofollow">flutter_uploader</a></td>
     <td>用于创建和管理上传任务的插件。支持iOS和安卓。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2020-12-26</td>
+    <td>85</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/after_layout" rel="nofollow">after_layout</a></td>
     <td>您的小部件的第一个布局完成后执行代码，即在显示第一帧之后。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-03-14</td>
+    <td>339</td>
   </tr>
       
   <tr class="item">
@@ -1483,7 +1483,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/splashscreen" rel="nofollow">splashscreen</a></td>
     <td>大量定制可轻松为任何flutter应用程序创建一个介绍性的启动画面包。</td>
     <td>2020-11-17</td>
-    <td>324</td>
+    <td>325</td>
   </tr>
 
   <tr class="item">
@@ -1725,7 +1725,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/argon_buttons_flutter">argon_buttons_flutter</a></td>
     <td>创建漂亮的“加载”和“计时器”按钮。无需担心每个按钮的动画和状态。</td>
     <td>2021-05-07</td>
-    <td>215</td>
+    <td>216</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_easyrefresh">flutter_easyrefresh</a></td>
@@ -2150,7 +2150,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/image_cropper">image_cropper</a></td>
     <td>适用于Android和iOS支持裁剪图像的Flutter插件。</td>
     <td>2021-06-20</td>
-    <td>701</td>
+    <td>702</td>
    </tr>
    <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/edge_detection">edge_detection</a></td>
@@ -2916,15 +2916,15 @@
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/pay" rel="nofollow">pay</a></td>
     <td>对 Flutter 应用程序付款支持的插件。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-06-08</td>
+    <td>184</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/mqtt_client" rel="nofollow">mqtt_client</a></td>
     <td>用于 Dart 的基于服务器和浏览器的 MQTT 客户端。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-05-10</td>
+    <td>134</td>
   </tr>
       
   <tr class="item">
@@ -3120,29 +3120,29 @@
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/background_location" rel="nofollow">background_location</a></td>
     <td>用于在 Android 和 iOS 的后台获取位置更新。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-06-15</td>
+    <td>133</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/map_launcher" rel="nofollow">map_launcher</a></td>
     <td>查找安装在设备上的可用地图，并使用标记启动它们或显示方向。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-06-23</td>
+    <td>216</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/syncfusion_flutter_maps" rel="nofollow">syncfusion_flutter_maps</a></td>
     <td>用于从形状文件或 WMTS 服务创建美观、交互式和可自定义的地图，以可视化地理区域。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-06-15</td>
+    <td>139</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_background_geolocation" rel="nofollow">flutter_background_geolocation</a></td>
     <td>先进的背景位置跟踪和地理围栏模块。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-06-11</td>
+    <td>248</td>
   </tr>
       
   <tr class="item">
