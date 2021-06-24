@@ -17,6 +17,27 @@
 <br>	
 <div class="changeLog">
 
+<div class="changeLogItem 06-24">
+      <h3>06-24</h3>
+      <ul>
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_nfc_kit">flutter_nfc_kit</a> - 在 Android 和 iOS 上提供 NFC 功能，包括读取元数据、读写 NDEF 记录。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/blue_thermal_printer">blue_thermal_printer</a> - 过蓝牙连接到热敏打印机的 Flutter 插件。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_bluetooth_serial">flutter_bluetooth_serial</a> -  Flutter 蓝牙串行库。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_reactive_ble">flutter_reactive_ble</a> - 可与多个设备通信的反应式低功耗蓝牙 (BLE) 插件。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_beacon">flutter_beacon</a> - 用于在 Android 和 iOS 上作为信标 (iBeacon) 进行扫描和传输。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_ble_peripheral">flutter_ble_peripheral</a> - 使设备能够设置为外设模式，并通告自定义服务和特性。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/path_drawing">path_drawing</a> - 帮助（画布）路径创建和操作。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_ble_lib">flutter_ble_lib</a> - 一个支持 BLE 操作的 Flutter 库。它使用 MultiPlatformBleAdapter 作为本机后端</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/maps_curved_line">maps_curved_line</a> - 帮助在谷歌地图上绘制曲线的包。这可以用作在位置 A 和位置 B 之间绘制路线的经济高效的方式。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/coordtransform">coordtransform</a> - 坐标变换工具，提供BD09、GCJ02、WGS84坐标系相互变换。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/fvm">fvm</a> - 一个简单的 cli 来管理每个项目的 Flutter SDK 版本。支持通道、发布和本地缓存，以便在版本之间快速切换。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/desktop_window">desktop_window</a> - Flutter 桌面插件（macOS/Linux/Windows）用于获取和更改窗口大小。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/azlistview">azlistview</a> - Flutter 粘性标题和索引 ListView。索引栏。如城市列表、联系人列表。索引和悬停效果。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/url_strategy">url_strategy</a> - 允许使用单行代码设置 Web 应用程序 URL 策略。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/floating_bubbles">floating_bubbles</a> - 用于将前景上的浮动气泡添加到任何 Flutter 小部件的 Flutter 包。</li>  
+      </ul> 
+</div>
+
 <div class="changeLogItem 06-17">
       <h3>06-17</h3>
       <ul>
@@ -69,6 +90,20 @@
   </tr>
   </thead>
   <tbody id="插件">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/desktop_window" rel="nofollow">desktop_window</a></td>
+    <td>Flutter 桌面插件（macOS/Linux/Windows）用于获取和更改窗口大小。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/url_strategy" rel="nofollow">url_strategy</a></td>
+    <td>允许使用单行代码设置 Web 应用程序 URL 策略。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/syncfusion_flutter_pdfviewer" rel="nofollow">syncfusion_flutter_pdfviewer</a></td>
@@ -307,6 +342,55 @@
   </tr>
   </thead>
   <tbody id="设备相关">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_nfc_kit" rel="nofollow">flutter_nfc_kit</a></td>
+    <td>在 Android 和 iOS 上提供 NFC 功能，包括读取元数据、读写 NDEF 记录。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/blue_thermal_printer" rel="nofollow">blue_thermal_printer</a></td>
+    <td>过蓝牙连接到热敏打印机的 Flutter 插件。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_bluetooth_serial" rel="nofollow">flutter_bluetooth_serial</a></td>
+    <td> Flutter 蓝牙串行库。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_reactive_ble" rel="nofollow">flutter_reactive_ble</a></td>
+    <td>可与多个设备通信的反应式低功耗蓝牙 (BLE) 插件。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_beacon" rel="nofollow">flutter_beacon</a></td>
+    <td>用于在 Android 和 iOS 上作为信标 (iBeacon) 进行扫描和传输。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_ble_peripheral" rel="nofollow">flutter_ble_peripheral</a></td>
+    <td>使设备能够设置为外设模式，并通告自定义服务和特性。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_ble_lib" rel="nofollow">flutter_ble_lib</a></td>
+    <td>一个支持 BLE 操作的 Flutter 库。它使用 MultiPlatformBleAdapter 作为本机后端</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/syncfusion_flutter_barcodes" rel="nofollow">syncfusion_flutter_barcodes</a></td>
@@ -769,6 +853,13 @@
   <tbody id="项目相关">
       
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/fvm" rel="nofollow">fvm</a></td>
+    <td>一个简单的 cli 来管理每个项目的 Flutter SDK 版本。支持通道、发布和本地缓存，以便在版本之间快速切换。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/sizer" rel="nofollow">sizer</a></td>
     <td>可轻松使 Flutter 应用程序响应。自动调整 UI 以适应不同的屏幕尺寸。</td>
     <td>2021-05-03</td>
@@ -1041,6 +1132,13 @@
   <tbody id="列表相关">
       
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/azlistview" rel="nofollow">azlistview</a></td>
+    <td>Flutter 粘性标题和索引 ListView。索引栏。如城市列表、联系人列表。索引和悬停效果。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/syncfusion_officechart" rel="nofollow">syncfusion_officechart</a></td>
     <td>用于从头开始创建 Office 图表。</td>
     <td>2021-06-15</td>
@@ -1244,6 +1342,13 @@
   </tr>
   </thead>
   <tbody id="UI">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/floating_bubbles" rel="nofollow">floating_bubbles</a></td>
+    <td>用于将前景上的浮动气泡添加到任何 Flutter 小部件的 Flutter 包。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/vertical_weight_slider" rel="nofollow">vertical_weight_slider</a></td>
@@ -1816,6 +1921,13 @@
   </tr>
   </thead>
   <tbody id="图像">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/path_drawing" rel="nofollow">path_drawing</a></td>
+    <td>帮助（画布）路径创建和操作。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/material_design_icons_flutter" rel="nofollow">material_design_icons_flutter</a></td>
@@ -2966,6 +3078,20 @@
   </tr>
   </thead>
   <tbody id="地图类">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/maps_curved_line" rel="nofollow">maps_curved_line</a></td>
+    <td>帮助在谷歌地图上绘制曲线的包。这可以用作在位置 A 和位置 B 之间绘制路线的经济高效的方式。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/coordtransform" rel="nofollow">coordtransform</a></td>
+    <td>坐标变换工具，提供BD09、GCJ02、WGS84坐标系相互变换。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_map" rel="nofollow">flutter_map</a></td>
