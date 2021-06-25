@@ -71,16 +71,6 @@
       </ul> 
 </div>
 
-<div class="changeLogItem 06-17">
-      <h3>06-17</h3>
-      <ul>
-        <li><a href="https://pub.flutter-io.cn/packages/hive">hive</a> - 用纯 Dart 编写的轻量级和极快的键值数据库。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/stripe_sdk">stripe_sdk</a> - Flutter 唯一的原生 Stripe 库，完全支持 SCA/PSD2、支付和最新的 Stripe 功能。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_stripe">flutter_stripe</a> - Stripe 的flutter库，支持 PaymentSheets、Apple 和 Google Pay、SCA、PSD2 等。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/material_design_icons_flutter">material_design_icons_flutter</a> - 社区为 Flutter 设计的 Material Design 图标。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/vertical_weight_slider">vertical_weight_slider</a> - 提供易于使用且可滚动的垂直重量滑块。</li>  
-      </ul> 
-</div>
 	
 </div>
 
