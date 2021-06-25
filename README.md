@@ -17,6 +17,30 @@
 <br>	
 <div class="changeLog">
 
+<div class="changeLogItem 06-25">
+      <h3>06-25</h3>
+      <ul>
+        <li><a href="https://pub.flutter-io.cn/packages/tencent_im_plugin">tencent_im_plugin</a> - 集成腾讯云“imsdk”，实现跨平台即时访问，兼容Android和IOS设备。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_tex">flutter_tex</a> - 用于渲染基于 LaTeX、TeX 和 MathML 并支持 HTML 和 JavaScript 的数学/数学、物理和化学、统计方程和表达式。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/system_settings">system_settings</a> - 用于在 iOS 和 Android 上打开系统和应用程序设置。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/system_shortcuts">system_shortcuts</a> - ANDROID 和 IOS Flutter 插件可以使用系统快捷方式，例如按主页、返回、增大音量、减小音量键和切换 wifi 以及蓝牙。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/disk_space">disk_space</a> - 用于显示可用和总磁盘空间。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/mobile_number">mobile_number</a> - 于获取设备的手机号码或列出 SIM 卡数据。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/sentry_flutter">sentry_flutter</a> - Flutter 的 Sentry SDK，捕获本机层中的错误。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/animate_icons">animate_icons</a> - 可以在任何两个图标之间设置动画。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_linkify">flutter_linkify</a> - 将文本 URL 和电子邮件转换为 Flutter 文本中可点击的内联链接。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/intl_phone_number_input">intl_phone_number_input</a> - 用于以国际/国际格式输入电话号码。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_keyboard_visibility">flutter_keyboard_visibility</a> - 发现 Android 和 iOS 上的软键盘可见性状态。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_week_view">flutter_week_view</a> - 显示高度可定制的周视图（或日视图）。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/add_2_calendar">add_2_calendar</a> - 用于将事件添加到每个平台的默认日历。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/logging">logging</a> - 提供用于调试和错误记录的 API。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/scanbot_sdk">scanbot_sdk</a> - 适用于 Android 和 iOS 的 Scanbot Scanner SDK 的 Flutter 插件。提供文档扫描、QR 和条形码扫描、PDF 创建、TIFF、OCR 等功能。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/mongo_dart">mongo_dart</a> - MongoDB 驱动程序，在纯 Dart 中实现。所有 CRUD 操作、聚合管道。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_archive">flutter_archive</a> - 在 Android、iOS 和 macOS 中创建和提取 ZIP 存档文件。递归压缩目录或给定文件列表中的所有文件。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_sms_inbox">flutter_sms_inbox</a> - 可轻松查询设备短信收件箱。仅支持安卓。</li>  
+      </ul> 
+</div>
+
 <div class="changeLogItem 06-24">
       <h3>06-24</h3>
       <ul>
@@ -99,6 +123,20 @@
   </tr>
   </thead>
   <tbody id="插件">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/scanbot_sdk" rel="nofollow">scanbot_sdk</a></td>
+    <td>适用于 Android 和 iOS 的 Scanbot Scanner SDK 的 Flutter 插件。提供文档扫描、QR 和条形码扫描、PDF 创建、TIFF、OCR 等功能。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_archive" rel="nofollow">flutter_archive</a></td>
+    <td>在 Android、iOS 和 macOS 中创建和提取 ZIP 存档文件。递归压缩目录或给定文件列表中的所有文件。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/fullscreen" rel="nofollow">fullscreen</a></td>
@@ -372,6 +410,55 @@
   </tr>
   </thead>
   <tbody id="设备相关">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/system_settings" rel="nofollow">system_settings</a></td>
+    <td>用于在 iOS 和 Android 上打开系统和应用程序设置。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/system_shortcuts" rel="nofollow">system_shortcuts</a></td>
+    <td>ANDROID 和 IOS Flutter 插件可以使用系统快捷方式，例如按主页、返回、增大音量、减小音量键和切换 wifi 以及蓝牙。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/disk_space" rel="nofollow">disk_space</a></td>
+    <td>用于显示可用和总磁盘空间。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/mobile_number" rel="nofollow">mobile_number</a></td>
+    <td>于获取设备的手机号码或列出 SIM 卡数据。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_keyboard_visibility" rel="nofollow">flutter_keyboard_visibility</a></td>
+    <td>发现 Android 和 iOS 上的软键盘可见性状态。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/add_2_calendar" rel="nofollow">add_2_calendar</a></td>
+    <td>用于将事件添加到每个平台的默认日历。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_sms_inbox" rel="nofollow">flutter_sms_inbox</a></td>
+    <td>可轻松查询设备短信收件箱。仅支持安卓。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_nfc_kit" rel="nofollow">flutter_nfc_kit</a></td>
@@ -877,6 +964,20 @@
   <tbody id="项目相关">
       
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/sentry_flutter" rel="nofollow">sentry_flutter</a></td>
+    <td>Flutter 的 Sentry SDK，捕获本机层中的错误。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/logging" rel="nofollow">logging</a></td>
+    <td>提供用于调试和错误记录的 API。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/fvm" rel="nofollow">fvm</a></td>
     <td>一个简单的 cli 来管理每个项目的 Flutter SDK 版本。支持通道、发布和本地缓存，以便在版本之间快速切换。</td>
     <td>2021-06-18</td>
@@ -1366,6 +1467,27 @@
   </tr>
   </thead>
   <tbody id="UI">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_tex" rel="nofollow">flutter_tex</a></td>
+    <td>用于渲染基于 LaTeX、TeX 和 MathML 并支持 HTML 和 JavaScript 的数学/数学、物理和化学、统计方程和表达式。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_linkify" rel="nofollow">flutter_linkify</a></td>
+    <td>将文本 URL 和电子邮件转换为 Flutter 文本中可点击的内联链接。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/intl_phone_number_input" rel="nofollow">intl_phone_number_input</a></td>
+    <td>用于以国际/国际格式输入电话号码。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/floating_bubbles" rel="nofollow">floating_bubbles</a></td>
@@ -1947,6 +2069,13 @@
   <tbody id="图像">
       
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/animate_icons" rel="nofollow">animate_icons</a></td>
+    <td>可以在任何两个图标之间设置动画。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/path_drawing" rel="nofollow">path_drawing</a></td>
     <td>帮助（画布）路径创建和操作。</td>
     <td>2021-05-05</td>
@@ -2259,6 +2388,13 @@
    </tr>
   </thead>
   <tbody id="时间相关">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_week_view" rel="nofollow">flutter_week_view</a></td>
+    <td>显示高度可定制的周视图（或日视图）。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/time_range" rel="nofollow">time_range</a></td>
@@ -2912,6 +3048,20 @@
   </tr>
   </thead>
   <tbody id="通讯类">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/tencent_im_plugin" rel="nofollow">tencent_im_plugin</a></td>
+    <td>集成腾讯云“imsdk”，实现跨平台即时访问，兼容Android和IOS设备。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/mongo_dart" rel="nofollow">mongo_dart</a></td>
+    <td>MongoDB 驱动程序，在纯 Dart 中实现。所有 CRUD 操作、聚合管道。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/pay" rel="nofollow">pay</a></td>
