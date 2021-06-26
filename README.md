@@ -17,6 +17,29 @@
 <br>	
 <div class="changeLog">
 
+<div class="changeLogItem 06-26">
+      <h3>06-26</h3>
+      <ul>
+        <li><a href="https://pub.flutter-io.cn/packages/koukicons">koukicons</a> - Flutter 应用程序的彩色图标</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/gradient_widgets">gradient_widgets</a> - 有漂亮的渐变的小部件。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/health">health</a> - iOS HealthKit 和 Android GoogleFit 服务的包装器，用于读取健康和健身数据。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/minimize_app">minimize_app</a> - 用来最小化应用程序的插件。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_foreground_plugin">flutter_foreground_plugin</a> - Flutter 的前台服务插件。仅支持安卓，iOS 暂不支持。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/neat_periodic_task">neat_periodic_task</a> - 长时间运行的进程中可靠地运行周期性任务的辅助类，例如 Web 服务器。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_ringtone_player">flutter_ringtone_player</a> - 简单的系统默认铃声、闹钟和通知播放器。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/device_simulator">device_simulator</a> - 允许您轻松地针对不同的屏幕分辨率和平台测试您的 Flutter 应用程序。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/weather">weather</a> - 一个天气插件，用于通过 OpenWeatherMap API 获取当前天气和预测。适用于 Android 和 iOS。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/screenshot_callback">screenshot_callback</a> - 可让您检测移动屏幕截图并在 iOS 和 Android 上执行回调函数。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/platform_info">platform_info</a> - 包含有关当前平台的信息，例如构建模式和操作系统。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/process_run">process_run</a> - 适用于 Linux/Win/Mac 的进程运行助手以及查找可执行文件的功能。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_phone_direct_caller">flutter_phone_direct_caller</a> - 可直接从应用程序拨打号码，无需拨打电话拨号器。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/wallpaper_manager">wallpaper_manager</a> - ，用于更改 Android 设备上的主屏幕、锁定屏幕（或两者）壁纸。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/shake">shake</a> - 用于检测手机抖动的颤振包。可调节的重力和复位周期。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/cron">cron</a> - 类似于 cron 的基于时间的作业调度程序。以固定时间或间隔定期运行任务。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/bezier">bezier</a> - bezier.dart是一个简单的开源Dart库，用于处理二维贝塞尔曲线数学。</li>  
+      </ul> 
+</div>
+
 <div class="changeLogItem 06-25">
       <h3>06-25</h3>
       <ul>
@@ -113,6 +136,27 @@
   </tr>
   </thead>
   <tbody id="插件">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_foreground_plugin" rel="nofollow">flutter_foreground_plugin</a></td>
+    <td>Flutter 的前台服务插件。仅支持安卓，iOS 暂不支持。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/neat_periodic_task" rel="nofollow">neat_periodic_task</a></td>
+    <td>长时间运行的进程中可靠地运行周期性任务的辅助类，例如 Web 服务器。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/cron" rel="nofollow">cron</a></td>
+    <td>类似于 cron 的基于时间的作业调度程序。以固定时间或间隔定期运行任务。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/scanbot_sdk" rel="nofollow">scanbot_sdk</a></td>
@@ -400,6 +444,69 @@
   </tr>
   </thead>
   <tbody id="设备相关">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/health" rel="nofollow">health</a></td>
+    <td>iOS HealthKit 和 Android GoogleFit 服务的包装器，用于读取健康和健身数据。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/minimize_app" rel="nofollow">minimize_app</a></td>
+    <td>用来最小化应用程序的插件。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_ringtone_player" rel="nofollow">flutter_ringtone_player</a></td>
+    <td>简单的系统默认铃声、闹钟和通知播放器。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/device_simulator" rel="nofollow">device_simulator</a></td>
+    <td>允许您轻松地针对不同的屏幕分辨率和平台测试您的 Flutter 应用程序。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/platform_info" rel="nofollow">platform_info</a></td>
+    <td>包含有关当前平台的信息，例如构建模式和操作系统。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/process_run" rel="nofollow">process_run</a></td>
+    <td>适用于 Linux/Win/Mac 的进程运行助手以及查找可执行文件的功能。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_phone_direct_caller" rel="nofollow">flutter_phone_direct_caller</a></td>
+    <td>可直接从应用程序拨打号码，无需拨打电话拨号器。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/wallpaper_manager" rel="nofollow">wallpaper_manager</a></td>
+    <td>，用于更改 Android 设备上的主屏幕、锁定屏幕（或两者）壁纸。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/shake" rel="nofollow">shake</a></td>
+    <td>用于检测手机抖动的颤振包。可调节的重力和复位周期。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/system_settings" rel="nofollow">system_settings</a></td>
@@ -1459,6 +1566,27 @@
   <tbody id="UI">
       
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/gradient_widgets" rel="nofollow">gradient_widgets</a></td>
+    <td>有漂亮的渐变的小部件。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/weather" rel="nofollow">weather</a></td>
+    <td>一个天气插件，用于通过 OpenWeatherMap API 获取当前天气和预测。适用于 Android 和 iOS。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/screenshot_callback" rel="nofollow">screenshot_callback</a></td>
+    <td>可让您检测移动屏幕截图并在 iOS 和 Android 上执行回调函数。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_tex" rel="nofollow">flutter_tex</a></td>
     <td>用于渲染基于 LaTeX、TeX 和 MathML 并支持 HTML 和 JavaScript 的数学/数学、物理和化学、统计方程和表达式。</td>
     <td>2021-04-13</td>
@@ -2057,6 +2185,20 @@
   </tr>
   </thead>
   <tbody id="图像">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/koukicons" rel="nofollow">koukicons</a></td>
+    <td>Flutter 应用程序的彩色图标</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/bezier" rel="nofollow">bezier</a></td>
+    <td>bezier.dart是一个简单的开源Dart库，用于处理二维贝塞尔曲线数学。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/animate_icons" rel="nofollow">animate_icons</a></td>
