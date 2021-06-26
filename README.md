@@ -11,8 +11,8 @@
 掘金文章地址：https://juejin.im/post/5edeee2e51882542f347030c
 <br>
 
-<h3 id="count">收录 476 个</h3>   
-<h3 id="updateTime">最新同步：2021-06-26 23:23</h3>
+<h3 id="count">收录 489 个</h3>   
+<h3 id="updateTime">最新同步：2021-06-26 23:36</h3>
 
 <br>	
 <div class="changeLog">
@@ -153,8 +153,8 @@
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_background_service" rel="nofollow">flutter_background_service</a></td>
     <td>用于在后台执行 dart 代码的 flutter 插件。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-06-02</td>
+    <td>80</td>
   </tr>
       
   <tr class="item">
@@ -468,29 +468,29 @@
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/usb_serial" rel="nofollow">usb_serial</a></td>
     <td>该插件将允许您轻松使用基于 FTDI 或 CDC（以及更多！）协议的 USB uart 硬件。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-06-03</td>
+    <td>54</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_device_type" rel="nofollow">flutter_device_type</a></td>
     <td>确定 Flutter 上手持设备的类型。就像设备是平板电脑还是 iPhoneX。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-03-11</td>
+    <td>31</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/watcher" rel="nofollow">watcher</a></td>
     <td>文件系统观察者。它监视目录内容的更改，并在添加、删除或修改文件时发送通知。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-02-05</td>
+    <td>67</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/platform_device_id" rel="nofollow">platform_device_id</a></td>
     <td>从 android、ios、windows、linux、mac、web 获取设备 ID。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-04-04</td>
+    <td>66</td>
   </tr>
       
   <tr class="item">
@@ -1111,8 +1111,8 @@
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/faker" rel="nofollow">faker</a></td>
     <td>用于生成假数据的库。faker 深受 Python 包 faker 和 Ruby 包 ffaker 的启发。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-05-15</td>
+    <td>256</td>
   </tr>
       
   <tr class="item">
@@ -1623,36 +1623,36 @@
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_material_pickers" rel="nofollow">flutter_material_pickers</a></td>
     <td>轻松且一致地显示material主题选择器对话框。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-06-11</td>
+    <td>134</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/extended_text" rel="nofollow">extended_text</a></td>
     <td>扩展官方文本以快速构建内嵌图像或特殊文本。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-05-26</td>
+    <td>93</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/keyboard_dismisser" rel="nofollow">keyboard_dismisser</a></td>
     <td>用于在键盘之外执行手势时隐藏键盘。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-03-07</td>
+    <td>90</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/back_button_interceptor" rel="nofollow">back_button_interceptor</a></td>
     <td>后退按钮拦截器。可用于在点击 Android 后退按钮时执行操作。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-06-17</td>
+    <td>125</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/day_night_time_picker" rel="nofollow">day_night_time_picker</a></td>
     <td>昼夜时间选择器。带有太阳和月亮资产的美丽昼夜动画。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-05-03</td>
+    <td>179</td>
   </tr>
       
   <tr class="item">
@@ -2614,15 +2614,15 @@
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_rounded_date_picker" rel="nofollow">flutter_rounded_date_picker</a></td>
     <td>帮助您选择带有圆形日历和可自定义主题的日期和年份。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-05-02</td>
+    <td>132</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/calendar_timeline" rel="nofollow">calendar_timeline</a></td>
     <td>水平日期选择器，占用很少的屏幕空间，因此我们始终可以看到它，并且便于单手使用。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-03-09</td>
+    <td>114</td>
   </tr>
       
   <tr class="item">
