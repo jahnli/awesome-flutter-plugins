@@ -20,6 +20,19 @@
 <div class="changeLogItem 06-26">
       <h3>06-26</h3>
       <ul>
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_material_pickers">flutter_material_pickers</a> - 轻松且一致地显示material主题选择器对话框。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_rounded_date_picker">flutter_rounded_date_picker</a> - 帮助您选择带有圆形日历和可自定义主题的日期和年份。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/extended_text">extended_text</a> - 扩展官方文本以快速构建内嵌图像或特殊文本。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/keyboard_dismisser">keyboard_dismisser</a> - 用于在键盘之外执行手势时隐藏键盘。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/usb_serial">usb_serial</a> - 该插件将允许您轻松使用基于 FTDI 或 CDC（以及更多！）协议的 USB uart 硬件。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_device_type">flutter_device_type</a> - 确定 Flutter 上手持设备的类型。就像设备是平板电脑还是 iPhoneX。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/watcher">watcher</a> - 文件系统观察者。它监视目录内容的更改，并在添加、删除或修改文件时发送通知。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/calendar_timeline">calendar_timeline</a> - 水平日期选择器，占用很少的屏幕空间，因此我们始终可以看到它，并且便于单手使用。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/faker">faker</a> - 用于生成假数据的库。faker 深受 Python 包 faker 和 Ruby 包 ffaker 的启发。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/platform_device_id">platform_device_id</a> - 从 android、ios、windows、linux、mac、web 获取设备 ID。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_background_service">flutter_background_service</a> - 用于在后台执行 dart 代码的 flutter 插件。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/back_button_interceptor">back_button_interceptor</a> - 后退按钮拦截器。可用于在点击 Android 后退按钮时执行操作。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/day_night_time_picker">day_night_time_picker</a> - 昼夜时间选择器。带有太阳和月亮资产的美丽昼夜动画。</li>
         <li><a href="https://pub.flutter-io.cn/packages/koukicons">koukicons</a> - Flutter 应用程序的彩色图标</li>  
         <li><a href="https://pub.flutter-io.cn/packages/gradient_widgets">gradient_widgets</a> - 有漂亮的渐变的小部件。</li>  
         <li><a href="https://pub.flutter-io.cn/packages/health">health</a> - iOS HealthKit 和 Android GoogleFit 服务的包装器，用于读取健康和健身数据。</li>  
@@ -136,6 +149,13 @@
   </tr>
   </thead>
   <tbody id="插件">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_background_service" rel="nofollow">flutter_background_service</a></td>
+    <td>用于在后台执行 dart 代码的 flutter 插件。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_foreground_plugin" rel="nofollow">flutter_foreground_plugin</a></td>
@@ -444,6 +464,34 @@
   </tr>
   </thead>
   <tbody id="设备相关">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/usb_serial" rel="nofollow">usb_serial</a></td>
+    <td>该插件将允许您轻松使用基于 FTDI 或 CDC（以及更多！）协议的 USB uart 硬件。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_device_type" rel="nofollow">flutter_device_type</a></td>
+    <td>确定 Flutter 上手持设备的类型。就像设备是平板电脑还是 iPhoneX。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/watcher" rel="nofollow">watcher</a></td>
+    <td>文件系统观察者。它监视目录内容的更改，并在添加、删除或修改文件时发送通知。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/platform_device_id" rel="nofollow">platform_device_id</a></td>
+    <td>从 android、ios、windows、linux、mac、web 获取设备 ID。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/health" rel="nofollow">health</a></td>
@@ -1061,6 +1109,13 @@
   <tbody id="项目相关">
       
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/faker" rel="nofollow">faker</a></td>
+    <td>用于生成假数据的库。faker 深受 Python 包 faker 和 Ruby 包 ffaker 的启发。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/sentry_flutter" rel="nofollow">sentry_flutter</a></td>
     <td>Flutter 的 Sentry SDK，捕获本机层中的错误。</td>
     <td>2021-06-07</td>
@@ -1564,6 +1619,41 @@
   </tr>
   </thead>
   <tbody id="UI">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_material_pickers" rel="nofollow">flutter_material_pickers</a></td>
+    <td>轻松且一致地显示material主题选择器对话框。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/extended_text" rel="nofollow">extended_text</a></td>
+    <td>扩展官方文本以快速构建内嵌图像或特殊文本。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/keyboard_dismisser" rel="nofollow">keyboard_dismisser</a></td>
+    <td>用于在键盘之外执行手势时隐藏键盘。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/back_button_interceptor" rel="nofollow">back_button_interceptor</a></td>
+    <td>后退按钮拦截器。可用于在点击 Android 后退按钮时执行操作。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/day_night_time_picker" rel="nofollow">day_night_time_picker</a></td>
+    <td>昼夜时间选择器。带有太阳和月亮资产的美丽昼夜动画。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/gradient_widgets" rel="nofollow">gradient_widgets</a></td>
@@ -2520,6 +2610,20 @@
    </tr>
   </thead>
   <tbody id="时间相关">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_rounded_date_picker" rel="nofollow">flutter_rounded_date_picker</a></td>
+    <td>帮助您选择带有圆形日历和可自定义主题的日期和年份。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/calendar_timeline" rel="nofollow">calendar_timeline</a></td>
+    <td>水平日期选择器，占用很少的屏幕空间，因此我们始终可以看到它，并且便于单手使用。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_week_view" rel="nofollow">flutter_week_view</a></td>
