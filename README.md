@@ -2062,13 +2062,6 @@
     <td>2021-06-25</td>
     <td>212</td>
   </tr>
-	  
-  <tr class="item">
-    <td><a href="https://github.com/Fliggy-Mobile">Fliggy Mobile</a></td>
-    <td>【阿里巴巴-飞猪-FliggyMobile 技术团队】 开发维护的 FWidget 系列组件。</td>
-    <td>暂无</td>
-    <td>暂无</td>
-  </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/syncfusion_flutter_sliders" rel="nofollow">syncfusion_flutter_sliders</a></td>
     <td>用于创建高度可定制且 UI 丰富的滑块、范围滑块和范围选择器小部件。</td>
