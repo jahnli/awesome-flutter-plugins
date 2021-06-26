@@ -76,37 +76,6 @@
         <li><a href="https://pub.flutter-io.cn/packages/flutter_sms_inbox">flutter_sms_inbox</a> - 可轻松查询设备短信收件箱。仅支持安卓。</li>  
       </ul> 
 </div>
-
-<div class="changeLogItem 06-24">
-      <h3>06-24</h3>
-      <ul>
-        <li><a href="https://pub.flutter-io.cn/packages/pay">pay</a> - 对 Flutter 应用程序付款支持的插件。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/fullscreen">fullscreen</a> - 可以轻松地在 Flutter 应用程序中启用全屏。实现了android平台的三种全屏模式。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_uploader">flutter_uploader</a> - 用于创建和管理上传任务的插件。支持iOS和安卓。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/after_layout">after_layout</a> - 您的小部件的第一个布局完成后执行代码，即在显示第一帧之后。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/background_location">background_location</a> - 用于在 Android 和 iOS 的后台获取位置更新。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/map_launcher">map_launcher</a> - 查找安装在设备上的可用地图，并使用标记启动它们或显示方向。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/syncfusion_flutter_maps">syncfusion_flutter_maps</a> - 用于从形状文件或 WMTS 服务创建美观、交互式和可自定义的地图，以可视化地理区域。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_background_geolocation">flutter_background_geolocation</a> - 先进的背景位置跟踪和地理围栏模块。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/mqtt_client">mqtt_client</a> - 用于 Dart 的基于服务器和浏览器的 MQTT 客户端。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_nfc_kit">flutter_nfc_kit</a> - 在 Android 和 iOS 上提供 NFC 功能，包括读取元数据、读写 NDEF 记录。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/blue_thermal_printer">blue_thermal_printer</a> - 过蓝牙连接到热敏打印机的 Flutter 插件。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_bluetooth_serial">flutter_bluetooth_serial</a> -  Flutter 蓝牙串行库。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_reactive_ble">flutter_reactive_ble</a> - 可与多个设备通信的反应式低功耗蓝牙 (BLE) 插件。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_beacon">flutter_beacon</a> - 用于在 Android 和 iOS 上作为信标 (iBeacon) 进行扫描和传输。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_ble_peripheral">flutter_ble_peripheral</a> - 使设备能够设置为外设模式，并通告自定义服务和特性。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/path_drawing">path_drawing</a> - 帮助（画布）路径创建和操作。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_ble_lib">flutter_ble_lib</a> - 一个支持 BLE 操作的 Flutter 库。它使用 MultiPlatformBleAdapter 作为本机后端</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/maps_curved_line">maps_curved_line</a> - 帮助在谷歌地图上绘制曲线的包。这可以用作在位置 A 和位置 B 之间绘制路线的经济高效的方式。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/coordtransform">coordtransform</a> - 坐标变换工具，提供BD09、GCJ02、WGS84坐标系相互变换。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/fvm">fvm</a> - 一个简单的 cli 来管理每个项目的 Flutter SDK 版本。支持通道、发布和本地缓存，以便在版本之间快速切换。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/desktop_window">desktop_window</a> - Flutter 桌面插件（macOS/Linux/Windows）用于获取和更改窗口大小。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/azlistview">azlistview</a> - Flutter 粘性标题和索引 ListView。索引栏。如城市列表、联系人列表。索引和悬停效果。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/url_strategy">url_strategy</a> - 允许使用单行代码设置 Web 应用程序 URL 策略。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/floating_bubbles">floating_bubbles</a> - 用于将前景上的浮动气泡添加到任何 Flutter 小部件的 Flutter 包。</li>  
-      </ul> 
-</div>
-
 	
 </div>
 
