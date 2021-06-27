@@ -11,8 +11,8 @@
 掘金文章地址：https://juejin.im/post/5edeee2e51882542f347030c
 <br>
 
-<h3 id="count">收录 507 个</h3>   
-<h3 id="updateTime">最新同步：2021-06-27 15:31</h3>
+<h3 id="count">收录 525 个</h3>   
+<h3 id="updateTime">最新同步：2021-06-27 15:51</h3>
 
 <br>	
 <div class="changeLog">
@@ -140,22 +140,22 @@
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/simple_gesture_detector" rel="nofollow">simple_gesture_detector</a></td>
     <td>易于使用、可靠且轻量级的 Flutter 应用程序手势检测器。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-03-04</td>
+    <td>26</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/render_metrics" rel="nofollow">render_metrics</a></td>
     <td>获取小部件指标的库。使用 RenderObject 获取小部件相对于屏幕窗口的大小和位置，以及小部件之间的差异。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-05-30</td>
+    <td>32</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/form_field_validator" rel="nofollow">form_field_validator</a></td>
     <td>简单的 flutter 表单字段验证器，提供常见的验证选项。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-03-16</td>
+    <td>166</td>
   </tr>
       
   <tr class="item">
@@ -490,15 +490,15 @@
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/clipboard_listener" rel="nofollow">clipboard_listener</a></td>
     <td>flutter 粘贴板监听器可以监听粘贴板的变化并通过回调通知你。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-04-07</td>
+    <td>3</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/perfect_volume_control" rel="nofollow">perfect_volume_control</a></td>
     <td>Flutter 音量控制插件，支持安卓和IOS，具有：显示隐藏音量图标、音量变化监控、设置音量、获取设备当前音量。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-06-03</td>
+    <td>3</td>
   </tr>
       
   <tr class="item">
@@ -1147,8 +1147,8 @@
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/adaptive_theme" rel="nofollow">adaptive_theme</a></td>
     <td>允许在明暗主题之间动态切换并添加系统自适应主题支持。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-04-16</td>
+    <td>141</td>
   </tr>
       
   <tr class="item">
@@ -1454,8 +1454,8 @@
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_wall_layout" rel="nofollow">flutter_wall_layout</a></td>
     <td>将一组（具有不同形状的小部件）显示为垂直或水平列表</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-01-03</td>
+    <td>70</td>
   </tr>
       
   <tr class="item">
@@ -1687,15 +1687,15 @@
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flex_color_picker" rel="nofollow">flex_color_picker</a></td>
     <td>可定制的 Flutter自定义颜色选择器。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-06-11</td>
+    <td>92</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/glassmorphism" rel="nofollow">glassmorphism</a></td>
     <td>用于轻松实现 Glassmorphic UI （玻璃拟态） 的 Flutter 包。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-04-26</td>
+    <td>92</td>
   </tr>
       
   <tr class="item">
@@ -2937,57 +2937,57 @@
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/smooth_sort" rel="nofollow">smooth_sort</a></td>
     <td>添加精彩和自定义排序动画的 Flutter 包。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-04-17</td>
+    <td>14</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/funvas" rel="nofollow">funvas</a></td>
     <td>根据时间和数学函数创建画布动画的包。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-06-06</td>
+    <td>55</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/circular_clip_route" rel="nofollow">circular_clip_route</a></td>
     <td>通过展开圆形剪辑来显示其页面的页面路由。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-03-03</td>
+    <td>49</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/sprung" rel="nofollow">sprung</a></td>
     <td>Flutter 动画的弹簧曲线，使用真实的物理方程来驱动您的动画。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-03-09</td>
+    <td>78</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/auto_animated" rel="nofollow">auto_animated</a></td>
     <td>可以为列表和图标设置动画。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-03-05</td>
+    <td>452</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/mouse_parallax" rel="nofollow">mouse_parallax</a></td>
     <td>在多个平台上实现基于指针的视差动画的简单方法。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-02-27</td>
+    <td>62</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/widget_circular_animator" rel="nofollow">widget_circular_animator</a></td>
     <td>预先构建的 Flutter 圆形动画器，适合个人资料视图或任何其他小部件。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-06-14</td>
+    <td>48</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_bounce" rel="nofollow">flutter_bounce</a></td>
     <td>用于在任何颤振小部件上点击弹跳动画。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-06-14</td>
+    <td>46</td>
   </tr>
       
   <tr class="item">
@@ -3520,8 +3520,8 @@
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/tencent_rtc_plugin" rel="nofollow">tencent_rtc_plugin</a></td>
     <td>腾讯云实时音视频插件，集成腾讯RTC，支持安卓和IOS双端。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-04-07</td>
+    <td>3</td>
   </tr>
       
   <tr class="item">
@@ -3891,6 +3891,7 @@
   </tr>
   </tbody>
 </table>
+
 
 
 
