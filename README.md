@@ -17,6 +17,31 @@
 <br>	
 <div class="changeLog">
 
+<div class="changeLogItem 06-27">
+      <h3>06-27</h3>
+      <ul>
+        <li><a href="https://pub.flutter-io.cn/packages/circular_profile_avatar">circular_profile_avatar</a> - 许开发人员实现带有边框、覆盖、缩写文本和许多其他功能的圆形轮廓头像。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/hand_signature">hand_signature</a> - 允许用手指绘制签名的签名板小部件。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/clippy_flutter">clippy_flutter</a> - 提供的自定义形状剪辑的小部件。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/timelines">timelines</a> - 功能强大且易于使用的 Flutter 时间线。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/align_positioned">align_positioned</a> - 它允许您以复杂的方式声明性地定位/调整其子项的大小。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_advanced_switch">flutter_advanced_switch</a> - 高级开关控件为小部件自定义提供了丰富的 API。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_pagewise">flutter_pagewise</a> - 一次加载一页（或一批）内容的小部件库。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/waterfall_flow">waterfall_flow</a> - 快速构建瀑布流布局的 Flutter 网格视图。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/breathing_collection">breathing_collection</a> - 带有呼吸动画的 Flutter 小部件。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/painter">painter</a> - 一个用手指绘画的简单小部件。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/matrix_gesture_detector">matrix_gesture_detector</a> - 将平移/旋转/缩放手势映射到 Matrix4 对象的手势检测器。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/card_settings">card_settings</a> - 用于构建设置表单的Flutter包。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/formz">formz</a> - Dart 中的统一表单表示，旨在以通用方式简化表单表示和验证。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/slider_button">slider_button</a> - 用于激活/停用某些事件的可定制滑块按钮小部件。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/toggle_switch">toggle_switch</a> - 一个简单的切换开关小部件。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_switch">flutter_switch</a> - 易于实现的自定义开关。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/progress_state_button">progress_state_button</a> - Android、IOS 和 Web 的进度按钮小部件。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/animated_icon_button">animated_icon_button</a> - 创建自定义动画 IconButton。包括所有可用的图标。基于原生 IconButton。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/multi_select_flutter">multi_select_flutter</a> - 以您想要的方式制作多选小部件。</li>  
+      </ul> 
+</div>
+
 <div class="changeLogItem 06-26">
       <h3>06-26</h3>
       <ul>
@@ -118,6 +143,20 @@
   </tr>
   </thead>
   <tbody id="插件">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/matrix_gesture_detector" rel="nofollow">matrix_gesture_detector</a></td>
+    <td>将平移/旋转/缩放手势映射到 Matrix4 对象的手势检测器。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/formz" rel="nofollow">formz</a></td>
+    <td>Dart 中的统一表单表示，旨在以通用方式简化表单表示和验证。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_background_service" rel="nofollow">flutter_background_service</a></td>
@@ -1378,6 +1417,20 @@
   <tbody id="列表相关">
       
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_pagewise" rel="nofollow">flutter_pagewise</a></td>
+    <td>一次加载一页（或一批）内容的小部件库。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/waterfall_flow" rel="nofollow">waterfall_flow</a></td>
+    <td>快速构建瀑布流布局的 Flutter 网格视图。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/azlistview" rel="nofollow">azlistview</a></td>
     <td>Flutter 粘性标题和索引 ListView。索引栏。如城市列表、联系人列表。索引和悬停效果。</td>
     <td>2021-02-06</td>
@@ -1588,6 +1641,111 @@
   </tr>
   </thead>
   <tbody id="UI">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/circular_profile_avatar" rel="nofollow">circular_profile_avatar</a></td>
+    <td>许开发人员实现带有边框、覆盖、缩写文本和许多其他功能的圆形轮廓头像。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/hand_signature" rel="nofollow">hand_signature</a></td>
+    <td>允许用手指绘制签名的签名板小部件。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/clippy_flutter" rel="nofollow">clippy_flutter</a></td>
+    <td>提供的自定义形状剪辑的小部件。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/timelines" rel="nofollow">timelines</a></td>
+    <td>功能强大且易于使用的 Flutter 时间线。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/align_positioned" rel="nofollow">align_positioned</a></td>
+    <td>它允许您以复杂的方式声明性地定位/调整其子项的大小。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_advanced_switch" rel="nofollow">flutter_advanced_switch</a></td>
+    <td>高级开关控件为小部件自定义提供了丰富的 API。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/breathing_collection" rel="nofollow">breathing_collection</a></td>
+    <td>带有呼吸动画的 Flutter 小部件。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/painter" rel="nofollow">painter</a></td>
+    <td>一个用手指绘画的简单小部件。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/card_settings" rel="nofollow">card_settings</a></td>
+    <td>用于构建设置表单的Flutter包。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/slider_button" rel="nofollow">slider_button</a></td>
+    <td>用于激活/停用某些事件的可定制滑块按钮小部件。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/toggle_switch" rel="nofollow">toggle_switch</a></td>
+    <td>一个简单的切换开关小部件。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_switch" rel="nofollow">flutter_switch</a></td>
+    <td>易于实现的自定义开关。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/progress_state_button" rel="nofollow">progress_state_button</a></td>
+    <td>Android、IOS 和 Web 的进度按钮小部件。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/animated_icon_button" rel="nofollow">animated_icon_button</a></td>
+    <td>创建自定义动画 IconButton。包括所有可用的图标。基于原生 IconButton。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/multi_select_flutter" rel="nofollow">multi_select_flutter</a></td>
+    <td>以您想要的方式制作多选小部件。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_material_pickers" rel="nofollow">flutter_material_pickers</a></td>
