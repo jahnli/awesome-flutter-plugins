@@ -20,9 +20,6 @@
 <div class="changeLogItem 06-27">
       <h3>06-27</h3>
       <ul>
-        <li><a href="https://pub.flutter-io.cn/packages/tencent_rtc_plugin">tencent_rtc_plugin</a> - 腾讯云实时音视频插件，集成腾讯RTC，支持安卓和IOS双端。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/clipboard_listener">clipboard_listener</a> - flutter 粘贴板监听器可以监听粘贴板的变化并通过回调通知你。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/flex_color_picker">flex_color_picker</a> - 可定制的 Flutter自定义颜色选择器。</li>
         <li><a href="https://pub.flutter-io.cn/packages/smooth_sort">smooth_sort</a> - 添加精彩和自定义排序动画的 Flutter 包。</li>
         <li><a href="https://pub.flutter-io.cn/packages/funvas">funvas</a> - 根据时间和数学函数创建画布动画的包。</li>
         <li><a href="https://pub.flutter-io.cn/packages/circular_clip_route">circular_clip_route</a> - 通过展开圆形剪辑来显示其页面的页面路由。</li>
