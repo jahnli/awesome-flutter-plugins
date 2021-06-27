@@ -78,29 +78,7 @@
       </ul> 
 </div>
 
-<div class="changeLogItem 06-25">
-      <h3>06-25</h3>
-      <ul>
-        <li><a href="https://pub.flutter-io.cn/packages/tencent_im_plugin">tencent_im_plugin</a> - 集成腾讯云“imsdk”，实现跨平台即时访问，兼容Android和IOS设备。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_tex">flutter_tex</a> - 用于渲染基于 LaTeX、TeX 和 MathML 并支持 HTML 和 JavaScript 的数学/数学、物理和化学、统计方程和表达式。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/system_settings">system_settings</a> - 用于在 iOS 和 Android 上打开系统和应用程序设置。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/system_shortcuts">system_shortcuts</a> - ANDROID 和 IOS Flutter 插件可以使用系统快捷方式，例如按主页、返回、增大音量、减小音量键和切换 wifi 以及蓝牙。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/disk_space">disk_space</a> - 用于显示可用和总磁盘空间。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/mobile_number">mobile_number</a> - 于获取设备的手机号码或列出 SIM 卡数据。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/sentry_flutter">sentry_flutter</a> - Flutter 的 Sentry SDK，捕获本机层中的错误。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/animate_icons">animate_icons</a> - 可以在任何两个图标之间设置动画。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_linkify">flutter_linkify</a> - 将文本 URL 和电子邮件转换为 Flutter 文本中可点击的内联链接。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/intl_phone_number_input">intl_phone_number_input</a> - 用于以国际/国际格式输入电话号码。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_keyboard_visibility">flutter_keyboard_visibility</a> - 发现 Android 和 iOS 上的软键盘可见性状态。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_week_view">flutter_week_view</a> - 显示高度可定制的周视图（或日视图）。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/add_2_calendar">add_2_calendar</a> - 用于将事件添加到每个平台的默认日历。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/logging">logging</a> - 提供用于调试和错误记录的 API。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/scanbot_sdk">scanbot_sdk</a> - 适用于 Android 和 iOS 的 Scanbot Scanner SDK 的 Flutter 插件。提供文档扫描、QR 和条形码扫描、PDF 创建、TIFF、OCR 等功能。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/mongo_dart">mongo_dart</a> - MongoDB 驱动程序，在纯 Dart 中实现。所有 CRUD 操作、聚合管道。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_archive">flutter_archive</a> - 在 Android、iOS 和 macOS 中创建和提取 ZIP 存档文件。递归压缩目录或给定文件列表中的所有文件。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_sms_inbox">flutter_sms_inbox</a> - 可轻松查询设备短信收件箱。仅支持安卓。</li>  
-      </ul> 
-</div>
+
 	
 </div>
 
