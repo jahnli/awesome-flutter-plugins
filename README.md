@@ -580,7 +580,7 @@
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/wallpaper_manager" rel="nofollow">wallpaper_manager</a></td>
-    <td>，用于更改 Android 设备上的主屏幕、锁定屏幕（或两者）壁纸。</td>
+    <td>用于更改 Android 设备上的主屏幕、锁定屏幕（或两者）壁纸。</td>
     <td>2020-08-10</td>
     <td>62</td>
   </tr>
