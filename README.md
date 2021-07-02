@@ -65,42 +65,6 @@
       </ul> 
 </div>
 
-<div class="changeLogItem 06-26">
-      <h3>06-26</h3>
-      <ul>
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_material_pickers">flutter_material_pickers</a> - 轻松且一致地显示material主题选择器对话框。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_rounded_date_picker">flutter_rounded_date_picker</a> - 帮助您选择带有圆形日历和可自定义主题的日期和年份。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/extended_text">extended_text</a> - 扩展官方文本以快速构建内嵌图像或特殊文本。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/keyboard_dismisser">keyboard_dismisser</a> - 用于在键盘之外执行手势时隐藏键盘。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/usb_serial">usb_serial</a> - 该插件将允许您轻松使用基于 FTDI 或 CDC（以及更多！）协议的 USB uart 硬件。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_device_type">flutter_device_type</a> - 确定 Flutter 上手持设备的类型。就像设备是平板电脑还是 iPhoneX。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/watcher">watcher</a> - 文件系统观察者。它监视目录内容的更改，并在添加、删除或修改文件时发送通知。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/calendar_timeline">calendar_timeline</a> - 水平日期选择器，占用很少的屏幕空间，因此我们始终可以看到它，并且便于单手使用。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/faker">faker</a> - 用于生成假数据的库。faker 深受 Python 包 faker 和 Ruby 包 ffaker 的启发。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/platform_device_id">platform_device_id</a> - 从 android、ios、windows、linux、mac、web 获取设备 ID。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_background_service">flutter_background_service</a> - 用于在后台执行 dart 代码的 flutter 插件。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/back_button_interceptor">back_button_interceptor</a> - 后退按钮拦截器。可用于在点击 Android 后退按钮时执行操作。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/day_night_time_picker">day_night_time_picker</a> - 昼夜时间选择器。带有太阳和月亮资产的美丽昼夜动画。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/koukicons">koukicons</a> - Flutter 应用程序的彩色图标</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/gradient_widgets">gradient_widgets</a> - 有漂亮的渐变的小部件。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/health">health</a> - iOS HealthKit 和 Android GoogleFit 服务的包装器，用于读取健康和健身数据。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/minimize_app">minimize_app</a> - 用来最小化应用程序的插件。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_foreground_plugin">flutter_foreground_plugin</a> - Flutter 的前台服务插件。仅支持安卓，iOS 暂不支持。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/neat_periodic_task">neat_periodic_task</a> - 长时间运行的进程中可靠地运行周期性任务的辅助类，例如 Web 服务器。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_ringtone_player">flutter_ringtone_player</a> - 简单的系统默认铃声、闹钟和通知播放器。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/device_simulator">device_simulator</a> - 允许您轻松地针对不同的屏幕分辨率和平台测试您的 Flutter 应用程序。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/weather">weather</a> - 一个天气插件，用于通过 OpenWeatherMap API 获取当前天气和预测。适用于 Android 和 iOS。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/screenshot_callback">screenshot_callback</a> - 可让您检测移动屏幕截图并在 iOS 和 Android 上执行回调函数。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/platform_info">platform_info</a> - 包含有关当前平台的信息，例如构建模式和操作系统。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/process_run">process_run</a> - 适用于 Linux/Win/Mac 的进程运行助手以及查找可执行文件的功能。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_phone_direct_caller">flutter_phone_direct_caller</a> - 可直接从应用程序拨打号码，无需拨打电话拨号器。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/wallpaper_manager">wallpaper_manager</a> - ，用于更改 Android 设备上的主屏幕、锁定屏幕（或两者）壁纸。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/shake">shake</a> - 用于检测手机抖动的颤振包。可调节的重力和复位周期。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/cron">cron</a> - 类似于 cron 的基于时间的作业调度程序。以固定时间或间隔定期运行任务。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/bezier">bezier</a> - bezier.dart是一个简单的开源Dart库，用于处理二维贝塞尔曲线数学。</li>  
-      </ul> 
-</div>
-
 
 	
 </div>
