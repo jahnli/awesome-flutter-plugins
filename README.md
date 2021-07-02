@@ -17,6 +17,14 @@
 <br>	
 <div class="changeLog">
 
+<div class="changeLogItem 07-02">
+      <h3>07-02</h3>
+      <ul>
+        <li><a href="https://pub.flutter-io.cn/packages/keframe">keframe</a> - 帮助你提升 Flutter 应用在​​任何场景下的流畅度。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/android_alarm_manager_plus">android_alarm_manager_plus</a> - 用于访问 Android AlarmManager 服务，并在警报触发时在后台运行 Dart 代码。</li>  
+      </ul> 
+</div>
+
 <div class="changeLogItem 06-27">
       <h3>06-27</h3>
       <ul>
@@ -1143,6 +1151,13 @@
   </tr>
   </thead>
   <tbody id="项目相关">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/keframe" rel="nofollow">keframe</a></td>
+    <td>帮助你提升 Flutter 应用在​​任何场景下的流畅度。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/adaptive_theme" rel="nofollow">adaptive_theme</a></td>
@@ -3516,6 +3531,13 @@
   </tr>
   </thead>
   <tbody id="通讯类">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/android_alarm_manager_plus" rel="nofollow">android_alarm_manager_plus</a></td>
+    <td>用于访问 Android AlarmManager 服务，并在警报触发时在后台运行 Dart 代码。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/tencent_rtc_plugin" rel="nofollow">tencent_rtc_plugin</a></td>
