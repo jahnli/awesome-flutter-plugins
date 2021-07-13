@@ -28,7 +28,6 @@
         <li><a href="https://pub.flutter-io.cn/packages/visibility_detector">visibility_detector</a> - 检测其子项的可见性并通知回调的小部件。</li>  
         <li><a href="https://pub.flutter-io.cn/packages/loading_indicator">loading_indicator</a> - 加载动画的集合。开箱即用，没有额外的依赖。</li>  
         <li><a href="https://pub.flutter-io.cn/packages/light_compressor">light_compressor</a> - 功能强大且易于使用的 Flutter 视频压缩插件。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/alan_voice">alan_voice</a> - Alan 语音插件。</li>  
         <li><a href="https://pub.flutter-io.cn/packages/flutter_instagram_stories">flutter_instagram_stories</a> - 显示故事（视频和图像），如 Whatsapp 和 Instagram。</li>  
         <li><a href="https://pub.flutter-io.cn/packages/snapping_sheet">snapping_sheet</a> - 提供了一个工作表小部件，可以捕捉到不同的垂直和水平位置。</li>  
         <li><a href="https://pub.flutter-io.cn/packages/expand_widget">expand_widget</a> - 能够轻松展开和收回小部件集合或文本。</li>  
