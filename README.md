@@ -11,8 +11,8 @@
 掘金文章地址：https://juejin.im/post/5edeee2e51882542f347030c
 <br>
 
-<h3 id="count">收录 537 个</h3>   
-<h3 id="updateTime">最新同步：2021-07-13 13:30</h3>
+<h3 id="count">收录 549 个</h3>   
+<h3 id="updateTime">最新同步：2021-07-13 14:12</h3>
 
 <br>	
 <div class="changeLog">
@@ -127,7 +127,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/form_field_validator" rel="nofollow">form_field_validator</a></td>
     <td>简单的 flutter 表单字段验证器，提供常见的验证选项。</td>
     <td>2021-03-16</td>
-    <td>174</td>
+    <td>175</td>
   </tr>
       
   <tr class="item">
@@ -462,8 +462,8 @@
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/receive_sharing_intent" rel="nofollow">receive_sharing_intent</a></td>
     <td>使 flutter 应用程序能够接收来自其他应用程序的共享照片、文本或 url。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-03-14</td>
+    <td>238</td>
   </tr>
       
   <tr class="item">
@@ -1218,7 +1218,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/flutter_bloc" rel="nofollow">flutter_bloc</a></td>
     <td>轻松实现 BLoC（业务逻辑组件）设计模式。</td>
     <td>2021-05-29</td>
-    <td>2472</td>
+    <td>2473</td>
   </tr>
       
   <tr class="item">
@@ -1316,13 +1316,13 @@
   </tr>     
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_bloc">flutter_bloc</a></td><td>可轻松实现BLoC（业务逻辑组件）设计模式。构建用于与bloc状态管理包一起使用。</td>
-    <td>2021-05-29</td><td>2472</td>
+    <td>2021-05-29</td><td>2473</td>
   </tr>   
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/get">get</a></td>
     <td>Flutter的轻便而强大的解决方案。它结合了高性能状态管理，智能依赖注入和快速实用的路由管理。</td>
     <td>2021-04-11</td>
-    <td>5302</td>
+    <td>5303</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/get_storage">get_storage</a></td>
@@ -1370,7 +1370,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/provider">provider</a></td>
     <td>官方推荐的状态管理。</td>
     <td>2021-03-04</td>
-    <td>4647</td>
+    <td>4649</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/intl">intl</a></td>
@@ -1694,22 +1694,22 @@
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/visibility_detector" rel="nofollow">visibility_detector</a></td>
     <td>检测其子项的可见性并通知回调的小部件。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-04-05</td>
+    <td>240</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_instagram_stories" rel="nofollow">flutter_instagram_stories</a></td>
     <td>显示故事（视频和图像），如 Whatsapp 和 Instagram。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-03-18</td>
+    <td>80</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/expand_widget" rel="nofollow">expand_widget</a></td>
     <td>能够轻松展开和收回小部件集合或文本。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-05-15</td>
+    <td>74</td>
   </tr>
       
   <tr class="item">
@@ -2087,7 +2087,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/settings_ui" rel="nofollow">settings_ui</a></td>
     <td>Agora Video SDK 的 Flutter 插件。</td>
     <td>2021-04-13</td>
-    <td>308</td>
+    <td>309</td>
   </tr>
       
   <tr class="item">
@@ -2370,15 +2370,15 @@
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/light_compressor" rel="nofollow">light_compressor</a></td>
     <td>功能强大且易于使用的 Flutter 视频压缩插件。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-06-13</td>
+    <td>40</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/alan_voice" rel="nofollow">alan_voice</a></td>
     <td>Alan 语音插件。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-06-24</td>
+    <td>45</td>
   </tr>
       
   <tr class="item">
@@ -2518,15 +2518,15 @@
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/image_crop" rel="nofollow">image_crop</a></td>
     <td>在 iOS 和 Android 上裁剪图像的 Flutter 插件。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-04-05</td>
+    <td>107</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/bitmap" rel="nofollow">bitmap</a></td>
     <td>快速且简约的库，可帮助您在 Flutter 应用程序上操作图像。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-03-17</td>
+    <td>32</td>
   </tr>
       
   <tr class="item">
@@ -2722,7 +2722,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/screenshot">screenshot</a></td>
     <td>Flutter屏幕截图程序包（运行时），将任何小部件捕获为图像。</td>
     <td>2021-06-15</td>
-    <td>261</td>
+    <td>262</td>
    </tr>
    <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/crop_your_image">crop_your_image</a></td>
@@ -2823,7 +2823,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/font_awesome_flutter">font_awesome_flutter</a></td>
     <td>以Flutter Icons的形式提供. 提供1500个其他图标供您的应用使用。</td>
     <td>2021-06-09</td>
-    <td>1575</td>
+    <td>1576</td>
    </tr>
    <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/weather_icons">weather_icons</a></td>
@@ -3014,8 +3014,8 @@
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/loading_indicator" rel="nofollow">loading_indicator</a></td>
     <td>加载动画的集合。开箱即用，没有额外的依赖。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-05-22</td>
+    <td>105</td>
   </tr>
       
   <tr class="item">
@@ -3154,7 +3154,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/animations" rel="nofollow">animations</a></td>
     <td>轻松集成到任何 Flutter 应用程序中的精美预建动画。</td>
     <td>2021-07-08</td>
-    <td>2632</td>
+    <td>2633</td>
   </tr>
   </tbody>
 </table>
@@ -3233,13 +3233,13 @@
     <td><a href="https://pub.flutter-io.cn/packages/fl_chart">fl_chart</a></td>
     <td>Flutter图表库，当前支持折线图，条形图和饼图。</td>
     <td>2021-06-17</td>
-    <td>1687</td>
+    <td>1688</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/charts_flutter">charts_flutter</a></td>
     <td>Material Design图表库。</td>
     <td>2021-07-07</td>
-    <td>744</td>
+    <td>745</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/percent_indicator">percent_indicator</a></td>
@@ -3277,15 +3277,15 @@
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/animated_stack" rel="nofollow">animated_stack</a></td>
     <td>自定义动画堆叠页面，以创建可自定义的侧边菜单按钮。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-04-02</td>
+    <td>91</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/animated_drawer" rel="nofollow">animated_drawer</a></td>
     <td>一个简单但完全可定制的抽屉。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-01-21</td>
+    <td>125</td>
   </tr>
       
   <tr class="item">
@@ -3500,8 +3500,8 @@
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/snapping_sheet" rel="nofollow">snapping_sheet</a></td>
     <td>提供了一个工作表小部件，可以捕捉到不同的垂直和水平位置。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-04-22</td>
+    <td>283</td>
   </tr>
       
   <tr class="item">
@@ -3804,7 +3804,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/firebase_auth" rel="nofollow">firebase_auth</a></td>
     <td>用于Firebase身份验证的Flutter插件。</td>
     <td>2021-06-30</td>
-    <td>1667</td>
+    <td>1668</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/share_plus" rel="nofollow">share_plus</a></td>
@@ -4024,6 +4024,7 @@
   </tr>
   </tbody>
 </table>
+
 
 
 
