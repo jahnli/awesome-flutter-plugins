@@ -11,8 +11,8 @@
 掘金文章地址：https://juejin.im/post/5edeee2e51882542f347030c
 <br>
 
-<h3 id="count">收录 549 个</h3>   
-<h3 id="updateTime">最新同步：2021-07-13 14:12</h3>
+<h3 id="count">收录 562 个</h3>   
+<h3 id="updateTime">最新同步：2021-07-13 14:26</h3>
 
 <br>	
 <div class="changeLog">
@@ -118,15 +118,15 @@
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/lint" rel="nofollow">lint</a></td>
     <td>一套针对 Dart 和 Flutter 项目的意见建议、社区驱动的 lint 规则。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-03-06</td>
+    <td>415</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/build_context" rel="nofollow">build_context</a></td>
     <td>简化了 BuildContext 中大多数使用的属性/功能的访问包。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-03-10</td>
+    <td>119</td>
   </tr>
       
   <tr class="item">
@@ -1460,8 +1460,8 @@
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/horizontal_data_table" rel="nofollow">horizontal_data_table</a></td>
     <td>左侧有固定列的水平数据表。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-06-26</td>
+    <td>154</td>
   </tr>
       
   <tr class="item">
@@ -1728,36 +1728,36 @@
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_shimmer" rel="nofollow">flutter_shimmer</a></td>
     <td>创建指示加载状态的 Shimmer 效果。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2020-05-05</td>
+    <td>88</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_shimmer" rel="nofollow">flutter_shimmer</a></td>
     <td>创建指示加载状态的 Shimmer 效果。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2020-05-05</td>
+    <td>88</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/readmore" rel="nofollow">readmore</a></td>
     <td>允许动态展开和折叠文本的 Flutter 包。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-06-01</td>
+    <td>161</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/extended_sliver" rel="nofollow">extended_sliver</a></td>
     <td>一个强大的 Sliver 扩展库。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-03-13</td>
+    <td>30</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/smooth_page_indicator" rel="nofollow">smooth_page_indicator</a></td>
     <td>具有一组内置效果的可定制动画页面指示器。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-03-24</td>
+    <td>651</td>
   </tr>
       
   <tr class="item">
@@ -2587,8 +2587,8 @@
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/proste_bezier_curve" rel="nofollow">proste_bezier_curve</a></td>
     <td>更少的代码，更少的难度，绘制标准的贝塞尔曲线。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-03-05</td>
+    <td>3</td>
   </tr>
       
   <tr class="item">
@@ -3425,8 +3425,8 @@
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/tab_indicator_styler" rel="nofollow">tab_indicator_styler</a></td>
     <td>将漂亮且流行的标签指示器直接添加到默认的 Flutter TabBar。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2020-07-17</td>
+    <td>74</td>
   </tr>
       
   <tr class="item">
@@ -3583,8 +3583,8 @@
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_animated_dialog" rel="nofollow">flutter_animated_dialog</a></td>
     <td>新的 Flutter 对话框，带有幻灯片淡入淡出旋转大小缩放 rotate3D 动画。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-03-10</td>
+    <td>81</td>
   </tr>
       
   <tr class="item">
@@ -3736,8 +3736,8 @@
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_speech" rel="nofollow">flutter_speech</a></td>
     <td>Flutter 插件支持 Android、iOS 和 Mac OSX 上的语音识别。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-04-25</td>
+    <td>23</td>
   </tr>
       
   <tr class="item">
@@ -4090,8 +4090,8 @@
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/webview_flutter" rel="nofollow">webview_flutter</a></td>
     <td>在 Android 和 iOS 上提供 WebView 小部件的 Flutter 插件。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-06-24</td>
+    <td>1343</td>
   </tr>
       
   <tr class="item">
