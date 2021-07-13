@@ -20,6 +20,19 @@
 <div class="changeLogItem 07-13">
       <h3>07-13</h3>
       <ul>
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_shimmer">flutter_shimmer</a> - 创建指示加载状态的 Shimmer 效果。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_animated_dialog">flutter_animated_dialog</a> - 新的 Flutter 对话框，带有幻灯片淡入淡出旋转大小缩放 rotate3D 动画。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/proste_bezier_curve">proste_bezier_curve</a> - 更少的代码，更少的难度，绘制标准的贝塞尔曲线。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/lint">lint</a> - 一套针对 Dart 和 Flutter 项目的意见建议、社区驱动的 lint 规则。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_shimmer">flutter_shimmer</a> - 创建指示加载状态的 Shimmer 效果。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/tab_indicator_styler">tab_indicator_styler</a> - 将漂亮且流行的标签指示器直接添加到默认的 Flutter TabBar。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/readmore">readmore</a> - 允许动态展开和折叠文本的 Flutter 包。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/horizontal_data_table">horizontal_data_table</a> - 左侧有固定列的水平数据表。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/extended_sliver">extended_sliver</a> - 一个强大的 Sliver 扩展库。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/build_context">build_context</a> - 简化了 BuildContext 中大多数使用的属性/功能的访问包。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/webview_flutter">webview_flutter</a> - 在 Android 和 iOS 上提供 WebView 小部件的 Flutter 插件。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_speech">flutter_speech</a> - Flutter 插件支持 Android、iOS 和 Mac OSX 上的语音识别。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/smooth_page_indicator">smooth_page_indicator</a> - 具有一组内置效果的可定制动画页面指示器。</li>
         <li><a href="https://pub.flutter-io.cn/packages/image_crop">image_crop</a> - 在 iOS 和 Android 上裁剪图像的 Flutter 插件。</li>  
         <li><a href="https://pub.flutter-io.cn/packages/animated_stack">animated_stack</a> - 自定义动画堆叠页面，以创建可自定义的侧边菜单按钮。</li>  
         <li><a href="https://pub.flutter-io.cn/packages/receive_sharing_intent">receive_sharing_intent</a> - 使 flutter 应用程序能够接收来自其他应用程序的共享照片、文本或 url。</li>  
@@ -101,6 +114,20 @@
   </tr>
   </thead>
   <tbody id="插件">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/lint" rel="nofollow">lint</a></td>
+    <td>一套针对 Dart 和 Flutter 项目的意见建议、社区驱动的 lint 规则。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/build_context" rel="nofollow">build_context</a></td>
+    <td>简化了 BuildContext 中大多数使用的属性/功能的访问包。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/uni_links" rel="nofollow">uni_links</a></td>
@@ -1431,6 +1458,13 @@
   <tbody id="列表相关">
       
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/horizontal_data_table" rel="nofollow">horizontal_data_table</a></td>
+    <td>左侧有固定列的水平数据表。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_animation_progress_bar" rel="nofollow">flutter_animation_progress_bar</a></td>
     <td>可以分组为多个部分。</td>
     <td>2021-03-08</td>
@@ -1690,6 +1724,41 @@
   </tr>
   </thead>
   <tbody id="UI">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_shimmer" rel="nofollow">flutter_shimmer</a></td>
+    <td>创建指示加载状态的 Shimmer 效果。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_shimmer" rel="nofollow">flutter_shimmer</a></td>
+    <td>创建指示加载状态的 Shimmer 效果。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/readmore" rel="nofollow">readmore</a></td>
+    <td>允许动态展开和折叠文本的 Flutter 包。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/extended_sliver" rel="nofollow">extended_sliver</a></td>
+    <td>一个强大的 Sliver 扩展库。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/smooth_page_indicator" rel="nofollow">smooth_page_indicator</a></td>
+    <td>具有一组内置效果的可定制动画页面指示器。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/visibility_detector" rel="nofollow">visibility_detector</a></td>
@@ -2514,6 +2583,13 @@
   </tr>
   </thead>
   <tbody id="图像">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/proste_bezier_curve" rel="nofollow">proste_bezier_curve</a></td>
+    <td>更少的代码，更少的难度，绘制标准的贝塞尔曲线。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/image_crop" rel="nofollow">image_crop</a></td>
@@ -3347,6 +3423,13 @@
   <tbody id="底部导航栏">
       
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/tab_indicator_styler" rel="nofollow">tab_indicator_styler</a></td>
+    <td>将漂亮且流行的标签指示器直接添加到默认的 Flutter TabBar。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_snake_navigationbar" rel="nofollow">flutter_snake_navigationbar</a></td>
     <td>底部导航栏小部件在更改项上带有蛇形动画。</td>
     <td>2021-03-12</td>
@@ -3498,6 +3581,13 @@
   <tbody id="对话框">
       
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_animated_dialog" rel="nofollow">flutter_animated_dialog</a></td>
+    <td>新的 Flutter 对话框，带有幻灯片淡入淡出旋转大小缩放 rotate3D 动画。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/snapping_sheet" rel="nofollow">snapping_sheet</a></td>
     <td>提供了一个工作表小部件，可以捕捉到不同的垂直和水平位置。</td>
     <td>2021-04-22</td>
@@ -3642,6 +3732,13 @@
   </tr>
   </thead>
   <tbody id="通讯类">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_speech" rel="nofollow">flutter_speech</a></td>
+    <td>Flutter 插件支持 Android、iOS 和 Mac OSX 上的语音识别。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/android_alarm_manager_plus" rel="nofollow">android_alarm_manager_plus</a></td>
@@ -3989,6 +4086,13 @@
   </tr>
   </thead>
   <tbody id="Web">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/webview_flutter" rel="nofollow">webview_flutter</a></td>
+    <td>在 Android 和 iOS 上提供 WebView 小部件的 Flutter 插件。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/html" rel="nofollow">html</a></td>
