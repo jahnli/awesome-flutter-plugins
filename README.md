@@ -17,6 +17,24 @@
 <br>	
 <div class="changeLog">
 
+<div class="changeLogItem 07-13">
+      <h3>07-13</h3>
+      <ul>
+        <li><a href="https://pub.flutter-io.cn/packages/image_crop">image_crop</a> - 在 iOS 和 Android 上裁剪图像的 Flutter 插件。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/animated_stack">animated_stack</a> - 自定义动画堆叠页面，以创建可自定义的侧边菜单按钮。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/receive_sharing_intent">receive_sharing_intent</a> - 使 flutter 应用程序能够接收来自其他应用程序的共享照片、文本或 url。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/bitmap">bitmap</a> - 快速且简约的库，可帮助您在 Flutter 应用程序上操作图像。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/animated_drawer">animated_drawer</a> - 一个简单但完全可定制的抽屉。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/visibility_detector">visibility_detector</a> - 检测其子项的可见性并通知回调的小部件。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/loading_indicator">loading_indicator</a> - 加载动画的集合。开箱即用，没有额外的依赖。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/light_compressor">light_compressor</a> - 功能强大且易于使用的 Flutter 视频压缩插件。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/alan_voice">alan_voice</a> - Alan 语音插件。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_instagram_stories">flutter_instagram_stories</a> - 显示故事（视频和图像），如 Whatsapp 和 Instagram。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/snapping_sheet">snapping_sheet</a> - 提供了一个工作表小部件，可以捕捉到不同的垂直和水平位置。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/expand_widget">expand_widget</a> - 能够轻松展开和收回小部件集合或文本。</li>  
+      </ul> 
+</div>
+
 <div class="changeLogItem 07-07">
       <h3>07-07</h3>
       <ul>
@@ -441,6 +459,13 @@
   </tr>
   </thead>
   <tbody id="设备相关">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/receive_sharing_intent" rel="nofollow">receive_sharing_intent</a></td>
+    <td>使 flutter 应用程序能够接收来自其他应用程序的共享照片、文本或 url。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/clipboard_listener" rel="nofollow">clipboard_listener</a></td>
@@ -1668,6 +1693,27 @@
   <tbody id="UI">
       
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/visibility_detector" rel="nofollow">visibility_detector</a></td>
+    <td>检测其子项的可见性并通知回调的小部件。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_instagram_stories" rel="nofollow">flutter_instagram_stories</a></td>
+    <td>显示故事（视频和图像），如 Whatsapp 和 Instagram。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/expand_widget" rel="nofollow">expand_widget</a></td>
+    <td>能够轻松展开和收回小部件集合或文本。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/bubble_tab_indicator" rel="nofollow">bubble_tab_indicator</a></td>
     <td>为 TabBar 的选项卡指示器添加类似气泡的效果。</td>
     <td>2021-03-08</td>
@@ -2323,6 +2369,20 @@
   <tbody id="音视频类">
       
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/light_compressor" rel="nofollow">light_compressor</a></td>
+    <td>功能强大且易于使用的 Flutter 视频压缩插件。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/alan_voice" rel="nofollow">alan_voice</a></td>
+    <td>Alan 语音插件。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/agora_rtc_engine" rel="nofollow">agora_rtc_engine</a></td>
     <td>Agora Video SDK 的 Flutter 插件。</td>
     <td>2021-06-09</td>
@@ -2455,6 +2515,20 @@
   </tr>
   </thead>
   <tbody id="图像">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/image_crop" rel="nofollow">image_crop</a></td>
+    <td>在 iOS 和 Android 上裁剪图像的 Flutter 插件。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/bitmap" rel="nofollow">bitmap</a></td>
+    <td>快速且简约的库，可帮助您在 Flutter 应用程序上操作图像。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/koukicons" rel="nofollow">koukicons</a></td>
@@ -2939,6 +3013,13 @@
   <tbody id="动画">
       
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/loading_indicator" rel="nofollow">loading_indicator</a></td>
+    <td>加载动画的集合。开箱即用，没有额外的依赖。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/smooth_sort" rel="nofollow">smooth_sort</a></td>
     <td>添加精彩和自定义排序动画的 Flutter 包。</td>
     <td>2021-04-17</td>
@@ -3195,6 +3276,20 @@
   <tbody id="侧边栏">
       
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/animated_stack" rel="nofollow">animated_stack</a></td>
+    <td>自定义动画堆叠页面，以创建可自定义的侧边菜单按钮。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/animated_drawer" rel="nofollow">animated_drawer</a></td>
+    <td>一个简单但完全可定制的抽屉。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/drawer_swipe" rel="nofollow">drawer_swipe</a></td>
     <td>轻松快速使用的滑动抽屉库。</td>
     <td>2021-03-10</td>
@@ -3402,6 +3497,13 @@
   </tr>
   </thead>
   <tbody id="对话框">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/snapping_sheet" rel="nofollow">snapping_sheet</a></td>
+    <td>提供了一个工作表小部件，可以捕捉到不同的垂直和水平位置。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/awesome_dialog" rel="nofollow">awesome_dialog</a></td>
