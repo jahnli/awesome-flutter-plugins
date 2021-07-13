@@ -63,13 +63,6 @@
       </ul> 
 </div>
 
-<div class="changeLogItem 07-02">
-      <h3>07-02</h3>
-      <ul>
-        <li><a href="https://pub.flutter-io.cn/packages/keframe">keframe</a> - 帮助你提升 Flutter 应用在​​任何场景下的流畅度。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/android_alarm_manager_plus">android_alarm_manager_plus</a> - 用于访问 Android AlarmManager 服务，并在警报触发时在后台运行 Dart 代码。</li>  
-      </ul> 
-</div>
 
 
 	
