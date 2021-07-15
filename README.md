@@ -21,7 +21,6 @@
       <h3>07-15</h3>
       <ul>
         <li><a href="https://pub.flutter-io.cn/packages/flutter_luban">flutter_luban</a> - 基于图像的图像压缩包，如 Luban for Dart。该库没有系统平台限制。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/r_dotted_line_border">r_dotted_line_border</a> - 关于虚线边框的 Flutter 装饰盒包装。</li>  
         <li><a href="https://pub.flutter-io.cn/packages/r_upgrade">r_upgrade</a> - 用于升级和安装应用程序的插件，支持 Android 和 IOS。</li>  
         <li><a href="https://pub.flutter-io.cn/packages/proste_lint">proste_lint</a> - 提供默认lint，即插即用，方便团队协作。</li>  
         <li><a href="https://pub.flutter-io.cn/packages/proste_dialog">proste_dialog</a> - 相比giffy_dialog，提供了更高的自由度和更强的可扩展性。</li>  
