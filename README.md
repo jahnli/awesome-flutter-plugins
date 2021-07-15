@@ -77,21 +77,6 @@
       </ul> 
 </div>
 
-<div class="changeLogItem 07-07">
-      <h3>07-07</h3>
-      <ul>
-        <li><a href="https://pub.flutter-io.cn/packages/drawer_swipe">drawer_swipe</a> - 轻松快速使用的滑动抽屉库。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_slider_drawer">flutter_slider_drawer</a> - 带有 Slider Drawer Menu 自定义实现的 Flutter 包。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/bubble_tab_indicator">bubble_tab_indicator</a> - 为 TabBar 的选项卡指示器添加类似气泡的效果。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_animation_progress_bar">flutter_animation_progress_bar</a> - 以反应式风格显示动画进度条。它还支持垂直和水平条。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_animation_progress_bar">flutter_animation_progress_bar</a> - 可以分组为多个部分。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_tindercard">flutter_tindercard</a> - 快速在您的 Flutter 应用程序中拥有高质量交换卡小部件。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/custom_refresh_indicator">custom_refresh_indicator</a> - 可以轻松实现自定义刷新指示器。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/uni_links">uni_links</a> - 用于接受传入链接的 Flutter 插件 - 应用程序/深层链接 (Android)、通用链接和自定义 URL 方案 (iOS)。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/implicitly_animated_reorderable_list">implicitly_animated_reorderable_list</a> - 它在两个列表的更改之间隐式动画，支持重新排序其项目。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/grouped_list">grouped_list</a> - 可以分组为多个部分。</li>  
-      </ul> 
-</div>
 
 
 
