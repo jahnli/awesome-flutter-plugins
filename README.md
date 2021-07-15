@@ -17,6 +17,19 @@
 <br>	
 <div class="changeLog">
 
+<div class="changeLogItem 07-15">
+      <h3>07-15</h3>
+      <ul>
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_luban">flutter_luban</a> - 基于图像的图像压缩包，如 Luban for Dart。该库没有系统平台限制。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_cupertino_datetime_picker">flutter_cupertino_datetime_picker</a> - Flutter Cupertino 日期选择器</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/r_dotted_line_border">r_dotted_line_border</a> - 关于虚线边框的 Flutter 装饰盒包装。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/r_upgrade">r_upgrade</a> - 用于升级和安装应用程序的插件，支持 Android 和 IOS。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/proste_lint">proste_lint</a> - 提供默认lint，即插即用，方便团队协作。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/proste_dialog">proste_dialog</a> - 相比giffy_dialog，提供了更高的自由度和更强的可扩展性。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/flare_splash_screen">flare_splash_screen</a> - 应用程序的初始化完成一些工作之前，具有带有 Flare 动画的 Splash 屏幕。</li>  
+      </ul> 
+</div>
+
 <div class="changeLogItem 07-13">
       <h3>07-13</h3>
       <ul>
@@ -126,6 +139,20 @@
   </tr>
   </thead>
   <tbody id="插件">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/proste_lint" rel="nofollow">proste_lint</a></td>
+    <td>提供默认lint，即插即用，方便团队协作。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flare_splash_screen" rel="nofollow">flare_splash_screen</a></td>
+    <td>应用程序的初始化完成一些工作之前，具有带有 Flare 动画的 Splash 屏幕。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/opencv_4" rel="nofollow">opencv_4</a></td>
@@ -504,6 +531,13 @@
   </tr>
   </thead>
   <tbody id="设备相关">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/r_upgrade" rel="nofollow">r_upgrade</a></td>
+    <td>用于升级和安装应用程序的插件，支持 Android 和 IOS。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/gallery_saver" rel="nofollow">gallery_saver</a></td>
@@ -1773,6 +1807,13 @@
   <tbody id="UI">
       
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/r_dotted_line_border" rel="nofollow">r_dotted_line_border</a></td>
+    <td>关于虚线边框的 Flutter 装饰盒包装。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/liquid_pull_to_refresh" rel="nofollow">liquid_pull_to_refresh</a></td>
     <td>一个漂亮的自定义刷新指示器，带有一些很酷的动画。</td>
     <td>2021-03-12</td>
@@ -2660,6 +2701,13 @@
   <tbody id="图像">
       
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_luban" rel="nofollow">flutter_luban</a></td>
+    <td>基于图像的图像压缩包，如 Luban for Dart。该库没有系统平台限制。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/local_image_provider" rel="nofollow">local_image_provider</a></td>
     <td>用于在移动设备上检索图像、视频和相册的元数据和内容的库。</td>
     <td>2021-06-25</td>
@@ -3021,6 +3069,13 @@
    </tr>
   </thead>
   <tbody id="时间相关">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_cupertino_datetime_picker" rel="nofollow">flutter_cupertino_datetime_picker</a></td>
+    <td>Flutter Cupertino 日期选择器</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_rounded_date_picker" rel="nofollow">flutter_rounded_date_picker</a></td>
@@ -3689,6 +3744,13 @@
   </tr>
   </thead>
   <tbody id="对话框">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/proste_dialog" rel="nofollow">proste_dialog</a></td>
+    <td>相比giffy_dialog，提供了更高的自由度和更强的可扩展性。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/rflutter_alert" rel="nofollow">rflutter_alert</a></td>
