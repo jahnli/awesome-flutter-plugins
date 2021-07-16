@@ -17,6 +17,13 @@
 <br>	
 <div class="changeLog">
 
+<div class="changeLogItem 07-16">
+      <h3>07-16</h3>
+      <ul>
+        <li><a href="https://pub.flutter-io.cn/packages/file_selector">file_selector</a> - 用于打开和保存文件的 Flutter 插件。</li>  
+      </ul> 
+</div>
+
 <div class="changeLogItem 07-15">
       <h3>07-15</h3>
       <ul>
@@ -28,54 +35,7 @@
       </ul> 
 </div>
 
-<div class="changeLogItem 07-13">
-      <h3>07-13</h3>
-      <ul>
-        <li><a href="https://pub.flutter-io.cn/packages/tapioca">tapioca</a> - Tapioca 是一个 Flutter 插件，用于在 Android 和 iOS 上进行视频编辑。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/media_info">media_info</a> - 利用平台代码来确定音频、视频和照片属性。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_alibc">flutter_alibc</a> - flutter版本的阿里百川。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/cupertino_tabbar">cupertino_tabbar</a> - 高度可定制且简单的小部件，用于拥有 iOS 13 风格的标签栏。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/expandable_bottom_bar">expandable_bottom_bar</a> - 带有可扩展表的动画底部应用栏。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/loading_animations">loading_animations</a> - 一系列简单但非常可定制的加载动画。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/liquid_pull_to_refresh">liquid_pull_to_refresh</a> - 一个漂亮的自定义刷新指示器，带有一些很酷的动画。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/rflutter_alert">rflutter_alert</a> - 用于 Flutter 的超级可定制且易于使用的警报/弹出对话框。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/material_dialogs">material_dialogs</a> - 帮助您在应用程序中创建动画、简单、时尚的material对话框。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/collapsible_sidebar">collapsible_sidebar</a> - 用于实现 Material Design 的 Flutter 应用程序的可折叠侧边栏。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/local_image_provider">local_image_provider</a> - 用于在移动设备上检索图像、视频和相册的元数据和内容的库。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/animated_image_list">animated_image_list</a> - Flutter 动画图像列表，具有视差效果和图像灯箱。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/opencv_4">opencv_4</a> - 包含 OpenCV 模块集合的 Flutter 包项目。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/gallery_saver">gallery_saver</a> - 将网络或临时文件中的图像和视频保存到外部存储。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_beautiful_popup">flutter_beautiful_popup</a> - 美化你的应用弹出窗口。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/aesthetic_dialogs">aesthetic_dialogs</a> - 允许显示漂亮的自定义对话框。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/inview_notifier_list">inview_notifier_list</a> - 构建列表视图并在小部件出现在屏幕上时发出通知。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/alphabet_list_scroll_view">alphabet_list_scroll_view</a> - 带有 A-Z 侧滚动条的可自定义列表视图。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/focus_detector">focus_detector</a> - 检测您的小部件何时出现或从屏幕上消失。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_shimmer">flutter_shimmer</a> - 创建指示加载状态的 Shimmer 效果。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_animated_dialog">flutter_animated_dialog</a> - 新的 Flutter 对话框，带有幻灯片淡入淡出旋转大小缩放 rotate3D 动画。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/proste_bezier_curve">proste_bezier_curve</a> - 更少的代码，更少的难度，绘制标准的贝塞尔曲线。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/lint">lint</a> - 一套针对 Dart 和 Flutter 项目的意见建议、社区驱动的 lint 规则。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_shimmer">flutter_shimmer</a> - 创建指示加载状态的 Shimmer 效果。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/tab_indicator_styler">tab_indicator_styler</a> - 将漂亮且流行的标签指示器直接添加到默认的 Flutter TabBar。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/readmore">readmore</a> - 允许动态展开和折叠文本的 Flutter 包。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/horizontal_data_table">horizontal_data_table</a> - 左侧有固定列的水平数据表。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/extended_sliver">extended_sliver</a> - 一个强大的 Sliver 扩展库。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/build_context">build_context</a> - 简化了 BuildContext 中大多数使用的属性/功能的访问包。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/webview_flutter">webview_flutter</a> - 在 Android 和 iOS 上提供 WebView 小部件的 Flutter 插件。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_speech">flutter_speech</a> - Flutter 插件支持 Android、iOS 和 Mac OSX 上的语音识别。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/smooth_page_indicator">smooth_page_indicator</a> - 具有一组内置效果的可定制动画页面指示器。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/image_crop">image_crop</a> - 在 iOS 和 Android 上裁剪图像的 Flutter 插件。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/animated_stack">animated_stack</a> - 自定义动画堆叠页面，以创建可自定义的侧边菜单按钮。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/receive_sharing_intent">receive_sharing_intent</a> - 使 flutter 应用程序能够接收来自其他应用程序的共享照片、文本或 url。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/bitmap">bitmap</a> - 快速且简约的库，可帮助您在 Flutter 应用程序上操作图像。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/animated_drawer">animated_drawer</a> - 一个简单但完全可定制的抽屉。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/visibility_detector">visibility_detector</a> - 检测其子项的可见性并通知回调的小部件。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/loading_indicator">loading_indicator</a> - 加载动画的集合。开箱即用，没有额外的依赖。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/light_compressor">light_compressor</a> - 功能强大且易于使用的 Flutter 视频压缩插件。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_instagram_stories">flutter_instagram_stories</a> - 显示故事（视频和图像），如 Whatsapp 和 Instagram。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/snapping_sheet">snapping_sheet</a> - 提供了一个工作表小部件，可以捕捉到不同的垂直和水平位置。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/expand_widget">expand_widget</a> - 能够轻松展开和收回小部件集合或文本。</li>  
-      </ul> 
-</div>
+
 
 
 
@@ -514,6 +474,13 @@
   </tr>
   </thead>
   <tbody id="设备相关">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/file_selector" rel="nofollow">file_selector</a></td>
+    <td>用于打开和保存文件的 Flutter 插件。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/r_upgrade" rel="nofollow">r_upgrade</a></td>
