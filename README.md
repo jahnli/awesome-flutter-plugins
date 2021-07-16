@@ -20,6 +20,7 @@
 <div class="changeLogItem 07-16">
       <h3>07-16</h3>
       <ul>
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_plugin_android_lifecycle">flutter_plugin_android_lifecycle</a> - 用于在其他插件中访问 Android 生命周期。</li>
         <li><a href="https://pub.flutter-io.cn/packages/file_selector">file_selector</a> - 用于打开和保存文件的 Flutter 插件。</li>  
       </ul> 
 </div>
@@ -35,16 +36,7 @@
       </ul> 
 </div>
 	
-<div class="changeLogItem 07-15">
-      <h3>07-15</h3>
-      <ul>
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_luban">flutter_luban</a> - 基于图像的图像压缩包，如 Luban for Dart。该库没有系统平台限制。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/r_upgrade">r_upgrade</a> - 用于升级和安装应用程序的插件，支持 Android 和 IOS。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/proste_lint">proste_lint</a> - 提供默认lint，即插即用，方便团队协作。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/proste_dialog">proste_dialog</a> - 相比giffy_dialog，提供了更高的自由度和更强的可扩展性。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flare_splash_screen">flare_splash_screen</a> - 应用程序的初始化完成一些工作之前，具有带有 Flare 动画的 Splash 屏幕。</li>  
-      </ul> 
-</div>
+
 
 
 
@@ -93,6 +85,13 @@
   </tr>
   </thead>
   <tbody id="插件">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_plugin_android_lifecycle" rel="nofollow">flutter_plugin_android_lifecycle</a></td>
+    <td>用于在其他插件中访问 Android 生命周期。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/proste_lint" rel="nofollow">proste_lint</a></td>
@@ -4296,6 +4295,7 @@
   </tr>
   </tbody>
 </table>
+
 
 
 
