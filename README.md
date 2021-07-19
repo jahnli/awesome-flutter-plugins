@@ -1794,14 +1794,7 @@
     <td>2020-05-05</td>
     <td>88</td>
   </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/flutter_shimmer" rel="nofollow">flutter_shimmer</a></td>
-    <td>创建指示加载状态的 Shimmer 效果。</td>
-    <td>2020-05-05</td>
-    <td>88</td>
-  </tr>
-      
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/readmore" rel="nofollow">readmore</a></td>
     <td>允许动态展开和折叠文本的 Flutter 包。</td>
