@@ -2567,12 +2567,7 @@
     <td>2021-07-22</td>
     <td>1021</td>
   </tr>
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/better_player">better_player</a></td>
-    <td>基于video_player和Chewie的高级视频播放器。</td>
-    <td>2021-07-09</td>
-    <td>401</td>
-  </tr>
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/sounds">sounds</a></td>
     <td>为音频播放和录制提供了完整的api和小部件。</td>
