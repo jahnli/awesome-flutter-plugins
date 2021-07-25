@@ -20,7 +20,7 @@
 <div class="changeLogItem 07-25">
       <h3>07-25</h3>
       <ul>
-	
+	<li><a href="https://pub.flutter-io.cn/packages/pinch_zoom">pinch_zoom</a> - 交互式查看图像的小部件，可以使图片捏缩放</li>
       </ul> 
 </div>
 
