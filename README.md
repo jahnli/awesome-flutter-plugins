@@ -20,7 +20,6 @@
 <div class="changeLogItem 07-25">
       <h3>07-25</h3>
       <ul>
-        <li><a href="https://pub.flutter-io.cn/packages/adhara_socket_io">adhara_socket_io</a> - websocket by socket.io for flutter by adhara，支持iOS和Android</li>  
         <li><a href="https://pub.flutter-io.cn/packages/camera_camera">camera_camera</a> - 适用于您的项目、Android 和 iOS 平台的简单相机插件。</li>  
         <li><a href="https://pub.flutter-io.cn/packages/jitsi_meet">jitsi_meet</a> - 用于在 Flutter 中集成开源 Jitsi Meet API 的视频会议插件。</li>  
         <li><a href="https://pub.flutter-io.cn/packages/flutter_compass">flutter_compass</a> - Flutter 指南针，航向在 0-360 之间变化，0 为北。</li>  
