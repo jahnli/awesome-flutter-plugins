@@ -20,9 +20,9 @@
 <div class="changeLogItem 07-25">
       <h3>07-25</h3>
       <ul>
+	<li><a href="https://pub.flutter-io.cn/packages/flutter_glow">flutter_glow</a> - Flutter Glow ui 套件，可帮助您创建和使用发光的小部件。</li>  
         <li><a href="https://pub.flutter-io.cn/packages/camera_camera">camera_camera</a> - 适用于您的项目、Android 和 iOS 平台的简单相机插件。</li>  
         <li><a href="https://pub.flutter-io.cn/packages/jitsi_meet">jitsi_meet</a> - 用于在 Flutter 中集成开源 Jitsi Meet API 的视频会议插件。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_compass">flutter_compass</a> - Flutter 指南针，航向在 0-360 之间变化，0 为北。</li>  
         <li><a href="https://pub.flutter-io.cn/packages/pinch_zoom">pinch_zoom</a> - 交互式查看图像的小部件，可以使图片捏缩放</li>  
         <li><a href="https://pub.flutter-io.cn/packages/progressive_image">progressive_image</a> - 使用低质量图像占位符逐步加载更大图像的部件。</li>  
         <li><a href="https://pub.flutter-io.cn/packages/flick_video_player">flick_video_player</a> - 基于video_player的，flutter 视频播放器。</li>  
