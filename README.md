@@ -24,19 +24,6 @@
       </ul> 
 </div>
 
-<div class="changeLogItem 07-16">
-      <h3>07-16</h3>
-      <ul>
-        <li><a href="https://pub.flutter-io.cn/packages/ios_platform_images">ios_platform_images</a> - 在 Flutter 和 iOS 之间共享图像的插件。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_plugin_android_lifecycle">flutter_plugin_android_lifecycle</a> - 用于在其他插件中访问 Android 生命周期。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/file_selector">file_selector</a> - 用于打开和保存文件的 Flutter 插件。</li>  
-      </ul> 
-</div>
-
-
-	
-
-
 
 
 
