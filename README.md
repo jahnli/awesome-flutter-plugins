@@ -22,6 +22,9 @@
 <div class="changeLogItem 07-25">
       <h3>07-25</h3>
       <ul>
+        <li><a href="https://pub.flutter-io.cn/packages/all_sensors">all_sensors</a> - 用于检索加速度计、陀螺仪、接近传感器数据的 Flutter 插件。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/xterm">xterm</a> - 一个快速且功能齐全的 Flutter 应用程序终端模拟器。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_genius_scan">flutter_genius_scan</a> - 适用于 iOS 和 Android 的 Genius Scan SDK 的 Flutter 插件。它允许使用智能手机相机扫描纸质文档。</li>
 	<li><a href="https://pub.flutter-io.cn/packages/progressive_image">progressive_image</a> - 使用低质量图像占位符逐步加载更大图像的部件。</li>  
 	<li><a href="https://pub.flutter-io.cn/packages/flutter_glow">flutter_glow</a> - Flutter Glow ui 套件，可帮助您创建和使用发光的小部件。</li>  <li><a href="https://pub.flutter-io.cn/packages/flutter_compass">flutter_compass</a> - Flutter 指南针，航向在 0-360 之间变化，0 为北。</li>  
 	<li><a href="https://pub.flutter-io.cn/packages/flutter_better_camera">flutter_better_camera</a> - 用于在 Android 和 IOS 上控制相机，支持相机馈送、捕获图像、捕获视频、流式图像缓冲区，并支持相机 API 允许的所有基本功能（闪光灯、AE 等）。</li>      
@@ -73,6 +76,20 @@
   </tr>
   </thead>
   <tbody id="插件">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/xterm" rel="nofollow">xterm</a></td>
+    <td>一个快速且功能齐全的 Flutter 应用程序终端模拟器。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_genius_scan" rel="nofollow">flutter_genius_scan</a></td>
+    <td>适用于 iOS 和 Android 的 Genius Scan SDK 的 Flutter 插件。它允许使用智能手机相机扫描纸质文档。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_plugin_android_lifecycle" rel="nofollow">flutter_plugin_android_lifecycle</a></td>
@@ -472,6 +489,13 @@
   </tr>
   </thead>
   <tbody id="设备相关">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/all_sensors" rel="nofollow">all_sensors</a></td>
+    <td>用于检索加速度计、陀螺仪、接近传感器数据的 Flutter 插件。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/camera_camera" rel="nofollow">camera_camera</a></td>
