@@ -25,8 +25,7 @@
 	<li><a href="https://pub.flutter-io.cn/packages/flutter_glow">flutter_glow</a> - Flutter Glow ui 套件，可帮助您创建和使用发光的小部件。</li>  
 	<li><a href="https://pub.flutter-io.cn/packages/flutter_compass">flutter_compass</a> - Flutter 指南针，航向在 0-360 之间变化，0 为北。</li>  
 	<li><a href="https://pub.flutter-io.cn/packages/flutter_better_camera">flutter_better_camera</a> - 用于在 Android 和 IOS 上控制相机，支持相机馈送、捕获图像、捕获视频、流式图像缓冲区，并支持相机 API 允许的所有基本功能（闪光灯、AE 等）。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flick_video_player">flick_video_player</a> - 基于video_player的，flutter 视频播放器。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/native_screenshot">native_screenshot</a> - 使用本机代码（iOS 和 Android）截取屏幕截图的简单插件。</li>  
+	<li><a href="https://pub.flutter-io.cn/packages/rammus">rammus</a> - 网友开发的阿里云推送Flutter插件</li>  
       </ul> 
 </div>
 
