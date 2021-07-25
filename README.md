@@ -22,7 +22,6 @@
 <div class="changeLogItem 07-25">
       <h3>07-25</h3>
       <ul>
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_genius_scan">flutter_genius_scan</a> - 适用于 iOS 和 Android 的 Genius Scan SDK 的 Flutter 插件。它允许使用智能手机相机扫描纸质文档。</li>
 	<li><a href="https://pub.flutter-io.cn/packages/progressive_image">progressive_image</a> - 使用低质量图像占位符逐步加载更大图像的部件。</li>  
 	<li><a href="https://pub.flutter-io.cn/packages/flutter_glow">flutter_glow</a> - Flutter Glow ui 套件，可帮助您创建和使用发光的小部件。</li>  <li><a href="https://pub.flutter-io.cn/packages/flutter_compass">flutter_compass</a> - Flutter 指南针，航向在 0-360 之间变化，0 为北。</li>  
 	<li><a href="https://pub.flutter-io.cn/packages/flutter_better_camera">flutter_better_camera</a> - 用于在 Android 和 IOS 上控制相机，支持相机馈送、捕获图像、捕获视频、流式图像缓冲区，并支持相机 API 允许的所有基本功能（闪光灯、AE 等）。</li>      
