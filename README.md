@@ -20,9 +20,7 @@
 <div class="changeLogItem 07-25">
       <h3>07-25</h3>
       <ul>
-	<li><a href="https://pub.flutter-io.cn/packages/flutter_compass">flutter_compass</a> - Flutter 指南针，航向在 0-360 之间变化，0 为北。</li>  
-	<li><a href="https://pub.flutter-io.cn/packages/flutter_better_camera">flutter_better_camera</a> - 用于在 Android 和 IOS 上控制相机，支持相机馈送、捕获图像、捕获视频、流式图像缓冲区，并支持相机 API 允许的所有基本功能（闪光灯、AE 等）。</li>      
-	<li><a href="https://pub.flutter-io.cn/packages/rammus">rammus</a> - 网友开发的阿里云推送Flutter插件</li>  
+	
       </ul> 
 </div>
 
