@@ -17,6 +17,23 @@
 <br>	
 <div class="changeLog">
 
+<div class="changeLogItem 07-25">
+      <h3>07-25</h3>
+      <ul>
+        <li><a href="https://pub.flutter-io.cn/packages/adhara_socket_io">adhara_socket_io</a> - websocket by socket.io for flutter by adhara，支持iOS和Android</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/camera_camera">camera_camera</a> - 适用于您的项目、Android 和 iOS 平台的简单相机插件。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/jitsi_meet">jitsi_meet</a> - 用于在 Flutter 中集成开源 Jitsi Meet API 的视频会议插件。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_compass">flutter_compass</a> - Flutter 指南针，航向在 0-360 之间变化，0 为北。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_glow">flutter_glow</a> - Flutter Glow ui 套件，可帮助您创建和使用发光的小部件。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/pinch_zoom">pinch_zoom</a> - 交互式查看图像的小部件，可以使图片捏缩放</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/progressive_image">progressive_image</a> - 使用低质量图像占位符逐步加载更大图像的部件。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/flick_video_player">flick_video_player</a> - 基于video_player的，flutter 视频播放器。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_better_camera">flutter_better_camera</a> - 用于在 Android 和 IOS 上控制相机，支持相机馈送、捕获图像、捕获视频、流式图像缓冲区，并支持相机 API 允许的所有基本功能（闪光灯、AE 等）。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/native_screenshot">native_screenshot</a> - 使用本机代码（iOS 和 Android）截取屏幕截图的简单插件。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/rammus">rammus</a> - 网友开发的阿里云推送Flutter插件</li>  
+      </ul> 
+</div>
+
 <div class="changeLogItem 07-16">
       <h3>07-16</h3>
       <ul>
@@ -26,16 +43,7 @@
       </ul> 
 </div>
 
-<div class="changeLogItem 07-15">
-      <h3>07-15</h3>
-      <ul>
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_luban">flutter_luban</a> - 基于图像的图像压缩包，如 Luban for Dart。该库没有系统平台限制。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/r_upgrade">r_upgrade</a> - 用于升级和安装应用程序的插件，支持 Android 和 IOS。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/proste_lint">proste_lint</a> - 提供默认lint，即插即用，方便团队协作。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/proste_dialog">proste_dialog</a> - 相比giffy_dialog，提供了更高的自由度和更强的可扩展性。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flare_splash_screen">flare_splash_screen</a> - 应用程序的初始化完成一些工作之前，具有带有 Flare 动画的 Splash 屏幕。</li>  
-      </ul> 
-</div>
+
 	
 
 
@@ -485,6 +493,34 @@
   </tr>
   </thead>
   <tbody id="设备相关">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/camera_camera" rel="nofollow">camera_camera</a></td>
+    <td>适用于您的项目、Android 和 iOS 平台的简单相机插件。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_compass" rel="nofollow">flutter_compass</a></td>
+    <td>Flutter 指南针，航向在 0-360 之间变化，0 为北。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_better_camera" rel="nofollow">flutter_better_camera</a></td>
+    <td>用于在 Android 和 IOS 上控制相机，支持相机馈送、捕获图像、捕获视频、流式图像缓冲区，并支持相机 API 允许的所有基本功能（闪光灯、AE 等）。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/native_screenshot" rel="nofollow">native_screenshot</a></td>
+    <td>使用本机代码（iOS 和 Android）截取屏幕截图的简单插件。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/file_selector" rel="nofollow">file_selector</a></td>
@@ -1764,6 +1800,13 @@
   <tbody id="UI">
       
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_glow" rel="nofollow">flutter_glow</a></td>
+    <td>Flutter Glow ui 套件，可帮助您创建和使用发光的小部件。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/r_dotted_line_border" rel="nofollow">r_dotted_line_border</a></td>
     <td>关于虚线边框的 Flutter 装饰盒包装。</td>
     <td>2021-03-15</td>
@@ -2489,6 +2532,13 @@
   <tbody id="音视频类">
       
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flick_video_player" rel="nofollow">flick_video_player</a></td>
+    <td>基于video_player的，flutter 视频播放器。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/tapioca" rel="nofollow">tapioca</a></td>
     <td>Tapioca 是一个 Flutter 插件，用于在 Android 和 iOS 上进行视频编辑。</td>
     <td>2021-07-14</td>
@@ -2644,6 +2694,20 @@
   </tr>
   </thead>
   <tbody id="图像">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/pinch_zoom" rel="nofollow">pinch_zoom</a></td>
+    <td>交互式查看图像的小部件，可以使图片捏缩放</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/progressive_image" rel="nofollow">progressive_image</a></td>
+    <td>使用低质量图像占位符逐步加载更大图像的部件。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/ios_platform_images" rel="nofollow">ios_platform_images</a></td>
@@ -3884,6 +3948,27 @@
   </tr>
   </thead>
   <tbody id="通讯类">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/adhara_socket_io" rel="nofollow">adhara_socket_io</a></td>
+    <td>websocket by socket.io for flutter by adhara，支持iOS和Android</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/jitsi_meet" rel="nofollow">jitsi_meet</a></td>
+    <td>用于在 Flutter 中集成开源 Jitsi Meet API 的视频会议插件。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/rammus" rel="nofollow">rammus</a></td>
+    <td>网友开发的阿里云推送Flutter插件</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_alibc" rel="nofollow">flutter_alibc</a></td>
