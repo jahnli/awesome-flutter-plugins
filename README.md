@@ -11,8 +11,8 @@
 掘金文章地址：https://juejin.im/post/5edeee2e51882542f347030c
 <br>
 
-<h3 id="count">收录 615 个</h3>   
-<h3 id="updateTime">最新同步：2021-08-03 13:38</h3>
+<h3 id="count">收录 635 个</h3>   
+<h3 id="updateTime">最新同步：2021-08-03 13:49</h3>
 
 <br>	
 <div class="changeLog">
@@ -116,15 +116,15 @@
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/change_app_package_name" rel="nofollow">change_app_package_name</a></td>
     <td>使用单个命令更改应用程序包名称。更新 AndroidManifest、build.gradle、MainActivity 文件并自动将 MainActivity 文件移动到新的目录结构。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-04-08</td>
+    <td>297</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/forge2d" rel="nofollow">forge2d</a></td>
     <td>Dart 的 2D 物理引擎，也适用于 Flutter 中的 Flame 游戏引擎。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-07-15</td>
+    <td>31</td>
   </tr>
       
   <tr class="item">
@@ -564,22 +564,22 @@
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_dynamic_icon" rel="nofollow">flutter_dynamic_icon</a></td>
     <td>动态改变应用图标和应用图标的flutter插件。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-05-05</td>
+    <td>49</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/home_widget" rel="nofollow">home_widget</a></td>
     <td>提供用于创建适用于 Android 和 iOS 的 HomeScreen 小部件的通用界面。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-07-05</td>
+    <td>212</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_screen_lock" rel="nofollow">flutter_screen_lock</a></td>
     <td>提供在 ios 和 android 上锁定屏幕的能力，除了密码之外，还可以使用生物特征认证。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-04-30</td>
+    <td>54</td>
   </tr>
       
   <tr class="item">
@@ -1629,8 +1629,8 @@
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/sticky_and_expandable_list" rel="nofollow">sticky_and_expandable_list</a></td>
     <td>构建分组列表，支持展开/折叠部分和粘性标题，支持将其与 sliver 小部件一起使用。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-08-01</td>
+    <td>56</td>
   </tr>
       
   <tr class="item">
@@ -1925,57 +1925,57 @@
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_rounded_progress_bar" rel="nofollow">flutter_rounded_progress_bar</a></td>
     <td>圆形进度条，可自定义颜色和边框。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-03-18</td>
+    <td>51</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/tcard" rel="nofollow">tcard</a></td>
     <td>像卡片一样的颤动，可以向左或向右滑动。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-03-30</td>
+    <td>68</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/juxtapose" rel="nofollow">juxtapose</a></td>
     <td>用于通过拖动滑块拇指以水平或垂直显示滑块的任一侧来比较两个堆叠的小部件的小部件。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2020-10-09</td>
+    <td>58</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_signin_button" rel="nofollow">flutter_signin_button</a></td>
     <td>适用于 iOS 和 Android 的 Flutter 插件，用于为不同的社交媒体帐户生成登录按钮。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-03-31</td>
+    <td>453</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/styled_widget" rel="nofollow">styled_widget</a></td>
     <td>通过使用方法定义小部件来简化小部件树结构。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-06-18</td>
+    <td>336</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/playing_cards" rel="nofollow">playing_cards</a></td>
     <td>标准 52 张扑克牌卡片组的渲染库。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-07-13</td>
+    <td>54</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/intro_views_flutter" rel="nofollow">intro_views_flutter</a></td>
     <td>用于简单的材料设计应用程序介绍屏幕，带有一些很酷的动画。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-06-13</td>
+    <td>331</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_vant_kit" rel="nofollow">flutter_vant_kit</a></td>
     <td>一个vant风格的flutter UI库。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-06-04</td>
+    <td>32</td>
   </tr>
       
   <tr class="item">
@@ -2720,8 +2720,8 @@
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_vlc_player" rel="nofollow">flutter_vlc_player</a></td>
     <td>Flutter 的 video_player 的 VLC 驱动替代品。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-04-07</td>
+    <td>161</td>
   </tr>
       
   <tr class="item">
@@ -2891,8 +2891,8 @@
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_barcode_scanner" rel="nofollow">flutter_barcode_scanner</a></td>
     <td>Android 和 iOS 上支持条码扫描的插件。支持条码、二维码等。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-04-19</td>
+    <td>437</td>
   </tr>
       
   <tr class="item">
@@ -3464,8 +3464,8 @@
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/bouncing_widget" rel="nofollow">bouncing_widget</a></td>
     <td>在小部件上添加弹跳动画。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-03-22</td>
+    <td>47</td>
   </tr>
       
   <tr class="item">
@@ -3820,8 +3820,8 @@
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/bottom_animation" rel="nofollow">bottom_animation</a></td>
     <td>Flutter 底部导航栏。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-06-20</td>
+    <td>15</td>
   </tr>
       
   <tr class="item">
@@ -4468,15 +4468,15 @@
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/mapbox_gl" rel="nofollow">mapbox_gl</a></td>
     <td>用于在 Android、iOS 和 Web 平台上的 Flutter 应用程序中集成 Mapbox 地图。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-04-12</td>
+    <td>231</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/map" rel="nofollow">map</a></td>
     <td>Flutter 的地图小部件用 100% Dart 编写。支持 Android、iOS、Web 和桌面。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-06-06</td>
+    <td>112</td>
   </tr>
       
   <tr class="item">
