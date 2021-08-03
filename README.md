@@ -20,6 +20,44 @@
 <div class="changeLogItem 08-03">
       <h3>08-03</h3>
       <ul>
+        <li><a href="https://pub.flutter-io.cn/packages/bloc">bloc</a> - 可预测的状态管理库，有助于实现 BLoC（业务逻辑组件）设计模式。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_insta">flutter_insta</a> - 用于获取 instagram 用户的详细信息。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/spritewidget">spritewidget</a> - 用于使用 Flutter 构建复杂、高性能的动画和 2D 游戏。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/wechat_kit">wechat_kit</a> - 允许开发人员使用 natvie Android 和 iOS 微信 SDK 进行身份验证/共享/支付。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/fresh">fresh</a> - 用于 dart 的令牌刷新库。该包公开了各种刷新令牌实现（REST、GraphQL 等）通用的核心组件。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/secure_application">secure_application</a> - 当用户离开应用程序时保护应用程序内容的可见性。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_segment">flutter_segment</a> - 适用于 iOS、Android 和 Web 的分析的 Flutter 实现。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/wiredash">wiredash</a> - Wiredash 是 Fl​​utter 应用程序的交互式用户反馈工具。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/native_updater">native_updater</a> - 提示用户使用本机对话框进行更新。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/passcode_screen">passcode_screen</a> - 用于显示密码输入屏幕，类似于原生 iOS。屏幕可定制颜色、大小、字体等。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/k_chart">k_chart</a> -  k 图。支持拖动，缩放，长按。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/google_maps_flutter">google_maps_flutter</a> - 用于在 iOS 和 Android 应用程序中集成谷歌地图。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/jwt_decoder">jwt_decoder</a> - 帮助您解码 Json Web Tokens，您还可以知道 JWT 是否已经过期。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_mentions">flutter_mentions</a> - 用于向您的应用程序添加@提及功能。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/google_ml_kit">google_ml_kit</a> - 用于实现谷歌为移动平台制作的独立机器学习套件。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/otp_text_field">otp_text_field</a> - 在您的应用程序中创建 OTP 文本字段小部件。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/fancy_on_boarding">fancy_on_boarding</a> - 用于快速、方便且美观的 OnBoarding 屏幕库。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/delayed_display">delayed_display</a> - 在延迟后以漂亮的淡入淡出和滑动动画显示子项。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/ripple_backdrop_animate_route">ripple_backdrop_animate_route</a> - 带有路线背景的波纹动画。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/sms_user_consent">sms_user_consent</a> - 在不添加任何权限的情况下请求用户的电话号码（支持双卡）和/或同意阅读短信。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/in_app_update">in_app_update</a> - Android API 在 Android 上启用应用内更新。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_paystack">flutter_paystack</a> - 通过 Paystack 支付网关进行支付。完全支持安卓和iOS。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/video_player">video_player</a> - 用于在 Android、iOS 和 Web 上与其他 Flutter 小部件一起显示内联视频。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/onesignal_flutter">onesignal_flutter</a> - OneSignal 是一种针对移动应用程序的免费推送通知服务。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/rive">rive</a> - 提供运行时功能，用于回放使用 Rive 编辑器构建的动画并与之交互。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/rating_dialog">rating_dialog</a> - 漂亮且可定制的 Star Rating Dialog 包。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_animator">flutter_animator</a> - 能够以更少的代码更快、更高效地创建令人惊叹的动画。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/rounded_loading_button">rounded_loading_button</a> - 动画加载按钮小部件的简单实现。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_share_me">flutter_share_me</a> - 用于将内容分享到社交媒体。您可以使用它分享到 Facebook、WhatsApp、Twitter 和系统共享 UI。支持网址和文字。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/spring">spring</a> - 简单而强大的预建动画工具包，用于更快、更轻松地开发应用程序。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/awesome_card">awesome_card</a> - 用于在您的应用程序中创建信用卡小部件。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/miniplayer">miniplayer</a> - 简化迷你播放器的创建。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_reaction_button">flutter_reaction_button</a> - Flutter 按钮反应它是完全可定制的小部件，例如 Facebook 反应按钮。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_cube">flutter_cube</a> - 渲染 Wavefront 对象文件的 Flutter 3D 小部件。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/simple_url_preview">simple_url_preview</a> - 显示 url 预览。可自定义的高度、背景和文本样式以及线条。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/native_device_orientation">native_device_orientation</a> - 用于允许获取本机设备方向的插件。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/floaty_head">floaty_head</a> - 创建自定义聊天头，在点击时显示隐藏内容，如 Messenger。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_bounce">flutter_bounce</a> - 用于将点击弹跳动画传递到环绕的小部件。</li>
         <li><a href="https://pub.flutter-io.cn/packages/flutter_rounded_progress_bar">flutter_rounded_progress_bar</a> - 圆形进度条，可自定义颜色和边框。</li>
         <li><a href="https://pub.flutter-io.cn/packages/bouncing_widget">bouncing_widget</a> - 在小部件上添加弹跳动画。</li>
         <li><a href="https://pub.flutter-io.cn/packages/change_app_package_name">change_app_package_name</a> - 使用单个命令更改应用程序包名称。更新 AndroidManifest、build.gradle、MainActivity 文件并自动将 MainActivity 文件移动到新的目录结构。</li>
@@ -112,6 +150,41 @@
   </tr>
   </thead>
   <tbody id="插件">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/spritewidget" rel="nofollow">spritewidget</a></td>
+    <td>用于使用 Flutter 构建复杂、高性能的动画和 2D 游戏。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/fresh" rel="nofollow">fresh</a></td>
+    <td>用于 dart 的令牌刷新库。该包公开了各种刷新令牌实现（REST、GraphQL 等）通用的核心组件。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/jwt_decoder" rel="nofollow">jwt_decoder</a></td>
+    <td>帮助您解码 Json Web Tokens，您还可以知道 JWT 是否已经过期。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/google_ml_kit" rel="nofollow">google_ml_kit</a></td>
+    <td>用于实现谷歌为移动平台制作的独立机器学习套件。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_cube" rel="nofollow">flutter_cube</a></td>
+    <td>渲染 Wavefront 对象文件的 Flutter 3D 小部件。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/change_app_package_name" rel="nofollow">change_app_package_name</a></td>
@@ -560,6 +633,27 @@
   </tr>
   </thead>
   <tbody id="设备相关">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/secure_application" rel="nofollow">secure_application</a></td>
+    <td>当用户离开应用程序时保护应用程序内容的可见性。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/sms_user_consent" rel="nofollow">sms_user_consent</a></td>
+    <td>在不添加任何权限的情况下请求用户的电话号码（支持双卡）和/或同意阅读短信。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/native_device_orientation" rel="nofollow">native_device_orientation</a></td>
+    <td>用于允许获取本机设备方向的插件。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_dynamic_icon" rel="nofollow">flutter_dynamic_icon</a></td>
@@ -1322,6 +1416,13 @@
   </tr>
   </thead>
   <tbody id="项目相关">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/bloc" rel="nofollow">bloc</a></td>
+    <td>可预测的状态管理库，有助于实现 BLoC（业务逻辑组件）设计模式。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
            
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/adaptive_theme" rel="nofollow">adaptive_theme</a></td>
@@ -1921,6 +2022,97 @@
   </tr>
   </thead>
   <tbody id="UI">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/native_updater" rel="nofollow">native_updater</a></td>
+    <td>提示用户使用本机对话框进行更新。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/passcode_screen" rel="nofollow">passcode_screen</a></td>
+    <td>用于显示密码输入屏幕，类似于原生 iOS。屏幕可定制颜色、大小、字体等。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_mentions" rel="nofollow">flutter_mentions</a></td>
+    <td>用于向您的应用程序添加@提及功能。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/otp_text_field" rel="nofollow">otp_text_field</a></td>
+    <td>在您的应用程序中创建 OTP 文本字段小部件。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/fancy_on_boarding" rel="nofollow">fancy_on_boarding</a></td>
+    <td>用于快速、方便且美观的 OnBoarding 屏幕库。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/ripple_backdrop_animate_route" rel="nofollow">ripple_backdrop_animate_route</a></td>
+    <td>带有路线背景的波纹动画。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/in_app_update" rel="nofollow">in_app_update</a></td>
+    <td>Android API 在 Android 上启用应用内更新。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/rating_dialog" rel="nofollow">rating_dialog</a></td>
+    <td>漂亮且可定制的 Star Rating Dialog 包。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/rounded_loading_button" rel="nofollow">rounded_loading_button</a></td>
+    <td>动画加载按钮小部件的简单实现。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/awesome_card" rel="nofollow">awesome_card</a></td>
+    <td>用于在您的应用程序中创建信用卡小部件。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_reaction_button" rel="nofollow">flutter_reaction_button</a></td>
+    <td>Flutter 按钮反应它是完全可定制的小部件，例如 Facebook 反应按钮。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/simple_url_preview" rel="nofollow">simple_url_preview</a></td>
+    <td>显示 url 预览。可自定义的高度、背景和文本样式以及线条。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/floaty_head" rel="nofollow">floaty_head</a></td>
+    <td>创建自定义聊天头，在点击时显示隐藏内容，如 Messenger。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_rounded_progress_bar" rel="nofollow">flutter_rounded_progress_bar</a></td>
@@ -2718,6 +2910,20 @@
   <tbody id="音视频类">
       
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/video_player" rel="nofollow">video_player</a></td>
+    <td>用于在 Android、iOS 和 Web 上与其他 Flutter 小部件一起显示内联视频。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/miniplayer" rel="nofollow">miniplayer</a></td>
+    <td>简化迷你播放器的创建。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_vlc_player" rel="nofollow">flutter_vlc_player</a></td>
     <td>Flutter 的 video_player 的 VLC 驱动替代品。</td>
     <td>2021-04-07</td>
@@ -3462,6 +3668,41 @@
   <tbody id="动画">
       
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/delayed_display" rel="nofollow">delayed_display</a></td>
+    <td>在延迟后以漂亮的淡入淡出和滑动动画显示子项。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/rive" rel="nofollow">rive</a></td>
+    <td>提供运行时功能，用于回放使用 Rive 编辑器构建的动画并与之交互。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_animator" rel="nofollow">flutter_animator</a></td>
+    <td>能够以更少的代码更快、更高效地创建令人惊叹的动画。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/spring" rel="nofollow">spring</a></td>
+    <td>简单而强大的预建动画工具包，用于更快、更轻松地开发应用程序。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_bounce" rel="nofollow">flutter_bounce</a></td>
+    <td>用于将点击弹跳动画传递到环绕的小部件。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/bouncing_widget" rel="nofollow">bouncing_widget</a></td>
     <td>在小部件上添加弹跳动画。</td>
     <td>2021-03-22</td>
@@ -3640,6 +3881,13 @@
   </tr>
   </thead>
   <tbody id="图表类">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/k_chart" rel="nofollow">k_chart</a></td>
+    <td> k 图。支持拖动，缩放，长按。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_animation_progress_bar" rel="nofollow">flutter_animation_progress_bar</a></td>
@@ -4185,6 +4433,55 @@
   <tbody id="通讯类">
       
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_insta" rel="nofollow">flutter_insta</a></td>
+    <td>用于获取 instagram 用户的详细信息。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/wechat_kit" rel="nofollow">wechat_kit</a></td>
+    <td>允许开发人员使用 natvie Android 和 iOS 微信 SDK 进行身份验证/共享/支付。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_segment" rel="nofollow">flutter_segment</a></td>
+    <td>适用于 iOS、Android 和 Web 的分析的 Flutter 实现。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/wiredash" rel="nofollow">wiredash</a></td>
+    <td>Wiredash 是 Fl​​utter 应用程序的交互式用户反馈工具。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_paystack" rel="nofollow">flutter_paystack</a></td>
+    <td>通过 Paystack 支付网关进行支付。完全支持安卓和iOS。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/onesignal_flutter" rel="nofollow">onesignal_flutter</a></td>
+    <td>OneSignal 是一种针对移动应用程序的免费推送通知服务。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_share_me" rel="nofollow">flutter_share_me</a></td>
+    <td>用于将内容分享到社交媒体。您可以使用它分享到 Facebook、WhatsApp、Twitter 和系统共享 UI。支持网址和文字。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/huawei_push" rel="nofollow">huawei_push</a></td>
     <td>Flutter 的 HUAWEI Push Kit 插件。</td>
     <td>2021-04-30</td>
@@ -4466,6 +4763,13 @@
   <tbody id="地图类">
       
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/google_maps_flutter" rel="nofollow">google_maps_flutter</a></td>
+    <td>用于在 iOS 和 Android 应用程序中集成谷歌地图。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/mapbox_gl" rel="nofollow">mapbox_gl</a></td>
     <td>用于在 Android、iOS 和 Web 平台上的 Flutter 应用程序中集成 Mapbox 地图。</td>
     <td>2021-04-12</td>
@@ -4642,6 +4946,7 @@
   </tr>
   </tbody>
 </table>
+
 
 
 
