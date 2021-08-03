@@ -17,6 +17,25 @@
 <br>	
 <div class="changeLog">
 
+<div class="changeLogItem 08-03">
+      <h3>08-03</h3>
+      <ul>
+        <li><a href="https://pub.flutter-io.cn/packages/in_app_review">in_app_review</a> - Flutter 插件，用于在 Android、IOS 和 MacOS 上显示应用内评论/系统评级弹出窗口。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/background_locator">background_locator</a> - 即使应用程序被终止，一个 Flutter 插件也会请求位置。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/ai_barcode">ai_barcode</a> - 支持Android、iOS、网络识别'一维条码'和'二维条码'的识别与生成。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_app_lock">flutter_app_lock</a> - 用于在应用打开和应用暂停时显示锁定屏幕。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/bonfire">bonfire</a> - 使用 Flame 更简单地创建 RPG 风格或类似的游戏。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/websafe_svg">websafe_svg</a> - 能够在 Android、iOS 和 Web 中使用 SVG 的简单抽象。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/ml_algo">ml_algo</a> - 机器学习算法、机器学习模型性能评估功能。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/pedometer">pedometer</a> - 适用于 Android 和 iOS 的计步器和步数检测包。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/huawei_push">huawei_push</a> - Flutter 的 HUAWEI Push Kit 插件。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/pretty_qr_code">pretty_qr_code</a> - Flutter 的漂亮二维码，您可以使用参数圆角边缘或使用标准视图。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/amplitude_flutter">amplitude_flutter</a> - 官方 Amplitude Flutter SDK。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/easy_localization">easy_localization</a> - 轻松快速地国际化和本地化您的 Flutter 应用程序，这个包简化了国际化过程。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/adv_camera">adv_camera</a> - 具有对焦（带对焦矩形）和变焦功能的高级相机。</li>  
+      </ul> 
+</div>
+
 
 	
 <div class="changeLogItem 07-25">
@@ -73,6 +92,27 @@
   </tr>
   </thead>
   <tbody id="插件">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/bonfire" rel="nofollow">bonfire</a></td>
+    <td>使用 Flame 更简单地创建 RPG 风格或类似的游戏。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/ml_algo" rel="nofollow">ml_algo</a></td>
+    <td>机器学习算法、机器学习模型性能评估功能。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/easy_localization" rel="nofollow">easy_localization</a></td>
+    <td>轻松快速地国际化和本地化您的 Flutter 应用程序，这个包简化了国际化过程。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/xterm" rel="nofollow">xterm</a></td>
@@ -486,6 +526,27 @@
   </tr>
   </thead>
   <tbody id="设备相关">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_app_lock" rel="nofollow">flutter_app_lock</a></td>
+    <td>用于在应用打开和应用暂停时显示锁定屏幕。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/pedometer" rel="nofollow">pedometer</a></td>
+    <td>适用于 Android 和 iOS 的计步器和步数检测包。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/adv_camera" rel="nofollow">adv_camera</a></td>
+    <td>具有对焦（带对焦矩形）和变焦功能的高级相机。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/all_sensors" rel="nofollow">all_sensors</a></td>
@@ -1800,6 +1861,13 @@
   <tbody id="UI">
       
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/in_app_review" rel="nofollow">in_app_review</a></td>
+    <td>Flutter 插件，用于在 Android、IOS 和 MacOS 上显示应用内评论/系统评级弹出窗口。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_glow" rel="nofollow">flutter_glow</a></td>
     <td>Flutter Glow ui 套件，可帮助您创建和使用发光的小部件。</td>
     <td>2021-03-17</td>
@@ -2694,6 +2762,27 @@
   </tr>
   </thead>
   <tbody id="图像">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/ai_barcode" rel="nofollow">ai_barcode</a></td>
+    <td>支持Android、iOS、网络识别'一维条码'和'二维条码'的识别与生成。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/websafe_svg" rel="nofollow">websafe_svg</a></td>
+    <td>能够在 Android、iOS 和 Web 中使用 SVG 的简单抽象。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/pretty_qr_code" rel="nofollow">pretty_qr_code</a></td>
+    <td>Flutter 的漂亮二维码，您可以使用参数圆角边缘或使用标准视图。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/pinch_zoom" rel="nofollow">pinch_zoom</a></td>
@@ -3950,6 +4039,20 @@
   <tbody id="通讯类">
       
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/huawei_push" rel="nofollow">huawei_push</a></td>
+    <td>Flutter 的 HUAWEI Push Kit 插件。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/amplitude_flutter" rel="nofollow">amplitude_flutter</a></td>
+    <td>官方 Amplitude Flutter SDK。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/adhara_socket_io" rel="nofollow">adhara_socket_io</a></td>
     <td>websocket by socket.io for flutter by adhara，支持iOS和Android</td>
     <td>2021-05-31</td>
@@ -4215,6 +4318,13 @@
   </tr>
   </thead>
   <tbody id="地图类">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/background_locator" rel="nofollow">background_locator</a></td>
+    <td>即使应用程序被终止，一个 Flutter 插件也会请求位置。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/background_location" rel="nofollow">background_location</a></td>
