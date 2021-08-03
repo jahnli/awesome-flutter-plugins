@@ -3344,7 +3344,7 @@
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_time_range" rel="nofollow">flutter_time_range</a></td>
-    <td>完全可定制的颤动小部件，允许用户选择时间范围。</td>
+    <td>完全可定制的小部件，允许用户选择时间范围。</td>
     <td>2021-05-10</td>
     <td>3</td>
   </tr>
@@ -3533,7 +3533,7 @@
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_bounce" rel="nofollow">flutter_bounce</a></td>
-    <td>用于在任何颤振小部件上点击弹跳动画。</td>
+    <td>用于在任何小部件上点击弹跳动画。</td>
     <td>2021-06-14</td>
     <td>49</td>
   </tr>
