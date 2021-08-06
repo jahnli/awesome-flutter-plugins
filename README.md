@@ -2309,14 +2309,7 @@
     <td>2020-03-15</td>
     <td>74</td>
   </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/timelines" rel="nofollow">timelines</a></td>
-    <td>功能强大且易于使用的 Flutter 时间线。</td>
-    <td>2021-03-27</td>
-    <td>517</td>
-  </tr>
-      
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/align_positioned" rel="nofollow">align_positioned</a></td>
     <td>它允许您以复杂的方式声明性地定位/调整其子项的大小。</td>
@@ -3581,6 +3574,13 @@
     <td>2020-06-17</td>
     <td>108</td>
   </tr>  
+	  
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/timelines" rel="nofollow">timelines</a></td>
+    <td>功能强大且易于使用的 Flutter 时间线。</td>
+    <td>2021-03-27</td>
+    <td>517</td>
+  </tr>
 	  
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/timeline_tile">timeline_tile</a></td>
