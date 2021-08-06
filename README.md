@@ -62,7 +62,7 @@
         <li><a href="https://pub.flutter-io.cn/packages/bouncing_widget">bouncing_widget</a> - 在小部件上添加弹跳动画。</li>
         <li><a href="https://pub.flutter-io.cn/packages/change_app_package_name">change_app_package_name</a> - 使用单个命令更改应用程序包名称。更新 AndroidManifest、build.gradle、MainActivity 文件并自动将 MainActivity 文件移动到新的目录结构。</li>
         <li><a href="https://pub.flutter-io.cn/packages/mapbox_gl">mapbox_gl</a> - 用于在 Android、iOS 和 Web 平台上的 Flutter 应用程序中集成 Mapbox 地图。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/tcard">tcard</a> - 像卡片一样的颤动，可以向左或向右滑动。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/tcard">tcard</a> - 像卡片一样，可以向左或向右滑动。</li>
         <li><a href="https://pub.flutter-io.cn/packages/juxtapose">juxtapose</a> - 用于通过拖动滑块拇指以水平或垂直显示滑块的任一侧来比较两个堆叠的小部件的小部件。</li>
         <li><a href="https://pub.flutter-io.cn/packages/forge2d">forge2d</a> - Dart 的 2D 物理引擎，也适用于 Flutter 中的 Flame 游戏引擎。</li>
         <li><a href="https://pub.flutter-io.cn/packages/flutter_barcode_scanner">flutter_barcode_scanner</a> - Android 和 iOS 上支持条码扫描的插件。支持条码、二维码等。</li>
@@ -860,7 +860,7 @@
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/shake" rel="nofollow">shake</a></td>
-    <td>用于检测手机抖动的颤振包。可调节的重力和复位周期。</td>
+    <td>用于检测手机抖动的flutter包，可调节的重力和复位周期。</td>
     <td>2021-06-11</td>
     <td>65</td>
   </tr>
@@ -1699,12 +1699,6 @@
     <td>2021-03-23</td>
     <td>271</td>
   </tr>
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/timeago">timeago</a></td>
-    <td>创建模糊时间戳的库（例如“ 15分钟前”）。</td>
-    <td>2021-06-10</td>
-    <td>649</td>
-  </tr>
   </tbody>
 </table>
 <br>
@@ -2123,7 +2117,7 @@
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/tcard" rel="nofollow">tcard</a></td>
-    <td>像卡片一样的颤动，可以向左或向右滑动。</td>
+    <td>像卡片一样，可以向左或向右滑动。</td>
     <td>2021-03-30</td>
     <td>68</td>
   </tr>
@@ -3519,7 +3513,14 @@
     <td>2021-05-02</td>
     <td>140</td>
   </tr>
-      
+	  
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/timeago">timeago</a></td>
+    <td>创建模糊时间戳的库（例如“ 15分钟前”）。</td>
+    <td>2021-06-10</td>
+    <td>649</td>
+  </tr>
+	  
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/calendar_timeline" rel="nofollow">calendar_timeline</a></td>
     <td>水平日期选择器，占用很少的屏幕空间，因此我们始终可以看到它，并且便于单手使用。</td>
