@@ -15,6 +15,30 @@
 <br>	
 <div class="changeLog">
 
+<div class="changeLogItem 08-16">
+      <h3>08-16</h3>
+      <ul>
+        <li><a href="https://pub.flutter-io.cn/packages/neumorphic">neumorphic</a> - Neumorphism 用户界面的实现。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_playout">flutter_playout</a> - 提供来自 URL 的音频/视频播放，并支持 iOS 和 Android 的背景音频、锁屏控件和播放器事件。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/video_thumbnail">video_thumbnail</a> - 从本地视频文件或视频 URL 创建缩略图。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/octo_image">octo_image</a> - 多功能 Flutter 图像小部件。支持带有淡入淡出的占位符、错误小部件和图像转换器。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/qr">qr</a> - Dart 和 Flutter 的二维码生成库。支持 QR 码版本 1 到 40，纠错和冗余。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/barcode">barcode</a> - Dart 的条码生成库，可以为任何后端生成通用绘图操作。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/sliver_header_delegate">sliver_header_delegate</a> - 一个灵活的 sliver header delegate，允许轻松自定义您的 SliverHeader。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/onboarding_overlay">onboarding_overlay</a> - 灵活地控制有或没有目标元素的进入。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/nepali_date_picker">nepali_date_picker</a> - material风格的日期选择器、日期范围选择器和日历。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/chewie_audio">chewie_audio</a> - 带有 Cupertino 和 Material 播放控件的 Flutter 音频播放器。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/cupertino_stepper">cupertino_stepper</a> - Cupertino Stepper步骤显示进度。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_fortune_wheel">flutter_fortune_wheel</a> - 抽奖幸运轮小部件。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/nearby_connections">nearby_connections</a> - android NearbyConnections API 的插件。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/twilio_programmable_video">twilio_programmable_video</a> - 用于 Twilio Programmable Video 的 Flutter 插件，使您能够构建实时视频通话应用程序 (WebRTC)。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/hashtagable">hashtagable</a> - 用于实现主题标签装饰文本的小部件和函数。像 Twitter 一样装饰以 `#` 开头的单词。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/flappy_translator">flappy_translator</a> - 一种从 CSV 和 Excel 文件自动生成 Flutter 本地化资源的工具。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_qr_reader">flutter_qr_reader</a> - 扫描二维码和图片。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/scan">scan</a> - 使用自定义选项扫描小部件树中的二维码和条形码，从路径准确解码二维码和条形码图像。</li>  
+      </ul> 
+</div>
+
 <div class="changeLogItem 08-03">
       <h3>08-03</h3>
       <ul>
@@ -94,16 +118,7 @@
 
 
 	
-<div class="changeLogItem 07-25">
-      <h3>07-25</h3>
-      <ul>
-	<li><a href="https://pub.flutter-io.cn/packages/flutter_glow">flutter_glow</a> - Flutter Glow ui 套件，可帮助您创建和使用发光的小部件。</li>  <li><a href="https://pub.flutter-io.cn/packages/flutter_compass">flutter_compass</a> - Flutter 指南针，航向在 0-360 之间变化，0 为北。</li>  
-	<li><a href="https://pub.flutter-io.cn/packages/flutter_better_camera">flutter_better_camera</a> - 用于在 Android 和 IOS 上控制相机，支持相机馈送、捕获图像、捕获视频、流式图像缓冲区，并支持相机 API 允许的所有基本功能（闪光灯、AE 等）。</li>      
-	<li><a href="https://pub.flutter-io.cn/packages/rammus">rammus</a> - 网友开发的阿里云推送Flutter插件</li>  
-	<li><a href="https://pub.flutter-io.cn/packages/pinch_zoom">pinch_zoom</a> - 交互式查看图像的小部件，可以使图片捏缩放</li>
-	<li><a href="https://pub.flutter-io.cn/packages/progressive_image">progressive_image</a> - 使用低质量图像占位符逐步加载更大图像的部件。</li>  
-      </ul> 
-</div>
+
 
 
 	
@@ -2016,6 +2031,48 @@
   <tbody id="UI">
       
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/neumorphic" rel="nofollow">neumorphic</a></td>
+    <td>Neumorphism 用户界面的实现。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/sliver_header_delegate" rel="nofollow">sliver_header_delegate</a></td>
+    <td>一个灵活的 sliver header delegate，允许轻松自定义您的 SliverHeader。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/onboarding_overlay" rel="nofollow">onboarding_overlay</a></td>
+    <td>灵活地控制有或没有目标元素的进入。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/cupertino_stepper" rel="nofollow">cupertino_stepper</a></td>
+    <td>Cupertino Stepper步骤显示进度。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_fortune_wheel" rel="nofollow">flutter_fortune_wheel</a></td>
+    <td>抽奖幸运轮小部件。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/hashtagable" rel="nofollow">hashtagable</a></td>
+    <td>用于实现主题标签装饰文本的小部件和函数。像 Twitter 一样装饰以 `#` 开头的单词。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/native_updater" rel="nofollow">native_updater</a></td>
     <td>提示用户使用本机对话框进行更新。</td>
     <td>2021-05-15</td>
@@ -2895,6 +2952,34 @@
   <tbody id="音视频类">
       
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_playout" rel="nofollow">flutter_playout</a></td>
+    <td>提供来自 URL 的音频/视频播放，并支持 iOS 和 Android 的背景音频、锁屏控件和播放器事件。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/video_thumbnail" rel="nofollow">video_thumbnail</a></td>
+    <td>从本地视频文件或视频 URL 创建缩略图。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/chewie_audio" rel="nofollow">chewie_audio</a></td>
+    <td>带有 Cupertino 和 Material 播放控件的 Flutter 音频播放器。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/twilio_programmable_video" rel="nofollow">twilio_programmable_video</a></td>
+    <td>用于 Twilio Programmable Video 的 Flutter 插件，使您能够构建实时视频通话应用程序 (WebRTC)。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/video_player" rel="nofollow">video_player</a></td>
     <td>用于在 Android、iOS 和 Web 上与其他 Flutter 小部件一起显示内联视频。</td>
     <td>2021-07-24</td>
@@ -3078,6 +3163,41 @@
   </tr>
   </thead>
   <tbody id="图像">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/octo_image" rel="nofollow">octo_image</a></td>
+    <td>多功能 Flutter 图像小部件。支持带有淡入淡出的占位符、错误小部件和图像转换器。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/qr" rel="nofollow">qr</a></td>
+    <td>Dart 和 Flutter 的二维码生成库。支持 QR 码版本 1 到 40，纠错和冗余。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/barcode" rel="nofollow">barcode</a></td>
+    <td>Dart 的条码生成库，可以为任何后端生成通用绘图操作。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_qr_reader" rel="nofollow">flutter_qr_reader</a></td>
+    <td>扫描二维码和图片。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/scan" rel="nofollow">scan</a></td>
+    <td>使用自定义选项扫描小部件树中的二维码和条形码，从路径准确解码二维码和条形码图像。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_barcode_scanner" rel="nofollow">flutter_barcode_scanner</a></td>
@@ -3497,6 +3617,13 @@
    </tr>
   </thead>
   <tbody id="时间相关">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/nepali_date_picker" rel="nofollow">nepali_date_picker</a></td>
+    <td>material风格的日期选择器、日期范围选择器和日历。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_cupertino_datetime_picker" rel="nofollow">flutter_cupertino_datetime_picker</a></td>
@@ -4432,6 +4559,13 @@
   <tbody id="通讯类">
       
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/nearby_connections" rel="nofollow">nearby_connections</a></td>
+    <td>android NearbyConnections API 的插件。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_insta" rel="nofollow">flutter_insta</a></td>
     <td>用于获取 instagram 用户的详细信息。</td>
     <td>2021-06-06</td>
@@ -4945,35 +5079,4 @@
   </tr>
   </tbody>
 </table>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 </body></html>
