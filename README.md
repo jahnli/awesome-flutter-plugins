@@ -88,13 +88,7 @@
   </tr>
   </thead>
   <tbody id="插件">
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/a" rel="nofollow">a</a></td>
-    <td>a</td>
-    <td>暂无</td>
-    <td>暂无</td>
-  </tr>
+     
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/spritewidget" rel="nofollow">spritewidget</a></td>
