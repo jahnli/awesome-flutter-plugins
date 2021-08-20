@@ -15,6 +15,13 @@
 <br>	
 <div class="changeLog">
 
+<div class="changeLogItem 08-20">
+      <h3>08-20</h3>
+      <ul>
+        <li><a href="https://pub.flutter-io.cn/packages/a">a</a> - a</li>  
+      </ul> 
+</div>
+
 <div class="changeLogItem 08-16">
       <h3>08-16</h3>
       <ul>
@@ -39,82 +46,7 @@
       </ul> 
 </div>
 
-<div class="changeLogItem 08-03">
-      <h3>08-03</h3>
-      <ul>
-        <li><a href="https://pub.flutter-io.cn/packages/bloc">bloc</a> - 可预测的状态管理库，有助于实现 BLoC（业务逻辑组件）设计模式。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_insta">flutter_insta</a> - 用于获取 instagram 用户的详细信息。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/spritewidget">spritewidget</a> - 用于使用 Flutter 构建复杂、高性能的动画和 2D 游戏。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/wechat_kit">wechat_kit</a> - 允许开发人员使用 natvie Android 和 iOS 微信 SDK 进行身份验证/共享/支付。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/fresh">fresh</a> - 用于 dart 的令牌刷新库。该包公开了各种刷新令牌实现（REST、GraphQL 等）通用的核心组件。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/secure_application">secure_application</a> - 当用户离开应用程序时保护应用程序内容的可见性。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_segment">flutter_segment</a> - 适用于 iOS、Android 和 Web 的分析的 Flutter 实现。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/wiredash">wiredash</a> - Wiredash 是 Fl​​utter 应用程序的交互式用户反馈工具。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/native_updater">native_updater</a> - 提示用户使用本机对话框进行更新。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/passcode_screen">passcode_screen</a> - 用于显示密码输入屏幕，类似于原生 iOS。屏幕可定制颜色、大小、字体等。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/k_chart">k_chart</a> -  k 图。支持拖动，缩放，长按。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/google_maps_flutter">google_maps_flutter</a> - 用于在 iOS 和 Android 应用程序中集成谷歌地图。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/jwt_decoder">jwt_decoder</a> - 帮助您解码 Json Web Tokens，您还可以知道 JWT 是否已经过期。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_mentions">flutter_mentions</a> - 用于向您的应用程序添加@提及功能。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/google_ml_kit">google_ml_kit</a> - 用于实现谷歌为移动平台制作的独立机器学习套件。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/otp_text_field">otp_text_field</a> - 在您的应用程序中创建 OTP 文本字段小部件。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/fancy_on_boarding">fancy_on_boarding</a> - 用于快速、方便且美观的 OnBoarding 屏幕库。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/delayed_display">delayed_display</a> - 在延迟后以漂亮的淡入淡出和滑动动画显示子项。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/ripple_backdrop_animate_route">ripple_backdrop_animate_route</a> - 带有路线背景的波纹动画。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/sms_user_consent">sms_user_consent</a> - 在不添加任何权限的情况下请求用户的电话号码（支持双卡）和/或同意阅读短信。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/in_app_update">in_app_update</a> - Android API 在 Android 上启用应用内更新。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_paystack">flutter_paystack</a> - 通过 Paystack 支付网关进行支付。完全支持安卓和iOS。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/video_player">video_player</a> - 用于在 Android、iOS 和 Web 上与其他 Flutter 小部件一起显示内联视频。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/onesignal_flutter">onesignal_flutter</a> - OneSignal 是一种针对移动应用程序的免费推送通知服务。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/rive">rive</a> - 提供运行时功能，用于回放使用 Rive 编辑器构建的动画并与之交互。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/rating_dialog">rating_dialog</a> - 漂亮且可定制的 Star Rating Dialog 包。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_animator">flutter_animator</a> - 能够以更少的代码更快、更高效地创建令人惊叹的动画。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/rounded_loading_button">rounded_loading_button</a> - 动画加载按钮小部件的简单实现。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_share_me">flutter_share_me</a> - 用于将内容分享到社交媒体。您可以使用它分享到 Facebook、WhatsApp、Twitter 和系统共享 UI。支持网址和文字。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/spring">spring</a> - 简单而强大的预建动画工具包，用于更快、更轻松地开发应用程序。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/awesome_card">awesome_card</a> - 用于在您的应用程序中创建信用卡小部件。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/miniplayer">miniplayer</a> - 简化迷你播放器的创建。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_reaction_button">flutter_reaction_button</a> - Flutter 按钮反应它是完全可定制的小部件，例如 Facebook 反应按钮。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_cube">flutter_cube</a> - 渲染 Wavefront 对象文件的 Flutter 3D 小部件。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/simple_url_preview">simple_url_preview</a> - 显示 url 预览。可自定义的高度、背景和文本样式以及线条。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/native_device_orientation">native_device_orientation</a> - 用于允许获取本机设备方向的插件。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/floaty_head">floaty_head</a> - 创建自定义聊天头，在点击时显示隐藏内容，如 Messenger。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_bounce">flutter_bounce</a> - 用于将点击弹跳动画传递到环绕的小部件。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_rounded_progress_bar">flutter_rounded_progress_bar</a> - 圆形进度条，可自定义颜色和边框。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/bouncing_widget">bouncing_widget</a> - 在小部件上添加弹跳动画。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/change_app_package_name">change_app_package_name</a> - 使用单个命令更改应用程序包名称。更新 AndroidManifest、build.gradle、MainActivity 文件并自动将 MainActivity 文件移动到新的目录结构。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/mapbox_gl">mapbox_gl</a> - 用于在 Android、iOS 和 Web 平台上的 Flutter 应用程序中集成 Mapbox 地图。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/tcard">tcard</a> - 像卡片一样，可以向左或向右滑动。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/juxtapose">juxtapose</a> - 用于通过拖动滑块拇指以水平或垂直显示滑块的任一侧来比较两个堆叠的小部件的小部件。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/forge2d">forge2d</a> - Dart 的 2D 物理引擎，也适用于 Flutter 中的 Flame 游戏引擎。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_barcode_scanner">flutter_barcode_scanner</a> - Android 和 iOS 上支持条码扫描的插件。支持条码、二维码等。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_signin_button">flutter_signin_button</a> - 适用于 iOS 和 Android 的 Flutter 插件，用于为不同的社交媒体帐户生成登录按钮。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/styled_widget">styled_widget</a> - 通过使用方法定义小部件来简化小部件树结构。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/map">map</a> - Flutter 的地图小部件用 100% Dart 编写。支持 Android、iOS、Web 和桌面。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/playing_cards">playing_cards</a> - 标准 52 张扑克牌卡片组的渲染库。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_vlc_player">flutter_vlc_player</a> - Flutter 的 video_player 的 VLC 驱动替代品。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/bottom_animation">bottom_animation</a> - Flutter 底部导航栏。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/sticky_and_expandable_list">sticky_and_expandable_list</a> - 构建分组列表，支持展开/折叠部分和粘性标题，支持将其与 sliver 小部件一起使用。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_dynamic_icon">flutter_dynamic_icon</a> - 动态改变应用图标和应用图标的flutter插件。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/home_widget">home_widget</a> - 提供用于创建适用于 Android 和 iOS 的 HomeScreen 小部件的通用界面。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/intro_views_flutter">intro_views_flutter</a> - 用于简单的材料设计应用程序介绍屏幕，带有一些很酷的动画。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_vant_kit">flutter_vant_kit</a> - 一个vant风格的flutter UI库。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_screen_lock">flutter_screen_lock</a> - 提供在 ios 和 android 上锁定屏幕的能力，除了密码之外，还可以使用生物特征认证。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/in_app_review">in_app_review</a> - Flutter 插件，用于在 Android、IOS 和 MacOS 上显示应用内评论/系统评级弹出窗口。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/background_locator">background_locator</a> - 即使应用程序被终止，一个 Flutter 插件也会请求位置。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/ai_barcode">ai_barcode</a> - 支持Android、iOS、网络识别'一维条码'和'二维条码'的识别与生成。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_app_lock">flutter_app_lock</a> - 用于在应用打开和应用暂停时显示锁定屏幕。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/bonfire">bonfire</a> - 使用 Flame 更简单地创建 RPG 风格或类似的游戏。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/websafe_svg">websafe_svg</a> - 能够在 Android、iOS 和 Web 中使用 SVG 的简单抽象。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/ml_algo">ml_algo</a> - 机器学习算法、机器学习模型性能评估功能。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/pedometer">pedometer</a> - 适用于 Android 和 iOS 的计步器和步数检测包。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/huawei_push">huawei_push</a> - Flutter 的 HUAWEI Push Kit 插件。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/pretty_qr_code">pretty_qr_code</a> - Flutter 的漂亮二维码，您可以使用参数圆角边缘或使用标准视图。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/amplitude_flutter">amplitude_flutter</a> - 官方 Amplitude Flutter SDK。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/easy_localization">easy_localization</a> - 轻松快速地国际化和本地化您的 Flutter 应用程序，这个包简化了国际化过程。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/adv_camera">adv_camera</a> - 具有对焦（带对焦矩形）和变焦功能的高级相机。</li>  
-      </ul> 
-</div>
+
 
 
 	
@@ -163,6 +95,13 @@
   </tr>
   </thead>
   <tbody id="插件">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/a" rel="nofollow">a</a></td>
+    <td>a</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/spritewidget" rel="nofollow">spritewidget</a></td>
@@ -5079,4 +5018,5 @@
   </tr>
   </tbody>
 </table>
+
 </body></html>
