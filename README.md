@@ -15,13 +15,6 @@
 <br>	
 <div class="changeLog">
 
-<div class="changeLogItem 08-20">
-      <h3>08-20</h3>
-      <ul>
-        <li><a href="https://pub.flutter-io.cn/packages/a">a</a> - a</li>  
-      </ul> 
-</div>
-
 <div class="changeLogItem 08-16">
       <h3>08-16</h3>
       <ul>
