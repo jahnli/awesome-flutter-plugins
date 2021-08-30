@@ -15,6 +15,16 @@
 <br>	
 <div class="changeLog">
 
+<div class="changeLogItem 08-30">
+      <h3>08-30</h3>
+      <ul>
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_code_push">flutter_code_push</a> - Fl​​utter 应用代码推送的增强和实现。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/app_installer">app_installer</a> - 全新的Android+iOS应用安装插件，支持打开应用商店和编辑评论，以及安装Apk文件。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_ume">flutter_ume</a> - UME 是 Fl​​utter 应用程序的应用程序内调试工具包平台。由字节跳动的 Flutter Infra 团队制作。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/english_words">english_words</a> - 用于处理英语单词的实用程序。</li>  
+      </ul> 
+</div>
+
 <div class="changeLogItem 08-16">
       <h3>08-16</h3>
       <ul>
@@ -88,6 +98,34 @@
   </tr>
   </thead>
   <tbody id="插件">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_code_push" rel="nofollow">flutter_code_push</a></td>
+    <td>Fl​​utter 应用代码推送的增强和实现。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/app_installer" rel="nofollow">app_installer</a></td>
+    <td>全新的Android+iOS应用安装插件，支持打开应用商店和编辑评论，以及安装Apk文件。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_ume" rel="nofollow">flutter_ume</a></td>
+    <td>UME 是 Fl​​utter 应用程序的应用程序内调试工具包平台。由字节跳动的 Flutter Infra 团队制作。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/english_words" rel="nofollow">english_words</a></td>
+    <td>用于处理英语单词的实用程序。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
      
       
   <tr class="item">
