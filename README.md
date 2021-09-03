@@ -15,6 +15,28 @@
 <br>	
 <div class="changeLog">
 
+<div class="changeLogItem 09-03">
+      <h3>09-03</h3>
+      <ul>
+        <li><a href="https://pub.flutter-io.cn/packages/xiaomi_scale">xiaomi_scale</a> - 用于从蓝牙小米体重秤进行测量的 Flutter 插件。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/jelly_anim">jelly_anim</a> - 包含果冻动画。用户可以动态修改果冻和视口大小、果冻坐标、溢出标志。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/particles_flutter">particles_flutter</a> - 粒子动画的包，可以通过连接线控制动画速度、屏幕上粒子的数量、粒子的尺寸和形状等。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/graphite">graphite</a> - 可轻松绘制直接图形、树、流程图。包括用于创建图形交互的手势 API。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_signature_pad">flutter_signature_pad</a> - 允许用户用手指签名并将结果导出为图像。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/html_editor_enhanced">html_editor_enhanced</a> - 适用于 Android、iOS 和 Web 的 HTML 富文本编辑器。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/adobe_xd">adobe_xd</a> - 使用“XD to Flutter”插件，根据您在 Adob​​e XD 中的设计生成使用 Flutter 构建应用程序的代码。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/draw_your_image">draw_your_image</a> - 使用户能够在您设计的 UI 中用手指进行绘制。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/zoom_widget">zoom_widget</a> - 用于放大子小部件可以容纳的可修改大小的画布的小部件。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/patterns_canvas">patterns_canvas</a> - 在画布元素或小部件上绘制条纹或圆点等图案。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/arrow_path">arrow_path</a> - 使用 Path 对象轻松绘制箭头，可以合成路径以将箭头添加到任何曲线并一次绘制。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/dotted_decoration">dotted_decoration</a> - 虚线装饰是用于绘制矩形、圆形或圆角矩形的虚线分隔线、虚线边框的包。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/giphy_get">giphy_get</a> - 使用纯飞镖代码从 Giphy 中选择 EMOJI、STICKER 或 GIF，支持安卓、iOS、网页和桌面。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/giphy_picker">giphy_picker</a> - 允许您从 Giphy 中挑选动画 GIF 图像的插件。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/skeleton_loader">skeleton_loader</a> - 为你的应用程序提供了一个完全可定制的骨架屏。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/shimmer_animation">shimmer_animation</a> - 轻松创建简单而漂亮的骨架屏。</li>  
+      </ul> 
+</div>
+
 <div class="changeLogItem 08-30">
       <h3>08-30</h3>
       <ul>
@@ -25,29 +47,7 @@
       </ul> 
 </div>
 
-<div class="changeLogItem 08-16">
-      <h3>08-16</h3>
-      <ul>
-        <li><a href="https://pub.flutter-io.cn/packages/neumorphic">neumorphic</a> - Neumorphism 用户界面的实现。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_playout">flutter_playout</a> - 提供来自 URL 的音频/视频播放，并支持 iOS 和 Android 的背景音频、锁屏控件和播放器事件。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/video_thumbnail">video_thumbnail</a> - 从本地视频文件或视频 URL 创建缩略图。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/octo_image">octo_image</a> - 多功能 Flutter 图像小部件。支持带有淡入淡出的占位符、错误小部件和图像转换器。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/qr">qr</a> - Dart 和 Flutter 的二维码生成库。支持 QR 码版本 1 到 40，纠错和冗余。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/barcode">barcode</a> - Dart 的条码生成库，可以为任何后端生成通用绘图操作。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/sliver_header_delegate">sliver_header_delegate</a> - 一个灵活的 sliver header delegate，允许轻松自定义您的 SliverHeader。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/onboarding_overlay">onboarding_overlay</a> - 灵活地控制有或没有目标元素的进入。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/nepali_date_picker">nepali_date_picker</a> - material风格的日期选择器、日期范围选择器和日历。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/chewie_audio">chewie_audio</a> - 带有 Cupertino 和 Material 播放控件的 Flutter 音频播放器。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/cupertino_stepper">cupertino_stepper</a> - Cupertino Stepper步骤显示进度。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_fortune_wheel">flutter_fortune_wheel</a> - 抽奖幸运轮小部件。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/nearby_connections">nearby_connections</a> - android NearbyConnections API 的插件。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/twilio_programmable_video">twilio_programmable_video</a> - 用于 Twilio Programmable Video 的 Flutter 插件，使您能够构建实时视频通话应用程序 (WebRTC)。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/hashtagable">hashtagable</a> - 用于实现主题标签装饰文本的小部件和函数。像 Twitter 一样装饰以 `#` 开头的单词。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flappy_translator">flappy_translator</a> - 一种从 CSV 和 Excel 文件自动生成 Flutter 本地化资源的工具。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_qr_reader">flutter_qr_reader</a> - 扫描二维码和图片。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/scan">scan</a> - 使用自定义选项扫描小部件树中的二维码和条形码，从路径准确解码二维码和条形码图像。</li>  
-      </ul> 
-</div>
+
 
 
 
@@ -98,6 +98,13 @@
   </tr>
   </thead>
   <tbody id="插件">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/adobe_xd" rel="nofollow">adobe_xd</a></td>
+    <td>使用“XD to Flutter”插件，根据您在 Adob​​e XD 中的设计生成使用 Flutter 构建应用程序的代码。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_code_push" rel="nofollow">flutter_code_push</a></td>
@@ -610,6 +617,13 @@
   </tr>
   </thead>
   <tbody id="设备相关">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/xiaomi_scale" rel="nofollow">xiaomi_scale</a></td>
+    <td>用于从蓝牙小米体重秤进行测量的 Flutter 插件。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/secure_application" rel="nofollow">secure_application</a></td>
@@ -1995,6 +2009,48 @@
   <tbody id="UI">
       
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/particles_flutter" rel="nofollow">particles_flutter</a></td>
+    <td>粒子动画的包，可以通过连接线控制动画速度、屏幕上粒子的数量、粒子的尺寸和形状等。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/html_editor_enhanced" rel="nofollow">html_editor_enhanced</a></td>
+    <td>适用于 Android、iOS 和 Web 的 HTML 富文本编辑器。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/zoom_widget" rel="nofollow">zoom_widget</a></td>
+    <td>用于放大子小部件可以容纳的可修改大小的画布的小部件。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/dotted_decoration" rel="nofollow">dotted_decoration</a></td>
+    <td>虚线装饰是用于绘制矩形、圆形或圆角矩形的虚线分隔线、虚线边框的包。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/skeleton_loader" rel="nofollow">skeleton_loader</a></td>
+    <td>为你的应用程序提供了一个完全可定制的骨架屏。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/shimmer_animation" rel="nofollow">shimmer_animation</a></td>
+    <td>轻松创建简单而漂亮的骨架屏。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/neumorphic" rel="nofollow">neumorphic</a></td>
     <td>Neumorphism 用户界面的实现。</td>
     <td>2020-08-09</td>
@@ -3129,6 +3185,41 @@
   <tbody id="图像">
       
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/graphite" rel="nofollow">graphite</a></td>
+    <td>可轻松绘制直接图形、树、流程图。包括用于创建图形交互的手势 API。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_signature_pad" rel="nofollow">flutter_signature_pad</a></td>
+    <td>允许用户用手指签名并将结果导出为图像。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/draw_your_image" rel="nofollow">draw_your_image</a></td>
+    <td>使用户能够在您设计的 UI 中用手指进行绘制。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/patterns_canvas" rel="nofollow">patterns_canvas</a></td>
+    <td>在画布元素或小部件上绘制条纹或圆点等图案。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/arrow_path" rel="nofollow">arrow_path</a></td>
+    <td>使用 Path 对象轻松绘制箭头，可以合成路径以将箭头添加到任何曲线并一次绘制。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/octo_image" rel="nofollow">octo_image</a></td>
     <td>多功能 Flutter 图像小部件。支持带有淡入淡出的占位符、错误小部件和图像转换器。</td>
     <td>2021-04-02</td>
@@ -3756,6 +3847,27 @@
   </tr>
   </thead>
   <tbody id="动画">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/jelly_anim" rel="nofollow">jelly_anim</a></td>
+    <td>包含果冻动画。用户可以动态修改果冻和视口大小、果冻坐标、溢出标志。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/giphy_get" rel="nofollow">giphy_get</a></td>
+    <td>使用纯飞镖代码从 Giphy 中选择 EMOJI、STICKER 或 GIF，支持安卓、iOS、网页和桌面。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/giphy_picker" rel="nofollow">giphy_picker</a></td>
+    <td>允许您从 Giphy 中挑选动画 GIF 图像的插件。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/delayed_display" rel="nofollow">delayed_display</a></td>
