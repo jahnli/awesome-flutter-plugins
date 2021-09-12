@@ -10,7 +10,7 @@
 <br>
 
 <h3 id="count">收录 710 个</h3>   
-<h3 id="updateTime">最新同步：2021-09-12 06:30</h3>
+<h3 id="updateTime">最新同步：2021-09-13 06:30</h3>
 
 <br>	
 <div class="changeLog">
@@ -160,14 +160,14 @@
     <td><a href="https://pub.flutter-io.cn/packages/google_ml_kit" rel="nofollow">google_ml_kit</a></td>
     <td>用于实现谷歌为移动平台制作的独立机器学习套件。</td>
     <td>2021-09-06</td>
-    <td>165</td>
+    <td>164</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_cube" rel="nofollow">flutter_cube</a></td>
     <td>渲染 Wavefront 对象文件的 Flutter 3D 小部件。</td>
     <td>2021-03-13</td>
-    <td>110</td>
+    <td>111</td>
   </tr>
       
   <tr class="item">
@@ -188,13 +188,13 @@
     <td><a href="https://pub.flutter-io.cn/packages/bonfire" rel="nofollow">bonfire</a></td>
     <td>使用 Flame 更简单地创建 RPG 风格或类似的游戏。</td>
     <td>2021-09-09</td>
-    <td>131</td>
+    <td>133</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/ml_algo" rel="nofollow">ml_algo</a></td>
     <td>机器学习算法、机器学习模型性能评估功能。</td>
-    <td>2021-09-06</td>
+    <td>2021-09-12</td>
     <td>41</td>
   </tr>
       
@@ -202,7 +202,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/easy_localization" rel="nofollow">easy_localization</a></td>
     <td>轻松快速地国际化和本地化您的 Flutter 应用程序，这个包简化了国际化过程。</td>
     <td>2021-02-20</td>
-    <td>1067</td>
+    <td>1068</td>
   </tr>
       
   <tr class="item">
@@ -216,7 +216,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/flutter_genius_scan" rel="nofollow">flutter_genius_scan</a></td>
     <td>适用于 iOS 和 Android 的 Genius Scan SDK 的 Flutter 插件。它允许使用智能手机相机扫描纸质文档。</td>
     <td>2021-09-10</td>
-    <td>46</td>
+    <td>47</td>
   </tr>
       
   <tr class="item">
@@ -251,7 +251,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/lint" rel="nofollow">lint</a></td>
     <td>一套针对 Dart 和 Flutter 项目的意见建议、社区驱动的 lint 规则。</td>
     <td>2021-08-16</td>
-    <td>536</td>
+    <td>537</td>
   </tr>
       
   <tr class="item">
@@ -265,7 +265,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/uni_links" rel="nofollow">uni_links</a></td>
     <td>用于接受传入链接的 Flutter 插件 - 应用程序/深层链接 (Android)、通用链接和自定义 URL 方案 (iOS)。</td>
     <td>2021-04-28</td>
-    <td>592</td>
+    <td>596</td>
   </tr>
       
   <tr class="item">
@@ -286,7 +286,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/form_field_validator" rel="nofollow">form_field_validator</a></td>
     <td>简单的 flutter 表单字段验证器，提供常见的验证选项。</td>
     <td>2021-03-16</td>
-    <td>212</td>
+    <td>213</td>
   </tr>
       
   <tr class="item">
@@ -335,7 +335,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/scanbot_sdk" rel="nofollow">scanbot_sdk</a></td>
     <td>适用于 Android 和 iOS 的 Scanbot Scanner SDK 的 Flutter 插件。提供文档扫描、QR 和条形码扫描、PDF 创建、TIFF、OCR 等功能。</td>
     <td>2021-07-23</td>
-    <td>37</td>
+    <td>38</td>
   </tr>
       
   <tr class="item">
@@ -363,7 +363,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/after_layout" rel="nofollow">after_layout</a></td>
     <td>您的小部件的第一个布局完成后执行代码，即在显示第一帧之后。</td>
     <td>2021-03-14</td>
-    <td>376</td>
+    <td>377</td>
   </tr>
       
   <tr class="item">
@@ -377,7 +377,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/url_strategy" rel="nofollow">url_strategy</a></td>
     <td>允许使用单行代码设置 Web 应用程序 URL 策略。</td>
     <td>2021-02-24</td>
-    <td>169</td>
+    <td>170</td>
   </tr>
       
   <tr class="item">
@@ -391,14 +391,14 @@
     <td><a href="https://pub.flutter-io.cn/packages/mask_text_input_formatter" rel="nofollow">mask_text_input_formatter</a></td>
     <td>为 TextField 和 TextFormField 提供了 TextInputFormatter。</td>
     <td>2021-05-26</td>
-    <td>395</td>
+    <td>396</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/email_validator" rel="nofollow">email_validator</a></td>
     <td>简单（但正确）的用于验证电子邮件地址的 dart 类。</td>
     <td>2021-03-13</td>
-    <td>389</td>
+    <td>390</td>
   </tr>
       
   <tr class="item">
@@ -426,7 +426,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/collection" rel="nofollow">collection</a></td>
     <td>包含的实用函数和类的风格dart:collection使集合的工作更容易。</td>
     <td>2021-02-01</td>
-    <td>278</td>
+    <td>279</td>
   </tr>
       
   <tr class="item">
@@ -461,7 +461,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/syncfusion_flutter_pdf" rel="nofollow">syncfusion_flutter_pdf</a></td>
     <td>用于在 Android、iOS 和 Web 平台上创建、阅读、编辑和保护 PDF 文件。</td>
     <td>2021-09-07</td>
-    <td>252</td>
+    <td>253</td>
   </tr>
       
   <tr class="item">
@@ -496,7 +496,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/pin_code_fields" rel="nofollow">pin_code_fields</a></td>
     <td>帮助您生成 pin 码字段。</td>
     <td>2021-07-21</td>
-    <td>825</td>
+    <td>826</td>
   </tr>
 	  
   <tr class="item">
@@ -517,12 +517,12 @@
     <td><a href="https://pub.flutter-io.cn/packages/pdf" rel="nofollow">pdf</a></td>
     <td>为Web或Flutter创建pdf文件。</td>
     <td>2021-09-01</td>
-    <td>841</td>
+    <td>843</td>
   </tr>
 	 
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_native_splash">flutter_native_splash</a></td><td>生成本机代码以使用背景颜色和初始图像来自定义Flutter的默认白色本机初始屏幕。支持暗模式，全屏等。</td>
-    <td>2021-09-08</td><td>1877</td>
+    <td>2021-09-08</td><td>1885</td>
   </tr>   
   
   <tr class="item">
@@ -541,7 +541,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/markdown">markdown</a></td>
     <td>便携式Markdown库。它可以将Markdown解析为客户端和服务器上的HTML。</td>
     <td>2021-02-11</td>
-    <td>97</td>
+    <td>98</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/app_review">app_review</a></td>
@@ -565,7 +565,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/flutter_markdown">flutter_markdown</a></td>
     <td>Flutter的Markdown渲染器。</td>
     <td>2021-08-31</td>
-    <td>428</td>
+    <td>429</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_colorpicker">flutter_colorpicker</a></td>
@@ -589,7 +589,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/logger">logger</a></td>
     <td>小型，易于使用且可扩展的记录器，可打印精美的日志。</td>
     <td>2021-08-26</td>
-    <td>966</td>
+    <td>970</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/touchable">touchable</a></td>
@@ -720,7 +720,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/native_screenshot" rel="nofollow">native_screenshot</a></td>
     <td>使用本机代码（iOS 和 Android）截取屏幕截图的简单插件。</td>
     <td>2021-04-04</td>
-    <td>28</td>
+    <td>29</td>
   </tr>
       
   <tr class="item">
@@ -790,7 +790,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/platform_device_id" rel="nofollow">platform_device_id</a></td>
     <td>从 android、ios、windows、linux、mac、web 获取设备 ID。</td>
     <td>2021-04-04</td>
-    <td>82</td>
+    <td>83</td>
   </tr>
       
   <tr class="item">
@@ -846,7 +846,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/wallpaper_manager" rel="nofollow">wallpaper_manager</a></td>
     <td>用于更改 Android 设备上的主屏幕、锁定屏幕（或两者）壁纸。</td>
     <td>2020-08-10</td>
-    <td>69</td>
+    <td>70</td>
   </tr>
       
   <tr class="item">
@@ -916,7 +916,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/blue_thermal_printer" rel="nofollow">blue_thermal_printer</a></td>
     <td>过蓝牙连接到热敏打印机的 Flutter 插件。</td>
     <td>2021-06-30</td>
-    <td>93</td>
+    <td>94</td>
   </tr>
       
   <tr class="item">
@@ -972,7 +972,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/audio_service" rel="nofollow">audio_service</a></td>
     <td>可在屏幕关闭时在后台播放音频。</td>
     <td>2021-09-11</td>
-    <td>570</td>
+    <td>572</td>
   </tr>
       
   <tr class="item">
@@ -986,14 +986,14 @@
     <td><a href="https://pub.flutter-io.cn/packages/path" rel="nofollow">path</a></td>
     <td>一个全面的、跨平台的 Dart 路径操作库。</td>
     <td>2021-02-02</td>
-    <td>539</td>
+    <td>540</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/awesome_notifications" rel="nofollow">awesome_notifications</a></td>
     <td>通过 Firebase 或其他服务创建本地通知和推送通知（媒体通知、大图片、大文本等）的完整解决方案。</td>
     <td>2021-07-23</td>
-    <td>748</td>
+    <td>753</td>
   </tr>
       
   <tr class="item">
@@ -1014,7 +1014,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/contacts_service" rel="nofollow">contacts_service</a></td>
     <td>用于在 Android 和 iOS 设备上检索和管理联系人。</td>
     <td>2021-04-21</td>
-    <td>277</td>
+    <td>278</td>
   </tr>
       
   <tr class="item">
@@ -1049,7 +1049,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/sign_in_with_apple" rel="nofollow">sign_in_with_apple</a></td>
     <td>Flutter 启动 Apple 登录。</td>
     <td>2021-03-05</td>
-    <td>681</td>
+    <td>683</td>
   </tr>
 	  
   <tr class="item">
@@ -1063,7 +1063,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/in_app_purchase" rel="nofollow">in_app_purchase</a></td>
     <td>用于在 Flutter 应用程序中购买的独立于店面的 API。</td>
     <td>2021-08-20</td>
-    <td>725</td>
+    <td>726</td>
   </tr> 
 	  
   <tr class="item">
@@ -1138,7 +1138,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/workmanager" rel="nofollow">workmanager</a></td>
     <td>Flutter Workmanager。此插件可让您安排Android和iOS上的后台工作。</td>
     <td>2021-06-07</td>
-    <td>565</td>
+    <td>568</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_sms" rel="nofollow">flutter_sms</a></td>
@@ -1150,7 +1150,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/sensors_plus" rel="nofollow">sensors_plus</a></td>
     <td>用于访问加速度计和陀螺仪传感器。</td>
     <td>2021-08-18</td>
-    <td>106</td>
+    <td>107</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/network_info_plus" rel="nofollow">network_info_plus</a></td>
@@ -1168,19 +1168,19 @@
     <td><a href="https://pub.flutter-io.cn/packages/package_info_plus" rel="nofollow">package_info_plus</a></td>
     <td>用于查询有关应用程序包的信息。</td>
     <td>2021-08-24</td>
-    <td>270</td>
+    <td>272</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/device_info_plus" rel="nofollow">device_info_plus</a></td>
     <td>可提供有关设备（制造商，型号等）以及运行该应用程序的Android或iOS版本的详细信息。</td>
     <td>2021-07-06</td>
-    <td>250</td>
+    <td>252</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/connectivity_plus" rel="nofollow">connectivity_plus</a></td>
     <td>用于发现Android和iOS上的网络状态（WiFi和移动/蜂窝）连接。</td>
     <td>2021-08-22</td>
-    <td>394</td>
+    <td>399</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/nfc_manager">nfc_manager</a></td>
@@ -1228,7 +1228,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/flutter_local_notifications">flutter_local_notifications</a></td>
     <td>用于显示和推送Flutter应用程序的本地通知（定时、通知声音）。</td>
     <td>2021-09-09</td>
-    <td>2343</td>
+    <td>2344</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/barcode_scan">barcode_scan</a></td>
@@ -1258,13 +1258,13 @@
     <td><a href="https://pub.flutter-io.cn/packages/wakelock">wakelock</a></td>
     <td>在Android和iOS上启用和切换屏幕唤醒锁，以防止屏幕自动关闭，本质上，这使您可以使设备保持唤醒状态，即防止设备进入休眠状态。</td>
     <td>2021-09-10</td>
-    <td>631</td>
+    <td>633</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_downloader">flutter_downloader</a></td>
     <td>用于创建和管理下载任务的插件。</td>
     <td>2021-09-07</td>
-    <td>542</td>
+    <td>543</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/open_file">open_file</a></td>
@@ -1276,7 +1276,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/path_provider">path_provider</a></td>
     <td>查找文件系统上的常用位置。</td>
     <td>2021-09-02</td>
-    <td>1905</td>
+    <td>1906</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/package_info">package_info</a></td>
@@ -1288,13 +1288,13 @@
     <td><a href="https://pub.flutter-io.cn/packages/connectivity">connectivity</a></td>
     <td>发现Android和iOS上的网络（WiFi和移动/蜂窝）连接状态。</td>
     <td>2021-05-26</td>
-    <td>1697</td>
+    <td>1698</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/image_picker">image_picker</a></td>
     <td>用于从Android和iOS图像库中选择图像，并使用相机拍摄新照片。</td>
     <td>2021-09-01</td>
-    <td>2637</td>
+    <td>2638</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/permission_handler">permission_handler</a></td>
@@ -1306,7 +1306,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/quick_actions">quick_actions</a></td>
     <td>用于在主屏幕上创建快捷方式，在iOS上也称为快速操作，在Android上也称为应用程序快捷方式。</td>
     <td>2021-08-20</td>
-    <td>304</td>
+    <td>305</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/battery">battery</a></td>
@@ -1318,19 +1318,19 @@
     <td><a href="https://pub.flutter-io.cn/packages/device_info">device_info</a></td>
     <td>从Flutter应用程序中获取当前设备信息。</td>
     <td>2021-05-26</td>
-    <td>1141</td>
+    <td>1142</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/url_launcher">url_launcher</a></td>
     <td>一款支持android和IOS的插件，其中包含打开网址、发送邮件、拨打电话、以及发送信息功能。</td>
     <td>2021-09-02</td>
-    <td>3118</td>
+    <td>3122</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/local_auth">local_auth</a></td>
     <td>提供了对用户执行本地设备上身份验证的方法（指纹解锁）。</td>
     <td>2021-09-02</td>
-    <td>767</td>
+    <td>770</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/device_apps">device_apps</a></td>
@@ -1342,7 +1342,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/file_picker">file_picker</a></td>
     <td>允许您使用本机文件浏览器来选择单个或多个绝对文件路径，并具有扩展名过滤支持。</td>
     <td>2021-09-07</td>
-    <td>1435</td>
+    <td>1437</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/vibration">vibration</a></td>
@@ -1372,13 +1372,13 @@
     <td><a href="https://pub.flutter-io.cn/packages/camera">camera</a></td>
     <td>获取有关和控制Android和iOS上的相机的信息。支持预览摄像头，捕获图像，捕获视频。</td>
     <td>2021-09-02</td>
-    <td>742</td>
+    <td>746</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_app_badger">flutter_app_badger</a></td>
     <td>用于在启动器上更新应用程序徽章的插件。</td>
     <td>2021-03-15</td>
-    <td>297</td>
+    <td>298</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/device_calendar">device_calendar</a></td>
@@ -1412,7 +1412,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/bloc" rel="nofollow">bloc</a></td>
     <td>可预测的状态管理库，有助于实现 BLoC（业务逻辑组件）设计模式。</td>
     <td>2021-08-17</td>
-    <td>1159</td>
+    <td>1161</td>
   </tr>
            
   <tr class="item">
@@ -1426,7 +1426,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/faker" rel="nofollow">faker</a></td>
     <td>用于生成假数据的库。faker 深受 Python 包 faker 和 Ruby 包 ffaker 的启发。</td>
     <td>2021-05-15</td>
-    <td>300</td>
+    <td>301</td>
   </tr>
       
   <tr class="item">
@@ -1447,14 +1447,14 @@
     <td><a href="https://pub.flutter-io.cn/packages/fvm" rel="nofollow">fvm</a></td>
     <td>一个简单的 cli 来管理每个项目的 Flutter SDK 版本。支持通道、发布和本地缓存，以便在版本之间快速切换。</td>
     <td>2021-08-31</td>
-    <td>266</td>
+    <td>267</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/sizer" rel="nofollow">sizer</a></td>
     <td>可轻松使 Flutter 应用程序响应。自动调整 UI 以适应不同的屏幕尺寸。</td>
     <td>2021-05-03</td>
-    <td>524</td>
+    <td>526</td>
   </tr>
       
   <tr class="item">
@@ -1468,7 +1468,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/flutter_dotenv" rel="nofollow">flutter_dotenv</a></td>
     <td>使用 `.env` 文件轻松配置任何带有全局变量的 Flutter 应用程序。</td>
     <td>2021-08-12</td>
-    <td>337</td>
+    <td>338</td>
   </tr>
 	  
   <tr class="item">
@@ -1496,21 +1496,21 @@
     <td><a href="https://pub.flutter-io.cn/packages/supercharged" rel="nofollow">supercharged</a></td>
     <td>为所有 Flutter 开发人员带来了 Kotlin 等语言的所有舒适功能。</td>
     <td>2021-03-06</td>
-    <td>829</td>
+    <td>831</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/auto_route" rel="nofollow">auto_route</a></td>
     <td>声明式路由解决方案。</td>
     <td>2021-09-09</td>
-    <td>940</td>
+    <td>941</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_bloc" rel="nofollow">flutter_bloc</a></td>
     <td>轻松实现 BLoC（业务逻辑组件）设计模式。</td>
     <td>2021-08-23</td>
-    <td>2753</td>
+    <td>2754</td>
   </tr>
       
   <tr class="item">
@@ -1531,35 +1531,35 @@
     <td><a href="https://pub.flutter-io.cn/packages/double_back_to_close_app">double_back_to_close_app</a></td>
     <td>可让Android用户按下两次后退按钮以关闭应用程序。</td>
     <td>2020-12-20</td>
-    <td>190</td>
+    <td>191</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flex_color_scheme" rel="nofollow">flex_color_scheme</a></td>
     <td>制作和使用基于MaterialApp主题的精美配色方案。</td>
     <td>2021-07-01</td>
-    <td>252</td>
+    <td>253</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/dartx" rel="nofollow">dartx</a></td>
     <td>静态扩展方法的集合。</td>
     <td>2021-03-22</td>
-    <td>391</td>
+    <td>392</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/responsive_framework" rel="nofollow">responsive_framework</a></td>
     <td>轻松使Flutter应用程序具有响应能力。自动使UI适应不同的屏幕尺寸。</td>
     <td>2021-07-07</td>
-    <td>1044</td>
+    <td>1045</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/device_preview" rel="nofollow">device_preview</a></td>
     <td>预览Flutter应用在其他设备上的外观和性能。</td>
     <td>2021-07-05</td>
-    <td>1380</td>
+    <td>1383</td>
   </tr>
       
   <tr class="item">
@@ -1572,13 +1572,13 @@
     <td><a href="https://pub.flutter-io.cn/packages/rxdart" rel="nofollow">rxdart</a></td>
     <td>RxDart是利用本机Dart Streams API为流行的用于异步编程的reactX api的实现。</td>
     <td>2021-09-03</td>
-    <td>1308</td>
+    <td>1309</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/google_mobile_ads" rel="nofollow">google_mobile_ads</a></td>
     <td>希望通过Flutter应用获利的发布商，适用于Google移动广告的Flutter插件，支持横幅广告，非页内广告（全屏），奖励广告和原生广告。</td>
     <td>2021-08-26</td>
-    <td>721</td>
+    <td>722</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_redux" rel="nofollow">flutter_redux</a></td>
@@ -1610,13 +1610,13 @@
     <td><a href="https://pub.flutter-io.cn/packages/get">get</a></td>
     <td>Flutter的轻便而强大的解决方案。它结合了高性能状态管理，智能依赖注入和快速实用的路由管理。</td>
     <td>2021-08-13</td>
-    <td>6141</td>
+    <td>6151</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/get_storage">get_storage</a></td>
     <td>完全用Dart编写的快速，轻巧且同步的键值存储。</td>
     <td>2021-07-21</td>
-    <td>555</td>
+    <td>559</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_appavailability">flutter_appavailability</a></td>
@@ -1634,19 +1634,19 @@
     <td><a href="https://pub.flutter-io.cn/packages/crypto">crypto</a></td>
     <td>SHA，MD5和HMAC加密功能的实现</td>
     <td>2021-04-01</td>
-    <td>531</td>
+    <td>532</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/dio">Dio</a></td>
     <td>Dart的强大Http客户端，支持拦截器，全局配置，FormData，请求取消，文件下载，超时等。</td>
     <td>2021-03-28</td>
-    <td>2664</td>
+    <td>2666</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/shared_preferences">shared_preferences</a></td>
     <td>读取、设置缓存。</td>
     <td>2021-08-23</td>
-    <td>4022</td>
+    <td>4027</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/fluro">fluro</a></td>
@@ -1658,13 +1658,13 @@
     <td><a href="https://pub.flutter-io.cn/packages/provider">provider</a></td>
     <td>官方推荐的状态管理。</td>
     <td>2021-08-19</td>
-    <td>5038</td>
+    <td>5043</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/intl">intl</a></td>
     <td>包含用于处理国际化/本地化消息，日期和数字格式和解析，双向文本以及其他国际化问题的代码。</td>
     <td>2021-02-03</td>
-    <td>1956</td>
+    <td>1958</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/event_bus">event_bus</a></td>
@@ -1716,7 +1716,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/sticky_and_expandable_list" rel="nofollow">sticky_and_expandable_list</a></td>
     <td>构建分组列表，支持展开/折叠部分和粘性标题，支持将其与 sliver 小部件一起使用。</td>
     <td>2021-08-01</td>
-    <td>58</td>
+    <td>59</td>
   </tr>
       
   <tr class="item">
@@ -1730,7 +1730,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/inview_notifier_list" rel="nofollow">inview_notifier_list</a></td>
     <td>构建列表视图并在小部件出现在屏幕上时发出通知。</td>
     <td>2021-06-05</td>
-    <td>185</td>
+    <td>186</td>
   </tr>
       
   <tr class="item">
@@ -1786,7 +1786,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/flutter_pagewise" rel="nofollow">flutter_pagewise</a></td>
     <td>一次加载一页（或一批）内容的小部件库。</td>
     <td>2021-04-04</td>
-    <td>142</td>
+    <td>143</td>
   </tr>
       
   <tr class="item">
@@ -1821,49 +1821,49 @@
     <td><a href="https://pub.flutter-io.cn/packages/syncfusion_flutter_datagrid" rel="nofollow">syncfusion_flutter_datagrid</a></td>
     <td> 用于在表格视图中显示和操作数据</td>
     <td>2021-09-07</td>
-    <td>220</td>
+    <td>221</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/sliver_tools" rel="nofollow">sliver_tools</a></td>
     <td>一组有用的 sliver 工具。</td>
     <td>2021-06-11</td>
-    <td>372</td>
+    <td>374</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_layout_grid" rel="nofollow">flutter_layout_grid</a></td>
     <td>强大的 Flutter 网格布局系统</td>
     <td>2021-06-25</td>
-    <td>240</td>
+    <td>241</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/scrollable_positioned_list" rel="nofollow">scrollable_positioned_list</a></td>
     <td>滚动列表，允许滚动到列表中的特定项目。</td>
     <td>2021-02-26</td>
-    <td>588</td>
+    <td>590</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/lazy_load_scrollview" rel="nofollow">lazy_load_scrollview</a></td>
     <td>延迟加载ScrollView的包装器。</td>
     <td>2021-03-07</td>
-    <td>219</td>
+    <td>220</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/draggable_scrollbar" rel="nofollow">draggable_scrollbar</a></td>
     <td>可以拖动滚动条以快速浏览垂直列表。</td>
     <td>2021-04-04</td>
-    <td>186</td>
+    <td>187</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/material_floating_search_bar" rel="nofollow">material_floating_search_bar</a></td>
     <td>可扩展的动画浮动搜索栏的Flutter实现。</td>
     <td>2021-04-15</td>
-    <td>836</td>
+    <td>839</td>
   </tr>
       
   <tr class="item">
@@ -1889,7 +1889,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/infinite_scroll_pagination" rel="nofollow">infinite_scroll_pagination</a></td>
     <td>当用户向下滚动屏幕时，懒惰地加载和显示项目页面。</td>
     <td>2021-07-03</td>
-    <td>908</td>
+    <td>910</td>
   </tr>
   <tr class="item">
    <td><a href="https://pub.flutter-io.cn/packages/flutter_annual_task">flutter_annual_task</a></td>
@@ -1901,19 +1901,19 @@
    <td><a href="https://pub.flutter-io.cn/packages/flutter_staggered_animations">flutter_staggered_animations</a></td>
    <td>轻松将交错动画添加到ListView，GridView，Column和Row子级中。</td>
    <td>2021-03-08</td>
-   <td>737</td>
+   <td>739</td>
   </tr>
   <tr class="item">
    <td><a href="https://pub.flutter-io.cn/packages/dropdown_search">dropdown_search</a></td>
    <td>用于让用户搜索在单个或多个选择列表中显示在对话框或菜单中的下拉列表。</td>
    <td>2021-09-05</td>
-   <td>506</td>
+   <td>507</td>
   </tr>
   <tr class="item">
    <td><a href="https://pub.flutter-io.cn/packages/searchable_dropdown">searchable_dropdown</a></td>
    <td>具有项目搜索功能的简单而强大的可搜索下拉列表。</td>
    <td>2020-03-31</td>
-   <td>277</td>
+   <td>278</td>
   </tr>
   <tr class="item">
    <td><a href="https://pub.flutter-io.cn/packages/extended_nested_scroll_view">extended_nested_scroll_view</a></td>
@@ -1943,7 +1943,7 @@
    <td><a href="https://pub.flutter-io.cn/packages/filter_list">filter_list</a></td>
    <td>从列表中过滤数据。</td>
    <td>2021-05-21</td>
-   <td>149</td>
+   <td>150</td>
   </tr>
   <tr class="item">
    <td><a href="https://pub.flutter-io.cn/packages/flutter_swipe_action_cell">flutter_swipe_action_cell</a></td>
@@ -1955,13 +1955,13 @@
    <td><a href="https://pub.flutter-io.cn/packages/flutter_staggered_grid_view">flutter_staggered_grid_view</a></td>
    <td>瀑布流展示控件，支持多列且行大小不同。</td>
    <td>2021-04-11</td>
-   <td>1430</td>
+   <td>1433</td>
   </tr>
   <tr class="item">
    <td><a href="https://pub.flutter-io.cn/packages/reorderables">reorderables</a></td>
    <td>可重新排列的表格，行，列，环绕，条状列表，允许拖放其子级。</td>
    <td>2021-04-11</td>
-   <td>409</td>
+   <td>410</td>
   </tr>
   <tr class="item">
   <td><a href="https://pub.flutter-io.cn/packages/sticky_headers">sticky_headers</a></td>
@@ -1973,7 +1973,7 @@
    <td><a href="https://pub.flutter-io.cn/packages/flutter_sticky_header">flutter_sticky_header</a></td>
    <td>粘滞标题。在CustomScrollView中使用它。</td>
    <td>2021-04-10</td>
-   <td>352</td>
+   <td>354</td>
   </tr>
   <tr class="item">
    <td><a href="https://pub.flutter-io.cn/packages/flutter_sliver_tracker">flutter_sliver_tracker</a></td>
@@ -1985,7 +1985,7 @@
    <td><a href="https://pub.flutter-io.cn/packages/flutter_slidable">flutter_slidable</a></td>
    <td>实现的可滑动列表项，具有可被取消的定向滑动动作。</td>
    <td>2021-04-11</td>
-   <td>2260</td>
+   <td>2261</td>
   </tr>
   </tbody>
 </table>
@@ -2019,7 +2019,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/html_editor_enhanced" rel="nofollow">html_editor_enhanced</a></td>
     <td>适用于 Android、iOS 和 Web 的 HTML 富文本编辑器。</td>
     <td>2021-09-10</td>
-    <td>131</td>
+    <td>133</td>
   </tr>
       
   <tr class="item">
@@ -2152,7 +2152,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/rounded_loading_button" rel="nofollow">rounded_loading_button</a></td>
     <td>动画加载按钮小部件的简单实现。</td>
     <td>2021-09-06</td>
-    <td>225</td>
+    <td>226</td>
   </tr>
       
   <tr class="item">
@@ -2194,7 +2194,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/tcard" rel="nofollow">tcard</a></td>
     <td>像卡片一样，可以向左或向右滑动。</td>
     <td>2021-03-30</td>
-    <td>74</td>
+    <td>75</td>
   </tr>
       
   <tr class="item">
@@ -2208,14 +2208,14 @@
     <td><a href="https://pub.flutter-io.cn/packages/flutter_signin_button" rel="nofollow">flutter_signin_button</a></td>
     <td>适用于 iOS 和 Android 的 Flutter 插件，用于为不同的社交媒体帐户生成登录按钮。</td>
     <td>2021-03-31</td>
-    <td>496</td>
+    <td>498</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/styled_widget" rel="nofollow">styled_widget</a></td>
     <td>通过使用方法定义小部件来简化小部件树结构。</td>
     <td>2021-09-06</td>
-    <td>367</td>
+    <td>368</td>
   </tr>
       
   <tr class="item">
@@ -2229,7 +2229,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/intro_views_flutter" rel="nofollow">intro_views_flutter</a></td>
     <td>用于简单的材料设计应用程序介绍屏幕，带有一些很酷的动画。</td>
     <td>2021-06-13</td>
-    <td>352</td>
+    <td>355</td>
   </tr>
       
   <tr class="item">
@@ -2243,7 +2243,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/in_app_review" rel="nofollow">in_app_review</a></td>
     <td>Flutter 插件，用于在 Android、IOS 和 MacOS 上显示应用内评论/系统评级弹出窗口。</td>
     <td>2021-09-01</td>
-    <td>588</td>
+    <td>590</td>
   </tr>
       
   <tr class="item">
@@ -2264,7 +2264,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/liquid_pull_to_refresh" rel="nofollow">liquid_pull_to_refresh</a></td>
     <td>一个漂亮的自定义刷新指示器，带有一些很酷的动画。</td>
     <td>2021-03-12</td>
-    <td>297</td>
+    <td>298</td>
   </tr>
       
   <tr class="item">
@@ -2278,7 +2278,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/flutter_shimmer" rel="nofollow">flutter_shimmer</a></td>
     <td>创建指示加载状态的 Shimmer 效果。</td>
     <td>2021-08-20</td>
-    <td>108</td>
+    <td>109</td>
   </tr>
 
   <tr class="item">
@@ -2299,7 +2299,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/smooth_page_indicator" rel="nofollow">smooth_page_indicator</a></td>
     <td>具有一组内置效果的可定制动画页面指示器。</td>
     <td>2021-08-28</td>
-    <td>774</td>
+    <td>776</td>
   </tr>
       
   <tr class="item">
@@ -2341,7 +2341,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/custom_refresh_indicator" rel="nofollow">custom_refresh_indicator</a></td>
     <td>可以轻松实现自定义刷新指示器。</td>
     <td>2021-05-24</td>
-    <td>189</td>
+    <td>190</td>
   </tr>
       
   <tr class="item">
@@ -2376,7 +2376,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/clippy_flutter" rel="nofollow">clippy_flutter</a></td>
     <td>提供的自定义形状剪辑的小部件。</td>
     <td>2020-03-15</td>
-    <td>76</td>
+    <td>77</td>
   </tr>
 
   <tr class="item">
@@ -2446,21 +2446,21 @@
     <td><a href="https://pub.flutter-io.cn/packages/animated_icon_button" rel="nofollow">animated_icon_button</a></td>
     <td>创建自定义动画 IconButton。包括所有可用的图标。基于原生 IconButton。</td>
     <td>2021-06-05</td>
-    <td>122</td>
+    <td>123</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/multi_select_flutter" rel="nofollow">multi_select_flutter</a></td>
     <td>以您想要的方式制作多选小部件。</td>
     <td>2021-03-20</td>
-    <td>192</td>
+    <td>194</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_material_pickers" rel="nofollow">flutter_material_pickers</a></td>
     <td>轻松且一致地显示material主题选择器对话框。</td>
     <td>2021-06-11</td>
-    <td>144</td>
+    <td>145</td>
   </tr>
       
   <tr class="item">
@@ -2558,28 +2558,28 @@
     <td><a href="https://pub.flutter-io.cn/packages/flutter_xlider" rel="nofollow">flutter_xlider</a></td>
     <td>一个 Material Design 滑块和范围滑块，水平和垂直，支持 RTL 和大量的选项和自定义。</td>
     <td>2020-05-07</td>
-    <td>275</td>
+    <td>276</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/story_view" rel="nofollow">story_view</a></td>
     <td>像 Whatsapp 和 Instagram 一样显示故事。</td>
     <td>2021-05-23</td>
-    <td>320</td>
+    <td>321</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/pinput" rel="nofollow">pinput</a></td>
     <td>密码输入 (OTP) 文本字段，支持自定义数字键盘。密码、密码、验证码、安全、优惠券、Wowcher、2FA、两步验证、双因素身份验证。</td>
     <td>2021-03-12</td>
-    <td>446</td>
+    <td>447</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/backdrop" rel="nofollow">backdrop</a></td>
     <td>material背景实现。</td>
     <td>2021-06-28</td>
-    <td>208</td>
+    <td>209</td>
   </tr>
       
   <tr class="item">
@@ -2600,7 +2600,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/im_stepper" rel="nofollow">im_stepper</a></td>
     <td>漂亮、易于使用的步进器和页面指示器小部件。</td>
     <td>2021-04-05</td>
-    <td>240</td>
+    <td>241</td>
   </tr>
       
   <tr class="item">
@@ -2614,7 +2614,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/avatar_glow" rel="nofollow">avatar_glow</a></td>
     <td>带有炫酷背景发光动画的 Avatar Glow Widget。</td>
     <td>2021-03-13</td>
-    <td>465</td>
+    <td>466</td>
   </tr>
       
   <tr class="item">
@@ -2628,14 +2628,14 @@
     <td><a href="https://pub.flutter-io.cn/packages/dash_chat" rel="nofollow">dash_chat</a></td>
     <td>受 react-native-gifted-chat 启发的最完整的 Flutter 聊天 UI。</td>
     <td>2021-05-29</td>
-    <td>354</td>
+    <td>355</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/bubble" rel="nofollow">bubble</a></td>
     <td>用于像 Whatsapp 和其他人中的对话气泡一样聊天。</td>
     <td>2021-03-10</td>
-    <td>337</td>
+    <td>338</td>
   </tr>
       
   <tr class="item">
@@ -2656,14 +2656,14 @@
     <td><a href="https://pub.flutter-io.cn/packages/intro_slider" rel="nofollow">intro_slider</a></td>
     <td>帮助你为你的应用制作一个很酷的介绍/入门页。</td>
     <td>2021-06-27</td>
-    <td>637</td>
+    <td>638</td>
   </tr>
 	  
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/introduction_screen" rel="nofollow">introduction_screen</a></td>
     <td>应用程序的介绍/入门页。</td>
     <td>2021-03-30</td>
-    <td>1178</td>
+    <td>1180</td>
   </tr>
  
   <tr class="item">
@@ -2684,14 +2684,14 @@
     <td><a href="https://pub.flutter-io.cn/packages/marquee" rel="nofollow">marquee</a></td>
     <td>无限滚动文本的 Flutter 小部件。</td>
     <td>2021-06-20</td>
-    <td>318</td>
+    <td>319</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/settings_ui" rel="nofollow">settings_ui</a></td>
     <td>Agora Video SDK 的 Flutter 插件。</td>
     <td>2021-04-13</td>
-    <td>357</td>
+    <td>358</td>
   </tr>
       
   <tr class="item">
@@ -2740,21 +2740,21 @@
     <td><a href="https://pub.flutter-io.cn/packages/skeleton_text" rel="nofollow">skeleton_text</a></td>
     <td>提供了一种在 Flutter 项目中添加骨架屏加载动画的简单方法。</td>
     <td>2021-03-12</td>
-    <td>199</td>
+    <td>200</td>
   </tr>
 	  
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/chat_ui_kit" rel="nofollow">chat_ui_kit</a></td>
     <td>完整的 Flutter 聊天 UI 套件，它为您提供基本结构以及一组工具，可让您快速构建现代聊天 UI。</td>
     <td>2021-09-09</td>
-    <td>29</td>
+    <td>30</td>
   </tr> 
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_form_builder" rel="nofollow">flutter_form_builder</a></td>
     <td>通过删除样板代码，重用验证，对更改做出反应并收集最终用户输入来帮助在Flutter中创建表单。</td>
     <td>2021-09-02</td>
-    <td>948</td>
+    <td>950</td>
   </tr>
        <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_platform_widgets" rel="nofollow">flutter_platform_widgets</a></td>
@@ -2774,7 +2774,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/flutter_quill" rel="nofollow">flutter_quill</a></td>
     <td>支持移动和Web的富文本编辑器。</td>
     <td>2021-09-10</td>
-    <td>330</td>
+    <td>331</td>
   </tr>
       
   <tr class="item">
@@ -2788,14 +2788,14 @@
     <td><a href="https://pub.flutter-io.cn/packages/velocity_x" rel="nofollow">velocity_x</a></td>
     <td>开源极简UI框架，可快速构建定制设计。</td>
     <td>2021-06-17</td>
-    <td>721</td>
+    <td>722</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/getwidget" rel="nofollow">getwidget</a></td>
     <td>带有预构建的1000多个UI组件。它使开发更快，更愉快。</td>
     <td>2021-08-23</td>
-    <td>799</td>
+    <td>802</td>
   </tr>
 <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/chat_bubbles">chat_bubbles</a></td>
@@ -2813,7 +2813,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/carousel_slider" rel="nofollow">carousel_slider</a></td>
     <td>轮播控件，支持无限滚动和自定义子控件。</td>
     <td>2021-06-19</td>
-    <td>2076</td>
+    <td>2080</td>
   </tr>
 <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_summernote">flutter_summernote</a></td>
@@ -2855,31 +2855,31 @@
     <td><a href="https://pub.flutter-io.cn/packages/flutter_neumorphic">flutter_neumorphic</a></td>
     <td>随时可用的Neumorphic ui套件。</td>
     <td>2021-03-10</td>
-    <td>834</td>
+    <td>837</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_spinkit">flutter_spinkit</a></td>
     <td>随时间变化而变化的加载指示器集合。</td>
     <td>2021-08-28</td>
-    <td>1804</td>
+    <td>1805</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_swiper">flutter_swiper</a></td>
     <td>最强大的siwiper，多种布局方式，无限轮播，Android和IOS双端适配。</td>
     <td>2019-03-22</td>
-    <td>1384</td>
+    <td>1385</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/pull_to_refresh">pull_to_refresh</a></td>
     <td>一个提供上拉加载和下拉刷新的组件,同时支持Android和Ios。</td>
     <td>2021-05-07</td>
-    <td>1299</td>
+    <td>1301</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/badges">badges</a></td>
     <td>用于创建徽章，可用于任何小部件的附加标记，例如，显示购物车中的许多物品。</td>
     <td>2021-05-13</td>
-    <td>1093</td>
+    <td>1094</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/city_pickers">city_pickers</a></td>
@@ -2891,7 +2891,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/argon_buttons_flutter">argon_buttons_flutter</a></td>
     <td>创建漂亮的“加载”和“计时器”按钮。无需担心每个按钮的动画和状态。</td>
     <td>2021-05-07</td>
-    <td>243</td>
+    <td>244</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_easyrefresh">flutter_easyrefresh</a></td>
@@ -2903,7 +2903,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/flutter_rating_bar">flutter_rating_bar</a></td>
     <td>一个简单但完全可定制的评分栏。</td>
     <td>2021-02-19</td>
-    <td>791</td>
+    <td>795</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_easyloading">flutter_easyloading</a></td>
@@ -2921,7 +2921,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/dough">dough</a></td>
     <td>创建自定义的面团小部件以实现自定义的挤压效果。</td>
     <td>2021-03-24</td>
-    <td>267</td>
+    <td>268</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_picker" rel="nofollow">flutter_picker</a></td>
@@ -2940,7 +2940,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/expandable" rel="nofollow">expandable</a></td>
     <td>通过单击标题或图标来展开或折叠的 Flutter 小部件。</td>
     <td>2021-03-16</td>
-    <td>730</td>
+    <td>733</td>
   </tr>
       
   <tr class="item">
@@ -3010,7 +3010,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/miniplayer" rel="nofollow">miniplayer</a></td>
     <td>简化迷你播放器的创建。</td>
     <td>2021-03-07</td>
-    <td>133</td>
+    <td>134</td>
   </tr>
       
   <tr class="item">
@@ -3059,7 +3059,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/agora_rtc_engine" rel="nofollow">agora_rtc_engine</a></td>
     <td>Agora Video SDK 的 Flutter 插件。</td>
     <td>2021-07-23</td>
-    <td>313</td>
+    <td>314</td>
   </tr>
 	  
   <tr class="item">
@@ -3073,14 +3073,14 @@
     <td><a href="https://pub.flutter-io.cn/packages/flutter_ffmpeg" rel="nofollow">flutter_ffmpeg</a></td>
     <td>移动平台上运行 FFmpeg 的 Flutter 插件。</td>
     <td>2021-08-04</td>
-    <td>246</td>
+    <td>247</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/youtube_player_flutter" rel="nofollow">youtube_player_flutter</a></td>
     <td>使用官方 iFrame 播放器 API 播放或流式传输内联 YouTube 视频。</td>
     <td>2021-03-27</td>
-    <td>606</td>
+    <td>607</td>
   </tr>
       
   <tr class="item">
@@ -3100,7 +3100,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/just_audio" rel="nofollow">just_audio</a></td>
     <td>Flutter的功能丰富的音频播放器。以各种音频格式循环播放，剪辑和连接来自任何来源）的任何声音，并实现无缝播放。</td>
     <td>2021-09-11</td>
-    <td>1174</td>
+    <td>1176</td>
   </tr>
 
   <tr class="item">
@@ -3130,20 +3130,20 @@
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/audioplayers">audioplayers</a></td>
     <td>可同时播放多个音频文件。</td>
-    <td>2021-09-06</td>
-    <td>1047</td>
+    <td>2021-09-12</td>
+    <td>1049</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_sound">flutter_sound</a></td>
     <td>音频录制处理。</td>
     <td>2021-09-10</td>
-    <td>575</td>
+    <td>577</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/fijkplayer">fijkplayer</a></td>
     <td>基于ijkplayer的Video Player Flutter插件，支持最流行的协议和编解码器。</td>
     <td>2021-07-11</td>
-    <td>78</td>
+    <td>80</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/awsome_video_player">awsome_video_player</a></td>
@@ -3155,13 +3155,13 @@
     <td><a href="https://pub.flutter-io.cn/packages/chewie">chewie</a></td>
     <td>Flutter的视频播放器，带有Cupertino和Material播放控件。</td>
     <td>2021-06-10</td>
-    <td>643</td>
+    <td>644</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_webrtc">flutter_webrtc</a></td>
     <td>Flutter WebRTC插件。</td>
     <td>2021-09-08</td>
-    <td>420</td>
+    <td>424</td>
   </tr>
   </tbody>
 </table>
@@ -3223,7 +3223,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/octo_image" rel="nofollow">octo_image</a></td>
     <td>多功能 Flutter 图像小部件。支持带有淡入淡出的占位符、错误小部件和图像转换器。</td>
     <td>2021-04-02</td>
-    <td>384</td>
+    <td>385</td>
   </tr>
       
   <tr class="item">
@@ -3363,7 +3363,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/path_drawing" rel="nofollow">path_drawing</a></td>
     <td>帮助（画布）路径创建和操作。</td>
     <td>2021-05-05</td>
-    <td>86</td>
+    <td>88</td>
   </tr>
       
   <tr class="item">
@@ -3377,7 +3377,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/syncfusion_flutter_signaturepad" rel="nofollow">syncfusion_flutter_signaturepad</a></td>
     <td>允许您通过绘制的手势捕捉平滑和更逼真的签名并将其保存为图像。</td>
     <td>2021-09-07</td>
-    <td>46</td>
+    <td>47</td>
   </tr>
       
   <tr class="item">
@@ -3419,7 +3419,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/palette_generator" rel="nofollow">palette_generator</a></td>
     <td>用于从源图像生成调色板颜色。</td>
     <td>2021-09-01</td>
-    <td>204</td>
+    <td>205</td>
   </tr>
       
   <tr class="item">
@@ -3453,7 +3453,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/flutter_launcher_icons" rel="nofollow">flutter_launcher_icons</a></td>
     <td>Flutter启动器图标-一个软件包。</td>
     <td>2021-08-22</td>
-    <td>2692</td>
+    <td>2698</td>
   </tr>
   <tr class="changeLogItem">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_blurhash" rel="nofollow">flutter_blurhash</a></td>
@@ -3465,7 +3465,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/emoji_picker_flutter">emoji_picker_flutter</a></td>
     <td>提供了一个表情符号选择器小部件，其中包含8种类别的1500多种表情符号。</td>
     <td>2021-08-30</td>
-    <td>59</td>
+    <td>62</td>
     </tr>
    <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/graphx">graphx</a></td>
@@ -3507,13 +3507,13 @@
     <td><a href="https://pub.flutter-io.cn/packages/model_viewer">model_viewer</a></td>
      <td>用于以glTF和GLB格式呈现交互式3D模型。</td>
      <td>2020-08-21</td>
-     <td>74</td>
+     <td>73</td>
    </tr>
    <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/confetti">confetti</a></td>
     <td>在屏幕上吹起五彩纸屑。以风格庆祝应用成就。控制速度，角度，重力和纸屑量。</td>
     <td>2021-03-06</td> 
-    <td>453</td>
+    <td>454</td>
    </tr>
    <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_icons">flutter_icons</a></td>
@@ -3525,13 +3525,13 @@
      <td><a href="https://pub.flutter-io.cn/packages/signature">signature</a></td>
      <td>Flutter插件可提供性能优化的签名画布，并能够设置自定义样式，边界和初始状态。</td>
      <td>2021-05-07</td>
-     <td>180</td>
+     <td>183</td>
    </tr>
    <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/screenshot">screenshot</a></td>
     <td>Flutter屏幕截图程序包（运行时），将任何小部件捕获为图像。</td>
     <td>2021-07-16</td>
-    <td>323</td>
+    <td>325</td>
    </tr>
    <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/crop_your_image">crop_your_image</a></td>
@@ -3563,7 +3563,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/image_cropper">image_cropper</a></td>
     <td>适用于Android和iOS支持裁剪图像的Flutter插件。</td>
     <td>2021-06-20</td>
-    <td>815</td>
+    <td>816</td>
    </tr>
    <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/edge_detection">edge_detection</a></td>
@@ -3599,7 +3599,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/cached_network_image">cached_network_image</a></td>
     <td>Flutter库可加载和缓存网络图像。</td>
     <td>2021-07-16</td>
-    <td>2247</td>
+    <td>2249</td>
    </tr>
    <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_gifimage">flutter_gifimage</a></td>
@@ -3614,25 +3614,25 @@
       支持加载以及失败显示，缓存网络图片，缩放拖拽图片，图片浏览(微信掘金效果)，滑动退出页面(微信掘金效果)，编辑图片(裁剪旋转翻转)，保存，绘制自定义效果等功能。
     </td>
     <td>2021-09-07</td>
-    <td>708</td>
+    <td>709</td>
    </tr>
    <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/extended_image_library">extended_image_library</a></td>
     <td>extended_image的基础库，如果你只需要网络图片缓存功能，你可以只引用这个库。</td>
     <td>2021-05-06</td>
-    <td>60</td>
+    <td>61</td>
    </tr>
    <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_svg">flutter_svg</a></td>
     <td>Flutter的SVG渲染和窗口小部件库，允许绘制和显示可缩放矢量图形。</td>
     <td>2021-04-22</td>
-    <td>1740</td>
+    <td>1745</td>
    </tr>
    <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/font_awesome_flutter">font_awesome_flutter</a></td>
     <td>以Flutter Icons的形式提供. 提供1500个其他图标供您的应用使用。</td>
     <td>2021-06-09</td>
-    <td>1762</td>
+    <td>1764</td>
    </tr>
    <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/weather_icons">weather_icons</a></td>
@@ -3698,7 +3698,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/timeago">timeago</a></td>
     <td>创建模糊时间戳的库（例如“ 15分钟前”）。</td>
     <td>2021-06-10</td>
-    <td>678</td>
+    <td>679</td>
   </tr>
 	  
   <tr class="item">
@@ -3739,7 +3739,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/table_calendar">table_calendar</a></td>
     <td>高度可定制的功能丰富的Flutter日历，具有手势，动画和多种格式。</td>
     <td>2021-08-10</td>
-    <td>1072</td>
+    <td>1074</td>
   </tr>
 	  
   <tr class="item">
@@ -3760,21 +3760,21 @@
     <td><a href="https://pub.flutter-io.cn/packages/timelines" rel="nofollow">timelines</a></td>
     <td>功能强大且易于使用的 Flutter 时间线。</td>
     <td>2021-03-27</td>
-    <td>572</td>
+    <td>575</td>
   </tr>
 	  
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/timeline_tile">timeline_tile</a></td>
     <td>建立高度可定制的时间线。</td>
     <td>2021-03-10</td>
-    <td>950</td>
+    <td>951</td>
   </tr>
 	  
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_datetime_picker">flutter_datetime_picker</a></td>
     <td>日期时间选择器。</td>
     <td>2021-04-23</td>
-    <td>498</td>
+    <td>499</td>
   </tr>
 	  
   <tr class="item">
@@ -3816,14 +3816,14 @@
     <td><a href="https://pub.flutter-io.cn/packages/syncfusion_flutter_datepicker" rel="nofollow">syncfusion_flutter_datepicker</a></td>
     <td>使用户可以轻松选择日期或日期范围。</td>
     <td>2021-09-07</td>
-    <td>445</td>
+    <td>447</td>
   </tr>
 	  
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/syncfusion_flutter_calendar" rel="nofollow">syncfusion_flutter_calendar</a></td>
     <td>九个内置的可配置视图，提供用于高效安排和表示约会/事件的基本功能。</td>
     <td>2021-09-07</td>
-    <td>530</td>
+    <td>531</td>
   </tr>   
 	  
   </tbody>
@@ -3859,7 +3859,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/giphy_get" rel="nofollow">giphy_get</a></td>
     <td>使用纯飞镖代码从 Giphy 中选择 EMOJI、STICKER 或 GIF，支持安卓、iOS、网页和桌面。</td>
     <td>2021-08-23</td>
-    <td>35</td>
+    <td>36</td>
   </tr>
       
   <tr class="item">
@@ -3873,14 +3873,14 @@
     <td><a href="https://pub.flutter-io.cn/packages/delayed_display" rel="nofollow">delayed_display</a></td>
     <td>在延迟后以漂亮的淡入淡出和滑动动画显示子项。</td>
     <td>2021-03-22</td>
-    <td>173</td>
+    <td>174</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/rive" rel="nofollow">rive</a></td>
     <td>提供运行时功能，用于回放使用 Rive 编辑器构建的动画并与之交互。</td>
     <td>2021-08-11</td>
-    <td>463</td>
+    <td>464</td>
   </tr>
       
   <tr class="item">
@@ -3908,7 +3908,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/bouncing_widget" rel="nofollow">bouncing_widget</a></td>
     <td>在小部件上添加弹跳动画。</td>
     <td>2021-03-22</td>
-    <td>59</td>
+    <td>60</td>
   </tr>
       
   <tr class="item">
@@ -3957,7 +3957,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/auto_animated" rel="nofollow">auto_animated</a></td>
     <td>可以为列表和图标设置动画。</td>
     <td>2021-03-05</td>
-    <td>542</td>
+    <td>543</td>
   </tr>
       
   <tr class="item">
@@ -3985,48 +3985,48 @@
     <td><a href="https://pub.flutter-io.cn/packages/page_transition" rel="nofollow">page_transition</a></td>
     <td>漂亮的页面过渡包。</td>
     <td>2021-05-08</td>
-    <td>589</td>
+    <td>591</td>
   </tr>
 	  
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/concentric_transition">concentric_transition</a></td>
     <td>适用于入门，页面过渡，自定义剪切器等。</td>
     <td>2021-05-19</td>
-    <td>235</td>
+    <td>236</td>
    </tr>
 	  
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flip_card">flip_card</a></td>
     <td>翻页动画的组件，可以用于隐藏和显示产品的详细信息。</td>
     <td>2021-04-01</td>
-    <td>409</td>
+    <td>410</td>
   </tr>
 	  
   <tr class="item">
      <td><a href="https://pub.flutter-io.cn/packages/like_button">like_button</a></td>
      <td>点赞按钮动画。</td>
      <td>2021-08-20</td>
-     <td>554</td>
+     <td>555</td>
   </tr>
 	  
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/animated_text_kit">animated_text_kit</a></td>
     <td>酷炫的漂亮文字动画。</td>
     <td>2021-04-24</td>
-    <td>2150</td>
+    <td>2154</td>
   </tr>
 	  
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/liquid_swipe">liquid_swipe</a></td>
     <td>液体效果的页面切换组件。</td>
     <td>2021-04-01</td>
-    <td>557</td>
+    <td>560</td>
   </tr>
         <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/shimmer">shimmer</a></td>
     <td>为控件添加闪光效果。</td>
     <td>2021-04-12</td>
-    <td>1753</td>
+    <td>1755</td>
   </tr>
 
   <tr class="item">
@@ -4047,21 +4047,21 @@
     <td><a href="https://pub.flutter-io.cn/packages/simple_animations" rel="nofollow">simple_animations</a></td>
     <td>创建精美的自定义动画。</td>
     <td>2021-04-24</td>
-    <td>1104</td>
+    <td>1106</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/animate_do" rel="nofollow">animate_do</a></td>
     <td>受Animate.css启发的动画包，仅使用 Flutter 动画构建，没有额外的包。</td>
     <td>2021-03-05</td>
-    <td>1776</td>
+    <td>1783</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/animations" rel="nofollow">animations</a></td>
     <td>轻松集成到任何 Flutter 应用程序中的精美预建动画。</td>
     <td>2021-07-08</td>
-    <td>2897</td>
+    <td>2899</td>
   </tr>
   </tbody>
 </table>
@@ -4109,14 +4109,14 @@
     <td><a href="https://pub.flutter-io.cn/packages/syncfusion_flutter_gauges" rel="nofollow">syncfusion_flutter_gauges</a></td>
     <td>Flutter 仪表库包括线性仪表和径向仪表（又名圆形仪表），用于创建现代、交互式、动画仪表和径向滑块。</td>
     <td>2021-09-07</td>
-    <td>386</td>
+    <td>387</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/sleek_circular_slider" rel="nofollow">sleek_circular_slider</a></td>
     <td>Flutter 的高度可定制的圆形滑块/进度条。</td>
     <td>2021-06-27</td>
-    <td>576</td>
+    <td>582</td>
   </tr>
       
   <tr class="item">
@@ -4147,7 +4147,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/fl_chart">fl_chart</a></td>
     <td>Flutter图表库，当前支持折线图，条形图和饼图。</td>
     <td>2021-08-26</td>
-    <td>1904</td>
+    <td>1907</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/charts_flutter">charts_flutter</a></td>
@@ -4159,7 +4159,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/percent_indicator">percent_indicator</a></td>
     <td>根据百分比显示进度小部件，可以是圆形或线性的，也可以根据需要进行自定义。</td>
     <td>2021-03-24</td>
-    <td>844</td>
+    <td>846</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/graphview">graphview</a></td>
@@ -4220,7 +4220,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/flutter_slider_drawer" rel="nofollow">flutter_slider_drawer</a></td>
     <td>带有 Slider Drawer Menu 自定义实现的 Flutter 包。</td>
     <td>2021-03-07</td>
-    <td>172</td>
+    <td>173</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_inner_drawer">flutter_inner_drawer</a></td>
@@ -4244,7 +4244,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/flutter_zoom_drawer">flutter_zoom_drawer</a></td>
     <td>侧边菜单（抽屉）的自定义实现。</td>
     <td>2021-08-16</td>
-    <td>358</td>
+    <td>360</td>
   </tr>
   </tbody>
 </table>
@@ -4299,28 +4299,28 @@
     <td><a href="https://pub.flutter-io.cn/packages/flutter_snake_navigationbar" rel="nofollow">flutter_snake_navigationbar</a></td>
     <td>底部导航栏小部件在更改项上带有蛇形动画。</td>
     <td>2021-03-12</td>
-    <td>346</td>
+    <td>347</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/google_nav_bar" rel="nofollow">google_nav_bar</a></td>
     <td>谷歌风格的底部导航栏。</td>
     <td>2021-04-29</td>
-    <td>575</td>
+    <td>576</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/custom_navigation_bar" rel="nofollow">custom_navigation_bar</a></td>
     <td>带有气泡点击效果的自定义导航栏。</td>
     <td>2021-06-14</td>
-    <td>228</td>
+    <td>230</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/salomon_bottom_bar" rel="nofollow">salomon_bottom_bar</a></td>
     <td>炫酷的底部导航栏。</td>
     <td>2021-06-17</td>
-    <td>229</td>
+    <td>230</td>
   </tr>
       
   <tr class="item">
@@ -4339,13 +4339,13 @@
     <td><a href="https://pub.flutter-io.cn/packages/animated_bottom_navigation_bar">animated_bottom_navigation_bar</a></td>
     <td>绚丽的动画底部导航栏。</td>
     <td>2021-03-22</td>
-    <td>354</td>
+    <td>355</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/bottom_bar_with_sheet">bottom_bar_with_sheet</a></td>
     <td>底部导航栏，该底部栏将在每个页面上放置BottomSheet小部件。</td>
     <td>2021-08-24</td>
-    <td>173</td>
+    <td>174</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/floating_action_bubble">floating_action_bubble</a></td>
@@ -4357,7 +4357,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/flutter_speed_dial">flutter_speed_dial</a></td>
     <td>可展开选项的浮动按钮。</td>
     <td>2021-08-29</td>
-    <td>481</td>
+    <td>482</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/focused_menu">focused_menu</a></td>
@@ -4369,7 +4369,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/bottom_navy_bar">bottom_navy_bar</a></td>
     <td>精美而生动的底部导航。</td>
     <td>2021-03-28</td>
-    <td>615</td>
+    <td>617</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/cuberto_bottom_bar">cuberto_bottom_bar</a></td>
@@ -4381,7 +4381,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/convex_bottom_bar">convex_bottom_bar</a></td>
     <td>实现ConvexAppBar以在底部栏中显示一个凸形选项卡。支持主题。</td>
     <td>2021-03-17</td>
-    <td>1361</td>
+    <td>1365</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/full_screen_menu">full_screen_menu</a></td>
@@ -4399,13 +4399,13 @@
     <td><a href="https://pub.flutter-io.cn/packages/curved_navigation_bar">curved_navigation_bar</a></td>
     <td>可轻松实现弯曲的导航栏。</td>
     <td>2021-06-20</td>
-    <td>938</td>
+    <td>947</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/persistent_bottom_nav_bar">persistent_bottom_nav_bar</a></td>
     <td>高度可定制的持久性/静态底部导航栏。</td>
     <td>2021-03-27</td>
-    <td>899</td>
+    <td>902</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flashy_tab_bar">flashy_tab_bar</a></td>
@@ -4457,14 +4457,14 @@
     <td><a href="https://pub.flutter-io.cn/packages/rflutter_alert" rel="nofollow">rflutter_alert</a></td>
     <td>用于 Flutter 的超级可定制且易于使用的警报/弹出对话框。</td>
     <td>2021-08-03</td>
-    <td>604</td>
+    <td>605</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/material_dialogs" rel="nofollow">material_dialogs</a></td>
     <td>帮助您在应用程序中创建动画、简单、时尚的material对话框。</td>
     <td>2021-09-05</td>
-    <td>75</td>
+    <td>77</td>
   </tr>
       
   <tr class="item">
@@ -4492,21 +4492,21 @@
     <td><a href="https://pub.flutter-io.cn/packages/snapping_sheet" rel="nofollow">snapping_sheet</a></td>
     <td>提供了一个工作表小部件，可以捕捉到不同的垂直和水平位置。</td>
     <td>2021-04-22</td>
-    <td>350</td>
+    <td>351</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/awesome_dialog" rel="nofollow">awesome_dialog</a></td>
     <td>尽可能简单的动画显示漂亮的对话框。</td>
     <td>2021-08-17</td>
-    <td>568</td>
+    <td>569</td>
   </tr>
 	  
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/fluttertoast">fluttertoast</a></td>
     <td>Toast 组件。</td>
     <td>2021-08-02</td>
-    <td>1345</td>
+    <td>1348</td>
   </tr>
 	  
   <tr class="item">
@@ -4519,13 +4519,13 @@
      <td><a href="https://pub.flutter-io.cn/packages/bot_toast">bot_toast</a></td> 
      <td>易于使用的Flutter Toast库，易于使用且功能丰富。</td>
      <td>2021-03-13</td>
-    <td>502</td>
+    <td>503</td>
    </tr>
    <tr class="item">
      <td><a href="https://pub.flutter-io.cn/packages/flash">flash</a></td>
      <td>高度可定制，功能强大且易于使用的警报库。</td>
       <td>2021-06-23</td>
-     <td>525</td>
+     <td>527</td>
   </tr>
 
   <tr class="item">
@@ -4562,13 +4562,13 @@
     <td><a href="https://pub.flutter-io.cn/packages/showcaseview">showcaseview</a></td>
     <td>逐步展示/突出显示小部件，用于引导说明效果。</td>
     <td>2021-08-25</td>
-    <td>585</td>
+    <td>586</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/direct_select_flutter">direct_select_flutter</a></td>
     <td>选择控件，具有飘渺的全屏模式弹出窗口。</td>
     <td>2021-05-14</td>
-    <td>176</td>
+    <td>177</td>
   </tr>
    <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/sliding_sheet">sliding_sheet</a></td>
@@ -4604,13 +4604,13 @@
     <td><a href="https://pub.flutter-io.cn/packages/sliding_up_panel">sliding_up_panel</a></td>
     <td>可拖动的底部弹片实现。</td>
     <td>2021-04-27</td>
-    <td>1312</td>
+    <td>1314</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/modal_bottom_sheet">modal_bottom_sheet</a></td>
     <td>创建令人敬畏而强大的模态底板。</td>
     <td>2021-03-07</td>
-    <td>1342</td>
+    <td>1346</td>
   </tr>
   </tbody>
 </table>
@@ -4715,7 +4715,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/jitsi_meet" rel="nofollow">jitsi_meet</a></td>
     <td>用于在 Flutter 中集成开源 Jitsi Meet API 的视频会议插件。</td>
     <td>2021-04-13</td>
-    <td>285</td>
+    <td>286</td>
   </tr>
       
   <tr class="item">
@@ -4785,7 +4785,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/hive" rel="nofollow">hive</a></td>
     <td>用纯 Dart 编写的轻量级和极快的键值数据库。</td>
     <td>2021-04-19</td>
-    <td>2255</td>
+    <td>2260</td>
   </tr>
       
   <tr class="item">
@@ -4799,7 +4799,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/flutter_stripe" rel="nofollow">flutter_stripe</a></td>
     <td>Stripe 的flutter库，支持 PaymentSheets、Apple 和 Google Pay、SCA、PSD2 等。</td>
     <td>2021-09-06</td>
-    <td>193</td>
+    <td>195</td>
   </tr>
       
   <tr class="item">
@@ -4813,7 +4813,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/flutter_cache_manager" rel="nofollow">flutter_cache_manager</a></td>
     <td>用于在应用程序的缓存目录中下载和缓存文件。可以更改有关文件保留时间的各种设置。</td>
     <td>2021-06-17</td>
-    <td>596</td>
+    <td>600</td>
   </tr>
       
   <tr class="item">
@@ -4882,7 +4882,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/firebase_core" rel="nofollow">firebase_core</a></td>
     <td>用于Firebase Core的Flutter插件，可连接到多个Firebase应用程序。</td>
     <td>2021-08-26</td>
-    <td>1215</td>
+    <td>1216</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/cloud_firestore" rel="nofollow">cloud_firestore</a></td>
@@ -4900,13 +4900,13 @@
     <td><a href="https://pub.flutter-io.cn/packages/firebase_auth" rel="nofollow">firebase_auth</a></td>
     <td>用于Firebase身份验证的Flutter插件。</td>
     <td>2021-09-09</td>
-    <td>1812</td>
+    <td>1814</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/share_plus" rel="nofollow">share_plus</a></td>
     <td>通过平台的“共享”对话框共享Flutter应用程序中的内容。</td>
     <td>2021-06-15</td>
-    <td>389</td>
+    <td>392</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/dim">dim</a></td>
@@ -4918,7 +4918,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/speech_to_text">speech_to_text</a></td>
     <td>将特定于设备的语音显示给文本识别功能。</td>
     <td>2021-08-09</td>
-    <td>384</td>
+    <td>385</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_tts">flutter_tts</a></td>
@@ -4975,14 +4975,14 @@
     <td><a href="https://pub.flutter-io.cn/packages/google_maps_flutter" rel="nofollow">google_maps_flutter</a></td>
     <td>用于在 iOS 和 Android 应用程序中集成谷歌地图。</td>
     <td>2021-09-02</td>
-    <td>1779</td>
+    <td>1782</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/mapbox_gl" rel="nofollow">mapbox_gl</a></td>
     <td>用于在 Android、iOS 和 Web 平台上的 Flutter 应用程序中集成 Mapbox 地图。</td>
     <td>2021-04-12</td>
-    <td>241</td>
+    <td>242</td>
   </tr>
       
   <tr class="item">
@@ -5003,14 +5003,14 @@
     <td><a href="https://pub.flutter-io.cn/packages/background_location" rel="nofollow">background_location</a></td>
     <td>用于在 Android 和 iOS 的后台获取位置更新。</td>
     <td>2021-06-15</td>
-    <td>159</td>
+    <td>160</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/map_launcher" rel="nofollow">map_launcher</a></td>
     <td>查找安装在设备上的可用地图，并使用标记启动它们或显示方向。</td>
     <td>2021-06-23</td>
-    <td>257</td>
+    <td>258</td>
   </tr>
       
   <tr class="item">
@@ -5045,7 +5045,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/flutter_map" rel="nofollow">flutter_map</a></td>
     <td>Leaflet 的 Dart 实现，为 Flutter 应用程序提供地图小部件。</td>
     <td>2021-06-07</td>
-    <td>526</td>
+    <td>528</td>
   </tr>
       
   <tr class="item">
@@ -5118,20 +5118,20 @@
     <td><a href="https://pub.flutter-io.cn/packages/webview_flutter" rel="nofollow">webview_flutter</a></td>
     <td>在 Android 和 iOS 上提供 WebView 小部件的 Flutter 插件。</td>
     <td>2021-09-10</td>
-    <td>1497</td>
+    <td>1498</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/html" rel="nofollow">html</a></td>
     <td>用于在浏览器外解析和操作 HTML 内容的 API。</td>
     <td>2021-02-11</td>
-    <td>231</td>
+    <td>230</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_inappwebview">flutter_inappwebview</a></td>
     <td>可让您添加嵌入式Web视图，使用Web视图以及打开应用内浏览器窗口。</td>
     <td>2021-04-07</td>
-    <td>775</td>
+    <td>776</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_widget_from_html">flutter_widget_from_html</a></td>
