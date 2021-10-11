@@ -15,6 +15,18 @@
 <br>	
 <div class="changeLog">
 
+<div class="changeLogItem 10-11">
+      <h3>10-11</h3>
+      <ul>
+        <li><a href="https://pub.flutter-io.cn/packages/animated_splash_screen">animated_splash_screen</a> - 以完全可定制的方式创建动画启动画面的最简单方法。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_intro">flutter_intro</a> - 为您的 Flutter 项目提供新功能介绍和分步用户指南的更好方法。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_phoenix">flutter_phoenix</a> - 轻松地从头开始重新启动您的应用程序，丢失任何以前的状态</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/fluentui_system_icons">fluentui_system_icons</a> - 微软友好和现代的图标集合。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/circular_countdown_timer">circular_countdown_timer</a> - 使用圆形倒计时计时器制作动画圆形倒计时。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/tray_manager">tray_manager</a> - 允许 Flutter 桌面应用定义系统托盘。</li>  
+      </ul> 
+</div>
+
 <div class="changeLogItem 09-03">
       <h3>09-03</h3>
       <ul>
@@ -37,15 +49,7 @@
       </ul> 
 </div>
 
-<div class="changeLogItem 08-30">
-      <h3>08-30</h3>
-      <ul>
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_code_push">flutter_code_push</a> - Fl​​utter 应用代码推送的增强和实现。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/app_installer">app_installer</a> - 全新的Android+iOS应用安装插件，支持打开应用商店和编辑评论，以及安装Apk文件。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_ume">flutter_ume</a> - UME 是 Fl​​utter 应用程序的应用程序内调试工具包平台。由字节跳动的 Flutter Infra 团队制作。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/english_words">english_words</a> - 用于处理英语单词的实用程序。</li>  
-      </ul> 
-</div>
+
 
 
 
@@ -617,6 +621,20 @@
   </tr>
   </thead>
   <tbody id="设备相关">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_phoenix" rel="nofollow">flutter_phoenix</a></td>
+    <td>轻松地从头开始重新启动您的应用程序，丢失任何以前的状态</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/tray_manager" rel="nofollow">tray_manager</a></td>
+    <td>允许 Flutter 桌面应用定义系统托盘。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/xiaomi_scale" rel="nofollow">xiaomi_scale</a></td>
@@ -2009,6 +2027,20 @@
   <tbody id="UI">
       
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_intro" rel="nofollow">flutter_intro</a></td>
+    <td>为您的 Flutter 项目提供新功能介绍和分步用户指南的更好方法。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/circular_countdown_timer" rel="nofollow">circular_countdown_timer</a></td>
+    <td>使用圆形倒计时计时器制作动画圆形倒计时。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/particles_flutter" rel="nofollow">particles_flutter</a></td>
     <td>粒子动画的包，可以通过连接线控制动画速度、屏幕上粒子的数量、粒子的尺寸和形状等。</td>
     <td>2021-07-22</td>
@@ -3185,6 +3217,13 @@
   <tbody id="图像">
       
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/fluentui_system_icons" rel="nofollow">fluentui_system_icons</a></td>
+    <td>微软友好和现代的图标集合。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/graphite" rel="nofollow">graphite</a></td>
     <td>可轻松绘制直接图形、树、流程图。包括用于创建图形交互的手势 API。</td>
     <td>2021-05-13</td>
@@ -3847,6 +3886,13 @@
   </tr>
   </thead>
   <tbody id="动画">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/animated_splash_screen" rel="nofollow">animated_splash_screen</a></td>
+    <td>以完全可定制的方式创建动画启动画面的最简单方法。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/jelly_anim" rel="nofollow">jelly_anim</a></td>
