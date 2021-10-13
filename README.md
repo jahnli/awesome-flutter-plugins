@@ -395,14 +395,7 @@
     <td>2021-03-14</td>
     <td>400</td>
   </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/desktop_window" rel="nofollow">desktop_window</a></td>
-    <td>Flutter 桌面插件（macOS/Linux/Windows）用于获取和更改窗口大小。</td>
-    <td>2021-03-09</td>
-    <td>115</td>
-  </tr>
-      
+           
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/url_strategy" rel="nofollow">url_strategy</a></td>
     <td>允许使用单行代码设置 Web 应用程序 URL 策略。</td>
@@ -499,13 +492,6 @@
     <td>应用程序购买。</td>
     <td>2021-09-08</td>
     <td>251</td>
-  </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/bitsdojo_window" rel="nofollow">bitsdojo_window</a></td>
-    <td>帮助使用 Flutter 桌面（自定义边框、标题栏和最小化/最大化/关闭按钮）和 Windows 和 macOS 的常见桌面窗口操作（在屏幕上显示/隐藏/定位）创建自定义窗口。</td>
-    <td>2021-06-09</td>
-    <td>303</td>
   </tr>
       
   <tr class="item">
@@ -4762,7 +4748,21 @@
     <td>暂无</td>
     <td>暂无</td>
   </tr>
-      
+	  
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/desktop_window" rel="nofollow">desktop_window</a></td>
+    <td>Flutter 桌面插件（macOS/Linux/Windows）用于获取和更改窗口大小。</td>
+    <td>2021-03-09</td>
+    <td>115</td>
+  </tr>
+
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/bitsdojo_window" rel="nofollow">bitsdojo_window</a></td>
+    <td>帮助使用 Flutter 桌面（自定义边框、标题栏和最小化/最大化/关闭按钮）和 Windows 和 macOS 的常见桌面窗口操作（在屏幕上显示/隐藏/定位）创建自定义窗口。</td>
+    <td>2021-06-09</td>
+    <td>303</td>
+  </tr>
+	  
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/desktop_drop" rel="nofollow">desktop_drop</a></td>
     <td>一个插件，允许用户将文件拖动到您的 Flutter 桌面应用程序。</td>
