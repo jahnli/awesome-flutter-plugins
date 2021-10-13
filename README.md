@@ -18,6 +18,18 @@
 <div class="changeLogItem 10-13">
       <h3>10-13</h3>
       <ul>
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_interactional_widget">flutter_interactional_widget</a> - 重力感应交互的 widget 集合。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/snap_scroll_physics">snap_scroll_physics</a> - 允许您的滚动视图优先考虑要停止的点或不停止的区域。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/animator">animator</a> - 使动画更轻松的 Flutter 库。它允许将动画设置与用户界面分离。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/youtube_player_iframe">youtube_player_iframe</a> - 官方 YouTube iFrame 播放器 API 的 Flutter 端口。支持网络和移动平台。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/purchases_flutter">purchases_flutter</a> - 一个 Flutter 插件，可以轻松添加和管理应用内购买 (IAP) 和订阅。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/google_map_location_picker">google_map_location_picker</a> - 基于 google_maps_flutter 的 Flutter 地图位置选择器。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/localstorage">localstorage</a> - Flutter 的简单基于 json 文件的存储。替代本机 AsyncStorage</li>
+        <li><a href="https://pub.flutter-io.cn/packages/advance_pdf_viewer">advance_pdf_viewer</a> - 用于处理 PDF 文件的 Flutter 插件。适用于 Android 和 iOS</li>
+        <li><a href="https://pub.flutter-io.cn/packages/window_manager">window_manager</a> - 允许 Flutter桌面应用程序调整窗口大小和重新定位。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/system_tray">system_tray</a> - system_tray 可以轻松自定义托盘。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/screen_retriever">screen_retriever</a> - 该插件允许 Flutter 桌面应用程序检索有关屏幕大小、显示、光标位置等的信息。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/nativeshell">nativeshell</a> - NativeShell Dart API。用于与 NativeShell 平台代码交互。</li>
         <li><a href="https://pub.flutter-io.cn/packages/window_decorations">window_decorations</a> - 提供 Linux 主题中大部分窗口装饰的包。</li>  
         <li><a href="https://pub.flutter-io.cn/packages/macos_ui">macos_ui</a> - 实现当前 macOS 设计语言的 Flutter 小部件和主题。</li>  
         <li><a href="https://pub.flutter-io.cn/packages/time">time</a> - 类型安全的日期时间和持续时间计算，由扩展提供支持。</li>  
@@ -107,6 +119,34 @@
   </tr>
   </thead>
   <tbody id="插件">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/snap_scroll_physics" rel="nofollow">snap_scroll_physics</a></td>
+    <td>允许您的滚动视图优先考虑要停止的点或不停止的区域。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/purchases_flutter" rel="nofollow">purchases_flutter</a></td>
+    <td>一个 Flutter 插件，可以轻松添加和管理应用内购买 (IAP) 和订阅。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/localstorage" rel="nofollow">localstorage</a></td>
+    <td>Flutter 的简单基于 json 文件的存储。替代本机 AsyncStorage</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/advance_pdf_viewer" rel="nofollow">advance_pdf_viewer</a></td>
+    <td>用于处理 PDF 文件的 Flutter 插件。适用于 Android 和 iOS</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/encrypt" rel="nofollow">encrypt</a></td>
@@ -633,6 +673,13 @@
   </tr>
   </thead>
   <tbody id="设备相关">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_interactional_widget" rel="nofollow">flutter_interactional_widget</a></td>
+    <td>重力感应交互的 widget 集合。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_phoenix" rel="nofollow">flutter_phoenix</a></td>
@@ -3023,6 +3070,13 @@
   <tbody id="音视频类">
       
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/youtube_player_iframe" rel="nofollow">youtube_player_iframe</a></td>
+    <td>官方 YouTube iFrame 播放器 API 的 Flutter 端口。支持网络和移动平台。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_playout" rel="nofollow">flutter_playout</a></td>
     <td>提供来自 URL 的音频/视频播放，并支持 iOS 和 Android 的背景音频、锁屏控件和播放器事件。</td>
     <td>2021-06-11</td>
@@ -3914,6 +3968,13 @@
   <tbody id="动画">
       
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/animator" rel="nofollow">animator</a></td>
+    <td>使动画更轻松的 Flutter 库。它允许将动画设置与用户界面分离。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/animated_splash_screen" rel="nofollow">animated_splash_screen</a></td>
     <td>以完全可定制的方式创建动画启动画面的最简单方法。</td>
     <td>2021-03-08</td>
@@ -4708,6 +4769,34 @@
   <tbody id="跨平台">
       
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/window_manager" rel="nofollow">window_manager</a></td>
+    <td>允许 Flutter桌面应用程序调整窗口大小和重新定位。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/system_tray" rel="nofollow">system_tray</a></td>
+    <td>system_tray 可以轻松自定义托盘。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/screen_retriever" rel="nofollow">screen_retriever</a></td>
+    <td>该插件允许 Flutter 桌面应用程序检索有关屏幕大小、显示、光标位置等的信息。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/nativeshell" rel="nofollow">nativeshell</a></td>
+    <td>NativeShell Dart API。用于与 NativeShell 平台代码交互。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/window_decorations" rel="nofollow">window_decorations</a></td>
     <td>提供 Linux 主题中大部分窗口装饰的包。</td>
     <td>暂无</td>
@@ -5165,6 +5254,13 @@
   <tbody id="地图类">
       
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/google_map_location_picker" rel="nofollow">google_map_location_picker</a></td>
+    <td>基于 google_maps_flutter 的 Flutter 地图位置选择器。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/google_maps_flutter" rel="nofollow">google_maps_flutter</a></td>
     <td>用于在 iOS 和 Android 应用程序中集成谷歌地图。</td>
     <td>2021-09-30</td>
@@ -5348,6 +5444,7 @@
   </tr>
   </tbody>
 </table>
+
 
 
 
