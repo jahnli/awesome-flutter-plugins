@@ -4667,7 +4667,7 @@
 
 	
 <blockquote>
-  <h3 id="Window/Linux-title">Window / Linux</h3>
+  <h3 id="Windows/Linux-title">Window / Linux</h3>
 </blockquote>
 
 <br>
@@ -4681,7 +4681,7 @@
     <th>likes</th>
   </tr>
   </thead>
-  <tbody id="Window/Linux">
+  <tbody id="Windows/Linux">
         
   </tbody>
 </table>
