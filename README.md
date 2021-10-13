@@ -68,6 +68,7 @@
  <ul>
 	<li><a href="#插件-title">插件</a></li>
 	<li><a href="#设备相关-title">设备相关</a></li>
+ 	<li><a href="#项目相关-title">项目相关</a></li>
 	<li><a href="#列表相关-title">列表相关</a></li>
 	<li><a href="#UI-title">UI / 小部件</a></li>
 	<li><a href="#音视频类-title">音视频类</a></li>
