@@ -15,6 +15,29 @@
 <br>	
 <div class="changeLog">
 
+<div class="changeLogItem 10-13">
+      <h3>10-13</h3>
+      <ul>
+        <li><a href="https://pub.flutter-io.cn/packages/window_decorations">window_decorations</a> - 提供 Linux 主题中大部分窗口装饰的包。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/macos_ui">macos_ui</a> - 实现当前 macOS 设计语言的 Flutter 小部件和主题。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/time">time</a> - 类型安全的日期时间和持续时间计算，由扩展提供支持。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/window_decorations">window_decorations</a> - 提供 Linux 主题中大部分窗口装饰的包。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/hotkey_manager">hotkey_manager</a> - 允许 Flutter 桌面应用程序定义系统/应用程序范围内的热键（即快捷方式）。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_media_metadata">flutter_media_metadata</a> - 用于读取媒体文件元数据的 Flutter 插件。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_acrylic">flutter_acrylic</a> - 在 Windows 和 Linux 上的窗口模糊和透明效果。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/fluent_ui">fluent_ui</a> - 在 Flutter 中实现 Windows UI。基于官方文档。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/desktop_drop">desktop_drop</a> - 一个插件，允许用户将文件拖动到您的 Flutter 桌面应用程序。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/desktoasts">desktoasts</a> - 在 Windows 上显示本机 toast 的插件。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/card_swiper">card_swiper</a> - 一个 macOS 插件，可以为全局键盘快捷键注册回调。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/encrypt">encrypt</a> - PointyCastle 上的一组用于双向加密的高级 API。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/facebook_audience_network">facebook_audience_network</a> - Facebook Audience Network 插件。您可以通过此插件展示 Facebook 横幅广告、插页式广告、奖励视频广告和原生广告。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_multi_formatter">flutter_multi_formatter</a> - 国际电话号码格式化程序包、信用卡/借记卡和屏蔽格式化程序</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/rename">rename</a> - 帮助您为 Ios、Android、MacOS 和 Linux 平台更改或重命名您的 Flutter 项目 BundleId 和 AppName</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/protocol_registry">protocol_registry</a> - 轻松注册/查询/删除 URI 方案。适用于 Windows 和 Linux。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/global_shortcuts">global_shortcuts</a> - 一个 macOS 插件，可以为全局键盘快捷键注册回调。</li>  
+      </ul> 
+</div>
+
 <div class="changeLogItem 10-11">
       <h3>10-11</h3>
       <ul>
@@ -27,27 +50,7 @@
       </ul> 
 </div>
 
-<div class="changeLogItem 09-03">
-      <h3>09-03</h3>
-      <ul>
-        <li><a href="https://pub.flutter-io.cn/packages/xiaomi_scale">xiaomi_scale</a> - 用于从蓝牙小米体重秤进行测量的 Flutter 插件。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/jelly_anim">jelly_anim</a> - 包含果冻动画。用户可以动态修改果冻和视口大小、果冻坐标、溢出标志。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/particles_flutter">particles_flutter</a> - 粒子动画的包，可以通过连接线控制动画速度、屏幕上粒子的数量、粒子的尺寸和形状等。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/graphite">graphite</a> - 可轻松绘制直接图形、树、流程图。包括用于创建图形交互的手势 API。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_signature_pad">flutter_signature_pad</a> - 允许用户用手指签名并将结果导出为图像。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/html_editor_enhanced">html_editor_enhanced</a> - 适用于 Android、iOS 和 Web 的 HTML 富文本编辑器。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/adobe_xd">adobe_xd</a> - 使用“XD to Flutter”插件，根据您在 Adob​​e XD 中的设计生成使用 Flutter 构建应用程序的代码。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/draw_your_image">draw_your_image</a> - 使用户能够在您设计的 UI 中用手指进行绘制。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/zoom_widget">zoom_widget</a> - 用于放大子小部件可以容纳的可修改大小的画布的小部件。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/patterns_canvas">patterns_canvas</a> - 在画布元素或小部件上绘制条纹或圆点等图案。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/arrow_path">arrow_path</a> - 使用 Path 对象轻松绘制箭头，可以合成路径以将箭头添加到任何曲线并一次绘制。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/dotted_decoration">dotted_decoration</a> - 虚线装饰是用于绘制矩形、圆形或圆角矩形的虚线分隔线、虚线边框的包。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/giphy_get">giphy_get</a> - 使用纯飞镖代码从 Giphy 中选择 EMOJI、STICKER 或 GIF，支持安卓、iOS、网页和桌面。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/giphy_picker">giphy_picker</a> - 允许您从 Giphy 中挑选动画 GIF 图像的插件。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/skeleton_loader">skeleton_loader</a> - 为你的应用程序提供了一个完全可定制的骨架屏。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/shimmer_animation">shimmer_animation</a> - 轻松创建简单而漂亮的骨架屏。</li>  
-      </ul> 
-</div>
+
 
 
 
@@ -104,6 +107,27 @@
   </tr>
   </thead>
   <tbody id="插件">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/encrypt" rel="nofollow">encrypt</a></td>
+    <td>PointyCastle 上的一组用于双向加密的高级 API。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/facebook_audience_network" rel="nofollow">facebook_audience_network</a></td>
+    <td>Facebook Audience Network 插件。您可以通过此插件展示 Facebook 横幅广告、插页式广告、奖励视频广告和原生广告。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_multi_formatter" rel="nofollow">flutter_multi_formatter</a></td>
+    <td>国际电话号码格式化程序包、信用卡/借记卡和屏蔽格式化程序</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/adobe_xd" rel="nofollow">adobe_xd</a></td>
@@ -2029,6 +2053,13 @@
   <tbody id="UI">
       
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/fluent_ui" rel="nofollow">fluent_ui</a></td>
+    <td>在 Flutter 中实现 Windows UI。基于官方文档。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_intro" rel="nofollow">flutter_intro</a></td>
     <td>为您的 Flutter 项目提供新功能介绍和分步用户指南的更好方法。</td>
     <td>2021-06-24</td>
@@ -3715,6 +3746,13 @@
   <tbody id="时间相关">
       
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/time" rel="nofollow">time</a></td>
+    <td>类型安全的日期时间和持续时间计算，由扩展提供支持。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/nepali_date_picker" rel="nofollow">nepali_date_picker</a></td>
     <td>material风格的日期选择器、日期范围选择器和日历。</td>
     <td>2021-09-09</td>
@@ -4682,6 +4720,90 @@
   </tr>
   </thead>
   <tbody id="跨平台">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/window_decorations" rel="nofollow">window_decorations</a></td>
+    <td>提供 Linux 主题中大部分窗口装饰的包。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/macos_ui" rel="nofollow">macos_ui</a></td>
+    <td>实现当前 macOS 设计语言的 Flutter 小部件和主题。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/window_decorations" rel="nofollow">window_decorations</a></td>
+    <td>提供 Linux 主题中大部分窗口装饰的包。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/hotkey_manager" rel="nofollow">hotkey_manager</a></td>
+    <td>允许 Flutter 桌面应用程序定义系统/应用程序范围内的热键（即快捷方式）。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_media_metadata" rel="nofollow">flutter_media_metadata</a></td>
+    <td>用于读取媒体文件元数据的 Flutter 插件。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_acrylic" rel="nofollow">flutter_acrylic</a></td>
+    <td>在 Windows 和 Linux 上的窗口模糊和透明效果。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/desktop_drop" rel="nofollow">desktop_drop</a></td>
+    <td>一个插件，允许用户将文件拖动到您的 Flutter 桌面应用程序。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/desktoasts" rel="nofollow">desktoasts</a></td>
+    <td>在 Windows 上显示本机 toast 的插件。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/card_swiper" rel="nofollow">card_swiper</a></td>
+    <td>一个 macOS 插件，可以为全局键盘快捷键注册回调。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/rename" rel="nofollow">rename</a></td>
+    <td>帮助您为 Ios、Android、MacOS 和 Linux 平台更改或重命名您的 Flutter 项目 BundleId 和 AppName</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/protocol_registry" rel="nofollow">protocol_registry</a></td>
+    <td>轻松注册/查询/删除 URI 方案。适用于 Windows 和 Linux。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/global_shortcuts" rel="nofollow">global_shortcuts</a></td>
+    <td>一个 macOS 插件，可以为全局键盘快捷键注册回调。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
         
   </tbody>
 </table>
@@ -5226,6 +5348,7 @@
   </tr>
   </tbody>
 </table>
+
 
 
 </body></html>
