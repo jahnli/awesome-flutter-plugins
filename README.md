@@ -79,7 +79,7 @@
 	<li><a href="#侧边栏-title">侧边栏 / 侧边菜单</a></li>
 	<li><a href="#底部导航栏-title">底部导航栏 / 浮动菜单</a></li>
 	<li><a href="#对话框-title">对话框 / 底部弹片 / Toast</a></li>
-	<li><a href="#Windows/Linux-title">Windows / Linux</a></li>
+	<li><a href="#跨平台-title">Windows / Linux / Mac</a></li>
 	<li><a href="#通讯类-title">通讯类</a></li>
 	<li><a href="#地图类-title">地图类</a></li>
 	<li><a href="#Web-title">Web</a></li>
@@ -4667,7 +4667,7 @@
 
 	
 <blockquote>
-  <h3 id="Windows/Linux-title">Window / Linux</h3>
+  <h3 id="跨平台-title">Window / Linux / Mac</h3>
 </blockquote>
 
 <br>
@@ -4681,7 +4681,7 @@
     <th>likes</th>
   </tr>
   </thead>
-  <tbody id="Windows/Linux">
+  <tbody id="跨平台">
         
   </tbody>
 </table>
