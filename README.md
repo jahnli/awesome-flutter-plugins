@@ -4745,7 +4745,7 @@
 
 	
 <blockquote>
-  <h3 id="跨平台-title">Window / Linux / Mac</h3>
+  <h3 id="跨平台-title">Windows / Linux / Mac</h3>
 </blockquote>
 
 <br>
