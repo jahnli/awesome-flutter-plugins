@@ -904,14 +904,7 @@
     <td>2021-05-29</td>
     <td>49</td>
   </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/process_run" rel="nofollow">process_run</a></td>
-    <td>适用于 Linux/Win/Mac 的进程运行助手以及查找可执行文件的功能。</td>
-    <td>2021-09-19</td>
-    <td>77</td>
-  </tr>
-      
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_phone_direct_caller" rel="nofollow">flutter_phone_direct_caller</a></td>
     <td>可直接从应用程序拨打号码，无需拨打电话拨号器。</td>
@@ -4871,7 +4864,14 @@
     <td>一个 macOS 插件，可以为全局键盘快捷键注册回调。</td>
     <td>2021-08-06</td>
     <td>94</td>
-  </tr>
+  </tr>	  
+	        
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/process_run" rel="nofollow">process_run</a></td>
+    <td>适用于 Linux/Win/Mac 的进程运行助手以及查找可执行文件的功能。</td>
+    <td>2021-09-19</td>
+    <td>77</td>
+  </tr>    
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/rename" rel="nofollow">rename</a></td>
