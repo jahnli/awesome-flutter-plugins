@@ -949,7 +949,7 @@
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/mobile_number" rel="nofollow">mobile_number</a></td>
-    <td>于获取设备的手机号码或列出 SIM 卡数据。</td>
+    <td>用于获取设备的手机号码或列出 SIM 卡数据。</td>
     <td>2021-03-26</td>
     <td>42</td>
   </tr>
