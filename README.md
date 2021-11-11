@@ -15,6 +15,19 @@
 <br>	
 <div class="changeLog">
 
+<div class="changeLogItem 11-11">
+      <h3>11-11</h3>
+      <ul>
+        <li><a href="https://pub.flutter-io.cn/packages/timer_count_down">timer_count_down</a> - 简单的倒数计时器。用于创建一个简单的计时器。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/auth_buttons">auth_buttons</a> - Auth Buttons 是一个 Flutter 小部件库，包括用于与最流行的社交网络（如 Google、Facebook、Apple 和 Twitter）进行身份验证的按钮。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/draggable_home">draggable_home</a> - Draggable 是一个用于添加漂亮的可拖动主页的部件。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_facebook_auth">flutter_facebook_auth</a> - 将 facebook 登录添加到您的 Flutter 应用程序、获取用户信息、个人资料图片等的最简单方法。包括网络支持。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/google_sign_in">google_sign_in</a> - 用于 Google Sign-In 的 Flutter 插件，一种用于在 Android 和 iOS 上使用 Google 帐户登录的安全身份验证系统。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/tencent_im_sdk_plugin">tencent_im_sdk_plugin</a> - 腾讯云即时通信IM专业版原生SDK插件，包含了专业版SDK的全部功能。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/version">version</a> - 提供一个简单的类来解析和比较semver.org定义的语义版本</li>  
+      </ul> 
+</div>
+
 <div class="changeLogItem 10-13">
       <h3>10-13</h3>
       <ul>
@@ -50,17 +63,7 @@
       </ul> 
 </div>
 
-<div class="changeLogItem 10-11">
-      <h3>10-11</h3>
-      <ul>
-        <li><a href="https://pub.flutter-io.cn/packages/animated_splash_screen">animated_splash_screen</a> - 以完全可定制的方式创建动画启动画面的最简单方法。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_intro">flutter_intro</a> - 为您的 Flutter 项目提供新功能介绍和分步用户指南的更好方法。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_phoenix">flutter_phoenix</a> - 轻松地从头开始重新启动您的应用程序，丢失任何以前的状态</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/fluentui_system_icons">fluentui_system_icons</a> - 微软友好和现代的图标集合。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/circular_countdown_timer">circular_countdown_timer</a> - 使用圆形倒计时计时器制作动画圆形倒计时。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/tray_manager">tray_manager</a> - 允许 Flutter 桌面应用定义系统托盘。</li>  
-      </ul> 
-</div>
+
 
 
 
@@ -119,6 +122,13 @@
   </tr>
   </thead>
   <tbody id="插件">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/version" rel="nofollow">version</a></td>
+    <td>提供一个简单的类来解析和比较semver.org定义的语义版本</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/snap_scroll_physics" rel="nofollow">snap_scroll_physics</a></td>
@@ -2077,6 +2087,27 @@
   </tr>
   </thead>
   <tbody id="UI">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/timer_count_down" rel="nofollow">timer_count_down</a></td>
+    <td>简单的倒数计时器。用于创建一个简单的计时器。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/auth_buttons" rel="nofollow">auth_buttons</a></td>
+    <td>Auth Buttons 是一个 Flutter 小部件库，包括用于与最流行的社交网络（如 Google、Facebook、Apple 和 Twitter）进行身份验证的按钮。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/draggable_home" rel="nofollow">draggable_home</a></td>
+    <td>Draggable 是一个用于添加漂亮的可拖动主页的部件。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/fluent_ui" rel="nofollow">fluent_ui</a></td>
@@ -4915,6 +4946,27 @@
   </tr>
   </thead>
   <tbody id="通讯类">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_facebook_auth" rel="nofollow">flutter_facebook_auth</a></td>
+    <td>将 facebook 登录添加到您的 Flutter 应用程序、获取用户信息、个人资料图片等的最简单方法。包括网络支持。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/google_sign_in" rel="nofollow">google_sign_in</a></td>
+    <td>用于 Google Sign-In 的 Flutter 插件，一种用于在 Android 和 iOS 上使用 Google 帐户登录的安全身份验证系统。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/tencent_im_sdk_plugin" rel="nofollow">tencent_im_sdk_plugin</a></td>
+    <td>腾讯云即时通信IM专业版原生SDK插件，包含了专业版SDK的全部功能。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/nearby_connections" rel="nofollow">nearby_connections</a></td>
