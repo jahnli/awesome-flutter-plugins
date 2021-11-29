@@ -10,7 +10,7 @@
 <br>
 
 <h3 id="count">收录 752 个</h3>   
-<h3 id="updateTime">最新同步：2021-11-29 11:28</h3>
+<h3 id="updateTime">最新同步：2021-11-29 11:33</h3>
 
 <br>	
 <div class="changeLog">
@@ -1308,7 +1308,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/flutter_local_notifications">flutter_local_notifications</a></td>
     <td>用于显示和推送Flutter应用程序的本地通知（定时、通知声音）。</td>
     <td>2021-11-20</td>
-    <td>2660</td>
+    <td>2661</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/barcode_scan">barcode_scan</a></td>
