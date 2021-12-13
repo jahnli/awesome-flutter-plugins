@@ -10,7 +10,7 @@
 <br>
 
 <h3 id="count">收录 752 个</h3>   
-<h3 id="updateTime">最新同步：2021-12-13 06:30</h3>
+<h3 id="updateTime">最新同步：2021-12-14 06:30</h3>
 
 <br>	
 <div class="changeLog">
@@ -148,21 +148,21 @@
     <td><a href="https://pub.flutter-io.cn/packages/localstorage" rel="nofollow">localstorage</a></td>
     <td>Flutter 的简单基于 json 文件的存储。替代本机 AsyncStorage</td>
     <td>Invalid Date</td>
-    <td>208</td>
+    <td>209</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/advance_pdf_viewer" rel="nofollow">advance_pdf_viewer</a></td>
     <td>用于处理 PDF 文件的 Flutter 插件。适用于 Android 和 iOS</td>
     <td>Invalid Date</td>
-    <td>232</td>
+    <td>233</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/encrypt" rel="nofollow">encrypt</a></td>
     <td>PointyCastle 上的一组用于双向加密的高级 API。</td>
     <td>Invalid Date</td>
-    <td>382</td>
+    <td>383</td>
   </tr>
       
   <tr class="item">
@@ -211,7 +211,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/english_words" rel="nofollow">english_words</a></td>
     <td>用于处理英语单词的实用程序。</td>
     <td>Invalid Date</td>
-    <td>298</td>
+    <td>299</td>
   </tr>
      
       
@@ -240,7 +240,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/google_ml_kit" rel="nofollow">google_ml_kit</a></td>
     <td>用于实现谷歌为移动平台制作的独立机器学习套件。</td>
     <td>Invalid Date</td>
-    <td>224</td>
+    <td>225</td>
   </tr>
       
   <tr class="item">
@@ -254,7 +254,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/change_app_package_name" rel="nofollow">change_app_package_name</a></td>
     <td>使用单个命令更改应用程序包名称。更新 AndroidManifest、build.gradle、MainActivity 文件并自动将 MainActivity 文件移动到新的目录结构。</td>
     <td>Invalid Date</td>
-    <td>449</td>
+    <td>450</td>
   </tr>
       
   <tr class="item">
@@ -268,7 +268,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/bonfire" rel="nofollow">bonfire</a></td>
     <td>使用 Flame 更简单地创建 RPG 风格或类似的游戏。</td>
     <td>Invalid Date</td>
-    <td>164</td>
+    <td>166</td>
   </tr>
       
   <tr class="item">
@@ -282,7 +282,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/easy_localization" rel="nofollow">easy_localization</a></td>
     <td>轻松快速地国际化和本地化您的 Flutter 应用程序，这个包简化了国际化过程。</td>
     <td>Invalid Date</td>
-    <td>1240</td>
+    <td>1243</td>
   </tr>
       
   <tr class="item">
@@ -303,7 +303,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/flutter_plugin_android_lifecycle" rel="nofollow">flutter_plugin_android_lifecycle</a></td>
     <td>用于在其他插件中访问 Android 生命周期。</td>
     <td>Invalid Date</td>
-    <td>52</td>
+    <td>53</td>
   </tr>
       
   <tr class="item">
@@ -359,14 +359,14 @@
     <td><a href="https://pub.flutter-io.cn/packages/render_metrics" rel="nofollow">render_metrics</a></td>
     <td>获取小部件指标的库。使用 RenderObject 获取小部件相对于屏幕窗口的大小和位置，以及小部件之间的差异。</td>
     <td>Invalid Date</td>
-    <td>46</td>
+    <td>47</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/form_field_validator" rel="nofollow">form_field_validator</a></td>
     <td>简单的 flutter 表单字段验证器，提供常见的验证选项。</td>
     <td>Invalid Date</td>
-    <td>265</td>
+    <td>266</td>
   </tr>
       
   <tr class="item">
@@ -380,7 +380,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/formz" rel="nofollow">formz</a></td>
     <td>Dart 中的统一表单表示，旨在以通用方式简化表单表示和验证。</td>
     <td>Invalid Date</td>
-    <td>226</td>
+    <td>228</td>
   </tr>
       
   <tr class="item">
@@ -408,14 +408,14 @@
     <td><a href="https://pub.flutter-io.cn/packages/cron" rel="nofollow">cron</a></td>
     <td>类似于 cron 的基于时间的作业调度程序。以固定时间或间隔定期运行任务。</td>
     <td>Invalid Date</td>
-    <td>156</td>
+    <td>157</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/scanbot_sdk" rel="nofollow">scanbot_sdk</a></td>
     <td>适用于 Android 和 iOS 的 Scanbot Scanner SDK 的 Flutter 插件。提供文档扫描、QR 和条形码扫描、PDF 创建、TIFF、OCR 等功能。</td>
     <td>Invalid Date</td>
-    <td>48</td>
+    <td>49</td>
   </tr>
       
   <tr class="item">
@@ -450,7 +450,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/url_strategy" rel="nofollow">url_strategy</a></td>
     <td>允许使用单行代码设置 Web 应用程序 URL 策略。</td>
     <td>Invalid Date</td>
-    <td>209</td>
+    <td>210</td>
   </tr>
       
   <tr class="item">
@@ -464,7 +464,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/mask_text_input_formatter" rel="nofollow">mask_text_input_formatter</a></td>
     <td>为 TextField 和 TextFormField 提供了 TextInputFormatter。</td>
     <td>Invalid Date</td>
-    <td>471</td>
+    <td>472</td>
   </tr>
       
   <tr class="item">
@@ -499,7 +499,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/collection" rel="nofollow">collection</a></td>
     <td>包含的实用函数和类的风格dart:collection使集合的工作更容易。</td>
     <td>Invalid Date</td>
-    <td>351</td>
+    <td>352</td>
   </tr>
       
   <tr class="item">
@@ -520,14 +520,14 @@
     <td><a href="https://pub.flutter-io.cn/packages/tflite" rel="nofollow">tflite</a></td>
     <td>用于访问 TensorFlow Lite 的 Flutter 插件。</td>
     <td>Invalid Date</td>
-    <td>327</td>
+    <td>328</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/excel" rel="nofollow">excel</a></td>
     <td>一个 flutter 和 dart 库，用于读取、创建、编辑和更新 Excel 表。</td>
     <td>Invalid Date</td>
-    <td>317</td>
+    <td>318</td>
   </tr>
       
   <tr class="item">
@@ -548,7 +548,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/translator" rel="nofollow">translator</a></td>
     <td>用于 Dart 的免费且无限制的 Google 翻译 API。</td>
     <td>Invalid Date</td>
-    <td>315</td>
+    <td>317</td>
   </tr>
       
   <tr class="item">
@@ -562,14 +562,14 @@
     <td><a href="https://pub.flutter-io.cn/packages/pin_code_fields" rel="nofollow">pin_code_fields</a></td>
     <td>帮助您生成 pin 码字段。</td>
     <td>Invalid Date</td>
-    <td>982</td>
+    <td>984</td>
   </tr>
 	  
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/native_pdf_view" rel="nofollow">native_pdf_view</a></td>
     <td>可在Web，MacOS，Android和iOS上呈现PDF文件。</td>
     <td>Invalid Date</td>
-    <td>308</td>
+    <td>309</td>
   </tr>
 	  
   <tr class="item">
@@ -583,19 +583,19 @@
     <td><a href="https://pub.flutter-io.cn/packages/pdf" rel="nofollow">pdf</a></td>
     <td>为Web或Flutter创建pdf文件。</td>
     <td>Invalid Date</td>
-    <td>1017</td>
+    <td>1021</td>
   </tr>
 	 
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_native_splash">flutter_native_splash</a></td><td>生成本机代码以使用背景颜色和初始图像来自定义Flutter的默认白色本机初始屏幕。支持暗模式，全屏等。</td>
-    <td>Invalid Date</td><td>2468</td>
+    <td>Invalid Date</td><td>2476</td>
   </tr>   
   
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/tflite_flutter">tflite_flutter</a></td>
     <td>TensorFlow Lite Flutter插件提供了轻松，灵活和快速的Dart API，可将TFLite模型集成到Flutter应用中。</td>
     <td>Invalid Date</td>
-    <td>176</td>
+    <td>178</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_treeview">flutter_treeview</a></td>
@@ -625,43 +625,43 @@
     <td><a href="https://pub.flutter-io.cn/packages/auto_size_text">auto_size_text</a></td>
     <td>可自动调整文本大小以使其完全适合其边界。</td>
     <td>Invalid Date</td>
-    <td>1929</td>
+    <td>1938</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_markdown">flutter_markdown</a></td>
     <td>Flutter的Markdown渲染器。</td>
     <td>Invalid Date</td>
-    <td>506</td>
+    <td>507</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_colorpicker">flutter_colorpicker</a></td>
     <td>一款受chrome devtools启发的HSV（HSB）/ HSL拾色器。</td>
     <td>Invalid Date</td>
-    <td>358</td>
+    <td>359</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_unity_widget">flutter_unity_widget</a></td>
     <td>Flutter Unity 3D小部件，用于将Unity游戏场景嵌入flutter中。</td>
     <td>Invalid Date</td>
-    <td>403</td>
+    <td>404</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flame">flame</a></td>
     <td>Flutter游戏引擎。</td>
     <td>Invalid Date</td>
-    <td>691</td>
+    <td>702</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/logger">logger</a></td>
     <td>小型，易于使用且可扩展的记录器，可打印精美的日志。</td>
     <td>Invalid Date</td>
-    <td>1159</td>
+    <td>1164</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/touchable">touchable</a></td>
     <td>为CustomPainter中在画布上绘制的每个Shape添加各种手势回调。</td>
     <td>Invalid Date</td>
-    <td>105</td>
+    <td>104</td>
   </tr>
   </tbody>
 </table>
@@ -737,7 +737,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/flutter_dynamic_icon" rel="nofollow">flutter_dynamic_icon</a></td>
     <td>动态改变应用图标和应用图标的flutter插件。</td>
     <td>Invalid Date</td>
-    <td>76</td>
+    <td>77</td>
   </tr>
       
   <tr class="item">
@@ -835,7 +835,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/receive_sharing_intent" rel="nofollow">receive_sharing_intent</a></td>
     <td>使 flutter 应用程序能够接收来自其他应用程序的共享照片、文本或 url。</td>
     <td>Invalid Date</td>
-    <td>314</td>
+    <td>316</td>
   </tr>
       
   <tr class="item">
@@ -877,7 +877,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/platform_device_id" rel="nofollow">platform_device_id</a></td>
     <td>从 android、ios、windows、linux、mac、web 获取设备 ID。</td>
     <td>Invalid Date</td>
-    <td>105</td>
+    <td>106</td>
   </tr>
       
   <tr class="item">
@@ -912,7 +912,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/platform_info" rel="nofollow">platform_info</a></td>
     <td>包含有关当前平台的信息，例如构建模式和操作系统。</td>
     <td>Invalid Date</td>
-    <td>51</td>
+    <td>52</td>
   </tr>
 
   <tr class="item">
@@ -1003,14 +1003,14 @@
     <td><a href="https://pub.flutter-io.cn/packages/flutter_bluetooth_serial" rel="nofollow">flutter_bluetooth_serial</a></td>
     <td> Flutter 蓝牙串行库。</td>
     <td>Invalid Date</td>
-    <td>140</td>
+    <td>141</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_reactive_ble" rel="nofollow">flutter_reactive_ble</a></td>
     <td>可与多个设备通信的反应式低功耗蓝牙 (BLE) 插件。</td>
     <td>Invalid Date</td>
-    <td>206</td>
+    <td>207</td>
   </tr>
       
   <tr class="item">
@@ -1052,28 +1052,28 @@
     <td><a href="https://pub.flutter-io.cn/packages/audio_service" rel="nofollow">audio_service</a></td>
     <td>可在屏幕关闭时在后台播放音频。</td>
     <td>Invalid Date</td>
-    <td>655</td>
+    <td>657</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_windowmanager" rel="nofollow">flutter_windowmanager</a></td>
     <td>用于在应用程序运行时动态操作 Android WindowManager LayoutParams。</td>
     <td>Invalid Date</td>
-    <td>97</td>
+    <td>98</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/path" rel="nofollow">path</a></td>
     <td>一个全面的、跨平台的 Dart 路径操作库。</td>
     <td>Invalid Date</td>
-    <td>621</td>
+    <td>622</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/awesome_notifications" rel="nofollow">awesome_notifications</a></td>
     <td>通过 Firebase 或其他服务创建本地通知和推送通知（媒体通知、大图片、大文本等）的完整解决方案。</td>
     <td>Invalid Date</td>
-    <td>993</td>
+    <td>998</td>
   </tr>
       
   <tr class="item">
@@ -1087,14 +1087,14 @@
     <td><a href="https://pub.flutter-io.cn/packages/keyboard_actions" rel="nofollow">keyboard_actions</a></td>
     <td>向 Android / iOS 键盘添加功能。。</td>
     <td>Invalid Date</td>
-    <td>559</td>
+    <td>560</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/contacts_service" rel="nofollow">contacts_service</a></td>
     <td>用于在 Android 和 iOS 设备上检索和管理联系人。</td>
     <td>Invalid Date</td>
-    <td>319</td>
+    <td>320</td>
   </tr>
       
   <tr class="item">
@@ -1115,21 +1115,21 @@
     <td><a href="https://pub.flutter-io.cn/packages/flutter_offline" rel="nofollow">flutter_offline</a></td>
     <td>用来处理离线在线连接。</td>
     <td>Invalid Date</td>
-    <td>245</td>
+    <td>246</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/clipboard" rel="nofollow">clipboard</a></td>
     <td>帮助将文本复制到剪贴板并从剪贴板粘贴。</td>
     <td>Invalid Date</td>
-    <td>277</td>
+    <td>279</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/sign_in_with_apple" rel="nofollow">sign_in_with_apple</a></td>
     <td>Flutter 启动 Apple 登录。</td>
     <td>Invalid Date</td>
-    <td>784</td>
+    <td>786</td>
   </tr>
 	  
   <tr class="item">
@@ -1143,7 +1143,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/in_app_purchase" rel="nofollow">in_app_purchase</a></td>
     <td>用于在 Flutter 应用程序中购买的独立于店面的 API。</td>
     <td>Invalid Date</td>
-    <td>850</td>
+    <td>851</td>
   </tr> 
 	  
   <tr class="item">
@@ -1185,7 +1185,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/qr_code_scanner" rel="nofollow">qr_code_scanner</a></td>
     <td>在iOS和Android上运行的QR码扫描仪，与Flutter无缝集成，比本机Activity或ViewController进行扫描要好得多。</td>
     <td>Invalid Date</td>
-    <td>823</td>
+    <td>824</td>
   </tr>
       
   <tr class="item">
@@ -1218,7 +1218,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/workmanager" rel="nofollow">workmanager</a></td>
     <td>Flutter Workmanager。此插件可让您安排Android和iOS上的后台工作。</td>
     <td>Invalid Date</td>
-    <td>674</td>
+    <td>675</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_sms" rel="nofollow">flutter_sms</a></td>
@@ -1230,7 +1230,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/sensors_plus" rel="nofollow">sensors_plus</a></td>
     <td>用于访问加速度计和陀螺仪传感器。</td>
     <td>Invalid Date</td>
-    <td>173</td>
+    <td>174</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/network_info_plus" rel="nofollow">network_info_plus</a></td>
@@ -1242,37 +1242,37 @@
     <td><a href="https://pub.flutter-io.cn/packages/geolocator">geolocator</a></td>
     <td>Flutter的地理位置插件。该插件提供了用于通用位置（GPS等）功能。</td>
     <td>Invalid Date</td>
-    <td>2555</td>
+    <td>2560</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/package_info_plus" rel="nofollow">package_info_plus</a></td>
     <td>用于查询有关应用程序包的信息。</td>
     <td>Invalid Date</td>
-    <td>444</td>
+    <td>445</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/device_info_plus" rel="nofollow">device_info_plus</a></td>
     <td>可提供有关设备（制造商，型号等）以及运行该应用程序的Android或iOS版本的详细信息。</td>
     <td>Invalid Date</td>
-    <td>401</td>
+    <td>404</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/connectivity_plus" rel="nofollow">connectivity_plus</a></td>
     <td>用于发现Android和iOS上的网络状态（WiFi和移动/蜂窝）连接。</td>
     <td>Invalid Date</td>
-    <td>653</td>
+    <td>654</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/nfc_manager">nfc_manager</a></td>
     <td>用于访问Android和iOS上的NFC功能。</td>
     <td>Invalid Date</td>
-    <td>104</td>
+    <td>105</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_udid">flutter_udid</a></td>
     <td>在iOS和Android上重新安装的应用程序之间检索持久性UDID的插件。</td>
     <td>Invalid Date</td>
-    <td>50</td>
+    <td>51</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_camera_ml_vision">flutter_camera_ml_vision</a></td>
@@ -1302,13 +1302,13 @@
     <td><a href="https://pub.flutter-io.cn/packages/printing">printing</a></td>
     <td>允许Flutter应用程序生成文档并将其打印到android或ios兼容打印机。</td>
     <td>Invalid Date</td>
-    <td>588</td>
+    <td>590</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_local_notifications">flutter_local_notifications</a></td>
     <td>用于显示和推送Flutter应用程序的本地通知（定时、通知声音）。</td>
     <td>Invalid Date</td>
-    <td>2727</td>
+    <td>2733</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/barcode_scan">barcode_scan</a></td>
@@ -1332,7 +1332,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/app_settings">app_settings</a></td>
     <td>从应用程序打开iOS和Android手机设置。</td>
     <td>Invalid Date</td>
-    <td>346</td>
+    <td>347</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/wakelock">wakelock</a></td>
@@ -1344,7 +1344,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/flutter_downloader">flutter_downloader</a></td>
     <td>用于创建和管理下载任务的插件。</td>
     <td>Invalid Date</td>
-    <td>643</td>
+    <td>644</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/open_file">open_file</a></td>
@@ -1356,37 +1356,37 @@
     <td><a href="https://pub.flutter-io.cn/packages/path_provider">path_provider</a></td>
     <td>查找文件系统上的常用位置。</td>
     <td>Invalid Date</td>
-    <td>2202</td>
+    <td>2207</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/package_info">package_info</a></td>
     <td>查询有关应用程序包的信息。</td>
     <td>Invalid Date</td>
-    <td>920</td>
+    <td>921</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/connectivity">connectivity</a></td>
     <td>发现Android和iOS上的网络（WiFi和移动/蜂窝）连接状态。</td>
     <td>Invalid Date</td>
-    <td>1823</td>
+    <td>1825</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/image_picker">image_picker</a></td>
     <td>用于从Android和iOS图像库中选择图像，并使用相机拍摄新照片。</td>
     <td>Invalid Date</td>
-    <td>3066</td>
+    <td>3073</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/permission_handler">permission_handler</a></td>
     <td>提供一个跨平台(iOS, Android) API来请求和检查权限。Android上也称为应用程序快捷方式。</td>
     <td>Invalid Date</td>
-    <td>1945</td>
+    <td>1948</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/quick_actions">quick_actions</a></td>
     <td>用于在主屏幕上创建快捷方式，在iOS上也称为快速操作，在Android上也称为应用程序快捷方式。</td>
     <td>Invalid Date</td>
-    <td>355</td>
+    <td>356</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/battery">battery</a></td>
@@ -1398,31 +1398,31 @@
     <td><a href="https://pub.flutter-io.cn/packages/device_info">device_info</a></td>
     <td>从Flutter应用程序中获取当前设备信息。</td>
     <td>Invalid Date</td>
-    <td>1213</td>
+    <td>1214</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/url_launcher">url_launcher</a></td>
     <td>一款支持android和IOS的插件，其中包含打开网址、发送邮件、拨打电话、以及发送信息功能。</td>
     <td>Invalid Date</td>
-    <td>3561</td>
+    <td>3568</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/local_auth">local_auth</a></td>
     <td>提供了对用户执行本地设备上身份验证的方法（指纹解锁）。</td>
     <td>Invalid Date</td>
-    <td>941</td>
+    <td>942</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/device_apps">device_apps</a></td>
     <td>获取设备上安装的应用程序列表的插件（仅适用于Android）。</td>
     <td>Invalid Date</td>
-    <td>180</td>
+    <td>181</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/file_picker">file_picker</a></td>
     <td>允许您使用本机文件浏览器来选择单个或多个绝对文件路径，并具有扩展名过滤支持。</td>
     <td>Invalid Date</td>
-    <td>1763</td>
+    <td>1769</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/vibration">vibration</a></td>
@@ -1446,19 +1446,19 @@
     <td><a href="https://pub.flutter-io.cn/packages/flutter_blue">flutter_blue</a></td>
     <td>Android和iOS上与低功耗蓝牙设备连接和通信。</td>
     <td>Invalid Date</td>
-    <td>551</td>
+    <td>553</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/camera">camera</a></td>
     <td>获取有关和控制Android和iOS上的相机的信息。支持预览摄像头，捕获图像，捕获视频。</td>
     <td>Invalid Date</td>
-    <td>879</td>
+    <td>881</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_app_badger">flutter_app_badger</a></td>
     <td>用于在启动器上更新应用程序徽章的插件。</td>
     <td>Invalid Date</td>
-    <td>369</td>
+    <td>370</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/device_calendar">device_calendar</a></td>
@@ -1492,7 +1492,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/bloc" rel="nofollow">bloc</a></td>
     <td>可预测的状态管理库，有助于实现 BLoC（业务逻辑组件）设计模式。</td>
     <td>Invalid Date</td>
-    <td>1357</td>
+    <td>1358</td>
   </tr>
            
   <tr class="item">
@@ -1506,7 +1506,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/faker" rel="nofollow">faker</a></td>
     <td>用于生成假数据的库。faker 深受 Python 包 faker 和 Ruby 包 ffaker 的启发。</td>
     <td>Invalid Date</td>
-    <td>379</td>
+    <td>380</td>
   </tr>
       
   <tr class="item">
@@ -1520,7 +1520,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/logging" rel="nofollow">logging</a></td>
     <td>提供用于调试和错误记录的 API。</td>
     <td>Invalid Date</td>
-    <td>240</td>
+    <td>241</td>
   </tr>
       
   <tr class="item">
@@ -1534,21 +1534,21 @@
     <td><a href="https://pub.flutter-io.cn/packages/sizer" rel="nofollow">sizer</a></td>
     <td>可轻松使 Flutter 应用程序响应。自动调整 UI 以适应不同的屏幕尺寸。</td>
     <td>Invalid Date</td>
-    <td>668</td>
+    <td>670</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_mobx" rel="nofollow">flutter_mobx</a></td>
     <td>MobX 的 Flutter 集成。</td>
     <td>Invalid Date</td>
-    <td>433</td>
+    <td>435</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_dotenv" rel="nofollow">flutter_dotenv</a></td>
     <td>使用 `.env` 文件轻松配置任何带有全局变量的 Flutter 应用程序。</td>
     <td>Invalid Date</td>
-    <td>426</td>
+    <td>427</td>
   </tr>
 	  
   <tr class="item">
@@ -1562,14 +1562,14 @@
     <td><a href="https://pub.flutter-io.cn/packages/flutter_hooks" rel="nofollow">flutter_hooks</a></td>
     <td>React hooks的flutter实现。</td>
     <td>Invalid Date</td>
-    <td>895</td>
+    <td>898</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/responsive_builder" rel="nofollow">responsive_builder</a></td>
     <td>为小部件定义可读的响应式 UI。</td>
     <td>Invalid Date</td>
-    <td>874</td>
+    <td>875</td>
   </tr>
       
   <tr class="item">
@@ -1583,14 +1583,14 @@
     <td><a href="https://pub.flutter-io.cn/packages/auto_route" rel="nofollow">auto_route</a></td>
     <td>声明式路由解决方案。</td>
     <td>Invalid Date</td>
-    <td>1175</td>
+    <td>1182</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_bloc" rel="nofollow">flutter_bloc</a></td>
     <td>轻松实现 BLoC（业务逻辑组件）设计模式。</td>
     <td>Invalid Date</td>
-    <td>3203</td>
+    <td>3207</td>
   </tr>
       
   <tr class="item">
@@ -1604,7 +1604,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/json_serializable" rel="nofollow">json_serializable</a></td>
     <td>通过注释Dart类自动生成用于与JSON相互转换的代码。</td>
     <td>Invalid Date</td>
-    <td>1538</td>
+    <td>1540</td>
   </tr>
  
   <tr class="item">
@@ -1618,7 +1618,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/flex_color_scheme" rel="nofollow">flex_color_scheme</a></td>
     <td>制作和使用基于MaterialApp主题的精美配色方案。</td>
     <td>Invalid Date</td>
-    <td>502</td>
+    <td>517</td>
   </tr>
       
   <tr class="item">
@@ -1639,7 +1639,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/device_preview" rel="nofollow">device_preview</a></td>
     <td>预览Flutter应用在其他设备上的外观和性能。</td>
     <td>Invalid Date</td>
-    <td>1598</td>
+    <td>1604</td>
   </tr>
       
   <tr class="item">
@@ -1652,13 +1652,13 @@
     <td><a href="https://pub.flutter-io.cn/packages/rxdart" rel="nofollow">rxdart</a></td>
     <td>RxDart是利用本机Dart Streams API为流行的用于异步编程的reactX api的实现。</td>
     <td>Invalid Date</td>
-    <td>1434</td>
+    <td>1436</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/google_mobile_ads" rel="nofollow">google_mobile_ads</a></td>
     <td>希望通过Flutter应用获利的发布商，适用于Google移动广告的Flutter插件，支持横幅广告，非页内广告（全屏），奖励广告和原生广告。</td>
     <td>Invalid Date</td>
-    <td>951</td>
+    <td>953</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_redux" rel="nofollow">flutter_redux</a></td>
@@ -1670,7 +1670,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/catcher">catcher</a></td>
     <td>用于捕获错误的插件。当开发人员未发现错误时，允许进行处理。插件提供了多个错误处理程序。</td>
     <td>Invalid Date</td>
-    <td>364</td>
+    <td>368</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/sentry_flutter" rel="nofollow">sentry_flutter</a></td>
@@ -1680,23 +1680,23 @@
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/mobx">mobx</a></td><td>用于被动管理应用程序状态的库。</td>
-    <td>Invalid Date</td><td>741</td>
+    <td>Invalid Date</td><td>742</td>
   </tr>     
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/google_fonts">google_fonts</a></td><td>在Flutter应用程序中包含来自fonts.google.com中的字体的软件包。</td>
-    <td>Invalid Date</td><td>2975</td>
+    <td>Invalid Date</td><td>2979</td>
   </tr>     
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/get">get</a></td>
     <td>Flutter的轻便而强大的解决方案。它结合了高性能状态管理，智能依赖注入和快速实用的路由管理。</td>
     <td>Invalid Date</td>
-    <td>7217</td>
+    <td>7237</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/get_storage">get_storage</a></td>
     <td>完全用Dart编写的快速，轻巧且同步的键值存储。</td>
     <td>Invalid Date</td>
-    <td>705</td>
+    <td>706</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_appavailability">flutter_appavailability</a></td>
@@ -1708,7 +1708,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/flutter_screenutil">flutter_screenutil</a></td>
     <td>不同终端屏幕适配问题。</td>
     <td>Invalid Date</td>
-    <td>1541</td>
+    <td>1544</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/crypto">crypto</a></td>
@@ -1720,31 +1720,31 @@
     <td><a href="https://pub.flutter-io.cn/packages/dio">Dio</a></td>
     <td>Dart的强大Http客户端，支持拦截器，全局配置，FormData，请求取消，文件下载，超时等。</td>
     <td>Invalid Date</td>
-    <td>3110</td>
+    <td>3117</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/shared_preferences">shared_preferences</a></td>
     <td>读取、设置缓存。</td>
     <td>Invalid Date</td>
-    <td>4553</td>
+    <td>4560</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/fluro">fluro</a></td>
     <td>Flutter的 企业级的路由框架。</td>
     <td>Invalid Date</td>
-    <td>599</td>
+    <td>600</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/provider">provider</a></td>
     <td>官方推荐的状态管理。</td>
     <td>Invalid Date</td>
-    <td>5619</td>
+    <td>5632</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/intl">intl</a></td>
     <td>包含用于处理国际化/本地化消息，日期和数字格式和解析，双向文本以及其他国际化问题的代码。</td>
     <td>Invalid Date</td>
-    <td>2283</td>
+    <td>2289</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/event_bus">event_bus</a></td>
@@ -1824,7 +1824,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/horizontal_data_table" rel="nofollow">horizontal_data_table</a></td>
     <td>左侧有固定列的水平数据表。</td>
     <td>Invalid Date</td>
-    <td>197</td>
+    <td>198</td>
   </tr>
       
   <tr class="item">
@@ -1901,7 +1901,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/syncfusion_flutter_datagrid" rel="nofollow">syncfusion_flutter_datagrid</a></td>
     <td> 用于在表格视图中显示和操作数据</td>
     <td>Invalid Date</td>
-    <td>265</td>
+    <td>268</td>
   </tr>
       
   <tr class="item">
@@ -1915,7 +1915,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/flutter_layout_grid" rel="nofollow">flutter_layout_grid</a></td>
     <td>强大的 Flutter 网格布局系统</td>
     <td>Invalid Date</td>
-    <td>290</td>
+    <td>291</td>
   </tr>
       
   <tr class="item">
@@ -1943,7 +1943,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/material_floating_search_bar" rel="nofollow">material_floating_search_bar</a></td>
     <td>可扩展的动画浮动搜索栏的Flutter实现。</td>
     <td>Invalid Date</td>
-    <td>1023</td>
+    <td>1026</td>
   </tr>
       
   <tr class="item">
@@ -1969,7 +1969,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/infinite_scroll_pagination" rel="nofollow">infinite_scroll_pagination</a></td>
     <td>当用户向下滚动屏幕时，懒惰地加载和显示项目页面。</td>
     <td>Invalid Date</td>
-    <td>1198</td>
+    <td>1200</td>
   </tr>
   <tr class="item">
    <td><a href="https://pub.flutter-io.cn/packages/flutter_annual_task">flutter_annual_task</a></td>
@@ -2035,7 +2035,7 @@
    <td><a href="https://pub.flutter-io.cn/packages/flutter_staggered_grid_view">flutter_staggered_grid_view</a></td>
    <td>瀑布流展示控件，支持多列且行大小不同。</td>
    <td>Invalid Date</td>
-   <td>1681</td>
+   <td>1687</td>
   </tr>
   <tr class="item">
    <td><a href="https://pub.flutter-io.cn/packages/reorderables">reorderables</a></td>
@@ -2065,7 +2065,7 @@
    <td><a href="https://pub.flutter-io.cn/packages/flutter_slidable">flutter_slidable</a></td>
    <td>实现的可滑动列表项，具有可被取消的定向滑动动作。</td>
    <td>Invalid Date</td>
-   <td>2556</td>
+   <td>2559</td>
   </tr>
   </tbody>
 </table>
@@ -2106,21 +2106,21 @@
     <td><a href="https://pub.flutter-io.cn/packages/draggable_home" rel="nofollow">draggable_home</a></td>
     <td>Draggable 是一个用于添加漂亮的可拖动主页的部件。</td>
     <td>Invalid Date</td>
-    <td>148</td>
+    <td>150</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/fluent_ui" rel="nofollow">fluent_ui</a></td>
     <td>在 Flutter 中实现 Windows UI。基于官方文档。</td>
     <td>Invalid Date</td>
-    <td>557</td>
+    <td>558</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_intro" rel="nofollow">flutter_intro</a></td>
     <td>为您的 Flutter 项目提供新功能介绍和分步用户指南的更好方法。</td>
     <td>Invalid Date</td>
-    <td>225</td>
+    <td>226</td>
   </tr>
       
   <tr class="item">
@@ -2141,7 +2141,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/html_editor_enhanced" rel="nofollow">html_editor_enhanced</a></td>
     <td>适用于 Android、iOS 和 Web 的 HTML 富文本编辑器。</td>
     <td>Invalid Date</td>
-    <td>182</td>
+    <td>185</td>
   </tr>
       
   <tr class="item">
@@ -2162,7 +2162,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/skeleton_loader" rel="nofollow">skeleton_loader</a></td>
     <td>为你的应用程序提供了一个完全可定制的骨架屏。</td>
     <td>Invalid Date</td>
-    <td>115</td>
+    <td>116</td>
   </tr>
       
   <tr class="item">
@@ -2190,7 +2190,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/onboarding_overlay" rel="nofollow">onboarding_overlay</a></td>
     <td>灵活地控制有或没有目标元素的进入。</td>
     <td>Invalid Date</td>
-    <td>122</td>
+    <td>125</td>
   </tr>
       
   <tr class="item">
@@ -2232,7 +2232,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/flutter_mentions" rel="nofollow">flutter_mentions</a></td>
     <td>用于向您的应用程序添加@提及功能。</td>
     <td>Invalid Date</td>
-    <td>79</td>
+    <td>80</td>
   </tr>
       
   <tr class="item">
@@ -2260,7 +2260,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/in_app_update" rel="nofollow">in_app_update</a></td>
     <td>Android API 在 Android 上启用应用内更新。</td>
     <td>Invalid Date</td>
-    <td>374</td>
+    <td>375</td>
   </tr>
       
   <tr class="item">
@@ -2337,7 +2337,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/styled_widget" rel="nofollow">styled_widget</a></td>
     <td>通过使用方法定义小部件来简化小部件树结构。</td>
     <td>Invalid Date</td>
-    <td>440</td>
+    <td>441</td>
   </tr>
       
   <tr class="item">
@@ -2407,7 +2407,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/readmore" rel="nofollow">readmore</a></td>
     <td>允许动态展开和折叠文本的 Flutter 包。</td>
     <td>Invalid Date</td>
-    <td>283</td>
+    <td>284</td>
   </tr>
       
   <tr class="item">
@@ -2421,14 +2421,14 @@
     <td><a href="https://pub.flutter-io.cn/packages/smooth_page_indicator" rel="nofollow">smooth_page_indicator</a></td>
     <td>具有一组内置效果的可定制动画页面指示器。</td>
     <td>Invalid Date</td>
-    <td>1013</td>
+    <td>1018</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/visibility_detector" rel="nofollow">visibility_detector</a></td>
     <td>检测其子项的可见性并通知回调的小部件。</td>
     <td>Invalid Date</td>
-    <td>343</td>
+    <td>344</td>
   </tr>
       
   <tr class="item">
@@ -2463,7 +2463,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/custom_refresh_indicator" rel="nofollow">custom_refresh_indicator</a></td>
     <td>可以轻松实现自定义刷新指示器。</td>
     <td>Invalid Date</td>
-    <td>216</td>
+    <td>218</td>
   </tr>
       
   <tr class="item">
@@ -2547,7 +2547,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/toggle_switch" rel="nofollow">toggle_switch</a></td>
     <td>一个简单的切换开关小部件。</td>
     <td>Invalid Date</td>
-    <td>370</td>
+    <td>375</td>
   </tr>
       
   <tr class="item">
@@ -2589,7 +2589,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/extended_text" rel="nofollow">extended_text</a></td>
     <td>扩展官方文本以快速构建内嵌图像或特殊文本。</td>
     <td>Invalid Date</td>
-    <td>123</td>
+    <td>124</td>
   </tr>
       
   <tr class="item">
@@ -2645,7 +2645,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/flutter_linkify" rel="nofollow">flutter_linkify</a></td>
     <td>将文本 URL 和电子邮件转换为 Flutter 文本中可点击的内联链接。</td>
     <td>Invalid Date</td>
-    <td>394</td>
+    <td>395</td>
   </tr>
       
   <tr class="item">
@@ -2687,21 +2687,21 @@
     <td><a href="https://pub.flutter-io.cn/packages/story_view" rel="nofollow">story_view</a></td>
     <td>像 Whatsapp 和 Instagram 一样显示故事。</td>
     <td>Invalid Date</td>
-    <td>359</td>
+    <td>360</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/pinput" rel="nofollow">pinput</a></td>
     <td>密码输入 (OTP) 文本字段，支持自定义数字键盘。密码、密码、验证码、安全、优惠券、Wowcher、2FA、两步验证、双因素身份验证。</td>
     <td>Invalid Date</td>
-    <td>532</td>
+    <td>535</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/backdrop" rel="nofollow">backdrop</a></td>
     <td>material背景实现。</td>
     <td>Invalid Date</td>
-    <td>256</td>
+    <td>257</td>
   </tr>
       
   <tr class="item">
@@ -2736,14 +2736,14 @@
     <td><a href="https://pub.flutter-io.cn/packages/avatar_glow" rel="nofollow">avatar_glow</a></td>
     <td>带有炫酷背景发光动画的 Avatar Glow Widget。</td>
     <td>Invalid Date</td>
-    <td>542</td>
+    <td>543</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/country_code_picker" rel="nofollow">country_code_picker</a></td>
     <td>用于显示国家/地区代码选择器。</td>
     <td>Invalid Date</td>
-    <td>437</td>
+    <td>438</td>
   </tr>
       
   <tr class="item">
@@ -2785,14 +2785,14 @@
     <td><a href="https://pub.flutter-io.cn/packages/introduction_screen" rel="nofollow">introduction_screen</a></td>
     <td>应用程序的介绍/入门页。</td>
     <td>Invalid Date</td>
-    <td>1346</td>
+    <td>1351</td>
   </tr>
  
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/feature_discovery" rel="nofollow">feature_discovery</a></td>
     <td>向新用户显示特定功能的描述。</td>
     <td>Invalid Date</td>
-    <td>519</td>
+    <td>520</td>
   </tr>
 	  
   <tr class="item">
@@ -2813,20 +2813,20 @@
     <td><a href="https://pub.flutter-io.cn/packages/settings_ui" rel="nofollow">settings_ui</a></td>
     <td>Agora Video SDK 的 Flutter 插件。</td>
     <td>Invalid Date</td>
-    <td>417</td>
+    <td>418</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/slimy_card" rel="nofollow">slimy_card</a></td>
     <td>漂亮的类似粘液的卡片动画，将卡片分成两部分。</td>
     <td>Invalid Date</td>
-    <td>455</td>
+    <td>456</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_credit_card" rel="nofollow">flutter_credit_card</a></td>
     <td>一个信用卡小部件包，支持输入卡片详细信息，卡片翻转动画。</td>
     <td>Invalid Date</td>
-    <td>303</td>
+    <td>305</td>
   </tr>
       
   <tr class="item">
@@ -2862,7 +2862,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/skeleton_text" rel="nofollow">skeleton_text</a></td>
     <td>提供了一种在 Flutter 项目中添加骨架屏加载动画的简单方法。</td>
     <td>Invalid Date</td>
-    <td>221</td>
+    <td>222</td>
   </tr>
 	  
   <tr class="item">
@@ -2876,27 +2876,27 @@
     <td><a href="https://pub.flutter-io.cn/packages/flutter_form_builder" rel="nofollow">flutter_form_builder</a></td>
     <td>通过删除样板代码，重用验证，对更改做出反应并收集最终用户输入来帮助在Flutter中创建表单。</td>
     <td>Invalid Date</td>
-    <td>1128</td>
+    <td>1133</td>
   </tr>
        <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_platform_widgets" rel="nofollow">flutter_platform_widgets</a></td>
     <td>通过单个小部件简化了Material和Cupertino小部件的使用。</td>
     <td>Invalid Date</td>
-    <td>554</td>
+    <td>557</td>
   </tr>
 	  
    <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_login" rel="nofollow">flutter_login</a></td>
     <td> 具有登录/注册功能的登录小部件，可帮助加快开发速度。</td>
     <td>Invalid Date</td>
-    <td>706</td>
+    <td>709</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_quill" rel="nofollow">flutter_quill</a></td>
     <td>支持移动和Web的富文本编辑器。</td>
     <td>Invalid Date</td>
-    <td>415</td>
+    <td>416</td>
   </tr>
       
   <tr class="item">
@@ -2910,7 +2910,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/velocity_x" rel="nofollow">velocity_x</a></td>
     <td>开源极简UI框架，可快速构建定制设计。</td>
     <td>Invalid Date</td>
-    <td>794</td>
+    <td>795</td>
   </tr>
       
   <tr class="item">
@@ -2935,7 +2935,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/carousel_slider" rel="nofollow">carousel_slider</a></td>
     <td>轮播控件，支持无限滚动和自定义子控件。</td>
     <td>Invalid Date</td>
-    <td>2393</td>
+    <td>2402</td>
   </tr>
 <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_summernote">flutter_summernote</a></td>
@@ -2977,13 +2977,13 @@
     <td><a href="https://pub.flutter-io.cn/packages/flutter_neumorphic">flutter_neumorphic</a></td>
     <td>随时可用的Neumorphic ui套件。</td>
     <td>Invalid Date</td>
-    <td>988</td>
+    <td>991</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_spinkit">flutter_spinkit</a></td>
     <td>随时间变化而变化的加载指示器集合。</td>
     <td>Invalid Date</td>
-    <td>2027</td>
+    <td>2030</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_swiper">flutter_swiper</a></td>
@@ -2995,13 +2995,13 @@
     <td><a href="https://pub.flutter-io.cn/packages/pull_to_refresh">pull_to_refresh</a></td>
     <td>一个提供上拉加载和下拉刷新的组件,同时支持Android和Ios。</td>
     <td>Invalid Date</td>
-    <td>1544</td>
+    <td>1548</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/badges">badges</a></td>
     <td>用于创建徽章，可用于任何小部件的附加标记，例如，显示购物车中的许多物品。</td>
     <td>Invalid Date</td>
-    <td>1316</td>
+    <td>1320</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/city_pickers">city_pickers</a></td>
@@ -3025,13 +3025,13 @@
     <td><a href="https://pub.flutter-io.cn/packages/flutter_rating_bar">flutter_rating_bar</a></td>
     <td>一个简单但完全可定制的评分栏。</td>
     <td>Invalid Date</td>
-    <td>941</td>
+    <td>943</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_easyloading">flutter_easyloading</a></td>
     <td>一个简单易用的Flutter插件，包含23种loading动画效果、进度条展示、Toast展示。纯Flutter端实现，兼容性好，支持iOS、Android。</td>
     <td>Invalid Date</td>
-    <td>762</td>
+    <td>763</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flui">flui</a></td>
@@ -3049,20 +3049,20 @@
     <td><a href="https://pub.flutter-io.cn/packages/flutter_picker" rel="nofollow">flutter_picker</a></td>
     <td>Flutter插件选择器。包括NumberPicker，DateTimePicker，ArrayPicker和默认链接选择器。</td>
     <td>Invalid Date</td>
-    <td>262</td>
+    <td>263</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/syncfusion_flutter_sliders" rel="nofollow">syncfusion_flutter_sliders</a></td>
     <td>用于创建高度可定制且 UI 丰富的滑块、范围滑块和范围选择器小部件。</td>
     <td>Invalid Date</td>
-    <td>290</td>
+    <td>291</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/expandable" rel="nofollow">expandable</a></td>
     <td>通过单击标题或图标来展开或折叠的 Flutter 小部件。</td>
     <td>Invalid Date</td>
-    <td>863</td>
+    <td>864</td>
   </tr>
       
   <tr class="item">
@@ -3111,7 +3111,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/video_thumbnail" rel="nofollow">video_thumbnail</a></td>
     <td>从本地视频文件或视频 URL 创建缩略图。</td>
     <td>Invalid Date</td>
-    <td>200</td>
+    <td>201</td>
   </tr>
       
   <tr class="item">
@@ -3132,7 +3132,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/video_player" rel="nofollow">video_player</a></td>
     <td>用于在 Android、iOS 和 Web 上与其他 Flutter 小部件一起显示内联视频。</td>
     <td>Invalid Date</td>
-    <td>1305</td>
+    <td>1308</td>
   </tr>
       
   <tr class="item">
@@ -3160,7 +3160,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/tapioca" rel="nofollow">tapioca</a></td>
     <td>Tapioca 是一个 Flutter 插件，用于在 Android 和 iOS 上进行视频编辑。</td>
     <td>Invalid Date</td>
-    <td>60</td>
+    <td>61</td>
   </tr>
       
   <tr class="item">
@@ -3195,7 +3195,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/video_compress" rel="nofollow">video_compress</a></td>
     <td>视频操作的轻量级库。压缩视频，删除音频，从 dart 代码中获取视频缩略图。</td>
     <td>Invalid Date</td>
-    <td>240</td>
+    <td>241</td>
   </tr>
 	  
   <tr class="item">
@@ -3229,7 +3229,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/just_audio" rel="nofollow">just_audio</a></td>
     <td>Flutter的功能丰富的音频播放器。以各种音频格式循环播放，剪辑和连接来自任何来源）的任何声音，并实现无缝播放。</td>
     <td>Invalid Date</td>
-    <td>1477</td>
+    <td>1483</td>
   </tr>
 
   <tr class="item">
@@ -3260,13 +3260,13 @@
     <td><a href="https://pub.flutter-io.cn/packages/audioplayers">audioplayers</a></td>
     <td>可同时播放多个音频文件。</td>
     <td>Invalid Date</td>
-    <td>1204</td>
+    <td>1208</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_sound">flutter_sound</a></td>
     <td>音频录制处理。</td>
     <td>Invalid Date</td>
-    <td>677</td>
+    <td>678</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/fijkplayer">fijkplayer</a></td>
@@ -3284,13 +3284,13 @@
     <td><a href="https://pub.flutter-io.cn/packages/chewie">chewie</a></td>
     <td>Flutter的视频播放器，带有Cupertino和Material播放控件。</td>
     <td>Invalid Date</td>
-    <td>744</td>
+    <td>746</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_webrtc">flutter_webrtc</a></td>
     <td>Flutter WebRTC插件。</td>
     <td>Invalid Date</td>
-    <td>499</td>
+    <td>500</td>
   </tr>
   </tbody>
 </table>
@@ -3359,7 +3359,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/octo_image" rel="nofollow">octo_image</a></td>
     <td>多功能 Flutter 图像小部件。支持带有淡入淡出的占位符、错误小部件和图像转换器。</td>
     <td>Invalid Date</td>
-    <td>449</td>
+    <td>450</td>
   </tr>
       
   <tr class="item">
@@ -3492,7 +3492,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/animate_icons" rel="nofollow">animate_icons</a></td>
     <td>可以在任何两个图标之间设置动画。</td>
     <td>Invalid Date</td>
-    <td>92</td>
+    <td>93</td>
   </tr>
       
   <tr class="item">
@@ -3506,7 +3506,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/material_design_icons_flutter" rel="nofollow">material_design_icons_flutter</a></td>
     <td>社区为 Flutter 设计的 Material Design 图标。</td>
     <td>Invalid Date</td>
-    <td>400</td>
+    <td>401</td>
   </tr>
       
   <tr class="item">
@@ -3520,7 +3520,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/image" rel="nofollow">image</a></td>
     <td>使服务器和 Web 应用程序能够加载、操作和保存具有各种图像文件格式的图像。</td>
     <td>Invalid Date</td>
-    <td>622</td>
+    <td>625</td>
   </tr>
          
   <tr class="item">
@@ -3541,14 +3541,14 @@
     <td><a href="https://pub.flutter-io.cn/packages/qr_flutter" rel="nofollow">qr_flutter</a></td>
     <td>简单快速地渲染二维码。</td>
     <td>Invalid Date</td>
-    <td>885</td>
+    <td>886</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/image_editor_pro" rel="nofollow">image_editor_pro</a></td>
     <td>图像编辑器插件，简单、轻松地支持使用油漆、文本和表情符号。</td>
     <td>Invalid Date</td>
-    <td>234</td>
+    <td>235</td>
   </tr>
       
   <tr class="item">
@@ -3576,20 +3576,20 @@
     <td><a href="https://pub.flutter-io.cn/packages/crop" rel="nofollow">crop</a></td>
     <td>裁剪任何小部件，不仅限于图像。</td>
     <td>Invalid Date</td>
-    <td>131</td>
+    <td>132</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/drawing_animation" rel="nofollow">drawing_animation</a></td>
     <td>画布上逐渐绘制SVG路径对象。</td>
     <td>Invalid Date</td>
-    <td>109</td>
+    <td>110</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_launcher_icons" rel="nofollow">flutter_launcher_icons</a></td>
     <td>Flutter启动器图标-一个软件包。</td>
     <td>Invalid Date</td>
-    <td>3128</td>
+    <td>3138</td>
   </tr>
   <tr class="changeLogItem">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_blurhash" rel="nofollow">flutter_blurhash</a></td>
@@ -3625,7 +3625,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/flutter_custom_clippers">flutter_custom_clippers</a></td>
     <td>将widget裁剪成各种自定义形状。</td>
     <td>Invalid Date</td>
-    <td>393</td>
+    <td>394</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/loading_gifs">loading_gifs</a></td>
@@ -3655,7 +3655,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/flutter_icons">flutter_icons</a></td>
     <td>可定制的Flutter图标，在Flutter项目中可以使用超过3K +图标。</td>
     <td>Invalid Date</td>
-    <td>633</td>
+    <td>637</td>
    </tr>
    <tr class="item"> 
      <td><a href="https://pub.flutter-io.cn/packages/signature">signature</a></td>
@@ -3667,7 +3667,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/screenshot">screenshot</a></td>
     <td>Flutter屏幕截图程序包（运行时），将任何小部件捕获为图像。</td>
     <td>Invalid Date</td>
-    <td>412</td>
+    <td>413</td>
    </tr>
    <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/crop_your_image">crop_your_image</a></td>
@@ -3681,7 +3681,7 @@
    </tr>   
    <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/image_gallery_saver">image_gallery_saver</a></td><td>用于将图像保存到图库的flutter插件。</td>
-    <td>Invalid Date</td><td>267</td>
+    <td>Invalid Date</td><td>268</td>
    </tr>
    <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/nineold">nineold</a></td>
@@ -3693,7 +3693,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/photo_manager">photo_manager</a></td>
     <td>使用api创建图像选择器或使用照片。</td>
     <td>Invalid Date</td>
-    <td>245</td>
+    <td>247</td>
    </tr>
    <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/image_cropper">image_cropper</a></td>
@@ -3705,7 +3705,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/edge_detection">edge_detection</a></td>
     <td>检测对象的边缘，扫描纸张，检测角，检测矩形。它允许裁剪检测到的对象图像并返回裁剪图像的路径。</td>
     <td>Invalid Date</td>
-    <td>106</td>
+    <td>107</td>
    </tr>
    <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/before_after">before_after</a></td>
@@ -3729,13 +3729,13 @@
     <td><a href="https://pub.flutter-io.cn/packages/flutter_image_compress">flutter_image_compress</a></td>
     <td>图片压缩。</td>
     <td>Invalid Date</td>
-    <td>483</td>
+    <td>484</td>
    </tr>
    <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/cached_network_image">cached_network_image</a></td>
     <td>Flutter库可加载和缓存网络图像。</td>
     <td>Invalid Date</td>
-    <td>2625</td>
+    <td>2632</td>
    </tr>
    <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_gifimage">flutter_gifimage</a></td>
@@ -3750,7 +3750,7 @@
       支持加载以及失败显示，缓存网络图片，缩放拖拽图片，图片浏览(微信掘金效果)，滑动退出页面(微信掘金效果)，编辑图片(裁剪旋转翻转)，保存，绘制自定义效果等功能。
     </td>
     <td>Invalid Date</td>
-    <td>823</td>
+    <td>824</td>
    </tr>
    <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/extended_image_library">extended_image_library</a></td>
@@ -3762,7 +3762,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/flutter_svg">flutter_svg</a></td>
     <td>Flutter的SVG渲染和窗口小部件库，允许绘制和显示可缩放矢量图形。</td>
     <td>Invalid Date</td>
-    <td>2089</td>
+    <td>2098</td>
    </tr>
    <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/font_awesome_flutter">font_awesome_flutter</a></td>
@@ -3780,7 +3780,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/photo_view">photo_view</a></td>
     <td>图像能够通过用户手势（例如捏，旋转和拖动）进行缩放和平移，还可以显示任何窗口小部件而不是图像，例如容器，文本或SVG。</td>
     <td>Invalid Date</td>
-    <td>1378</td>
+    <td>1379</td>
    </tr>
    <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_emoji">flutter_emoji</a></td>
@@ -3875,14 +3875,14 @@
     <td><a href="https://pub.flutter-io.cn/packages/date_format" rel="nofollow">date_format</a></td>
     <td>用于格式化日期。提供各种常量以构建Date格式的字符串。使用`formatDate`方法根据格式字符串格式化日期。</td>
     <td>Invalid Date</td>
-    <td>240</td>
+    <td>241</td>
   </tr>
 	  	  
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/table_calendar">table_calendar</a></td>
     <td>高度可定制的功能丰富的Flutter日历，具有手势，动画和多种格式。</td>
     <td>Invalid Date</td>
-    <td>1246</td>
+    <td>1249</td>
   </tr>
 	  
   <tr class="item">
@@ -3910,7 +3910,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/timeline_tile">timeline_tile</a></td>
     <td>建立高度可定制的时间线。</td>
     <td>Invalid Date</td>
-    <td>1036</td>
+    <td>1038</td>
   </tr>
 	  
   <tr class="item">
@@ -3959,14 +3959,14 @@
     <td><a href="https://pub.flutter-io.cn/packages/syncfusion_flutter_datepicker" rel="nofollow">syncfusion_flutter_datepicker</a></td>
     <td>使用户可以轻松选择日期或日期范围。</td>
     <td>Invalid Date</td>
-    <td>557</td>
+    <td>558</td>
   </tr>
 	  
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/syncfusion_flutter_calendar" rel="nofollow">syncfusion_flutter_calendar</a></td>
     <td>九个内置的可配置视图，提供用于高效安排和表示约会/事件的基本功能。</td>
     <td>Invalid Date</td>
-    <td>607</td>
+    <td>608</td>
   </tr>   
 	  
   </tbody>
@@ -4002,7 +4002,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/animated_splash_screen" rel="nofollow">animated_splash_screen</a></td>
     <td>以完全可定制的方式创建动画启动画面的最简单方法。</td>
     <td>Invalid Date</td>
-    <td>239</td>
+    <td>240</td>
   </tr>
       
   <tr class="item">
@@ -4030,21 +4030,21 @@
     <td><a href="https://pub.flutter-io.cn/packages/delayed_display" rel="nofollow">delayed_display</a></td>
     <td>在延迟后以漂亮的淡入淡出和滑动动画显示子项。</td>
     <td>Invalid Date</td>
-    <td>233</td>
+    <td>235</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/rive" rel="nofollow">rive</a></td>
     <td>提供运行时功能，用于回放使用 Rive 编辑器构建的动画并与之交互。</td>
     <td>Invalid Date</td>
-    <td>554</td>
+    <td>557</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_animator" rel="nofollow">flutter_animator</a></td>
     <td>能够以更少的代码更快、更高效地创建令人惊叹的动画。</td>
     <td>Invalid Date</td>
-    <td>191</td>
+    <td>192</td>
   </tr>
       
   <tr class="item">
@@ -4093,7 +4093,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/funvas" rel="nofollow">funvas</a></td>
     <td>根据时间和数学函数创建画布动画的包。</td>
     <td>Invalid Date</td>
-    <td>97</td>
+    <td>96</td>
   </tr>
       
   <tr class="item">
@@ -4114,7 +4114,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/auto_animated" rel="nofollow">auto_animated</a></td>
     <td>可以为列表和图标设置动画。</td>
     <td>Invalid Date</td>
-    <td>645</td>
+    <td>646</td>
   </tr>
       
   <tr class="item">
@@ -4149,76 +4149,76 @@
     <td><a href="https://pub.flutter-io.cn/packages/concentric_transition">concentric_transition</a></td>
     <td>适用于入门，页面过渡，自定义剪切器等。</td>
     <td>Invalid Date</td>
-    <td>312</td>
+    <td>315</td>
    </tr>
 	  
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flip_card">flip_card</a></td>
     <td>翻页动画的组件，可以用于隐藏和显示产品的详细信息。</td>
     <td>Invalid Date</td>
-    <td>480</td>
+    <td>481</td>
   </tr>
 	  
   <tr class="item">
      <td><a href="https://pub.flutter-io.cn/packages/like_button">like_button</a></td>
      <td>点赞按钮动画。</td>
      <td>Invalid Date</td>
-     <td>653</td>
+     <td>655</td>
   </tr>
 	  
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/animated_text_kit">animated_text_kit</a></td>
     <td>酷炫的漂亮文字动画。</td>
     <td>Invalid Date</td>
-    <td>2504</td>
+    <td>2506</td>
   </tr>
 	  
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/liquid_swipe">liquid_swipe</a></td>
     <td>液体效果的页面切换组件。</td>
     <td>Invalid Date</td>
-    <td>667</td>
+    <td>668</td>
   </tr>
         <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/shimmer">shimmer</a></td>
     <td>为控件添加闪光效果。</td>
     <td>Invalid Date</td>
-    <td>2036</td>
+    <td>2037</td>
   </tr>
 
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flare_flutter">flare_flutter</a></td>
     <td>Flutter 的动画插件。</td>
     <td>Invalid Date</td>
-    <td>548</td>
+    <td>549</td>
   </tr>
 	  
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/lottie" rel="nofollow">lottie</a></td>
     <td>在Flutter上本地渲染After Effects动画。该软件包是Lottie播放器的纯Dart实现。</td>
     <td>Invalid Date</td>
-    <td>1272</td>
+    <td>1277</td>
   </tr>
 	  
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/simple_animations" rel="nofollow">simple_animations</a></td>
     <td>创建精美的自定义动画。</td>
     <td>Invalid Date</td>
-    <td>1223</td>
+    <td>1224</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/animate_do" rel="nofollow">animate_do</a></td>
     <td>受Animate.css启发的动画包，仅使用 Flutter 动画构建，没有额外的包。</td>
     <td>Invalid Date</td>
-    <td>2025</td>
+    <td>2028</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/animations" rel="nofollow">animations</a></td>
     <td>轻松集成到任何 Flutter 应用程序中的精美预建动画。</td>
     <td>Invalid Date</td>
-    <td>3251</td>
+    <td>3253</td>
   </tr>
   </tbody>
 </table>
@@ -4266,7 +4266,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/syncfusion_flutter_gauges" rel="nofollow">syncfusion_flutter_gauges</a></td>
     <td>Flutter 仪表库包括线性仪表和径向仪表（又名圆形仪表），用于创建现代、交互式、动画仪表和径向滑块。</td>
     <td>Invalid Date</td>
-    <td>460</td>
+    <td>461</td>
   </tr>
       
   <tr class="item">
@@ -4280,7 +4280,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/syncfusion_flutter_charts" rel="nofollow">syncfusion_flutter_charts</a></td>
     <td>Dart 原生编写的数据可视化库，用于创建美观、动画和高性能的图表</td>
     <td>Invalid Date</td>
-    <td>1368</td>
+    <td>1371</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/time_chart">time_chart</a></td>
@@ -4298,31 +4298,31 @@
     <td><a href="https://pub.flutter-io.cn/packages/flutter_echarts">flutter_echarts</a></td>
     <td>基于Echarts的数据可视化图表库，能够构建高级图表，例如WebGL 3D，GIS地图等。</td>
     <td>Invalid Date</td>
-    <td>263</td>
+    <td>264</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/fl_chart">fl_chart</a></td>
     <td>Flutter图表库，当前支持折线图，条形图和饼图。</td>
     <td>Invalid Date</td>
-    <td>2234</td>
+    <td>2236</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/charts_flutter">charts_flutter</a></td>
     <td>Material Design图表库。</td>
     <td>Invalid Date</td>
-    <td>971</td>
+    <td>972</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/percent_indicator">percent_indicator</a></td>
     <td>根据百分比显示进度小部件，可以是圆形或线性的，也可以根据需要进行自定义。</td>
     <td>Invalid Date</td>
-    <td>1008</td>
+    <td>1011</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/graphview">graphview</a></td>
     <td>图形结构显示数据。它可以显示树形布局和层次结构图。</td>
     <td>Invalid Date</td>
-    <td>176</td>
+    <td>177</td>
   </tr>
   </tbody>
 </table>
@@ -4356,7 +4356,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/animated_stack" rel="nofollow">animated_stack</a></td>
     <td>自定义动画堆叠页面，以创建可自定义的侧边菜单按钮。</td>
     <td>Invalid Date</td>
-    <td>120</td>
+    <td>121</td>
   </tr>
       
   <tr class="item">
@@ -4401,7 +4401,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/flutter_zoom_drawer">flutter_zoom_drawer</a></td>
     <td>侧边菜单（抽屉）的自定义实现。</td>
     <td>Invalid Date</td>
-    <td>430</td>
+    <td>431</td>
   </tr>
   </tbody>
 </table>
@@ -4449,21 +4449,21 @@
     <td><a href="https://pub.flutter-io.cn/packages/tab_indicator_styler" rel="nofollow">tab_indicator_styler</a></td>
     <td>将漂亮且流行的标签指示器直接添加到默认的 Flutter TabBar。</td>
     <td>Invalid Date</td>
-    <td>120</td>
+    <td>121</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_snake_navigationbar" rel="nofollow">flutter_snake_navigationbar</a></td>
     <td>底部导航栏小部件在更改项上带有蛇形动画。</td>
     <td>Invalid Date</td>
-    <td>378</td>
+    <td>380</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/google_nav_bar" rel="nofollow">google_nav_bar</a></td>
     <td>谷歌风格的底部导航栏。</td>
     <td>Invalid Date</td>
-    <td>639</td>
+    <td>640</td>
   </tr>
       
   <tr class="item">
@@ -4477,7 +4477,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/salomon_bottom_bar" rel="nofollow">salomon_bottom_bar</a></td>
     <td>炫酷的底部导航栏。</td>
     <td>Invalid Date</td>
-    <td>320</td>
+    <td>321</td>
   </tr>
       
   <tr class="item">
@@ -4514,7 +4514,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/flutter_speed_dial">flutter_speed_dial</a></td>
     <td>可展开选项的浮动按钮。</td>
     <td>Invalid Date</td>
-    <td>563</td>
+    <td>564</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/focused_menu">focused_menu</a></td>
@@ -4526,7 +4526,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/bottom_navy_bar">bottom_navy_bar</a></td>
     <td>精美而生动的底部导航。</td>
     <td>Invalid Date</td>
-    <td>718</td>
+    <td>719</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/cuberto_bottom_bar">cuberto_bottom_bar</a></td>
@@ -4538,7 +4538,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/convex_bottom_bar">convex_bottom_bar</a></td>
     <td>实现ConvexAppBar以在底部栏中显示一个凸形选项卡。支持主题。</td>
     <td>Invalid Date</td>
-    <td>1547</td>
+    <td>1549</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/full_screen_menu">full_screen_menu</a></td>
@@ -4556,13 +4556,13 @@
     <td><a href="https://pub.flutter-io.cn/packages/curved_navigation_bar">curved_navigation_bar</a></td>
     <td>可轻松实现弯曲的导航栏。</td>
     <td>Invalid Date</td>
-    <td>1126</td>
+    <td>1128</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/persistent_bottom_nav_bar">persistent_bottom_nav_bar</a></td>
     <td>高度可定制的持久性/静态底部导航栏。</td>
     <td>Invalid Date</td>
-    <td>1074</td>
+    <td>1075</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flashy_tab_bar">flashy_tab_bar</a></td>
@@ -4614,14 +4614,14 @@
     <td><a href="https://pub.flutter-io.cn/packages/rflutter_alert" rel="nofollow">rflutter_alert</a></td>
     <td>用于 Flutter 的超级可定制且易于使用的警报/弹出对话框。</td>
     <td>Invalid Date</td>
-    <td>681</td>
+    <td>683</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/material_dialogs" rel="nofollow">material_dialogs</a></td>
     <td>帮助您在应用程序中创建动画、简单、时尚的material对话框。</td>
     <td>Invalid Date</td>
-    <td>102</td>
+    <td>103</td>
   </tr>
       
   <tr class="item">
@@ -4656,14 +4656,14 @@
     <td><a href="https://pub.flutter-io.cn/packages/awesome_dialog" rel="nofollow">awesome_dialog</a></td>
     <td>尽可能简单的动画显示漂亮的对话框。</td>
     <td>Invalid Date</td>
-    <td>639</td>
+    <td>640</td>
   </tr>
 	  
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/fluttertoast">fluttertoast</a></td>
     <td>Toast 组件。</td>
     <td>Invalid Date</td>
-    <td>1590</td>
+    <td>1593</td>
   </tr>
 	  
   <tr class="item">
@@ -4676,7 +4676,7 @@
      <td><a href="https://pub.flutter-io.cn/packages/bot_toast">bot_toast</a></td> 
      <td>易于使用的Flutter Toast库，易于使用且功能丰富。</td>
      <td>Invalid Date</td>
-    <td>534</td>
+    <td>535</td>
    </tr>
    <tr class="item">
      <td><a href="https://pub.flutter-io.cn/packages/flash">flash</a></td>
@@ -4701,7 +4701,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/gzx_dropdown_menu">gzx_dropdown_menu</a></td>
     <td>易于使用且功能强大的自定义功能，仿美团和淘宝下拉菜单。</td> 
     <td>Invalid Date</td>
-    <td>107</td>
+    <td>108</td>
   </tr>
    <tr class="item"> 
      <td><a href="https://pub.flutter-io.cn/packages/giffy_dialog">giffy_dialog</a></td>
@@ -4719,25 +4719,25 @@
     <td><a href="https://pub.flutter-io.cn/packages/showcaseview">showcaseview</a></td>
     <td>逐步展示/突出显示小部件，用于引导说明效果。</td>
     <td>Invalid Date</td>
-    <td>715</td>
+    <td>717</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/direct_select_flutter">direct_select_flutter</a></td>
     <td>选择控件，具有飘渺的全屏模式弹出窗口。</td>
     <td>Invalid Date</td>
-    <td>205</td>
+    <td>206</td>
   </tr>
    <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/sliding_sheet">sliding_sheet</a></td>
     <td>以单个手势拖动和滚动并捕捉到范围列表的小部件。</td>
     <td>Invalid Date</td>
-   <td>550</td>
+   <td>551</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/upgrader">upgrader</a></td>
     <td>用于在商店中有较新版本的应用程序时提示用户进行升级。</td>
     <td>Invalid Date</td>
-    <td>523</td>
+    <td>525</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/sliding_panel">sliding_panel</a></td>
@@ -4761,13 +4761,13 @@
     <td><a href="https://pub.flutter-io.cn/packages/sliding_up_panel">sliding_up_panel</a></td>
     <td>可拖动的底部弹片实现。</td>
     <td>Invalid Date</td>
-    <td>1548</td>
+    <td>1549</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/modal_bottom_sheet">modal_bottom_sheet</a></td>
     <td>创建令人敬畏而强大的模态底板。</td>
     <td>Invalid Date</td>
-    <td>1547</td>
+    <td>1548</td>
   </tr>
   </tbody>
 </table>
@@ -4894,7 +4894,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/card_swiper" rel="nofollow">card_swiper</a></td>
     <td>一个 macOS 插件，可以为全局键盘快捷键注册回调。</td>
     <td>Invalid Date</td>
-    <td>155</td>
+    <td>156</td>
   </tr>	  
 	        
   <tr class="item">
@@ -4951,14 +4951,14 @@
     <td><a href="https://pub.flutter-io.cn/packages/flutter_facebook_auth" rel="nofollow">flutter_facebook_auth</a></td>
     <td>将 facebook 登录添加到您的 Flutter 应用程序、获取用户信息、个人资料图片等的最简单方法。包括网络支持。</td>
     <td>Invalid Date</td>
-    <td>548</td>
+    <td>551</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/google_sign_in" rel="nofollow">google_sign_in</a></td>
     <td>用于 Google Sign-In 的 Flutter 插件，一种用于在 Android 和 iOS 上使用 Google 帐户登录的安全身份验证系统。</td>
     <td>Invalid Date</td>
-    <td>1402</td>
+    <td>1404</td>
   </tr>
       
   <tr class="item">
@@ -5098,7 +5098,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/mongo_dart" rel="nofollow">mongo_dart</a></td>
     <td>MongoDB 驱动程序，在纯 Dart 中实现。所有 CRUD 操作、聚合管道。</td>
     <td>Invalid Date</td>
-    <td>202</td>
+    <td>203</td>
   </tr>
       
   <tr class="item">
@@ -5112,14 +5112,14 @@
     <td><a href="https://pub.flutter-io.cn/packages/mqtt_client" rel="nofollow">mqtt_client</a></td>
     <td>用于 Dart 的基于服务器和浏览器的 MQTT 客户端。</td>
     <td>Invalid Date</td>
-    <td>193</td>
+    <td>194</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/hive" rel="nofollow">hive</a></td>
     <td>用纯 Dart 编写的轻量级和极快的键值数据库。</td>
     <td>Invalid Date</td>
-    <td>2633</td>
+    <td>2641</td>
   </tr>
       
   <tr class="item">
@@ -5133,7 +5133,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/flutter_stripe" rel="nofollow">flutter_stripe</a></td>
     <td>Stripe 的flutter库，支持 PaymentSheets、Apple 和 Google Pay、SCA、PSD2 等。</td>
     <td>Invalid Date</td>
-    <td>275</td>
+    <td>277</td>
   </tr>
       
   <tr class="item">
@@ -5147,7 +5147,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/flutter_cache_manager" rel="nofollow">flutter_cache_manager</a></td>
     <td>用于在应用程序的缓存目录中下载和缓存文件。可以更改有关文件保留时间的各种设置。</td>
     <td>Invalid Date</td>
-    <td>675</td>
+    <td>676</td>
   </tr>
       
   <tr class="item">
@@ -5168,7 +5168,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/firebase_messaging">firebase_messaging</a></td>
     <td>Firebase消息传递插件。</td>
     <td>Invalid Date</td>
-    <td>1828</td>
+    <td>1832</td>
   </tr>
 	  
   <tr class="item">
@@ -5216,31 +5216,31 @@
     <td><a href="https://pub.flutter-io.cn/packages/firebase_core" rel="nofollow">firebase_core</a></td>
     <td>用于Firebase Core的Flutter插件，可连接到多个Firebase应用程序。</td>
     <td>Invalid Date</td>
-    <td>1429</td>
+    <td>1432</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/cloud_firestore" rel="nofollow">cloud_firestore</a></td>
     <td>用于Cloud Firestore的Flutter插件，这是一个云托管的noSQL数据库，具有实时同步功能。</td>
     <td>Invalid Date</td>
-    <td>1842</td>
+    <td>1843</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/sqflite" rel="nofollow">sqflite</a></td>
     <td>SQLite的Flutter插件。</td>
     <td>Invalid Date</td>
-    <td>2369</td>
+    <td>2373</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/firebase_auth" rel="nofollow">firebase_auth</a></td>
     <td>用于Firebase身份验证的Flutter插件。</td>
     <td>Invalid Date</td>
-    <td>2034</td>
+    <td>2037</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/share_plus" rel="nofollow">share_plus</a></td>
     <td>通过平台的“共享”对话框共享Flutter应用程序中的内容。</td>
     <td>Invalid Date</td>
-    <td>617</td>
+    <td>621</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/dim">dim</a></td>
@@ -5252,7 +5252,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/speech_to_text">speech_to_text</a></td>
     <td>将特定于设备的语音显示给文本识别功能。</td>
     <td>Invalid Date</td>
-    <td>459</td>
+    <td>460</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_tts">flutter_tts</a></td>
@@ -5276,7 +5276,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/socket_io_client">socket_io_client</a></td>
     <td>用于Web，Flutter和dartvm的socket.io-client的Dartlang端口。</td>
     <td>Invalid Date</td>
-    <td>509</td>
+    <td>510</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/jpush_flutter">jpush_flutter</a></td>
@@ -5309,14 +5309,14 @@
     <td><a href="https://pub.flutter-io.cn/packages/google_map_location_picker" rel="nofollow">google_map_location_picker</a></td>
     <td>基于 google_maps_flutter 的 Flutter 地图位置选择器。</td>
     <td>Invalid Date</td>
-    <td>207</td>
+    <td>206</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/google_maps_flutter" rel="nofollow">google_maps_flutter</a></td>
     <td>用于在 iOS 和 Android 应用程序中集成谷歌地图。</td>
     <td>Invalid Date</td>
-    <td>2027</td>
+    <td>2028</td>
   </tr>
       
   <tr class="item">
@@ -5351,7 +5351,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/map_launcher" rel="nofollow">map_launcher</a></td>
     <td>查找安装在设备上的可用地图，并使用标记启动它们或显示方向。</td>
     <td>Invalid Date</td>
-    <td>300</td>
+    <td>302</td>
   </tr>
       
   <tr class="item">
@@ -5365,7 +5365,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/flutter_background_geolocation" rel="nofollow">flutter_background_geolocation</a></td>
     <td>先进的背景位置跟踪和地理围栏模块。</td>
     <td>Invalid Date</td>
-    <td>305</td>
+    <td>306</td>
   </tr>
       
   <tr class="item">
@@ -5386,7 +5386,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/flutter_map" rel="nofollow">flutter_map</a></td>
     <td>Leaflet 的 Dart 实现，为 Flutter 应用程序提供地图小部件。</td>
     <td>Invalid Date</td>
-    <td>648</td>
+    <td>649</td>
   </tr>
       
   <tr class="item">
@@ -5414,7 +5414,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/location" rel="nofollow">location</a></td>
     <td>可轻松处理iOS和Android中的实时位置。</td>
     <td>Invalid Date</td>
-    <td>1519</td>
+    <td>1522</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/amap_location_fluttify">amap_location_fluttify </a></td>
@@ -5459,20 +5459,20 @@
     <td><a href="https://pub.flutter-io.cn/packages/webview_flutter" rel="nofollow">webview_flutter</a></td>
     <td>在 Android 和 iOS 上提供 WebView 小部件的 Flutter 插件。</td>
     <td>Invalid Date</td>
-    <td>1750</td>
+    <td>1762</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/html" rel="nofollow">html</a></td>
     <td>用于在浏览器外解析和操作 HTML 内容的 API。</td>
     <td>Invalid Date</td>
-    <td>266</td>
+    <td>267</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_inappwebview">flutter_inappwebview</a></td>
     <td>可让您添加嵌入式Web视图，使用Web视图以及打开应用内浏览器窗口。</td>
     <td>Invalid Date</td>
-    <td>910</td>
+    <td>914</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_widget_from_html">flutter_widget_from_html</a></td>
@@ -5480,19 +5480,19 @@
       用于从html构建小部件树的Flutter软件包，支持超链接，图像，嵌套列表等。
     </td>
     <td>Invalid Date</td>
-    <td>263</td>
+    <td>264</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_html">flutter_html</a></td>
     <td>用于将静态html标记呈现为Flutter小部件（将呈现超过70种不同的HTML标签！）。</td>
     <td>Invalid Date</td>
-    <td>917</td>
+    <td>922</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_webview_plugin">flutter_webview_plugin</a></td>
     <td>允许Flutter与本机WebView通信的插件。</td>
     <td>Invalid Date</td>
-    <td>510</td>
+    <td>512</td>
   </tr>
   </tbody>
 </table>
