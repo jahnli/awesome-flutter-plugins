@@ -15,6 +15,16 @@
 <br>	
 <div class="changeLog">
 
+<div class="changeLogItem 12-15">
+      <h3>12-15</h3>
+      <ul>
+        <li><a href="https://pub.flutter-io.cn/packages/bruno">bruno</a> - 类似ElementUI用于移动应用程序的企业级 Flutter 组件包。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_aliplayer">flutter_aliplayer</a> -  Flutter 的阿里云播放器。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_qq_ads">flutter_qq_ads</a> - 基于「腾讯广告、广点通、优量汇」SDK 的插件。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_pangle_ads">flutter_pangle_ads</a> - Flutter 广告插件（字节跳动、穿山甲）。</li>  
+      </ul> 
+</div>
+
 <div class="changeLogItem 11-11">
       <h3>11-11</h3>
       <ul>
@@ -28,40 +38,7 @@
       </ul> 
 </div>
 
-<div class="changeLogItem 10-13">
-      <h3>10-13</h3>
-      <ul>
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_interactional_widget">flutter_interactional_widget</a> - 重力感应交互的 widget 集合。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/snap_scroll_physics">snap_scroll_physics</a> - 允许您的滚动视图优先考虑要停止的点或不停止的区域。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/animator">animator</a> - 使动画更轻松的 Flutter 库。它允许将动画设置与用户界面分离。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/youtube_player_iframe">youtube_player_iframe</a> - 官方 YouTube iFrame 播放器 API 的 Flutter 端口。支持网络和移动平台。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/purchases_flutter">purchases_flutter</a> - 一个 Flutter 插件，可以轻松添加和管理应用内购买 (IAP) 和订阅。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/google_map_location_picker">google_map_location_picker</a> - 基于 google_maps_flutter 的 Flutter 地图位置选择器。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/localstorage">localstorage</a> - Flutter 的简单基于 json 文件的存储。替代本机 AsyncStorage</li>
-        <li><a href="https://pub.flutter-io.cn/packages/advance_pdf_viewer">advance_pdf_viewer</a> - 用于处理 PDF 文件的 Flutter 插件。适用于 Android 和 iOS</li>
-        <li><a href="https://pub.flutter-io.cn/packages/window_manager">window_manager</a> - 允许 Flutter桌面应用程序调整窗口大小和重新定位。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/system_tray">system_tray</a> - system_tray 可以轻松自定义托盘。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/screen_retriever">screen_retriever</a> - 该插件允许 Flutter 桌面应用程序检索有关屏幕大小、显示、光标位置等的信息。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/nativeshell">nativeshell</a> - NativeShell Dart API。用于与 NativeShell 平台代码交互。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/window_decorations">window_decorations</a> - 提供 Linux 主题中大部分窗口装饰的包。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/macos_ui">macos_ui</a> - 实现当前 macOS 设计语言的 Flutter 小部件和主题。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/time">time</a> - 类型安全的日期时间和持续时间计算，由扩展提供支持。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/window_decorations">window_decorations</a> - 提供 Linux 主题中大部分窗口装饰的包。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/hotkey_manager">hotkey_manager</a> - 允许 Flutter 桌面应用程序定义系统/应用程序范围内的热键（即快捷方式）。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_media_metadata">flutter_media_metadata</a> - 用于读取媒体文件元数据的 Flutter 插件。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_acrylic">flutter_acrylic</a> - 在 Windows 和 Linux 上的窗口模糊和透明效果。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/fluent_ui">fluent_ui</a> - 在 Flutter 中实现 Windows UI。基于官方文档。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/desktop_drop">desktop_drop</a> - 一个插件，允许用户将文件拖动到您的 Flutter 桌面应用程序。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/desktoasts">desktoasts</a> - 在 Windows 上显示本机 toast 的插件。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/card_swiper">card_swiper</a> - 一个 macOS 插件，可以为全局键盘快捷键注册回调。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/encrypt">encrypt</a> - PointyCastle 上的一组用于双向加密的高级 API。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/facebook_audience_network">facebook_audience_network</a> - Facebook Audience Network 插件。您可以通过此插件展示 Facebook 横幅广告、插页式广告、奖励视频广告和原生广告。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_multi_formatter">flutter_multi_formatter</a> - 国际电话号码格式化程序包、信用卡/借记卡和屏蔽格式化程序</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/rename">rename</a> - 帮助您为 Ios、Android、MacOS 和 Linux 平台更改或重命名您的 Flutter 项目 BundleId 和 AppName</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/protocol_registry">protocol_registry</a> - 轻松注册/查询/删除 URI 方案。适用于 Windows 和 Linux。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/global_shortcuts">global_shortcuts</a> - 一个 macOS 插件，可以为全局键盘快捷键注册回调。</li>  
-      </ul> 
-</div>
+
 
 
 
@@ -2089,6 +2066,13 @@
   <tbody id="UI">
       
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/bruno" rel="nofollow">bruno</a></td>
+    <td>类似ElementUI用于移动应用程序的企业级 Flutter 组件包。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/timer_count_down" rel="nofollow">timer_count_down</a></td>
     <td>简单的倒数计时器。用于创建一个简单的计时器。</td>
     <td>2021-12-12</td>
@@ -3092,6 +3076,13 @@
   </tr>
   </thead>
   <tbody id="音视频类">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_aliplayer" rel="nofollow">flutter_aliplayer</a></td>
+    <td> Flutter 的阿里云播放器。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/youtube_player_iframe" rel="nofollow">youtube_player_iframe</a></td>
@@ -4946,6 +4937,20 @@
   </tr>
   </thead>
   <tbody id="通讯类">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_qq_ads" rel="nofollow">flutter_qq_ads</a></td>
+    <td>基于「腾讯广告、广点通、优量汇」SDK 的插件。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_pangle_ads" rel="nofollow">flutter_pangle_ads</a></td>
+    <td>Flutter 广告插件（字节跳动、穿山甲）。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_facebook_auth" rel="nofollow">flutter_facebook_auth</a></td>
