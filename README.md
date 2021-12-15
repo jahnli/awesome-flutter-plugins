@@ -9,8 +9,8 @@
 
 <br>
 
-<h3 id="count">收录 752 个</h3>   
-<h3 id="updateTime">最新同步：2021-12-15 09:49</h3>
+<h3 id="count">收录 756 个</h3>   
+<h3 id="updateTime">上次同步Pub.dev：2021-12-15 10:02</h3>
 
 <br>	
 <div class="changeLog">
@@ -2068,8 +2068,8 @@
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/bruno" rel="nofollow">bruno</a></td>
     <td>类似ElementUI用于移动应用程序的企业级 Flutter 组件包。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-12-08</td>
+    <td>11</td>
   </tr>
       
   <tr class="item">
@@ -3080,8 +3080,8 @@
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_aliplayer" rel="nofollow">flutter_aliplayer</a></td>
     <td> Flutter 的阿里云播放器。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-11-23</td>
+    <td>5</td>
   </tr>
       
   <tr class="item">
@@ -4941,15 +4941,15 @@
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_qq_ads" rel="nofollow">flutter_qq_ads</a></td>
     <td>基于「腾讯广告、广点通、优量汇」SDK 的插件。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-12-07</td>
+    <td>12</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_pangle_ads" rel="nofollow">flutter_pangle_ads</a></td>
     <td>Flutter 广告插件（字节跳动、穿山甲）。</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2021-11-30</td>
+    <td>16</td>
   </tr>
       
   <tr class="item">
