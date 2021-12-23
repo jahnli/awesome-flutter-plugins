@@ -15,6 +15,13 @@
 <br>	
 <div class="changeLog">
 
+<div class="changeLogItem 12-23">
+      <h3>12-23</h3>
+      <ul>
+        <li><a href="https://pub.flutter-io.cn/packages/graphic">graphic</a> - 声明式、可交互的可视化图表库</li>  
+      </ul> 
+</div>
+
 <div class="changeLogItem 12-15">
       <h3>12-15</h3>
       <ul>
@@ -25,18 +32,7 @@
       </ul> 
 </div>
 
-<div class="changeLogItem 11-11">
-      <h3>11-11</h3>
-      <ul>
-        <li><a href="https://pub.flutter-io.cn/packages/timer_count_down">timer_count_down</a> - 简单的倒数计时器。用于创建一个简单的计时器。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/auth_buttons">auth_buttons</a> - Auth Buttons 是一个 Flutter 小部件库，包括用于与最流行的社交网络（如 Google、Facebook、Apple 和 Twitter）进行身份验证的按钮。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/draggable_home">draggable_home</a> - Draggable 是一个用于添加漂亮的可拖动主页的部件。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_facebook_auth">flutter_facebook_auth</a> - 将 facebook 登录添加到您的 Flutter 应用程序、获取用户信息、个人资料图片等的最简单方法。包括网络支持。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/google_sign_in">google_sign_in</a> - 用于 Google Sign-In 的 Flutter 插件，一种用于在 Android 和 iOS 上使用 Google 帐户登录的安全身份验证系统。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/tencent_im_sdk_plugin">tencent_im_sdk_plugin</a> - 腾讯云即时通信IM专业版原生SDK插件，包含了专业版SDK的全部功能。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/version">version</a> - 提供一个简单的类来解析和比较semver.org定义的语义版本</li>  
-      </ul> 
-</div>
+
 
 
 
@@ -4231,6 +4227,13 @@
   </tr>
   </thead>
   <tbody id="图表类">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/graphic" rel="nofollow">graphic</a></td>
+    <td>声明式、可交互的可视化图表库</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/k_chart" rel="nofollow">k_chart</a></td>
