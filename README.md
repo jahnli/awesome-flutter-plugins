@@ -15,6 +15,38 @@
 <br>	
 <div class="changeLog">
 
+<div class="changeLogItem 01-25">
+      <h3>01-25</h3>
+      <ul>
+        <li><a href="https://pub.flutter-io.cn/packages/fk_user_agent">fk_user_agent</a> - 在 Flutter 中检索 Android/iOS 设备用户代理。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/ftpconnect">ftpconnect</a> - Flutter 简单而强大的 dart FTP 连接库，可与 FTP 服务器交互，并可以压缩和解压缩文件。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/mailer">mailer</a> - 从 Dart 撰写和发送电子邮件。支持文件附件和 HTML 电子邮件。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_mobile_vision">flutter_mobile_vision</a> - 谷歌移动视觉的 Flutter 实现。扫描条码、识别文本和检测人脸。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/tflite_audio">tflite_audio</a> - 用于 Flutter 的音频分类 Tflite 包（iOS &amp; Android），可以支持谷歌可教机器模型。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_nearby_connections">flutter_nearby_connections</a> - 支持点对点连接，并为 Android 和 IOS 发现附近的设备。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/google_ml_vision">google_ml_vision</a> - 用于 Google ML Kit 设备上视觉 API 的 Flutter 插件。它包括条码扫描、图像标记、文本识别和人脸检测。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/card_scanner">card_scanner</a> - 快速、准确和安全的信用卡和借记卡扫描库。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/jwt_decode">jwt_decode</a> - 用于解码 JSON Web 令牌，并检查并给出其到期日期</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_jailbreak_detection">flutter_jailbreak_detection</a> - 越狱和root检测插件，这个插件包装了 Rootbeer 用于 Android 和 DTTJailbreakDetection 用于 iOS。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/dart_jsonwebtoken">dart_jsonwebtoken</a> - jsonwebtoken' (JWT) 的 dart 实现</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/round_spot">round_spot</a> - 可定制、易用的热图界面分析库。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/firebase_analytics">firebase_analytics</a> - Google Analytics for Firebase 的 Flutter 插件，这是一种应用测量解决方案，可提供有关 Android 和 iOS 上应用使用情况和用户参与度的洞察。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/huawei_map">huawei_map</a> - 华为地图套件，提供标准地图和UI元素，为您定制更符合服务场景的地图。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_animarker">flutter_animarker</a> - 谷歌地图的标记地理动画解决方案。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_mapbox_navigation">flutter_mapbox_navigation</a> - 用于 Flutter 的成熟的逐步导航 UI，可随时放入您的应用程序。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/feedback">feedback</a> - 允许用户直接在应用程序中提供交互式反馈。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/maps_launcher">maps_launcher</a> - 用于在所有平台上打开地图应用程序（或浏览器）。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/pin_code_text_field">pin_code_text_field</a> - 漂亮且高度可定制的 Flutter 小部件，用于输入 pin 码。适用于登录和 OTP 等用例。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/sms_autofill">sms_autofill</a> - 提供短信代码自动填充支持。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/launch_review">launch_review</a> - 帮助在 Google Play Store 和 Apple App Store 中留下用户评论/评分。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/bubble_showcase">bubble_showcase</a> - 小巧但功能强大的 Flutter 包，可让您突出显示应用程序的特定部分，以便向用户解释它们或展示应用程序的新功能。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_sliding_tutorial">flutter_sliding_tutorial</a> - 应用视差效果将使您的产品演示看起来像 Google 应用教程。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/external_app_launcher">external_app_launcher</a> - 帮助从应用程序中打开另一个应用程序。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/system_alert_window">system_alert_window</a> - 用于在所有其他应用程序以及回调事件上显示 Truecaller 之类的覆盖窗口。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/auto_orientation">auto_orientation</a> - 以编程方式为 iOS 和 Android 设置设备方向。</li>  
+      </ul> 
+</div>
+
 <div class="changeLogItem 12-23">
       <h3>12-23</h3>
       <ul>
@@ -22,15 +54,7 @@
       </ul> 
 </div>
 
-<div class="changeLogItem 12-15">
-      <h3>12-15</h3>
-      <ul>
-        <li><a href="https://pub.flutter-io.cn/packages/bruno">bruno</a> - 类似ElementUI用于移动应用程序的企业级 Flutter 组件包。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_aliplayer">flutter_aliplayer</a> -  Flutter 的阿里云播放器。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_qq_ads">flutter_qq_ads</a> - 基于「腾讯广告、广点通、优量汇」SDK 的插件。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_pangle_ads">flutter_pangle_ads</a> - Flutter 广告插件（字节跳动、穿山甲）。</li>  
-      </ul> 
-</div>
+
 
 
 
@@ -95,6 +119,20 @@
   </tr>
   </thead>
   <tbody id="插件">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/jwt_decode" rel="nofollow">jwt_decode</a></td>
+    <td>用于解码 JSON Web 令牌，并检查并给出其到期日期</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/dart_jsonwebtoken" rel="nofollow">dart_jsonwebtoken</a></td>
+    <td>jsonwebtoken' (JWT) 的 dart 实现</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/version" rel="nofollow">version</a></td>
@@ -656,6 +694,48 @@
   </tr>
   </thead>
   <tbody id="设备相关">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/fk_user_agent" rel="nofollow">fk_user_agent</a></td>
+    <td>在 Flutter 中检索 Android/iOS 设备用户代理。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_nearby_connections" rel="nofollow">flutter_nearby_connections</a></td>
+    <td>支持点对点连接，并为 Android 和 IOS 发现附近的设备。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_jailbreak_detection" rel="nofollow">flutter_jailbreak_detection</a></td>
+    <td>越狱和root检测插件，这个插件包装了 Rootbeer 用于 Android 和 DTTJailbreakDetection 用于 iOS。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/sms_autofill" rel="nofollow">sms_autofill</a></td>
+    <td>提供短信代码自动填充支持。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/external_app_launcher" rel="nofollow">external_app_launcher</a></td>
+    <td>帮助从应用程序中打开另一个应用程序。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/auto_orientation" rel="nofollow">auto_orientation</a></td>
+    <td>以编程方式为 iOS 和 Android 设置设备方向。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_interactional_widget" rel="nofollow">flutter_interactional_widget</a></td>
@@ -1462,6 +1542,13 @@
   <tbody id="项目相关">
       
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/firebase_analytics" rel="nofollow">firebase_analytics</a></td>
+    <td>Google Analytics for Firebase 的 Flutter 插件，这是一种应用测量解决方案，可提供有关 Android 和 iOS 上应用使用情况和用户参与度的洞察。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/bloc" rel="nofollow">bloc</a></td>
     <td>可预测的状态管理库，有助于实现 BLoC（业务逻辑组件）设计模式。</td>
     <td>2021-12-29</td>
@@ -2060,6 +2147,48 @@
   </tr>
   </thead>
   <tbody id="UI">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/card_scanner" rel="nofollow">card_scanner</a></td>
+    <td>快速、准确和安全的信用卡和借记卡扫描库。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/feedback" rel="nofollow">feedback</a></td>
+    <td>允许用户直接在应用程序中提供交互式反馈。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/pin_code_text_field" rel="nofollow">pin_code_text_field</a></td>
+    <td>漂亮且高度可定制的 Flutter 小部件，用于输入 pin 码。适用于登录和 OTP 等用例。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/launch_review" rel="nofollow">launch_review</a></td>
+    <td>帮助在 Google Play Store 和 Apple App Store 中留下用户评论/评分。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/bubble_showcase" rel="nofollow">bubble_showcase</a></td>
+    <td>小巧但功能强大的 Flutter 包，可让您突出显示应用程序的特定部分，以便向用户解释它们或展示应用程序的新功能。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/system_alert_window" rel="nofollow">system_alert_window</a></td>
+    <td>用于在所有其他应用程序以及回调事件上显示 Truecaller 之类的覆盖窗口。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/bruno" rel="nofollow">bruno</a></td>
@@ -3074,6 +3203,13 @@
   <tbody id="音视频类">
       
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/tflite_audio" rel="nofollow">tflite_audio</a></td>
+    <td>用于 Flutter 的音频分类 Tflite 包（iOS &amp; Android），可以支持谷歌可教机器模型。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_aliplayer" rel="nofollow">flutter_aliplayer</a></td>
     <td> Flutter 的阿里云播放器。</td>
     <td>2021-11-23</td>
@@ -3299,6 +3435,20 @@
   </tr>
   </thead>
   <tbody id="图像">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_mobile_vision" rel="nofollow">flutter_mobile_vision</a></td>
+    <td>谷歌移动视觉的 Flutter 实现。扫描条码、识别文本和检测人脸。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/google_ml_vision" rel="nofollow">google_ml_vision</a></td>
+    <td>用于 Google ML Kit 设备上视觉 API 的 Flutter 插件。它包括条码扫描、图像标记、文本识别和人脸检测。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/fluentui_system_icons" rel="nofollow">fluentui_system_icons</a></td>
@@ -3979,6 +4129,13 @@
   <tbody id="动画">
       
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_sliding_tutorial" rel="nofollow">flutter_sliding_tutorial</a></td>
+    <td>应用视差效果将使您的产品演示看起来像 Google 应用教程。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/animator" rel="nofollow">animator</a></td>
     <td>使动画更轻松的 Flutter 库。它允许将动画设置与用户界面分离。</td>
     <td>2021-06-13</td>
@@ -4227,6 +4384,13 @@
   </tr>
   </thead>
   <tbody id="图表类">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/round_spot" rel="nofollow">round_spot</a></td>
+    <td>可定制、易用的热图界面分析库。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/graphic" rel="nofollow">graphic</a></td>
@@ -4942,6 +5106,20 @@
   <tbody id="通讯类">
       
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/ftpconnect" rel="nofollow">ftpconnect</a></td>
+    <td>Flutter 简单而强大的 dart FTP 连接库，可与 FTP 服务器交互，并可以压缩和解压缩文件。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/mailer" rel="nofollow">mailer</a></td>
+    <td>从 Dart 撰写和发送电子邮件。支持文件附件和 HTML 电子邮件。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_qq_ads" rel="nofollow">flutter_qq_ads</a></td>
     <td>基于「腾讯广告、广点通、优量汇」SDK 的插件。</td>
     <td>2021-12-07</td>
@@ -5312,6 +5490,34 @@
   </tr>
   </thead>
   <tbody id="地图类">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/huawei_map" rel="nofollow">huawei_map</a></td>
+    <td>华为地图套件，提供标准地图和UI元素，为您定制更符合服务场景的地图。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_animarker" rel="nofollow">flutter_animarker</a></td>
+    <td>谷歌地图的标记地理动画解决方案。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_mapbox_navigation" rel="nofollow">flutter_mapbox_navigation</a></td>
+    <td>用于 Flutter 的成熟的逐步导航 UI，可随时放入您的应用程序。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/maps_launcher" rel="nofollow">maps_launcher</a></td>
+    <td>用于在所有平台上打开地图应用程序（或浏览器）。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/google_map_location_picker" rel="nofollow">google_map_location_picker</a></td>
