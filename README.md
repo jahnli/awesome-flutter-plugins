@@ -1,7 +1,7 @@
 <html><head></head><body>
 <img src="https://user-images.githubusercontent.com/20943608/120912379-1d731080-c6c1-11eb-8871-281f4092a703.png" alt="awesome-flutter-plugins">
 <br>
-🔥🔥 收集好用的Flutter插件以便更效率的开发， 如果有好的插件或者建议，请Issue 或 PR ， 期待参与。
+🔥🔥 收集好用的Flutter插件以便更效率的开发， 如果有好用的插件或者建议，请Issue 或 PR ， 期待参与。
 <br>
 <br>
 脚本每天定时更新插件的更新时间和likes指数。
