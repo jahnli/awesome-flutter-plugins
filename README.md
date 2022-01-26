@@ -3852,13 +3852,6 @@
   </tr>
       
   <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/koukicons" rel="nofollow">koukicons</a></td>
-    <td>Flutter 应用程序的彩色图标</td>
-    <td>2020-06-21</td>
-    <td>81</td>
-  </tr>
-      
-  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/bezier" rel="nofollow">bezier</a></td>
     <td>bezier.dart是一个简单的开源Dart库，用于处理二维贝塞尔曲线数学。</td>
     <td>2021-04-04</td>
@@ -4324,14 +4317,7 @@
     <td>2020-10-26</td>
     <td>202</td>
   </tr>
-	  
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/some_calendar">some_calendar</a></td>
-    <td>自定义日历（多选，单选，日期范围）。</td>
-    <td>2020-07-28</td>
-    <td>57</td>
-  </tr>  
-	  
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/syncfusion_flutter_datepicker" rel="nofollow">syncfusion_flutter_datepicker</a></td>
     <td>使用户可以轻松选择日期或日期范围。</td>
@@ -4810,12 +4796,7 @@
     <td>2021-11-16</td>
     <td>141</td>
   </tr>
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/curved_drawer">curved_drawer</a></td>
-    <td>动画侧边栏、菜单。</td>
-    <td>2020-01-30</td>
-    <td>81</td>
-  </tr>
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_zoom_drawer">flutter_zoom_drawer</a></td>
     <td>侧边菜单（抽屉）的自定义实现。</td>
@@ -4938,12 +4919,6 @@
     <td>212</td>
   </tr>
   <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/floating_action_bubble">floating_action_bubble</a></td>
-    <td>浮动按钮的动画菜单。</td>
-    <td>2020-10-18</td>
-    <td>121</td>
-  </tr>
-  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_speed_dial">flutter_speed_dial</a></td>
     <td>可展开选项的浮动按钮。</td>
     <td>2021-12-11</td>
@@ -4996,12 +4971,6 @@
     <td>高度可定制的持久性/静态底部导航栏。</td>
     <td>2021-03-27</td>
     <td>1149</td>
-  </tr>
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/flashy_tab_bar">flashy_tab_bar</a></td>
-    <td>不错的动画标签栏。</td>
-    <td>2020-03-07</td>
-    <td>133</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/circular_menu">circular_menu</a></td>
@@ -5171,12 +5140,6 @@
     <td>用于在商店中有较新版本的应用程序时提示用户进行升级。</td>
     <td>2022-01-08</td>
     <td>585</td>
-  </tr>
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/sliding_panel">sliding_panel</a></td>
-    <td>可定制的底部滑动面板。</td>
-    <td>2020-10-14</td>
-    <td>93</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/solid_bottom_sheet">solid_bottom_sheet</a></td>
