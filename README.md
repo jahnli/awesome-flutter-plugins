@@ -1272,14 +1272,7 @@
     <td>2021-09-22</td>
     <td>338</td>
   </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/esys_flutter_share" rel="nofollow">esys_flutter_share</a></td>
-    <td>esys_flutter_share</td>
-    <td>2019-06-04</td>
-    <td>205</td>
-  </tr>
-      
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_email_sender" rel="nofollow">flutter_email_sender</a></td>
     <td>允许使用本机平台功能从 flutter 发送电子邮件。</td>
@@ -1875,12 +1868,6 @@
     <td>完全用Dart编写的快速，轻巧且同步的键值存储。</td>
     <td>2021-07-21</td>
     <td>766</td>
-  </tr>
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/flutter_appavailability">flutter_appavailability</a></td>
-    <td>检查是否已安装/启用应用程序，启动应用程序并获取已安装应用程序的列表。</td>
-    <td>2018-09-12</td>
-    <td>67</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_screenutil">flutter_screenutil</a></td>
@@ -3240,12 +3227,6 @@
     <td>随时间变化而变化的加载指示器集合。</td>
     <td>2021-08-28</td>
     <td>2149</td>
-  </tr>
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/flutter_swiper">flutter_swiper</a></td>
-    <td>最强大的siwiper，多种布局方式，无限轮播，Android和IOS双端适配。</td>
-    <td>2019-03-22</td>
-    <td>1497</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/pull_to_refresh">pull_to_refresh</a></td>
@@ -5723,12 +5704,6 @@
     <td>744</td>
   </tr>
   <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/dim">dim</a></td>
-    <td>方便地与腾讯imsdk集成，可以轻松地在flutter上使用imsdk。</td>
-    <td>2019-10-21</td>
-    <td>5</td>
-  </tr>
-  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/speech_to_text">speech_to_text</a></td>
     <td>将特定于设备的语音显示给文本识别功能。</td>
     <td>2021-12-21</td>
@@ -5745,12 +5720,6 @@
     <td>Flutter中实现WeChat SDK的功能。借助Fluwx，开发人员可以轻松使用WeChatSDK，例如分享，付款，小程序。</td>
     <td>2021-10-27</td>
     <td>79</td>
-  </tr>
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/flutter_qq">flutter_qq</a></td>
-    <td>QQ Flutter插件。</td>
-    <td>2019-07-11</td>
-    <td>5</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/socket_io_client">socket_io_client</a></td>
