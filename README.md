@@ -15,6 +15,27 @@
 <br>	
 <div class="changeLog">
 
+<div class="changeLogItem 01-27">
+      <h3>01-27</h3>
+      <ul>
+        <li><a href="https://pub.flutter-io.cn/packages/safe_device">safe_device</a> - 可以轻松实现越狱、root、模拟器和虚假位置检测等安全步骤。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/super_editor">super_editor</a> - 可配置、可组合、可扩展的文本编辑器和文档渲染器。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/advance_image_picker">advance_image_picker</a> - 用于从 Android 和 iOS 图片库中选择多张图片，用相机拍摄新照片，并在使用前对其进行编辑，例如旋转、裁剪、添加贴纸/滤镜，是image_picker插件的高级版本。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/animated_toggle_switch">animated_toggle_switch</a> - 简单的动画切换开关，用于多种选择。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_bounceable">flutter_bounceable</a> - 简单、交互式和可自定义的点击弹跳动画，可以包装在您喜欢的任何小部件上。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/local_hero">local_hero</a> - 当它的位置在同一条路线内发生变化时，它会隐式地启动一个英雄动画。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/animated_background">animated_background</a> - 轻松扩展以在画布上绘制想要的任何内容。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/timeline_list">timeline_list</a> - 显示可自定义的小部件时间线。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/drag_and_drop_lists">drag_and_drop_lists</a> - 允许对两级列表进行拖放重新排序。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/scroll_snap_list">scroll_snap_list</a> - 允许在用户滚动结束时将事件“捕捉”到项目。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_smart_dialog">flutter_smart_dialog</a> - 优雅的 Flutter Dialog 解决方案，轻松实现 Toast、Loading 和自定义 Dialog。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/motion_toast">motion_toast</a> - 带有动画的精美设计toast，包含多种内置设计。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/oktoast">oktoast</a> - 纯flutter toast库，支持自定义style/widget，轻松实现与原生toast相同的效果。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/social_share">social_share</a> - 需要直接与某些知名应用共享的多种共享选项。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_shortcuts">flutter_shortcuts</a> - 用于在主屏幕上创建静态和动态应用程序/对话快捷方式。</li>  
+      </ul> 
+</div>
+
 <div class="changeLogItem 01-26">
       <h3>01-26</h3>
       <ul>
@@ -74,37 +95,7 @@
       </ul> 
 </div>
 
-<div class="changeLogItem 01-25">
-      <h3>01-25</h3>
-      <ul>
-        <li><a href="https://pub.flutter-io.cn/packages/fk_user_agent">fk_user_agent</a> - 在 Flutter 中检索 Android/iOS 设备用户代理。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/ftpconnect">ftpconnect</a> - Flutter 简单而强大的 dart FTP 连接库，可与 FTP 服务器交互，并可以压缩和解压缩文件。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/mailer">mailer</a> - 从 Dart 撰写和发送电子邮件。支持文件附件和 HTML 电子邮件。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_mobile_vision">flutter_mobile_vision</a> - 谷歌移动视觉的 Flutter 实现。扫描条码、识别文本和检测人脸。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/tflite_audio">tflite_audio</a> - 用于 Flutter 的音频分类 Tflite 包（iOS &amp; Android），可以支持谷歌可教机器模型。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_nearby_connections">flutter_nearby_connections</a> - 支持点对点连接，并为 Android 和 IOS 发现附近的设备。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/google_ml_vision">google_ml_vision</a> - 用于 Google ML Kit 设备上视觉 API 的 Flutter 插件。它包括条码扫描、图像标记、文本识别和人脸检测。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/card_scanner">card_scanner</a> - 快速、准确和安全的信用卡和借记卡扫描库。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/jwt_decode">jwt_decode</a> - 用于解码 JSON Web 令牌，并检查并给出其到期日期</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_jailbreak_detection">flutter_jailbreak_detection</a> - 越狱和root检测插件，这个插件包装了 Rootbeer 用于 Android 和 DTTJailbreakDetection 用于 iOS。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/dart_jsonwebtoken">dart_jsonwebtoken</a> - jsonwebtoken' (JWT) 的 dart 实现</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/round_spot">round_spot</a> - 可定制、易用的热图界面分析库。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/firebase_analytics">firebase_analytics</a> - Google Analytics for Firebase 的 Flutter 插件，这是一种应用测量解决方案，可提供有关 Android 和 iOS 上应用使用情况和用户参与度的洞察。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/huawei_map">huawei_map</a> - 华为地图套件，提供标准地图和UI元素，为您定制更符合服务场景的地图。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_animarker">flutter_animarker</a> - 谷歌地图的标记地理动画解决方案。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_mapbox_navigation">flutter_mapbox_navigation</a> - 用于 Flutter 的成熟的逐步导航 UI，可随时放入您的应用程序。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/feedback">feedback</a> - 允许用户直接在应用程序中提供交互式反馈。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/maps_launcher">maps_launcher</a> - 用于在所有平台上打开地图应用程序（或浏览器）。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/pin_code_text_field">pin_code_text_field</a> - 漂亮且高度可定制的 Flutter 小部件，用于输入 pin 码。适用于登录和 OTP 等用例。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/sms_autofill">sms_autofill</a> - 提供短信代码自动填充支持。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/launch_review">launch_review</a> - 帮助在 Google Play Store 和 Apple App Store 中留下用户评论/评分。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/bubble_showcase">bubble_showcase</a> - 小巧但功能强大的 Flutter 包，可让您突出显示应用程序的特定部分，以便向用户解释它们或展示应用程序的新功能。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_sliding_tutorial">flutter_sliding_tutorial</a> - 应用视差效果将使您的产品演示看起来像 Google 应用教程。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/external_app_launcher">external_app_launcher</a> - 帮助从应用程序中打开另一个应用程序。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/system_alert_window">system_alert_window</a> - 用于在所有其他应用程序以及回调事件上显示 Truecaller 之类的覆盖窗口。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/auto_orientation">auto_orientation</a> - 以编程方式为 iOS 和 Android 设置设备方向。</li>  
-      </ul> 
-</div>
+
 
 
 
@@ -173,6 +164,20 @@
   </tr>
   </thead>
   <tbody id="插件">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/super_editor" rel="nofollow">super_editor</a></td>
+    <td>可配置、可组合、可扩展的文本编辑器和文档渲染器。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/scroll_snap_list" rel="nofollow">scroll_snap_list</a></td>
+    <td>允许在用户滚动结束时将事件“捕捉”到项目。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/f_logs" rel="nofollow">f_logs</a></td>
@@ -768,6 +773,20 @@
   </tr>
   </thead>
   <tbody id="设备相关">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/safe_device" rel="nofollow">safe_device</a></td>
+    <td>可以轻松实现越狱、root、模拟器和虚假位置检测等安全步骤。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_shortcuts" rel="nofollow">flutter_shortcuts</a></td>
+    <td>用于在主屏幕上创建静态和动态应用程序/对话快捷方式。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_shortcuts" rel="nofollow">flutter_shortcuts</a></td>
@@ -1958,6 +1977,13 @@
   <tbody id="列表相关">
       
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/drag_and_drop_lists" rel="nofollow">drag_and_drop_lists</a></td>
+    <td>允许对两级列表进行拖放重新排序。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/loading_more_list" rel="nofollow">loading_more_list</a></td>
     <td>支持 ListView、GridView、WaterfallFlow 和 Slivers 的加载更多列表。</td>
     <td>2021-08-06</td>
@@ -2247,6 +2273,27 @@
   </tr>
   </thead>
   <tbody id="UI">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/animated_toggle_switch" rel="nofollow">animated_toggle_switch</a></td>
+    <td>简单的动画切换开关，用于多种选择。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/animated_background" rel="nofollow">animated_background</a></td>
+    <td>轻松扩展以在画布上绘制想要的任何内容。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/timeline_list" rel="nofollow">timeline_list</a></td>
+    <td>显示可自定义的小部件时间线。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/dotted_border" rel="nofollow">dotted_border</a></td>
@@ -3602,6 +3649,13 @@
   <tbody id="图像">
       
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/advance_image_picker" rel="nofollow">advance_image_picker</a></td>
+    <td>用于从 Android 和 iOS 图片库中选择多张图片，用相机拍摄新照片，并在使用前对其进行编辑，例如旋转、裁剪、添加贴纸/滤镜，是image_picker插件的高级版本。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/scribble" rel="nofollow">scribble</a></td>
     <td>一个轻量级的 Flutter 手绘库，支持压力、可变线宽等</td>
     <td>2022-01-13</td>
@@ -4336,6 +4390,20 @@
   <tbody id="动画">
       
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_bounceable" rel="nofollow">flutter_bounceable</a></td>
+    <td>简单、交互式和可自定义的点击弹跳动画，可以包装在您喜欢的任何小部件上。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/local_hero" rel="nofollow">local_hero</a></td>
+    <td>当它的位置在同一条路线内发生变化时，它会隐式地启动一个英雄动画。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/dismissible_page" rel="nofollow">dismissible_page</a></td>
     <td>创建通过滑动手势关闭的页面，具有英雄风格的动画，受 Facebook 和 Instagram 故事的启发。</td>
     <td>2021-10-27</td>
@@ -4987,6 +5055,27 @@
   <tbody id="对话框">
       
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_smart_dialog" rel="nofollow">flutter_smart_dialog</a></td>
+    <td>优雅的 Flutter Dialog 解决方案，轻松实现 Toast、Loading 和自定义 Dialog。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/motion_toast" rel="nofollow">motion_toast</a></td>
+    <td>带有动画的精美设计toast，包含多种内置设计。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/oktoast" rel="nofollow">oktoast</a></td>
+    <td>纯flutter toast库，支持自定义style/widget，轻松实现与原生toast相同的效果。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/proste_dialog" rel="nofollow">proste_dialog</a></td>
     <td>相比giffy_dialog，提供了更高的自由度和更强的可扩展性。</td>
     <td>2021-07-23</td>
@@ -5330,6 +5419,13 @@
   </tr>
   </thead>
   <tbody id="通讯类">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/social_share" rel="nofollow">social_share</a></td>
+    <td>需要直接与某些知名应用共享的多种共享选项。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/completion" rel="nofollow">completion</a></td>
