@@ -15,6 +15,15 @@
 <br>	
 <div class="changeLog">
 
+<div class="changeLogItem 02-24">
+      <h3>02-24</h3>
+      <ul>
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_blue_plus">flutter_blue_plus</a> - FlutterBluePlus 是 Fl​​utter 的蓝牙插件，flutter_blue 是 FlutterBlue 的持续工作。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/"></a> - 命令行工具，可从您的 Flutter Windows 构建文件创建 Msix 安装程序。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/screen_capturer">screen_capturer</a> - 允许 Flutter 桌面应用程序捕获屏幕截图。</li>  
+      </ul> 
+</div>
+
 <div class="changeLogItem 01-27">
       <h3>01-27</h3>
       <ul>
@@ -36,64 +45,7 @@
       </ul> 
 </div>
 
-<div class="changeLogItem 01-26">
-      <h3>01-26</h3>
-      <ul>
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_shortcuts">flutter_shortcuts</a> - 用于在主屏幕上创建静态和动态应用程序/对话快捷方式。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/open_mail_app">open_mail_app</a> - 该库提供了查询设备以查找已安装的电子邮件应用程序并打开这些应用程序的功能。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/water_drop_nav_bar">water_drop_nav_bar</a> - 底部导航栏，具有独特的水滴效果。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/shrink_sidemenu">shrink_sidemenu</a> - 液体收缩侧边菜单。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/loading_more_list">loading_more_list</a> - 支持 ListView、GridView、WaterfallFlow 和 Slivers 的加载更多列表。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/dismissible_page">dismissible_page</a> - 创建通过滑动手势关闭的页面，具有英雄风格的动画，受 Facebook 和 Instagram 故事的启发。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/dotted_border">dotted_border</a> - 可以轻松地在任何小部件周围添加虚线边框。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/scribble">scribble</a> - 一个轻量级的 Flutter 手绘库，支持压力、可变线宽等</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/image_pickers">image_pickers</a> - image_pickers 支持本地图片或视频多选，支持将网络图片或视频保存到相册，支持预览视频或图片。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/completion">completion</a> - 将 shell 命令完成添加到 Dart 应用程序的包。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/googleapis">googleapis</a> - 用于访问通过 API 发现服务描述的 Google API 的自动生成的客户端库。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/emojis">emojis</a> - 飞镖的表情符号！此软件包包含所有 unicode 13.0 表情符号（2020）。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/video_editor">video_editor</a> - 视频编辑器允许通过超级灵活的 UI 设计修剪、裁剪、旋转和缩放视频。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_contacts">flutter_contacts</a> - 用于在 Android 和 iOS 上读取、创建、更新、删除和观察原生联系人，支持 vCard 和联系人权限处理。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/sliding_clipped_nav_bar">sliding_clipped_nav_bar</a> - 底部导航栏带有滑动菜单图标和带有剪切效果的文本。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/image_editor">image_editor</a> - 在 Android 和 iOS 上编辑图像数据并输出到文件/内存。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/image_cropping">image_cropping</a> - 支持多平台裁剪和旋转图像，它允许包含背景，图像旋转，根据要求改变选择比例。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/horizontal_card_pager">horizontal_card_pager</a> - 创建动态和漂亮的卡片视图。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_sound_lite">flutter_sound_lite</a> - 用于音频播放和录制的完整 api，音频播放器，录音机，媒体播放器，媒体录音机，录音机，录音机。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/sentry">sentry</a> - Dart 的崩溃报告库，可将崩溃报告发送到 Sentry.io。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/stop_watch_timer">stop_watch_timer</a> - 简单的 CountUp 计时器 / CountDown 计时器。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/marquee_text">marquee_text</a> - 当孩子超过容器的宽度时自动滚动。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/noise_meter">noise_meter</a> - 用于从手机的麦克风中收集噪音。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/audio_session">audio_session</a> - 为应用设置 iOS 音频会话类别和 Android 音频属性，并管理您的应用的音频焦点、混音和闪避行为。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/on_audio_query">on_audio_query</a> - 用于从设备存储中查询音频/歌曲信息 [标题、艺术家、专辑等]。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/animated_flip_counter">animated_flip_counter</a> - 从一个数字翻转到另一个数字的隐式动画小部件</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/camerakit">camerakit</a> - 使用原生 android 和 ios API 来拍照和扫描带有可控闪光灯的条形码。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/fluttermoji">fluttermoji</a> - Flutter 的轻量级和高度可定制的 SVG 图形集。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/f_logs">f_logs</a> - FLog 提供快速 &amp; 简单的日志记录解决方案。所有日志都保存到数据库中，然后可以在文件中导出。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/graphql">graphql</a> - Dart 的独立 GraphQL 客户端。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/screen_recorder">screen_recorder</a> - 记录你的 Flutter 部件并将记录导出为 GIF。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_background">flutter_background</a> - 通过使用前台服务、唤醒锁定和禁用电池优化来保持 Flutter 应用程序在后台运行的插件。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/call_log">call_log</a> - 用于访问和查询通话记录日志。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/firebase_crashlytics">firebase_crashlytics</a> - Firebase Crashlytics 的 插件，它向 Firebase 控制台报告未捕获的错误。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/github">github</a> - 使用 Github 的 v3 API 的高级 GitHub API 客户端库。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/calendar_view">calendar_view</a> - 允许您轻松实现所有日历 UI 和日历事件功能。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/images_picker">images_picker</a> - 用于从Android和iOS图像库中选择图像/视频，并使用相机拍照/视频，将图像/视频保存到相册/图库。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/vertical_card_pager">vertical_card_pager</a> - 创建动态和漂亮的卡片视图。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/audio_manager">audio_manager</a> - 用于音乐播放的插件，包括通知处理。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/dart_vlc">dart_vlc</a> - 媒体播放、广播、录制和 chromecast 库。基于 libVLC 和 libVLC++。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/telephony">telephony</a> - 用于使用电话功能，例如获取网络信息、拨打电话、发送和接收 SMS 以及侦听传入的 SMS。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/overflow_view">overflow_view</a> - 如果没有足够的空间，小部件会在一行中显示子级，并在末尾带有溢出指示符。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_link_previewer">flutter_link_previewer</a> - 从提供的文本中提取的 URL 预览，具有基本自定义和从缓存数据呈现的能力。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_chat_bubble">flutter_chat_bubble</a> - 用于创建不同类型的聊天气泡。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_chat_ui">flutter_chat_ui</a> - 积极维护、社区驱动的聊天 UI 实施，带有可选的 Firebase BaaS。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/glass_kit">glass_kit</a> - 用于在应用程序中实现玻璃态射。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/desktop">desktop</a> - Flutter 桌面设计标准。只需简单、可用的 wigdets 即可创建应用程序。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/native_pdf_renderer">native_pdf_renderer</a> - 用于在 Web、MacOS、Windows、Android 和 iOS 上将 PDF 页面呈现为图像。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/any_link_preview">any_link_preview</a> - 帮助您显示 Web 链接的预览。对于具有聊天功能的应用程序更有用。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/teledart">teledart</a> - 与最新 Telegram Bot API 接口的 Dart 库。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_cached_pdfview">flutter_cached_pdfview</a> - 用于显示 iOS 和 Android 的本机 PDF 视图。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/barcode_widget">barcode_widget</a> - 条码生成小部件。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/barcode_scan2">barcode_scan2</a> - 通过相机扫描二维条码和二维码的插件。</li>  
-      </ul> 
-</div>
+
 
 
 
@@ -773,6 +725,20 @@
   </tr>
   </thead>
   <tbody id="设备相关">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_blue_plus" rel="nofollow">flutter_blue_plus</a></td>
+    <td>FlutterBluePlus 是 Fl​​utter 的蓝牙插件，flutter_blue 是 FlutterBlue 的持续工作。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/screen_capturer" rel="nofollow">screen_capturer</a></td>
+    <td>允许 Flutter 桌面应用程序捕获屏幕截图。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/safe_device" rel="nofollow">safe_device</a></td>
@@ -5257,6 +5223,13 @@
   </tr>
   </thead>
   <tbody id="跨平台">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/" rel="nofollow"></a></td>
+    <td>命令行工具，可从您的 Flutter Windows 构建文件创建 Msix 安装程序。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/desktop" rel="nofollow">desktop</a></td>
