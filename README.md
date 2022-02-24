@@ -18,6 +18,7 @@
 <div class="changeLogItem 02-24">
       <h3>02-24</h3>
       <ul>
+        <li><a href="https://pub.flutter-io.cn/packages/super_editor">super_editor</a> - super_editor</li>
         <li><a href="https://pub.flutter-io.cn/packages/flutter_blue_plus">flutter_blue_plus</a> - FlutterBluePlus 是 Fl​​utter 的蓝牙插件，flutter_blue 是 FlutterBlue 的持续工作。</li>  
         <li><a href="https://pub.flutter-io.cn/packages/"></a> - 命令行工具，可从您的 Flutter Windows 构建文件创建 Msix 安装程序。</li>  
         <li><a href="https://pub.flutter-io.cn/packages/screen_capturer">screen_capturer</a> - 允许 Flutter 桌面应用程序捕获屏幕截图。</li>  
@@ -116,6 +117,13 @@
   </tr>
   </thead>
   <tbody id="插件">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/super_editor" rel="nofollow">super_editor</a></td>
+    <td>super_editor</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/super_editor" rel="nofollow">super_editor</a></td>
