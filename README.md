@@ -5197,7 +5197,7 @@
   <tbody id="跨平台">
       
   <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/" rel="nofollow">msix</a></td>
+    <td><a href="https://pub.flutter-io.cn/packages/msix" rel="nofollow">msix</a></td>
     <td>命令行工具，可从您的 Flutter Windows 构建文件创建 Msix 安装程序。</td>
     <td>暂无</td>
     <td>暂无</td>
