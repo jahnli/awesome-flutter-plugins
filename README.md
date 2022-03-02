@@ -17,7 +17,7 @@
 <div class="changeLogItem 03-02">
       <h3>03-02</h3>
       <ul>
-        <li><a href="https://pub.flutter-io.cn/packages/mobile_scanner">mobile_scanner</a> - 基于 MLKit 的 Flutter 通用条码和二维码扫描器，qr_code_scanner的替代。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/mobile_scanner">mobile_scanner</a> - 基于 MLKit 的 Flutter 通用条码和二维码扫描器，qr_code_scanner的持续工作。</li>  
       </ul> 
 </div>
 
@@ -685,7 +685,7 @@
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/mobile_scanner" rel="nofollow">mobile_scanner</a></td>
-    <td>基于 MLKit 的 Flutter 通用条码和二维码扫描器，qr_code_scanner的替代。</td>
+    <td>基于 MLKit 的 Flutter 通用条码和二维码扫描器，qr_code_scanner的持续工作。</td>
     <td>2022-02-23</td>
     <td>39</td>
   </tr>
