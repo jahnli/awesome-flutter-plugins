@@ -31,27 +31,8 @@
       </ul> 
 </div>
 
-<div class="changeLogItem 01-27">
-      <h3>01-27</h3>
-      <ul>
-        <li><a href="https://pub.flutter-io.cn/packages/safe_device">safe_device</a> - 可以轻松实现越狱、root、模拟器和虚假位置检测等安全步骤。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/super_editor">super_editor</a> - 可配置、可组合、可扩展的文本编辑器和文档渲染器。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/advance_image_picker">advance_image_picker</a> - 用于从 Android 和 iOS 图片库中选择多张图片，用相机拍摄新照片，并在使用前对其进行编辑，例如旋转、裁剪、添加贴纸/滤镜，是image_picker插件的高级版本。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/animated_toggle_switch">animated_toggle_switch</a> - 简单的动画切换开关，用于多种选择。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_bounceable">flutter_bounceable</a> - 简单、交互式和可自定义的点击弹跳动画，可以包装在您喜欢的任何小部件上。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/local_hero">local_hero</a> - 当它的位置在同一条路线内发生变化时，它会隐式地启动一个英雄动画。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/animated_background">animated_background</a> - 轻松扩展以在画布上绘制想要的任何内容。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/timeline_list">timeline_list</a> - 显示可自定义的小部件时间线。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/drag_and_drop_lists">drag_and_drop_lists</a> - 允许对两级列表进行拖放重新排序。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/scroll_snap_list">scroll_snap_list</a> - 允许在用户滚动结束时将事件“捕捉”到项目。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_smart_dialog">flutter_smart_dialog</a> - 优雅的 Flutter Dialog 解决方案，轻松实现 Toast、Loading 和自定义 Dialog。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/motion_toast">motion_toast</a> - 带有动画的精美设计toast，包含多种内置设计。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/oktoast">oktoast</a> - 纯flutter toast库，支持自定义style/widget，轻松实现与原生toast相同的效果。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/social_share">social_share</a> - 需要直接与某些知名应用共享的多种共享选项。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_shortcuts">flutter_shortcuts</a> - 用于在主屏幕上创建静态和动态应用程序/对话快捷方式。</li>  
-      </ul> 
-</div>
-
+	
+	
 <br>
 <h3>目录</h3>   	
  <ul>
