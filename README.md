@@ -1852,7 +1852,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/provider">provider</a></td>
     <td>官方推荐的状态管理。</td>
     <td>2021-12-29</td>
-    <td>6154</td>
+    <td>6155</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/intl">intl</a></td>
@@ -6012,4 +6012,5 @@
 
 
 </div>
+
 </body></html>
