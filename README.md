@@ -15,6 +15,13 @@
 <br>	
 <div class="changeLog">
 
+<div class="changeLogItem 03-02">
+      <h3>03-02</h3>
+      <ul>
+        <li><a href="https://pub.flutter-io.cn/packages/mobile_scanner">mobile_scanner</a> - 基于 MLKit 的 Flutter 通用条码和二维码扫描器，qr_code_scanner的替代。</li>  
+      </ul> 
+</div>
+
 <div class="changeLogItem 02-24">
       <h3>02-24</h3>
       <ul>
@@ -43,8 +50,6 @@
         <li><a href="https://pub.flutter-io.cn/packages/social_share">social_share</a> - 需要直接与某些知名应用共享的多种共享选项。</li>  
         <li><a href="https://pub.flutter-io.cn/packages/flutter_shortcuts">flutter_shortcuts</a> - 用于在主屏幕上创建静态和动态应用程序/对话快捷方式。</li>  
       </ul> 
-</div
-	
 </div>
 
 <br>
@@ -697,6 +702,13 @@
   </tr>
   </thead>
   <tbody id="设备相关">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/mobile_scanner" rel="nofollow">mobile_scanner</a></td>
+    <td>基于 MLKit 的 Flutter 通用条码和二维码扫描器，qr_code_scanner的替代。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_blue_plus" rel="nofollow">flutter_blue_plus</a></td>
@@ -3934,12 +3946,7 @@
     <td>2021-08-22</td>
     <td>3446</td>
   </tr>
-  <tr class="changeLogItem">
-    <td><a href="https://pub.flutter-io.cn/packages/flutter_blurhash" rel="nofollow">flutter_blurhash</a></td>
-    <td>图像占位符</td>
-    <td>暂无</td>
-    <td>暂无</td>
-  </tr>
+  
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/emoji_picker_flutter">emoji_picker_flutter</a></td>
     <td>提供了一个表情符号选择器小部件，其中包含8种类别的1500多种表情符号。</td>
@@ -6023,4 +6030,5 @@
 
 
 
-</body></html>
+
+</div></body></html>
