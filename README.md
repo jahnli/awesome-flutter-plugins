@@ -14,6 +14,16 @@
 <br>	
 <div class="changeLog">
 
+<div class="changeLogItem 04-01">
+      <h3>04-01</h3>
+      <ul>
+        <li><a href="https://pub.flutter-io.cn/packages/pasteboard">pasteboard</a> - 从剪贴板读取图像、文件并将文件写入剪贴板</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/screen_text_extractor">screen_text_extractor</a> - 允许 Flutter 桌面应用程序从屏幕中提取文本</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/serverpod">serverpod</a> - 为 Flutter 社区构建的下一代应用程序和 Web 服务器。它允许您在 Dart 中编写服务器端代码，自动生成您的 API，并以最小的努力连接您的数据库</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_vibrate">flutter_vibrate</a> - 触觉反馈插件</li>  
+      </ul> 
+</div>
+
 <div class="changeLogItem 03-02">
       <h3>03-02</h3>
       <ul>
@@ -21,14 +31,7 @@
       </ul> 
 </div>
 
-<div class="changeLogItem 02-24">
-      <h3>02-24</h3>
-      <ul>
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_blue_plus">flutter_blue_plus</a> - FlutterBluePlus 是 Fl​​utter 的蓝牙插件，flutter_blue 是 FlutterBlue 的持续工作。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/msix">msix</a> - 命令行工具，可从您的 Flutter Windows 构建文件创建 Msix 安装程序。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/screen_capturer">screen_capturer</a> - 允许 Flutter 桌面应用程序捕获屏幕截图。</li>  
-      </ul> 
-</div>
+
 
 	
 	
@@ -73,6 +76,13 @@
   </tr>
   </thead>
   <tbody id="插件">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/serverpod" rel="nofollow">serverpod</a></td>
+    <td>为 Flutter 社区构建的下一代应用程序和 Web 服务器。它允许您在 Dart 中编写服务器端代码，自动生成您的 API，并以最小的努力连接您的数据库</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
 	  
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/super_editor" rel="nofollow">super_editor</a></td>
@@ -682,6 +692,20 @@
   </tr>
   </thead>
   <tbody id="设备相关">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/pasteboard" rel="nofollow">pasteboard</a></td>
+    <td>从剪贴板读取图像、文件并将文件写入剪贴板</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_vibrate" rel="nofollow">flutter_vibrate</a></td>
+    <td>触觉反馈插件</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/mobile_scanner" rel="nofollow">mobile_scanner</a></td>
@@ -5182,6 +5206,13 @@
   </tr>
   </thead>
   <tbody id="跨平台">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/screen_text_extractor" rel="nofollow">screen_text_extractor</a></td>
+    <td>允许 Flutter 桌面应用程序从屏幕中提取文本</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/msix" rel="nofollow">msix</a></td>
