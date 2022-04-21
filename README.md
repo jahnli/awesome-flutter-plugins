@@ -14,6 +14,16 @@
 <br>	
 <div class="changeLog">
 
+<div class="changeLogItem 04-21">
+      <h3>04-21</h3>
+      <ul>
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_onboarding_slider">flutter_onboarding_slider</a> - 具有平行设计的页面滑块，允许（文本）小部件或正文以不同的速度与背景滑动</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/live_icon">live_icon</a> - 用于实时更改应用程序图标和标签</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_siri_suggestions  ">flutter_siri_suggestions  </a> - 用于在 Siri Suggestions 上曝光的 Flutter 插件也可以通过 Siri 唤醒特定功能</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/wallpaper_manager_flutter">wallpaper_manager_flutter</a> - 用于将大图像设置为墙纸，而不会从系统文件或缓存的图像文件中跳过 Android 设备上的主屏幕、锁定屏幕和两个屏幕的帧</li>  
+      </ul> 
+</div>
+
 <div class="changeLogItem 04-01">
       <h3>04-01</h3>
       <ul>
@@ -24,12 +34,7 @@
       </ul> 
 </div>
 
-<div class="changeLogItem 03-02">
-      <h3>03-02</h3>
-      <ul>
-        <li><a href="https://pub.flutter-io.cn/packages/mobile_scanner">mobile_scanner</a> - 基于 MLKit 的 Flutter 通用条码和二维码扫描器，qr_code_scanner的持续工作。</li>  
-      </ul> 
-</div>
+
 
 
 
@@ -692,6 +697,27 @@
   </tr>
   </thead>
   <tbody id="设备相关">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/live_icon" rel="nofollow">live_icon</a></td>
+    <td>用于实时更改应用程序图标和标签</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_siri_suggestions  " rel="nofollow">flutter_siri_suggestions  </a></td>
+    <td>用于在 Siri Suggestions 上曝光的 Flutter 插件也可以通过 Siri 唤醒特定功能</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/wallpaper_manager_flutter" rel="nofollow">wallpaper_manager_flutter</a></td>
+    <td>用于将大图像设置为墙纸，而不会从系统文件或缓存的图像文件中跳过 Android 设备上的主屏幕、锁定屏幕和两个屏幕的帧</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/pasteboard" rel="nofollow">pasteboard</a></td>
@@ -2227,6 +2253,13 @@
   </tr>
   </thead>
   <tbody id="UI">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_onboarding_slider" rel="nofollow">flutter_onboarding_slider</a></td>
+    <td>具有平行设计的页面滑块，允许（文本）小部件或正文以不同的速度与背景滑动</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/animated_toggle_switch" rel="nofollow">animated_toggle_switch</a></td>
