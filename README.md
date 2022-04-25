@@ -597,7 +597,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/flutter_inapp_purchase" rel="nofollow">flutter_inapp_purchase</a></td>
     <td>应用程序购买。</td>
     <td>2021-11-20</td>
-    <td>289</td>
+    <td>290</td>
   </tr>
       
   <tr class="item">
@@ -1569,7 +1569,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/camerawesome">camerawesome</a></td>
     <td>社区提供的开源相机插件。</td>
     <td>2021-06-02</td>
-    <td>297</td>
+    <td>298</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/printing">printing</a></td>
@@ -5317,7 +5317,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/upgrader">upgrader</a></td>
     <td>用于在商店中有较新版本的应用程序时提示用户进行升级。</td>
     <td>2022-04-21</td>
-    <td>715</td>
+    <td>716</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/solid_bottom_sheet">solid_bottom_sheet</a></td>
