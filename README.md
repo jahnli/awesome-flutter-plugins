@@ -5985,24 +5985,6 @@
     <td>2021-06-14</td>
     <td>1727</td>
   </tr>
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/amap_location_fluttify">amap_location_fluttify </a></td>
-    <td>由Fluttify提供的高德定位组件。</td>
-    <td>2020-10-30</td>
-    <td>15</td>
-  </tr>
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/amap_map_fluttify">amap_map_fluttify</a></td>
-    <td>由Fluttify提供的高德地图组件。</td>
-    <td>2021-11-25</td>
-    <td>25</td>
-  </tr>
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/amap_search_fluttify">amap_search_fluttify</a></td>
-    <td>由Fluttify提供的高德地图搜索组件。</td>
-    <td>2020-11-28</td>
-    <td>4</td>
-  </tr>
   </tbody>
 </table>
 <br>
