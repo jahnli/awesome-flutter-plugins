@@ -17,6 +17,22 @@
 <div class="changeLogItem 04-25">
       <h3>04-25</h3>
       <ul>
+        <li><a href="https://pub.flutter-io.cn/packages/once">once</a> - 想要定期运行一段代码（一次 - 每日 - 每周 - 每月 - 在新版本上 - 任何时期）</li>
+        <li><a href="https://pub.flutter-io.cn/packages/dual_screen">dual_screen</a> - 可折叠和双屏支持，例如 TwoPane 小部件和铰链角度传感器数据</li>
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_barcode_listener">flutter_barcode_listener</a> - 监听任何硬件条码扫描器，无需任何制造商 SDK</li>
+        <li><a href="https://pub.flutter-io.cn/packages/quick_blue">quick_blue</a> - 跨平台 BluetoothLE 插件</li>
+        <li><a href="https://pub.flutter-io.cn/packages/wifi_scan">wifi_scan</a> - 用于扫描附近可见的 WiFi 接入点</li>
+        <li><a href="https://pub.flutter-io.cn/packages/huawei_ml_image">huawei_ml_image</a> - 华为机器学习套件 Flutter 语言插件。提供图像分类、物体检测和图像超分辨率等功能</li>
+        <li><a href="https://pub.flutter-io.cn/packages/huawei_ml_body">huawei_ml_body</a> - Flutter 的 HUAWEI ML Kit Body 插件。提供人脸识别、活体和骨骼检测等功能。</li>
+        <li><a href="https://pub.flutter-io.cn/packages/huawei_iap">huawei_iap</a> - Flutter 的 HUAWEI IAP Kit 插件</li>
+        <li><a href="https://pub.flutter-io.cn/packages/huawei_ml_text">huawei_ml_text</a> - Flutter 的 HUAWEI ML Kit 文本插件。提供文本、文档、身份证、银行卡、通用卡和表单识别等功能</li>
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_tesseract_ocr">flutter_tesseract_ocr</a> - 基于神经网络 (LSTM) 的 OCR 引擎，该引擎专注于线识别。它支持 unicode (UTF-8)，可以识别 100 多种语言</li>
+        <li><a href="https://pub.flutter-io.cn/packages/credit_card_scanner">credit_card_scanner</a> - 用于 Flutter 的快速、准确和安全的信用卡和借记卡扫描仪，card_scanner的持续工作</li>
+        <li><a href="https://pub.flutter-io.cn/packages/credit_card_scanner">credit_card_scanner</a> - Flutter 的 HUAWEI IAP Kit 插件</li>
+        <li><a href="https://pub.flutter-io.cn/packages/three_dart">three_dart</a> - threejs的dart实现，易于使用、轻量级、跨平台的通用 3D 库</li>
+        <li><a href="https://pub.flutter-io.cn/packages/huawei_modeling3d">huawei_modeling3d</a> - 实现了华为3D建模SDK与Flutter平台的通信</li>
+        <li><a href="https://pub.flutter-io.cn/packages/flame_audio">flame_audio</a> - 火焰游戏引擎的音频支持</li>
+        <li><a href="https://pub.flutter-io.cn/packages/huawei_iap">huawei_iap</a> - Flutter 的 HUAWEI IAP Kit 插件</li>
         <li><a href="https://pub.flutter-io.cn/packages/huawei_analytics">huawei_analytics</a> - Flutter 的 HUAWEI Analytics Kit 插件</li>  
         <li><a href="https://pub.flutter-io.cn/packages/carp_health_package">carp_health_package</a> - CARP 健康采样包。从 Apple Health 或 Google Fit 采样健康数据</li>  
         <li><a href="https://pub.flutter-io.cn/packages/carp_mobile_sensing">carp_mobile_sensing</a> - Flutter 的移动传感框架。一个软件框架，用于通过探针从手机和连接的可穿戴设备中收集传感器数据。可以延长</li>  
@@ -93,6 +109,20 @@
   </tr>
   </thead>
   <tbody id="插件">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_tesseract_ocr" rel="nofollow">flutter_tesseract_ocr</a></td>
+    <td>基于神经网络 (LSTM) 的 OCR 引擎，该引擎专注于线识别。它支持 unicode (UTF-8)，可以识别 100 多种语言</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flame_audio" rel="nofollow">flame_audio</a></td>
+    <td>火焰游戏引擎的音频支持</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/serverpod" rel="nofollow">serverpod</a></td>
@@ -709,6 +739,41 @@
   </tr>
   </thead>
   <tbody id="设备相关">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/dual_screen" rel="nofollow">dual_screen</a></td>
+    <td>可折叠和双屏支持，例如 TwoPane 小部件和铰链角度传感器数据</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_barcode_listener" rel="nofollow">flutter_barcode_listener</a></td>
+    <td>监听任何硬件条码扫描器，无需任何制造商 SDK</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/quick_blue" rel="nofollow">quick_blue</a></td>
+    <td>跨平台 BluetoothLE 插件</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/wifi_scan" rel="nofollow">wifi_scan</a></td>
+    <td>用于扫描附近可见的 WiFi 接入点</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/credit_card_scanner" rel="nofollow">credit_card_scanner</a></td>
+    <td>用于 Flutter 的快速、准确和安全的信用卡和借记卡扫描仪，card_scanner的持续工作</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/carp_health_package" rel="nofollow">carp_health_package</a></td>
@@ -1683,6 +1748,13 @@
   </tr>
   </thead>
   <tbody id="项目相关">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/once" rel="nofollow">once</a></td>
+    <td>想要定期运行一段代码（一次 - 每日 - 每周 - 每月 - 在新版本上 - 任何时期）</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/sentry" rel="nofollow">sentry</a></td>
@@ -4419,6 +4491,13 @@
   <tbody id="动画">
       
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/three_dart" rel="nofollow">three_dart</a></td>
+    <td>threejs的dart实现，易于使用、轻量级、跨平台的通用 3D 库</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_bounceable" rel="nofollow">flutter_bounceable</a></td>
     <td>简单、交互式和可自定义的点击弹跳动画，可以包装在您喜欢的任何小部件上。</td>
     <td>2021-10-31</td>
@@ -5469,6 +5548,55 @@
   </tr>
   </thead>
   <tbody id="通讯类">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/huawei_ml_image" rel="nofollow">huawei_ml_image</a></td>
+    <td>华为机器学习套件 Flutter 语言插件。提供图像分类、物体检测和图像超分辨率等功能</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/huawei_ml_body" rel="nofollow">huawei_ml_body</a></td>
+    <td>Flutter 的 HUAWEI ML Kit Body 插件。提供人脸识别、活体和骨骼检测等功能。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/huawei_iap" rel="nofollow">huawei_iap</a></td>
+    <td>Flutter 的 HUAWEI IAP Kit 插件</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/huawei_ml_text" rel="nofollow">huawei_ml_text</a></td>
+    <td>Flutter 的 HUAWEI ML Kit 文本插件。提供文本、文档、身份证、银行卡、通用卡和表单识别等功能</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/credit_card_scanner" rel="nofollow">credit_card_scanner</a></td>
+    <td>Flutter 的 HUAWEI IAP Kit 插件</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/huawei_modeling3d" rel="nofollow">huawei_modeling3d</a></td>
+    <td>实现了华为3D建模SDK与Flutter平台的通信</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/huawei_iap" rel="nofollow">huawei_iap</a></td>
+    <td>Flutter 的 HUAWEI IAP Kit 插件</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/huawei_analytics" rel="nofollow">huawei_analytics</a></td>
