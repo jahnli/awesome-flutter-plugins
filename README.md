@@ -14,6 +14,26 @@
 <br>	
 <div class="changeLog">
 
+<div class="changeLogItem 04-25">
+      <h3>04-25</h3>
+      <ul>
+        <li><a href="https://pub.flutter-io.cn/packages/huawei_analytics">huawei_analytics</a> - Flutter 的 HUAWEI Analytics Kit 插件</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/carp_health_package">carp_health_package</a> - CARP 健康采样包。从 Apple Health 或 Google Fit 采样健康数据</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/carp_mobile_sensing">carp_mobile_sensing</a> - Flutter 的移动传感框架。一个软件框架，用于通过探针从手机和连接的可穿戴设备中收集传感器数据。可以延长</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/huawei_health">huawei_health</a> - Health Kit 提供了一个具有健身和健康开放能力的数据平台</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/health_kit_reporter">health_kit_reporter</a> - 帮助通过 HealthKit 框架从 Apple Health 写入或读取数据</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/huawei_dtm">huawei_dtm</a> - 华为动态标签管理器（DTM）是一个动态标签管理系统</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/huawei_analytics">huawei_analytics</a> - Flutter 的 HUAWEI Analytics Kit 插件</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/huawei_ads">huawei_ads</a> - HUAWEI Ads Kit 插件利用华为庞大的用户群和海量数据能力，为用户提供有针对性的优质广告内容</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/pangle_flutter">pangle_flutter</a> - 一个在 Android 和 iOS 上支持字节跳动 Pangle SDK 的 Flutter 插件</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/huawei_location">huawei_location</a> - HUAWEI Flutter Location Kit 插件将全球导航卫星系统 (GNSS)、Wi-Fi 和基站定位功能结合到您的应用中</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/amap_flutter_map">amap_flutter_map</a> - 高德地图SDK Flutter插件</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/auto_updater">auto_updater</a> - 允许 Flutter 桌面应用程序自动更新自己（基于 sparkle 和 winsparkle）</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/huawei_account">huawei_account</a> - Flutter 的 HUAWEI Account Kit 插件</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/otp_autofill">otp_autofill</a> - 使用 User Consent API 和 Retriever API 实现 OTP 自动填充的 Android。添加从另一个输入接收 OTP 代码的可能性</li>  
+      </ul> 
+</div>
+
 <div class="changeLogItem 04-21">
       <h3>04-21</h3>
       <ul>
@@ -24,15 +44,7 @@
       </ul> 
 </div>
 
-<div class="changeLogItem 04-01">
-      <h3>04-01</h3>
-      <ul>
-        <li><a href="https://pub.flutter-io.cn/packages/pasteboard">pasteboard</a> - 从剪贴板读取图像、文件并将文件写入剪贴板</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/screen_text_extractor">screen_text_extractor</a> - 允许 Flutter 桌面应用程序从屏幕中提取文本</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/serverpod">serverpod</a> - 为 Flutter 社区构建的下一代应用程序和 Web 服务器。它允许您在 Dart 中编写服务器端代码，自动生成您的 API，并以最小的努力连接您的数据库</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_vibrate">flutter_vibrate</a> - 触觉反馈插件</li>  
-      </ul> 
-</div>
+
 
 
 
@@ -697,6 +709,41 @@
   </tr>
   </thead>
   <tbody id="设备相关">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/carp_health_package" rel="nofollow">carp_health_package</a></td>
+    <td>CARP 健康采样包。从 Apple Health 或 Google Fit 采样健康数据</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/carp_mobile_sensing" rel="nofollow">carp_mobile_sensing</a></td>
+    <td>Flutter 的移动传感框架。一个软件框架，用于通过探针从手机和连接的可穿戴设备中收集传感器数据。可以延长</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/huawei_health" rel="nofollow">huawei_health</a></td>
+    <td>Health Kit 提供了一个具有健身和健康开放能力的数据平台</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/health_kit_reporter" rel="nofollow">health_kit_reporter</a></td>
+    <td>帮助通过 HealthKit 框架从 Apple Health 写入或读取数据</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/otp_autofill" rel="nofollow">otp_autofill</a></td>
+    <td>使用 User Consent API 和 Retriever API 实现 OTP 自动填充的 Android。添加从另一个输入接收 OTP 代码的可能性</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/live_icon" rel="nofollow">live_icon</a></td>
@@ -5241,6 +5288,13 @@
   <tbody id="跨平台">
       
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/auto_updater" rel="nofollow">auto_updater</a></td>
+    <td>允许 Flutter 桌面应用程序自动更新自己（基于 sparkle 和 winsparkle）</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/screen_text_extractor" rel="nofollow">screen_text_extractor</a></td>
     <td>允许 Flutter 桌面应用程序从屏幕中提取文本</td>
     <td>2021-11-26</td>
@@ -5415,6 +5469,48 @@
   </tr>
   </thead>
   <tbody id="通讯类">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/huawei_analytics" rel="nofollow">huawei_analytics</a></td>
+    <td>Flutter 的 HUAWEI Analytics Kit 插件</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/huawei_dtm" rel="nofollow">huawei_dtm</a></td>
+    <td>华为动态标签管理器（DTM）是一个动态标签管理系统</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/huawei_analytics" rel="nofollow">huawei_analytics</a></td>
+    <td>Flutter 的 HUAWEI Analytics Kit 插件</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/huawei_ads" rel="nofollow">huawei_ads</a></td>
+    <td>HUAWEI Ads Kit 插件利用华为庞大的用户群和海量数据能力，为用户提供有针对性的优质广告内容</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/pangle_flutter" rel="nofollow">pangle_flutter</a></td>
+    <td>一个在 Android 和 iOS 上支持字节跳动 Pangle SDK 的 Flutter 插件</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/huawei_account" rel="nofollow">huawei_account</a></td>
+    <td>Flutter 的 HUAWEI Account Kit 插件</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/social_share" rel="nofollow">social_share</a></td>
@@ -5847,6 +5943,20 @@
   <tbody id="地图类">
       
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/huawei_location" rel="nofollow">huawei_location</a></td>
+    <td>HUAWEI Flutter Location Kit 插件将全球导航卫星系统 (GNSS)、Wi-Fi 和基站定位功能结合到您的应用中</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/amap_flutter_map" rel="nofollow">amap_flutter_map</a></td>
+    <td>高德地图SDK Flutter插件</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/huawei_map" rel="nofollow">huawei_map</a></td>
     <td>华为地图套件，提供标准地图和UI元素，为您定制更符合服务场景的地图。</td>
     <td>2021-10-01</td>
@@ -6058,5 +6168,6 @@
 
 
 </div>
+
 
 </body></html>
