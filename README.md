@@ -28,7 +28,6 @@
         <li><a href="https://pub.flutter-io.cn/packages/huawei_ml_text">huawei_ml_text</a> - Flutter 的 HUAWEI ML Kit 文本插件。提供文本、文档、身份证、银行卡、通用卡和表单识别等功能</li>
         <li><a href="https://pub.flutter-io.cn/packages/flutter_tesseract_ocr">flutter_tesseract_ocr</a> - 基于神经网络 (LSTM) 的 OCR 引擎，该引擎专注于线识别。它支持 unicode (UTF-8)，可以识别 100 多种语言</li>
         <li><a href="https://pub.flutter-io.cn/packages/credit_card_scanner">credit_card_scanner</a> - 用于 Flutter 的快速、准确和安全的信用卡和借记卡扫描仪，card_scanner的持续工作</li>
-        <li><a href="https://pub.flutter-io.cn/packages/credit_card_scanner">credit_card_scanner</a> - Flutter 的 HUAWEI IAP Kit 插件</li>
         <li><a href="https://pub.flutter-io.cn/packages/three_dart">three_dart</a> - threejs的dart实现，易于使用、轻量级、跨平台的通用 3D 库</li>
         <li><a href="https://pub.flutter-io.cn/packages/huawei_modeling3d">huawei_modeling3d</a> - 实现了华为3D建模SDK与Flutter平台的通信</li>
         <li><a href="https://pub.flutter-io.cn/packages/flame_audio">flame_audio</a> - 火焰游戏引擎的音频支持</li>
@@ -5575,13 +5574,6 @@
     <td>Flutter 的 HUAWEI ML Kit 文本插件。提供文本、文档、身份证、银行卡、通用卡和表单识别等功能</td>
     <td>2021-11-30</td>
     <td>5</td>
-  </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/credit_card_scanner" rel="nofollow">credit_card_scanner</a></td>
-    <td>Flutter 的 HUAWEI IAP Kit 插件</td>
-    <td>2021-08-23</td>
-    <td>16</td>
   </tr>
       
   <tr class="item">
