@@ -14,6 +14,22 @@
 <br>	
 <div class="changeLog">
 
+<div class="changeLogItem 05-11">
+      <h3>05-11</h3>
+      <ul>
+        <li><a href="https://pub.flutter-io.cn/packages/stories_editor">stories_editor</a> - 以 instagram 故事创建者的风格创建的包，您可以使用它创建带有图像、文本、贴纸 (Gifs)、手指画的图像</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/social_media_recorder">social_media_recorder</a> - 通过 Button 提供从麦克风到给定文件路径的录音机，以像社交媒体 Button 一样录制语音</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_audio_waveforms">flutter_audio_waveforms</a> - 用于轻松将音频波形添加到您的应用程序，具有多个自定义选项</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/audio_waveforms">audio_waveforms</a> - 允许在录制音频或从音频文件中生成波形</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/double_tap_player_view">double_tap_player_view</a> - 像视频播放器一样通过双击和水平拖动来处理快进/快退行为的小部件</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/image_network">image_network</a> - 允许使用 CanvasKit 在 Web 上渲染图像，而不会出现 CORS 问题</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/zoom">zoom</a> - Zoom 客户端 SDK 的 Flutter 插件</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/connectycube_flutter_call_kit">connectycube_flutter_call_kit</a> - 用于在应用程序在后台或终止时显示呼叫屏幕</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/hmssdk_flutter">hmssdk_flutter</a> - 100ms SDK 的 Flutter 包，视频视频会议基础设施。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/huawei_scan">huawei_scan</a> - HUAWEI Scan Kit扫描解析所有主要的一维和二维条码并生成二维码，帮助您将条码扫描功能快速构建到您的应用程序中</li>  
+      </ul> 
+</div>
+
 <div class="changeLogItem 04-25">
       <h3>04-25</h3>
       <ul>
@@ -49,15 +65,7 @@
       </ul> 
 </div>
 
-<div class="changeLogItem 04-21">
-      <h3>04-21</h3>
-      <ul>
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_onboarding_slider">flutter_onboarding_slider</a> - 具有平行设计的页面滑块，允许（文本）小部件或正文以不同的速度与背景滑动</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/live_icon">live_icon</a> - 用于实时更改应用程序图标和标签</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_siri_suggestions  ">flutter_siri_suggestions  </a> - 用于在 Siri Suggestions 上曝光的 Flutter 插件也可以通过 Siri 唤醒特定功能</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/wallpaper_manager_flutter">wallpaper_manager_flutter</a> - 用于将大图像设置为墙纸，而不会从系统文件或缓存的图像文件中跳过 Android 设备上的主屏幕、锁定屏幕和两个屏幕的帧</li>  
-      </ul> 
-</div>
+
 
 
 
@@ -738,6 +746,20 @@
   </tr>
   </thead>
   <tbody id="设备相关">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/connectycube_flutter_call_kit" rel="nofollow">connectycube_flutter_call_kit</a></td>
+    <td>用于在应用程序在后台或终止时显示呼叫屏幕</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/huawei_scan" rel="nofollow">huawei_scan</a></td>
+    <td>HUAWEI Scan Kit扫描解析所有主要的一维和二维条码并生成二维码，帮助您将条码扫描功能快速构建到您的应用程序中</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/dual_screen" rel="nofollow">dual_screen</a></td>
@@ -2373,6 +2395,13 @@
   <tbody id="UI">
       
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/double_tap_player_view" rel="nofollow">double_tap_player_view</a></td>
+    <td>像视频播放器一样通过双击和水平拖动来处理快进/快退行为的小部件</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_onboarding_slider" rel="nofollow">flutter_onboarding_slider</a></td>
     <td>具有平行设计的页面滑块，允许（文本）小部件或正文以不同的速度与背景滑动</td>
     <td>2021-12-09</td>
@@ -3477,6 +3506,41 @@
   <tbody id="音视频类">
       
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/social_media_recorder" rel="nofollow">social_media_recorder</a></td>
+    <td>通过 Button 提供从麦克风到给定文件路径的录音机，以像社交媒体 Button 一样录制语音</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_audio_waveforms" rel="nofollow">flutter_audio_waveforms</a></td>
+    <td>用于轻松将音频波形添加到您的应用程序，具有多个自定义选项</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/audio_waveforms" rel="nofollow">audio_waveforms</a></td>
+    <td>允许在录制音频或从音频文件中生成波形</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/zoom" rel="nofollow">zoom</a></td>
+    <td>Zoom 客户端 SDK 的 Flutter 插件</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/hmssdk_flutter" rel="nofollow">hmssdk_flutter</a></td>
+    <td>100ms SDK 的 Flutter 包，视频视频会议基础设施。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/video_editor" rel="nofollow">video_editor</a></td>
     <td>视频编辑器允许通过超级灵活的 UI 设计修剪、裁剪、旋转和缩放视频。</td>
     <td>2022-04-14</td>
@@ -3752,6 +3816,20 @@
   </tr>
   </thead>
   <tbody id="图像">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/stories_editor" rel="nofollow">stories_editor</a></td>
+    <td>以 instagram 故事创建者的风格创建的包，您可以使用它创建带有图像、文本、贴纸 (Gifs)、手指画的图像</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/image_network" rel="nofollow">image_network</a></td>
+    <td>允许使用 CanvasKit 在 Web 上渲染图像，而不会出现 CORS 问题</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/advance_image_picker" rel="nofollow">advance_image_picker</a></td>
@@ -6288,6 +6366,7 @@
 
 
 </div>
+
 
 
 </body></html>
