@@ -14,6 +14,18 @@
 <br>	
 <div class="changeLog">
 
+<div class="changeLogItem 05-25">
+      <h3>05-25</h3>
+      <ul>
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_blurhash">flutter_blurhash</a> - 图像占位符的紧凑表示，对 30 个字符以下的模糊图像进行编码，以便像 Medium 使用的那样即时显示</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/acr_cloud_sdk ">acr_cloud_sdk </a> - 非官方的 ACR Cloud SDK，用于识别声音和音乐 influtter</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/flame_splash_screen">flame_splash_screen</a> - 使用带有徽标显示的漂亮闪屏来设计您的火焰游戏</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/flame_forge2d">flame_forge2d</a> - Forge2D (Box2D) 支持 Flame 游戏引擎</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/timezone">timezone</a> - 时区数据库和时区感知 DateTime</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_native_timezone">flutter_native_timezone</a> - 用于获取操作系统本地时区</li>  
+      </ul> 
+</div>
+
 <div class="changeLogItem 05-11">
       <h3>05-11</h3>
       <ul>
@@ -30,40 +42,7 @@
       </ul> 
 </div>
 
-<div class="changeLogItem 04-25">
-      <h3>04-25</h3>
-      <ul>
-        <li><a href="https://pub.flutter-io.cn/packages/once">once</a> - 想要定期运行一段代码（一次 - 每日 - 每周 - 每月 - 在新版本上 - 任何时期）</li>
-        <li><a href="https://pub.flutter-io.cn/packages/dual_screen">dual_screen</a> - 可折叠和双屏支持，例如 TwoPane 小部件和铰链角度传感器数据</li>
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_barcode_listener">flutter_barcode_listener</a> - 监听任何硬件条码扫描器，无需任何制造商 SDK</li>
-        <li><a href="https://pub.flutter-io.cn/packages/quick_blue">quick_blue</a> - 跨平台 BluetoothLE 插件</li>
-        <li><a href="https://pub.flutter-io.cn/packages/wifi_scan">wifi_scan</a> - 用于扫描附近可见的 WiFi 接入点</li>
-        <li><a href="https://pub.flutter-io.cn/packages/huawei_ml_image">huawei_ml_image</a> - 华为机器学习套件 Flutter 语言插件。提供图像分类、物体检测和图像超分辨率等功能</li>
-        <li><a href="https://pub.flutter-io.cn/packages/huawei_ml_body">huawei_ml_body</a> - Flutter 的 HUAWEI ML Kit Body 插件。提供人脸识别、活体和骨骼检测等功能。</li>
-        <li><a href="https://pub.flutter-io.cn/packages/huawei_iap">huawei_iap</a> - Flutter 的 HUAWEI IAP Kit 插件</li>
-        <li><a href="https://pub.flutter-io.cn/packages/huawei_ml_text">huawei_ml_text</a> - Flutter 的 HUAWEI ML Kit 文本插件。提供文本、文档、身份证、银行卡、通用卡和表单识别等功能</li>
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_tesseract_ocr">flutter_tesseract_ocr</a> - 基于神经网络 (LSTM) 的 OCR 引擎，该引擎专注于线识别。它支持 unicode (UTF-8)，可以识别 100 多种语言</li>
-        <li><a href="https://pub.flutter-io.cn/packages/credit_card_scanner">credit_card_scanner</a> - 用于 Flutter 的快速、准确和安全的信用卡和借记卡扫描仪，card_scanner的持续工作</li>
-        <li><a href="https://pub.flutter-io.cn/packages/three_dart">three_dart</a> - threejs的dart实现，易于使用、轻量级、跨平台的通用 3D 库</li>
-        <li><a href="https://pub.flutter-io.cn/packages/huawei_modeling3d">huawei_modeling3d</a> - 实现了华为3D建模SDK与Flutter平台的通信</li>
-        <li><a href="https://pub.flutter-io.cn/packages/flame_audio">flame_audio</a> - 火焰游戏引擎的音频支持</li>
-        <li><a href="https://pub.flutter-io.cn/packages/huawei_iap">huawei_iap</a> - Flutter 的 HUAWEI IAP Kit 插件</li>
-        <li><a href="https://pub.flutter-io.cn/packages/huawei_analytics">huawei_analytics</a> - Flutter 的 HUAWEI Analytics Kit 插件</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/carp_health_package">carp_health_package</a> - CARP 健康采样包。从 Apple Health 或 Google Fit 采样健康数据</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/carp_mobile_sensing">carp_mobile_sensing</a> - Flutter 的移动传感框架。一个软件框架，用于通过探针从手机和连接的可穿戴设备中收集传感器数据。可以延长</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/huawei_health">huawei_health</a> - Health Kit 提供了一个具有健身和健康开放能力的数据平台</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/health_kit_reporter">health_kit_reporter</a> - 帮助通过 HealthKit 框架从 Apple Health 写入或读取数据</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/huawei_dtm">huawei_dtm</a> - 华为动态标签管理器（DTM）是一个动态标签管理系统</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/huawei_analytics">huawei_analytics</a> - Flutter 的 HUAWEI Analytics Kit 插件</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/huawei_ads">huawei_ads</a> - HUAWEI Ads Kit 插件利用华为庞大的用户群和海量数据能力，为用户提供有针对性的优质广告内容</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/pangle_flutter">pangle_flutter</a> - 一个在 Android 和 iOS 上支持字节跳动 Pangle SDK 的 Flutter 插件</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/huawei_location">huawei_location</a> - HUAWEI Flutter Location Kit 插件将全球导航卫星系统 (GNSS)、Wi-Fi 和基站定位功能结合到您的应用中</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/amap_flutter_map">amap_flutter_map</a> - 高德地图SDK Flutter插件</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/auto_updater">auto_updater</a> - 允许 Flutter 桌面应用程序自动更新自己（基于 sparkle 和 winsparkle）</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/huawei_account">huawei_account</a> - Flutter 的 HUAWEI Account Kit 插件</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/otp_autofill">otp_autofill</a> - 使用 User Consent API 和 Retriever API 实现 OTP 自动填充的 Android。添加从另一个输入接收 OTP 代码的可能性</li>  
-      </ul> 
-</div>
+
 
 
 
@@ -116,6 +95,20 @@
   </tr>
   </thead>
   <tbody id="插件">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flame_splash_screen" rel="nofollow">flame_splash_screen</a></td>
+    <td>使用带有徽标显示的漂亮闪屏来设计您的火焰游戏</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flame_forge2d" rel="nofollow">flame_forge2d</a></td>
+    <td>Forge2D (Box2D) 支持 Flame 游戏引擎</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_tesseract_ocr" rel="nofollow">flutter_tesseract_ocr</a></td>
@@ -746,6 +739,20 @@
   </tr>
   </thead>
   <tbody id="设备相关">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/timezone" rel="nofollow">timezone</a></td>
+    <td>时区数据库和时区感知 DateTime</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_native_timezone" rel="nofollow">flutter_native_timezone</a></td>
+    <td>用于获取操作系统本地时区</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/connectycube_flutter_call_kit" rel="nofollow">connectycube_flutter_call_kit</a></td>
@@ -3506,6 +3513,13 @@
   <tbody id="音视频类">
       
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/acr_cloud_sdk " rel="nofollow">acr_cloud_sdk </a></td>
+    <td>非官方的 ACR Cloud SDK，用于识别声音和音乐 influtter</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/social_media_recorder" rel="nofollow">social_media_recorder</a></td>
     <td>通过 Button 提供从麦克风到给定文件路径的录音机，以像社交媒体 Button 一样录制语音</td>
     <td>2022-03-14</td>
@@ -3816,6 +3830,13 @@
   </tr>
   </thead>
   <tbody id="图像">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_blurhash" rel="nofollow">flutter_blurhash</a></td>
+    <td>图像占位符的紧凑表示，对 30 个字符以下的模糊图像进行编码，以便像 Medium 使用的那样即时显示</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/stories_editor" rel="nofollow">stories_editor</a></td>
