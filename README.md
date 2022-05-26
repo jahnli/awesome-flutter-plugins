@@ -14,6 +14,27 @@
 <br>	
 <div class="changeLog">
 
+<div class="changeLogItem 05-26">
+      <h3>05-26</h3>
+      <ul>
+        <li><a href="https://pub.flutter-io.cn/packages/launch_at_startup">launch_at_startup</a> - 允许 Flutter 桌面应用程序在启动/登录时自动启动</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_callkit_incoming">flutter_callkit_incoming</a> - 用于在 Flutter 应用程序中显示来电</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/screen_brightness">screen_brightness</a> - 用于控制屏幕亮度的插件</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/day">day</a> - dart 中的日期库 Day.js</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/slide_countdown">slide_countdown</a> - 创建简单的幻灯片动画倒数/倒数计时器</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/native_drag_n_drop">native_drag_n_drop</a> - 允许您将本机拖放支持添加到您的颤振应用程序中</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/diagram_editor">diagram_editor</a> - 图表编辑器库，用于显示和编辑自定义类型的图表</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/loading_animation_widget">loading_animation_widget</a> - 加载动画或加载旋转器或加载器</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/webview_flutter_plus">webview_flutter_plus</a> - webview_flutter 的扩展，用于从资产或字符串等加载本地 HTML、CSS 和 Javascript</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/tab_container">tab_container</a> - 动画和可自定义的选项卡视图小部件</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/image_compare">image_compare</a> - 用于图像比较的 Dart 包。使用各种算法比较图像的差异</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_reorderable_grid_view">flutter_reorderable_grid_view</a> - 更新子项或尝试使用拖放重新排序它们时启用动画 GridView</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/tabbed_view">tabbed_view</a> - 经典的桌面样式选项卡组件</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/persistent_bottom_nav_bar_v2">persistent_bottom_nav_bar_v2</a> - persistent_bottom_nav_bar的延续</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/overscroll_pop">overscroll_pop</a> - Scrollview 的 Flutter 小部件，在 iOS 上的 Pinterest 和 Instagram 应用等过度滚动时弹出</li>  
+      </ul> 
+</div>
+
 <div class="changeLogItem 05-25">
       <h3>05-25</h3>
       <ul>
@@ -26,21 +47,7 @@
       </ul> 
 </div>
 
-<div class="changeLogItem 05-11">
-      <h3>05-11</h3>
-      <ul>
-        <li><a href="https://pub.flutter-io.cn/packages/stories_editor">stories_editor</a> - 以 instagram 故事创建者的风格创建的包，您可以使用它创建带有图像、文本、贴纸 (Gifs)、手指画的图像</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/social_media_recorder">social_media_recorder</a> - 通过 Button 提供从麦克风到给定文件路径的录音机，以像社交媒体 Button 一样录制语音</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_audio_waveforms">flutter_audio_waveforms</a> - 用于轻松将音频波形添加到您的应用程序，具有多个自定义选项</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/audio_waveforms">audio_waveforms</a> - 允许在录制音频或从音频文件中生成波形</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/double_tap_player_view">double_tap_player_view</a> - 像视频播放器一样通过双击和水平拖动来处理快进/快退行为的小部件</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/image_network">image_network</a> - 允许使用 CanvasKit 在 Web 上渲染图像，而不会出现 CORS 问题</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/zoom">zoom</a> - Zoom 客户端 SDK 的 Flutter 插件</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/connectycube_flutter_call_kit">connectycube_flutter_call_kit</a> - 用于在应用程序在后台或终止时显示呼叫屏幕</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/hmssdk_flutter">hmssdk_flutter</a> - 100ms SDK 的 Flutter 包，视频视频会议基础设施。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/huawei_scan">huawei_scan</a> - HUAWEI Scan Kit扫描解析所有主要的一维和二维条码并生成二维码，帮助您将条码扫描功能快速构建到您的应用程序中</li>  
-      </ul> 
-</div>
+
 
 
 
@@ -739,6 +746,27 @@
   </tr>
   </thead>
   <tbody id="设备相关">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_callkit_incoming" rel="nofollow">flutter_callkit_incoming</a></td>
+    <td>用于在 Flutter 应用程序中显示来电</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/screen_brightness" rel="nofollow">screen_brightness</a></td>
+    <td>用于控制屏幕亮度的插件</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/native_drag_n_drop" rel="nofollow">native_drag_n_drop</a></td>
+    <td>允许您将本机拖放支持添加到您的颤振应用程序中</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/timezone" rel="nofollow">timezone</a></td>
@@ -2104,6 +2132,13 @@
   <tbody id="列表相关">
       
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_reorderable_grid_view" rel="nofollow">flutter_reorderable_grid_view</a></td>
+    <td>更新子项或尝试使用拖放重新排序它们时启用动画 GridView</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/drag_and_drop_lists" rel="nofollow">drag_and_drop_lists</a></td>
     <td>允许对两级列表进行拖放重新排序。</td>
     <td>2021-10-21</td>
@@ -2400,6 +2435,34 @@
   </tr>
   </thead>
   <tbody id="UI">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/slide_countdown" rel="nofollow">slide_countdown</a></td>
+    <td>创建简单的幻灯片动画倒数/倒数计时器</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/tab_container" rel="nofollow">tab_container</a></td>
+    <td>动画和可自定义的选项卡视图小部件</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/tabbed_view" rel="nofollow">tabbed_view</a></td>
+    <td>经典的桌面样式选项卡组件</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/overscroll_pop" rel="nofollow">overscroll_pop</a></td>
+    <td>Scrollview 的 Flutter 小部件，在 iOS 上的 Pinterest 和 Instagram 应用等过度滚动时弹出</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/double_tap_player_view" rel="nofollow">double_tap_player_view</a></td>
@@ -3832,6 +3895,13 @@
   <tbody id="图像">
       
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/image_compare" rel="nofollow">image_compare</a></td>
+    <td>用于图像比较的 Dart 包。使用各种算法比较图像的差异</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_blurhash" rel="nofollow">flutter_blurhash</a></td>
     <td>图像占位符的紧凑表示，对 30 个字符以下的模糊图像进行编码，以便像 Medium 使用的那样即时显示</td>
     <td>2022-04-21</td>
@@ -4412,6 +4482,13 @@
    </tr>
   </thead>
   <tbody id="时间相关">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/day" rel="nofollow">day</a></td>
+    <td>dart 中的日期库 Day.js</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/time" rel="nofollow">time</a></td>
@@ -5080,6 +5157,13 @@
   <tbody id="底部导航栏">
       
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/persistent_bottom_nav_bar_v2" rel="nofollow">persistent_bottom_nav_bar_v2</a></td>
+    <td>persistent_bottom_nav_bar的延续</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/water_drop_nav_bar" rel="nofollow">water_drop_nav_bar</a></td>
     <td>底部导航栏，具有独特的水滴效果。</td>
     <td>2022-05-16</td>
@@ -5463,6 +5547,13 @@
   </tr>
   </thead>
   <tbody id="跨平台">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/launch_at_startup" rel="nofollow">launch_at_startup</a></td>
+    <td>允许 Flutter 桌面应用程序在启动/登录时自动启动</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/auto_updater" rel="nofollow">auto_updater</a></td>
@@ -6334,6 +6425,13 @@
   </tr>
   </thead>
   <tbody id="Web">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/webview_flutter_plus" rel="nofollow">webview_flutter_plus</a></td>
+    <td>webview_flutter 的扩展，用于从资产或字符串等加载本地 HTML、CSS 和 Javascript</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/webview_flutter" rel="nofollow">webview_flutter</a></td>
