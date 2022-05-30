@@ -14,6 +14,13 @@
 <br>	
 <div class="changeLog">
 
+<div class="changeLogItem 05-30">
+      <h3>05-30</h3>
+      <ul>
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_siri_suggestions">flutter_siri_suggestions</a> - 用于在 Siri Suggestions 上曝光的 Flutter 插件</li>  
+      </ul> 
+</div>
+
 <div class="changeLogItem 05-26">
       <h3>05-26</h3>
       <ul>
@@ -35,17 +42,7 @@
       </ul> 
 </div>
 
-<div class="changeLogItem 05-25">
-      <h3>05-25</h3>
-      <ul>
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_blurhash">flutter_blurhash</a> - 图像占位符的紧凑表示，对 30 个字符以下的模糊图像进行编码，以便像 Medium 使用的那样即时显示</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/acr_cloud_sdk ">acr_cloud_sdk </a> - 非官方的 ACR Cloud SDK，用于识别声音和音乐 influtter</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flame_splash_screen">flame_splash_screen</a> - 使用带有徽标显示的漂亮闪屏来设计您的火焰游戏</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flame_forge2d">flame_forge2d</a> - Forge2D (Box2D) 支持 Flame 游戏引擎</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/timezone">timezone</a> - 时区数据库和时区感知 DateTime</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_native_timezone">flutter_native_timezone</a> - 用于获取操作系统本地时区</li>  
-      </ul> 
-</div>
+
 
 
 
@@ -746,6 +743,13 @@
   </tr>
   </thead>
   <tbody id="设备相关">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_siri_suggestions" rel="nofollow">flutter_siri_suggestions</a></td>
+    <td>用于在 Siri Suggestions 上曝光的 Flutter 插件</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_callkit_incoming" rel="nofollow">flutter_callkit_incoming</a></td>
