@@ -14,6 +14,21 @@
 <br>	
 <div class="changeLog">
 
+<div class="changeLogItem 06-02">
+      <h3>06-02</h3>
+      <ul>
+        <li><a href="https://pub.flutter-io.cn/packages/status_bar_control">status_bar_control</a> - 状态栏控件，可让您控制 iOS 和 Android 中的状态栏颜色、样式（主题）、可见性和半透明属性</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/contextmenu">contextmenu</a> - 显示精美的动画材质上下文菜单，它适用于触摸设备和桌面设备</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/pod_player">pod_player</a> - Vimeo 和 youtube 播放器</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_lyric">flutter_lyric</a> - 音乐歌词阅读器，支持高亮、翻译歌词、流畅动画、自定义UI、解析</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/neon_widgets">neon_widgets</a> - 完整的霓虹灯解决方案</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/sms_advanced">sms_advanced</a> - 允许在 Android 中发送、接收、查询短信、发送短信和查询联系人信息</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/android_sms_retriever">android_sms_retriever</a> - 用于自动检索短信中发送的 OTP 代码，无需在 Android 中获得短信许可</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/signal_strength_indicator">signal_strength_indicator</a> - 可定制信号强度指示器小部件</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/power_image">power_image</a> - 功能强大的插件，充分利用原生图片库在flutter端展示图片的能力</li>  
+      </ul> 
+</div>
+
 <div class="changeLogItem 05-30">
       <h3>05-30</h3>
       <ul>
@@ -21,26 +36,7 @@
       </ul> 
 </div>
 
-<div class="changeLogItem 05-26">
-      <h3>05-26</h3>
-      <ul>
-        <li><a href="https://pub.flutter-io.cn/packages/launch_at_startup">launch_at_startup</a> - 允许 Flutter 桌面应用程序在启动/登录时自动启动</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_callkit_incoming">flutter_callkit_incoming</a> - 用于在 Flutter 应用程序中显示来电</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/screen_brightness">screen_brightness</a> - 用于控制屏幕亮度的插件</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/day">day</a> - dart 中的日期库 Day.js</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/slide_countdown">slide_countdown</a> - 创建简单的幻灯片动画倒数/倒数计时器</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/native_drag_n_drop">native_drag_n_drop</a> - 允许您将本机拖放支持添加到您的颤振应用程序中</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/diagram_editor">diagram_editor</a> - 图表编辑器库，用于显示和编辑自定义类型的图表</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/loading_animation_widget">loading_animation_widget</a> - 加载动画或加载旋转器或加载器</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/webview_flutter_plus">webview_flutter_plus</a> - webview_flutter 的扩展，用于从资产或字符串等加载本地 HTML、CSS 和 Javascript</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/tab_container">tab_container</a> - 动画和可自定义的选项卡视图小部件</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/image_compare">image_compare</a> - 用于图像比较的 Dart 包。使用各种算法比较图像的差异</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_reorderable_grid_view">flutter_reorderable_grid_view</a> - 更新子项或尝试使用拖放重新排序它们时启用动画 GridView</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/tabbed_view">tabbed_view</a> - 经典的桌面样式选项卡组件</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/persistent_bottom_nav_bar_v2">persistent_bottom_nav_bar_v2</a> - persistent_bottom_nav_bar的延续</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/overscroll_pop">overscroll_pop</a> - Scrollview 的 Flutter 小部件，在 iOS 上的 Pinterest 和 Instagram 应用等过度滚动时弹出</li>  
-      </ul> 
-</div>
+
 
 
 
@@ -743,6 +739,27 @@
   </tr>
   </thead>
   <tbody id="设备相关">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/status_bar_control" rel="nofollow">status_bar_control</a></td>
+    <td>状态栏控件，可让您控制 iOS 和 Android 中的状态栏颜色、样式（主题）、可见性和半透明属性</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/sms_advanced" rel="nofollow">sms_advanced</a></td>
+    <td>允许在 Android 中发送、接收、查询短信、发送短信和查询联系人信息</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/android_sms_retriever" rel="nofollow">android_sms_retriever</a></td>
+    <td>用于自动检索短信中发送的 OTP 代码，无需在 Android 中获得短信许可</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_siri_suggestions" rel="nofollow">flutter_siri_suggestions</a></td>
@@ -2441,6 +2458,27 @@
   <tbody id="UI">
       
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_lyric" rel="nofollow">flutter_lyric</a></td>
+    <td>音乐歌词阅读器，支持高亮、翻译歌词、流畅动画、自定义UI、解析</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/neon_widgets" rel="nofollow">neon_widgets</a></td>
+    <td>完整的霓虹灯解决方案</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/signal_strength_indicator" rel="nofollow">signal_strength_indicator</a></td>
+    <td>可定制信号强度指示器小部件</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/slide_countdown" rel="nofollow">slide_countdown</a></td>
     <td>创建简单的幻灯片动画倒数/倒数计时器</td>
     <td>2022-05-27</td>
@@ -3580,6 +3618,13 @@
   <tbody id="音视频类">
       
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/pod_player" rel="nofollow">pod_player</a></td>
+    <td>Vimeo 和 youtube 播放器</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/acr_cloud_sdk " rel="nofollow">acr_cloud_sdk </a></td>
     <td>非官方的 ACR Cloud SDK，用于识别声音和音乐 influtter</td>
     <td>2022-03-28</td>
@@ -3897,6 +3942,13 @@
   </tr>
   </thead>
   <tbody id="图像">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/power_image" rel="nofollow">power_image</a></td>
+    <td>功能强大的插件，充分利用原生图片库在flutter端展示图片的能力</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/image_compare" rel="nofollow">image_compare</a></td>
@@ -5551,6 +5603,13 @@
   </tr>
   </thead>
   <tbody id="跨平台">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/contextmenu" rel="nofollow">contextmenu</a></td>
+    <td>显示精美的动画材质上下文菜单，它适用于触摸设备和桌面设备</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/launch_at_startup" rel="nofollow">launch_at_startup</a></td>
