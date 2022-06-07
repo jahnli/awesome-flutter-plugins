@@ -14,6 +14,26 @@
 <br>	
 <div class="changeLog">
 
+<div class="changeLogItem 06-07">
+      <h3>06-07</h3>
+      <ul>
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_alarm_clock">flutter_alarm_clock</a> - 连接安卓时钟应用</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_alarm_clock">flutter_alarm_clock</a> - 连接安卓时钟应用</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/installed_apps">installed_apps</a> - 设备上已安装应用程序相关的实用方法</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/async_wallpaper">async_wallpaper</a> - 在 Android 上异步设置壁纸</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/volume_controller">volume_controller</a> - 用于 ios 和 android 控制系统音量的 Flutter 音量插件</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/palestine_trusted_device">palestine_trusted_device</a> - 检查设备是否为模拟器、root、越狱、开发者模式等。</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/store_checker">store_checker</a> - 查找当前安装的 apk/ipa 的来源</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/screen_capture_event">screen_capture_event</a> - 捕获 Android 和 iOS 的屏幕捕获（屏幕截图和屏幕录制）事件</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/twitter_api_v2">twitter_api_v2</a> - Dart 语言编写的 Twitter API v2.0 的轻量级和强大的包装库</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/typewritertext">typewritertext</a> - 简单的打字机文本动画包装器</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/cr_calendar">cr_calendar</a> - 带有自定义、范围选择和事件显示的很棒的日历</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/rounded_background_text">rounded_background_text</a> - 用圆角突出显示的文本和文本字段</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/time_duration_picker">time_duration_picker</a> - 配对连续任务的时间选择器</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/scroll_loop_auto_scroll">scroll_loop_auto_scroll</a> - 自动将自定义子小部件滚动到无限循环</li>  
+      </ul> 
+</div>
+
 <div class="changeLogItem 06-02">
       <h3>06-02</h3>
       <ul>
@@ -29,12 +49,7 @@
       </ul> 
 </div>
 
-<div class="changeLogItem 05-30">
-      <h3>05-30</h3>
-      <ul>
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_siri_suggestions">flutter_siri_suggestions</a> - 用于在 Siri Suggestions 上曝光的 Flutter 插件</li>  
-      </ul> 
-</div>
+
 
 
 
@@ -95,6 +110,20 @@
   </tr>
   </thead>
   <tbody id="插件">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/store_checker" rel="nofollow">store_checker</a></td>
+    <td>查找当前安装的 apk/ipa 的来源</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/twitter_api_v2" rel="nofollow">twitter_api_v2</a></td>
+    <td>Dart 语言编写的 Twitter API v2.0 的轻量级和强大的包装库</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flame_splash_screen" rel="nofollow">flame_splash_screen</a></td>
@@ -739,6 +768,55 @@
   </tr>
   </thead>
   <tbody id="设备相关">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_alarm_clock" rel="nofollow">flutter_alarm_clock</a></td>
+    <td>连接安卓时钟应用</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_alarm_clock" rel="nofollow">flutter_alarm_clock</a></td>
+    <td>连接安卓时钟应用</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/installed_apps" rel="nofollow">installed_apps</a></td>
+    <td>设备上已安装应用程序相关的实用方法</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/async_wallpaper" rel="nofollow">async_wallpaper</a></td>
+    <td>在 Android 上异步设置壁纸</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/volume_controller" rel="nofollow">volume_controller</a></td>
+    <td>用于 ios 和 android 控制系统音量的 Flutter 音量插件</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/palestine_trusted_device" rel="nofollow">palestine_trusted_device</a></td>
+    <td>检查设备是否为模拟器、root、越狱、开发者模式等。</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/screen_capture_event" rel="nofollow">screen_capture_event</a></td>
+    <td>捕获 Android 和 iOS 的屏幕捕获（屏幕截图和屏幕录制）事件</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/status_bar_control" rel="nofollow">status_bar_control</a></td>
@@ -2456,6 +2534,27 @@
   </tr>
   </thead>
   <tbody id="UI">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/typewritertext" rel="nofollow">typewritertext</a></td>
+    <td>简单的打字机文本动画包装器</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/rounded_background_text" rel="nofollow">rounded_background_text</a></td>
+    <td>用圆角突出显示的文本和文本字段</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/scroll_loop_auto_scroll" rel="nofollow">scroll_loop_auto_scroll</a></td>
+    <td>自动将自定义子小部件滚动到无限循环</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_lyric" rel="nofollow">flutter_lyric</a></td>
@@ -4538,6 +4637,20 @@
    </tr>
   </thead>
   <tbody id="时间相关">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/cr_calendar" rel="nofollow">cr_calendar</a></td>
+    <td>带有自定义、范围选择和事件显示的很棒的日历</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/time_duration_picker" rel="nofollow">time_duration_picker</a></td>
+    <td>配对连续任务的时间选择器</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/day" rel="nofollow">day</a></td>
