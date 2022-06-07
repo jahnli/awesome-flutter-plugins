@@ -18,7 +18,6 @@
       <h3>06-07</h3>
       <ul>
         <li><a href="https://pub.flutter-io.cn/packages/flutter_alarm_clock">flutter_alarm_clock</a> - 连接安卓时钟应用</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_alarm_clock">flutter_alarm_clock</a> - 连接安卓时钟应用</li>  
         <li><a href="https://pub.flutter-io.cn/packages/installed_apps">installed_apps</a> - 设备上已安装应用程序相关的实用方法</li>  
         <li><a href="https://pub.flutter-io.cn/packages/async_wallpaper">async_wallpaper</a> - 在 Android 上异步设置壁纸</li>  
         <li><a href="https://pub.flutter-io.cn/packages/volume_controller">volume_controller</a> - 用于 ios 和 android 控制系统音量的 Flutter 音量插件</li>  
@@ -768,13 +767,6 @@
   </tr>
   </thead>
   <tbody id="设备相关">
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/flutter_alarm_clock" rel="nofollow">flutter_alarm_clock</a></td>
-    <td>连接安卓时钟应用</td>
-    <td>暂无</td>
-    <td>暂无</td>
-  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_alarm_clock" rel="nofollow">flutter_alarm_clock</a></td>
