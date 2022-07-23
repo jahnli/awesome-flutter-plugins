@@ -17,6 +17,12 @@
 <div class="changeLogItem 07-23">
       <h3>07-23</h3>
       <ul>
+        <li><a href="https://pub.flutter-io.cn/packages/system_info2">system_info2</a> - 提供对有关系统的有用信息（架构、位数、内核、内存、操作系统、CPU、用户）的轻松访问</li>
+        <li><a href="https://pub.flutter-io.cn/packages/moment_dart">moment_dart</a> - 将 DateTime 转换为人类可读格式的包。灵感来自 moment.js</li>
+        <li><a href="https://pub.flutter-io.cn/packages/easy_refresh">easy_refresh</a> - 提供下拉刷新和上拉加载的小部件</li>
+        <li><a href="https://pub.flutter-io.cn/packages/mlkit_scanner">mlkit_scanner</a> - 适用于 iOS 和 Android 的 Google MLKit API 检测条形码、文本、面部和对象的 Flutter 插件</li>
+        <li><a href="https://pub.flutter-io.cn/packages/google_mlkit_face_detection">google_mlkit_face_detection</a> - 使用 Google 的 ML Kit Face Detection 来检测图像中的人脸，识别关键的面部特征，并获取检测到的人脸的轮廓</li>
+        <li><a href="https://pub.flutter-io.cn/packages/face_camera">face_camera</a> - 实时检测人脸的 Flutter 相机插件，一旦检测到人脸，它可以自动捕捉</li>
         <li><a href="https://pub.flutter-io.cn/packages/easy_debounce">easy_debounce</a> -  Dart/Flutter 的一个非常易于使用的方法调用 debouncer 包</li>  
         <li><a href="https://pub.flutter-io.cn/packages/pip_flutter">pip_flutter</a> -  Flutter 画中画包</li>  
         <li><a href="https://pub.flutter-io.cn/packages/flutter_floatwing">flutter_floatwing</a> - 为 Android 制作浮动/覆盖窗口</li>  
@@ -114,6 +120,13 @@
   </tr>
   </thead>
   <tbody id="插件">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/google_mlkit_face_detection" rel="nofollow">google_mlkit_face_detection</a></td>
+    <td>使用 Google 的 ML Kit Face Detection 来检测图像中的人脸，识别关键的面部特征，并获取检测到的人脸的轮廓</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/easy_debounce" rel="nofollow">easy_debounce</a></td>
@@ -779,6 +792,27 @@
   </tr>
   </thead>
   <tbody id="设备相关">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/system_info2" rel="nofollow">system_info2</a></td>
+    <td>提供对有关系统的有用信息（架构、位数、内核、内存、操作系统、CPU、用户）的轻松访问</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/mlkit_scanner" rel="nofollow">mlkit_scanner</a></td>
+    <td>适用于 iOS 和 Android 的 Google MLKit API 检测条形码、文本、面部和对象的 Flutter 插件</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/face_camera" rel="nofollow">face_camera</a></td>
+    <td>实时检测人脸的 Flutter 相机插件，一旦检测到人脸，它可以自动捕捉</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/screen_protector" rel="nofollow">screen_protector</a></td>
@@ -2545,6 +2579,13 @@
   </tr>
   </thead>
   <tbody id="UI">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/easy_refresh" rel="nofollow">easy_refresh</a></td>
+    <td>提供下拉刷新和上拉加载的小部件</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/pip_flutter" rel="nofollow">pip_flutter</a></td>
@@ -4676,6 +4717,13 @@
    </tr>
   </thead>
   <tbody id="时间相关">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/moment_dart" rel="nofollow">moment_dart</a></td>
+    <td>将 DateTime 转换为人类可读格式的包。灵感来自 moment.js</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/cr_calendar" rel="nofollow">cr_calendar</a></td>
