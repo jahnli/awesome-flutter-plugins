@@ -9,7 +9,7 @@
 
 <br>
 
-<h3 id="count">收录 928 个</h3>   
+<h3 id="count">收录 934 个</h3>   
 
 <br>	
 <div class="changeLog">
@@ -124,8 +124,8 @@
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/google_mlkit_face_detection" rel="nofollow">google_mlkit_face_detection</a></td>
     <td>使用 Google 的 ML Kit Face Detection 来检测图像中的人脸，识别关键的面部特征，并获取检测到的人脸的轮廓</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2022-07-23</td>
+    <td>21</td>
   </tr>
       
   <tr class="item">
@@ -796,22 +796,22 @@
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/system_info2" rel="nofollow">system_info2</a></td>
     <td>提供对有关系统的有用信息（架构、位数、内核、内存、操作系统、CPU、用户）的轻松访问</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2022-07-23</td>
+    <td>18</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/mlkit_scanner" rel="nofollow">mlkit_scanner</a></td>
     <td>适用于 iOS 和 Android 的 Google MLKit API 检测条形码、文本、面部和对象的 Flutter 插件</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2022-07-23</td>
+    <td>21</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/face_camera" rel="nofollow">face_camera</a></td>
     <td>实时检测人脸的 Flutter 相机插件，一旦检测到人脸，它可以自动捕捉</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2022-07-23</td>
+    <td>46</td>
   </tr>
       
   <tr class="item">
@@ -1623,7 +1623,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/in_app_purchase" rel="nofollow">in_app_purchase</a></td>
     <td>用于在 Flutter 应用程序中购买的独立于店面的 API。</td>
     <td>2022-07-23</td>
-    <td>1153</td>
+    <td>1154</td>
   </tr> 
 	  
   <tr class="item">
@@ -1781,7 +1781,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/flutter_local_notifications">flutter_local_notifications</a></td>
     <td>用于显示和推送Flutter应用程序的本地通知（定时、通知声音）。</td>
     <td>2022-07-23</td>
-    <td>3816</td>
+    <td>3817</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_contact">flutter_contact</a></td>
@@ -1823,7 +1823,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/path_provider">path_provider</a></td>
     <td>查找文件系统上的常用位置。</td>
     <td>2022-07-23</td>
-    <td>2961</td>
+    <td>2962</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/package_info">package_info</a></td>
@@ -2203,7 +2203,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/dio">Dio</a></td>
     <td>Dart的强大Http客户端，支持拦截器，全局配置，FormData，请求取消，文件下载，超时等。</td>
     <td>2022-07-23</td>
-    <td>4176</td>
+    <td>4177</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/shared_preferences">shared_preferences</a></td>
@@ -2583,8 +2583,8 @@
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/easy_refresh" rel="nofollow">easy_refresh</a></td>
     <td>提供下拉刷新和上拉加载的小部件</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2022-07-23</td>
+    <td>22</td>
   </tr>
       
   <tr class="item">
@@ -2913,7 +2913,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/shimmer_animation" rel="nofollow">shimmer_animation</a></td>
     <td>轻松创建简单而漂亮的骨架屏。</td>
     <td>2022-07-23</td>
-    <td>195</td>
+    <td>196</td>
   </tr>
       
   <tr class="item">
@@ -3095,7 +3095,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/intro_views_flutter" rel="nofollow">intro_views_flutter</a></td>
     <td>用于简单的材料设计应用程序介绍屏幕，带有一些很酷的动画。</td>
     <td>2022-07-23</td>
-    <td>458</td>
+    <td>459</td>
   </tr>
       
   <tr class="item">
@@ -3130,7 +3130,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/liquid_pull_to_refresh" rel="nofollow">liquid_pull_to_refresh</a></td>
     <td>一个漂亮的自定义刷新指示器，带有一些很酷的动画。</td>
     <td>2022-07-23</td>
-    <td>415</td>
+    <td>416</td>
   </tr>
       
   <tr class="item">
@@ -3758,7 +3758,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/syncfusion_flutter_sliders" rel="nofollow">syncfusion_flutter_sliders</a></td>
     <td>用于创建高度可定制且 UI 丰富的滑块、范围滑块和范围选择器小部件。</td>
     <td>2022-07-23</td>
-    <td>481</td>
+    <td>482</td>
   </tr>
       
   <tr class="item">
@@ -4721,8 +4721,8 @@
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/moment_dart" rel="nofollow">moment_dart</a></td>
     <td>将 DateTime 转换为人类可读格式的包。灵感来自 moment.js</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2022-07-23</td>
+    <td>24</td>
   </tr>
       
   <tr class="item">
@@ -5023,7 +5023,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/rive" rel="nofollow">rive</a></td>
     <td>提供运行时功能，用于回放使用 Rive 编辑器构建的动画并与之交互。</td>
     <td>2022-07-23</td>
-    <td>827</td>
+    <td>828</td>
   </tr>
       
   <tr class="item">
@@ -5156,7 +5156,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/animated_text_kit">animated_text_kit</a></td>
     <td>酷炫的漂亮文字动画。</td>
     <td>2022-07-23</td>
-    <td>3154</td>
+    <td>3155</td>
   </tr>
 	  
   <tr class="item">
@@ -5183,14 +5183,14 @@
     <td><a href="https://pub.flutter-io.cn/packages/lottie" rel="nofollow">lottie</a></td>
     <td>在Flutter上本地渲染After Effects动画。该软件包是Lottie播放器的纯Dart实现。</td>
     <td>2022-07-23</td>
-    <td>1992</td>
+    <td>1993</td>
   </tr>
 	  
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/simple_animations" rel="nofollow">simple_animations</a></td>
     <td>创建精美的自定义动画。</td>
     <td>2022-07-23</td>
-    <td>1486</td>
+    <td>1487</td>
   </tr>
       
   <tr class="item">
@@ -5632,7 +5632,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/motion_toast" rel="nofollow">motion_toast</a></td>
     <td>带有动画的精美设计toast，包含多种内置设计。</td>
     <td>2022-07-23</td>
-    <td>190</td>
+    <td>191</td>
   </tr>
       
   <tr class="item">
