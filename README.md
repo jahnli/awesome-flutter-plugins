@@ -14,6 +14,24 @@
 <br>	
 <div class="changeLog">
 
+<div class="changeLogItem 07-23">
+      <h3>07-23</h3>
+      <ul>
+        <li><a href="https://pub.flutter-io.cn/packages/easy_debounce">easy_debounce</a> -  Dart/Flutter 的一个非常易于使用的方法调用 debouncer 包</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/pip_flutter">pip_flutter</a> -  Flutter 画中画包</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_floatwing">flutter_floatwing</a> - 为 Android 制作浮动/覆盖窗口</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/local_notifier">local_notifier</a> - 允许 Flutter 桌面应用程序显示本地通知</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/desktop_context_menu">desktop_context_menu</a> - 在光标位置打开上下文菜单的插件</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/fade_out_particle">fade_out_particle</a> - 为诸如文本和图标之类的消失视图淡出粒子效果</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_animate">flutter_animate</a> - 通过简单、可定制、统一的 API 在 Flutter 中添加精美的动画效果和构建器</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/advstory">advstory</a> - 先进的，完整的故事查看器。支持图像、视频、自定义小部件内容、手势、拦截器、侦听器、操纵器等</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/telegram_client">telegram_client</a> - 用于制作基于应用程序电报的颤振和 userbot / bot 支持服务器端和客户端</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/screen_protector">screen_protector</a> - 通过应用程序后台屏幕截图和防止 Android 和 iOS 屏幕截图安全数据泄漏</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_gl">flutter_gl</a> - Dart 通过 dart:ffi 跨平台调用 OpenGL API。跨平台的3D编程</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/zwidget">zwidget</a> - 将几乎所有小部件转换为可以轻松制作动画的伪 3D 版本</li>  
+      </ul> 
+</div>
+
 <div class="changeLogItem 06-07">
       <h3>06-07</h3>
       <ul>
@@ -33,20 +51,7 @@
       </ul> 
 </div>
 
-<div class="changeLogItem 06-02">
-      <h3>06-02</h3>
-      <ul>
-        <li><a href="https://pub.flutter-io.cn/packages/status_bar_control">status_bar_control</a> - 状态栏控件，可让您控制 iOS 和 Android 中的状态栏颜色、样式（主题）、可见性和半透明属性</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/contextmenu">contextmenu</a> - 显示精美的动画材质上下文菜单，它适用于触摸设备和桌面设备</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/pod_player">pod_player</a> - Vimeo 和 youtube 播放器</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_lyric">flutter_lyric</a> - 音乐歌词阅读器，支持高亮、翻译歌词、流畅动画、自定义UI、解析</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/neon_widgets">neon_widgets</a> - 完整的霓虹灯解决方案</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/sms_advanced">sms_advanced</a> - 允许在 Android 中发送、接收、查询短信、发送短信和查询联系人信息</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/android_sms_retriever">android_sms_retriever</a> - 用于自动检索短信中发送的 OTP 代码，无需在 Android 中获得短信许可</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/signal_strength_indicator">signal_strength_indicator</a> - 可定制信号强度指示器小部件</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/power_image">power_image</a> - 功能强大的插件，充分利用原生图片库在flutter端展示图片的能力</li>  
-      </ul> 
-</div>
+
 
 
 
@@ -109,6 +114,13 @@
   </tr>
   </thead>
   <tbody id="插件">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/easy_debounce" rel="nofollow">easy_debounce</a></td>
+    <td> Dart/Flutter 的一个非常易于使用的方法调用 debouncer 包</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/store_checker" rel="nofollow">store_checker</a></td>
@@ -767,6 +779,13 @@
   </tr>
   </thead>
   <tbody id="设备相关">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/screen_protector" rel="nofollow">screen_protector</a></td>
+    <td>通过应用程序后台屏幕截图和防止 Android 和 iOS 屏幕截图安全数据泄漏</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_alarm_clock" rel="nofollow">flutter_alarm_clock</a></td>
@@ -2526,6 +2545,34 @@
   </tr>
   </thead>
   <tbody id="UI">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/pip_flutter" rel="nofollow">pip_flutter</a></td>
+    <td> Flutter 画中画包</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_floatwing" rel="nofollow">flutter_floatwing</a></td>
+    <td>为 Android 制作浮动/覆盖窗口</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/advstory" rel="nofollow">advstory</a></td>
+    <td>先进的，完整的故事查看器。支持图像、视频、自定义小部件内容、手势、拦截器、侦听器、操纵器等</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/zwidget" rel="nofollow">zwidget</a></td>
+    <td>将几乎所有小部件转换为可以轻松制作动画的伪 3D 版本</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/typewritertext" rel="nofollow">typewritertext</a></td>
@@ -4827,6 +4874,27 @@
   <tbody id="动画">
       
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/fade_out_particle" rel="nofollow">fade_out_particle</a></td>
+    <td>为诸如文本和图标之类的消失视图淡出粒子效果</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_animate" rel="nofollow">flutter_animate</a></td>
+    <td>通过简单、可定制、统一的 API 在 Flutter 中添加精美的动画效果和构建器</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_gl" rel="nofollow">flutter_gl</a></td>
+    <td>Dart 通过 dart:ffi 跨平台调用 OpenGL API。跨平台的3D编程</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/three_dart" rel="nofollow">three_dart</a></td>
     <td>threejs的dart实现，易于使用、轻量级、跨平台的通用 3D 库</td>
     <td>2022-04-15</td>
@@ -5710,6 +5778,20 @@
   <tbody id="跨平台">
       
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/local_notifier" rel="nofollow">local_notifier</a></td>
+    <td>允许 Flutter 桌面应用程序显示本地通知</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/desktop_context_menu" rel="nofollow">desktop_context_menu</a></td>
+    <td>在光标位置打开上下文菜单的插件</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/contextmenu" rel="nofollow">contextmenu</a></td>
     <td>显示精美的动画材质上下文菜单，它适用于触摸设备和桌面设备</td>
     <td>2022-03-02</td>
@@ -5905,6 +5987,13 @@
   </tr>
   </thead>
   <tbody id="通讯类">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/telegram_client" rel="nofollow">telegram_client</a></td>
+    <td>用于制作基于应用程序电报的颤振和 userbot / bot 支持服务器端和客户端</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/huawei_ml_image" rel="nofollow">huawei_ml_image</a></td>
@@ -6653,6 +6742,7 @@
 
 
 </div>
+
 
 
 
