@@ -23,7 +23,7 @@
         <li><a href="https://pub.flutter-io.cn/packages/mlkit_scanner">mlkit_scanner</a> - 适用于 iOS 和 Android 的 Google MLKit API 检测条形码、文本、面部和对象的 Flutter 插件</li>
         <li><a href="https://pub.flutter-io.cn/packages/google_mlkit_face_detection">google_mlkit_face_detection</a> - 使用 Google 的 ML Kit Face Detection 来检测图像中的人脸，识别关键的面部特征，并获取检测到的人脸的轮廓</li>
         <li><a href="https://pub.flutter-io.cn/packages/face_camera">face_camera</a> - 实时检测人脸的 Flutter 相机插件，一旦检测到人脸，它可以自动捕捉</li>
-        <li><a href="https://pub.flutter-io.cn/packages/easy_debounce">easy_debounce</a> -  Dart/Flutter 的一个非常易于使用的方法调用 debouncer 包</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/easy_debounce">easy_debounce</a> -  Dart/Flutter 的一个非常易于使用的方法调用 debounce 包</li>  
         <li><a href="https://pub.flutter-io.cn/packages/pip_flutter">pip_flutter</a> -  Flutter 画中画包</li>  
         <li><a href="https://pub.flutter-io.cn/packages/flutter_floatwing">flutter_floatwing</a> - 为 Android 制作浮动/覆盖窗口</li>  
         <li><a href="https://pub.flutter-io.cn/packages/local_notifier">local_notifier</a> - 允许 Flutter 桌面应用程序显示本地通知</li>  
