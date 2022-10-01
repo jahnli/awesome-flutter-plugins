@@ -14,6 +14,20 @@
 <br>	
 <div class="changeLog">
 
+<div class="changeLogItem 10-01">
+      <h3>10-01</h3>
+      <ul>
+        <li><a href="https://pub.flutter-io.cn/packages/webview_windows">webview_windows</a> - 适用于 Windows 平台的基于 WebView2 的 webview 实现</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_webview_pro">flutter_webview_pro</a> - 提供支持照片上传/拍照和地理定位的 WebView 小部件</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_web_auth">flutter_web_auth</a> - Flutter 插件，用于通过 Web 服务对用户进行身份验证</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/rich_clipboard">rich_clipboard</a> - Flutter 插件，用于访问系统剪贴板中的富文本和其他数据类型</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/calendar_date_picker2">calendar_date_picker2</a> - 基于 Flutter CalendarDatePicker 的轻量级可定制日历选择器，支持单日期选择器、范围选择器和多选择器</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/web_view_tts">web_view_tts</a> - 在 Flutter WebView Android 中添加 Text-To-Speech 支持的 Flutter 插件</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/web_view_ble">web_view_ble</a> - 在适用于 Android 和 iOS 的 WebView Flutter 中添加低功耗蓝牙支持</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_side_menu">flutter_side_menu</a> - 完全可定制的侧边菜单</li>  
+      </ul> 
+</div>
+
 <div class="changeLogItem 07-23">
       <h3>07-23</h3>
       <ul>
@@ -38,24 +52,7 @@
       </ul> 
 </div>
 
-<div class="changeLogItem 06-07">
-      <h3>06-07</h3>
-      <ul>
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_alarm_clock">flutter_alarm_clock</a> - 连接安卓时钟应用</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/installed_apps">installed_apps</a> - 设备上已安装应用程序相关的实用方法</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/async_wallpaper">async_wallpaper</a> - 在 Android 上异步设置壁纸</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/volume_controller">volume_controller</a> - 用于 ios 和 android 控制系统音量的 Flutter 音量插件</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/palestine_trusted_device">palestine_trusted_device</a> - 检查设备是否为模拟器、root、越狱、开发者模式等。</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/store_checker">store_checker</a> - 查找当前安装的 apk/ipa 的来源</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/screen_capture_event">screen_capture_event</a> - 捕获 Android 和 iOS 的屏幕捕获（屏幕截图和屏幕录制）事件</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/twitter_api_v2">twitter_api_v2</a> - Dart 语言编写的 Twitter API v2.0 的轻量级和强大的包装库</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/typewritertext">typewritertext</a> - 简单的打字机文本动画包装器</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/cr_calendar">cr_calendar</a> - 带有自定义、范围选择和事件显示的很棒的日历</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/rounded_background_text">rounded_background_text</a> - 用圆角突出显示的文本和文本字段</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/time_duration_picker">time_duration_picker</a> - 配对连续任务的时间选择器</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/scroll_loop_auto_scroll">scroll_loop_auto_scroll</a> - 自动将自定义子小部件滚动到无限循环</li>  
-      </ul> 
-</div>
+
 
 
 
@@ -120,6 +117,13 @@
   </tr>
   </thead>
   <tbody id="插件">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_web_auth" rel="nofollow">flutter_web_auth</a></td>
+    <td>Flutter 插件，用于通过 Web 服务对用户进行身份验证</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/google_mlkit_face_detection" rel="nofollow">google_mlkit_face_detection</a></td>
@@ -792,6 +796,27 @@
   </tr>
   </thead>
   <tbody id="设备相关">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/rich_clipboard" rel="nofollow">rich_clipboard</a></td>
+    <td>Flutter 插件，用于访问系统剪贴板中的富文本和其他数据类型</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/web_view_tts" rel="nofollow">web_view_tts</a></td>
+    <td>在 Flutter WebView Android 中添加 Text-To-Speech 支持的 Flutter 插件</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/web_view_ble" rel="nofollow">web_view_ble</a></td>
+    <td>在适用于 Android 和 iOS 的 WebView Flutter 中添加低功耗蓝牙支持</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/system_info2" rel="nofollow">system_info2</a></td>
@@ -4719,6 +4744,13 @@
   <tbody id="时间相关">
       
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/calendar_date_picker2" rel="nofollow">calendar_date_picker2</a></td>
+    <td>基于 Flutter CalendarDatePicker 的轻量级可定制日历选择器，支持单日期选择器、范围选择器和多选择器</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/moment_dart" rel="nofollow">moment_dart</a></td>
     <td>将 DateTime 转换为人类可读格式的包。灵感来自 moment.js</td>
     <td>2022-07-23</td>
@@ -5353,6 +5385,13 @@
   <tbody id="侧边栏">
       
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_side_menu" rel="nofollow">flutter_side_menu</a></td>
+    <td>完全可定制的侧边菜单</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/shrink_sidemenu" rel="nofollow">shrink_sidemenu</a></td>
     <td>液体收缩侧边菜单。</td>
     <td>2022-07-23</td>
@@ -5824,6 +5863,13 @@
   </tr>
   </thead>
   <tbody id="跨平台">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/webview_windows" rel="nofollow">webview_windows</a></td>
+    <td>适用于 Windows 平台的基于 WebView2 的 webview 实现</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/local_notifier" rel="nofollow">local_notifier</a></td>
@@ -6790,6 +6836,7 @@
 
 
 </div>
+
 
 
 
