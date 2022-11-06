@@ -14,6 +14,15 @@
 <br>	
 <div class="changeLog">
 
+<div class="changeLogItem 11-06">
+      <h3>11-06</h3>
+      <ul>
+        <li><a href="https://pub.flutter-io.cn/packages/serial_communication">serial_communication</a> - 用于串行通信的 Android 插件，允许您通过可用端口读取和写入数据</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/bottom_bar_matu">bottom_bar_matu</a> - 漂亮的动画底部导航栏</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/ar_location_view">ar_location_view</a> - ArLocationView 设计用于静态 POI 集中的区域</li>  
+      </ul> 
+</div>
+
 <div class="changeLogItem 10-01">
       <h3>10-01</h3>
       <ul>
@@ -28,29 +37,7 @@
       </ul> 
 </div>
 
-<div class="changeLogItem 07-23">
-      <h3>07-23</h3>
-      <ul>
-        <li><a href="https://pub.flutter-io.cn/packages/system_info2">system_info2</a> - 提供对有关系统的有用信息（架构、位数、内核、内存、操作系统、CPU、用户）的轻松访问</li>
-        <li><a href="https://pub.flutter-io.cn/packages/moment_dart">moment_dart</a> - 将 DateTime 转换为人类可读格式的包。灵感来自 moment.js</li>
-        <li><a href="https://pub.flutter-io.cn/packages/easy_refresh">easy_refresh</a> - 提供下拉刷新和上拉加载的小部件</li>
-        <li><a href="https://pub.flutter-io.cn/packages/mlkit_scanner">mlkit_scanner</a> - 适用于 iOS 和 Android 的 Google MLKit API 检测条形码、文本、面部和对象的 Flutter 插件</li>
-        <li><a href="https://pub.flutter-io.cn/packages/google_mlkit_face_detection">google_mlkit_face_detection</a> - 使用 Google 的 ML Kit Face Detection 来检测图像中的人脸，识别关键的面部特征，并获取检测到的人脸的轮廓</li>
-        <li><a href="https://pub.flutter-io.cn/packages/face_camera">face_camera</a> - 实时检测人脸的 Flutter 相机插件，一旦检测到人脸，它可以自动捕捉</li>
-        <li><a href="https://pub.flutter-io.cn/packages/easy_debounce">easy_debounce</a> -  Dart/Flutter 的一个非常易于使用的方法调用 debounce 包</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/pip_flutter">pip_flutter</a> -  Flutter 画中画包</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_floatwing">flutter_floatwing</a> - 为 Android 制作浮动/覆盖窗口</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/local_notifier">local_notifier</a> - 允许 Flutter 桌面应用程序显示本地通知</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/desktop_context_menu">desktop_context_menu</a> - 在光标位置打开上下文菜单的插件</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/fade_out_particle">fade_out_particle</a> - 为诸如文本和图标之类的消失视图淡出粒子效果</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_animate">flutter_animate</a> - 通过简单、可定制、统一的 API 在 Flutter 中添加精美的动画效果和构建器</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/advstory">advstory</a> - 先进的，完整的故事查看器。支持图像、视频、自定义小部件内容、手势、拦截器、侦听器、操纵器等</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/telegram_client">telegram_client</a> - 用于制作基于应用程序电报的颤振和 userbot / bot 支持服务器端和客户端</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/screen_protector">screen_protector</a> - 通过应用程序后台屏幕截图和防止 Android 和 iOS 屏幕截图安全数据泄漏</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_gl">flutter_gl</a> - Dart 通过 dart:ffi 跨平台调用 OpenGL API。跨平台的3D编程</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/zwidget">zwidget</a> - 将几乎所有小部件转换为可以轻松制作动画的伪 3D 版本</li>  
-      </ul> 
-</div>
+
 
 
 
@@ -796,6 +783,13 @@
   </tr>
   </thead>
   <tbody id="设备相关">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/serial_communication" rel="nofollow">serial_communication</a></td>
+    <td>用于串行通信的 Android 插件，允许您通过可用端口读取和写入数据</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/rich_clipboard" rel="nofollow">rich_clipboard</a></td>
@@ -4148,6 +4142,13 @@
   <tbody id="图像">
       
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/ar_location_view" rel="nofollow">ar_location_view</a></td>
+    <td>ArLocationView 设计用于静态 POI 集中的区域</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/power_image" rel="nofollow">power_image</a></td>
     <td>功能强大的插件，充分利用原生图片库在flutter端展示图片的能力</td>
     <td>2022-05-25</td>
@@ -5471,6 +5472,13 @@
   </tr>
   </thead>
   <tbody id="底部导航栏">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/bottom_bar_matu" rel="nofollow">bottom_bar_matu</a></td>
+    <td>漂亮的动画底部导航栏</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/persistent_bottom_nav_bar_v2" rel="nofollow">persistent_bottom_nav_bar_v2</a></td>
