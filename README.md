@@ -14,6 +14,24 @@
 <br>	
 <div class="changeLog">
 
+<div class="changeLogItem 11-12">
+      <h3>11-12</h3>
+      <ul>
+        <li><a href="https://pub.flutter-io.cn/packages/animation_search_bar">animation_search_bar</a> - 自定义的动画搜索栏。它适用于 AppBar</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/slide_switcher">slide_switcher</a> - 用于创建具有广泛自定义选项的切换小部件的软件包</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/siri_wave">siri_wave</a> - 在 Siri 中一样创建漂亮的波形</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/expandable_menu">expandable_menu</a> - 可扩展菜单</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_zxing">flutter_zxing</a> - Flutter 中原生的条码扫描器和生成器，带有基于 ZXing 的 Dart FFI</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/cunning_document_scanner">cunning_document_scanner</a> - 文档扫描仪插件。在 iOS 和 Android 上自动扫描和裁剪</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/apivideo_live_stream">apivideo_live_stream</a> - 适用于您的音频/视频应用程序的 Flutter RTMP 直播客户端</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/privacy_screen">privacy_screen</a> - 当应用程序在应用程序切换器和后台时隐藏敏感数据的插件。它还提供带有本机生命周期事件和本机生命周期侦听器的自动锁定触发器</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/smart_auth">smart_auth</a> - 用于在 Android 上监听 SMS 代码，建议电话号码，电子邮件，保存凭据</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_pin_code_widget">flutter_pin_code_widget</a> - PIN Code wiget 用于通过灵活的设置创建和检查本地 PIN 码</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_google_street_view">flutter_google_street_view</a> - 提供谷歌街景的 Flutter 小部件插件</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/live_activities">live_activities</a> - 用于在 iPhone 14 Pro / Max 上显示动态实时通知和实现动态岛功能</li>  
+      </ul> 
+</div>
+
 <div class="changeLogItem 11-06">
       <h3>11-06</h3>
       <ul>
@@ -23,19 +41,7 @@
       </ul> 
 </div>
 
-<div class="changeLogItem 10-01">
-      <h3>10-01</h3>
-      <ul>
-        <li><a href="https://pub.flutter-io.cn/packages/webview_windows">webview_windows</a> - 适用于 Windows 平台的基于 WebView2 的 webview 实现</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_webview_pro">flutter_webview_pro</a> - 提供支持照片上传/拍照和地理定位的 WebView 小部件</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_web_auth">flutter_web_auth</a> - Flutter 插件，用于通过 Web 服务对用户进行身份验证</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/rich_clipboard">rich_clipboard</a> - Flutter 插件，用于访问系统剪贴板中的富文本和其他数据类型</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/calendar_date_picker2">calendar_date_picker2</a> - 基于 Flutter CalendarDatePicker 的轻量级可定制日历选择器，支持单日期选择器、范围选择器和多选择器</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/web_view_tts">web_view_tts</a> - 在 Flutter WebView Android 中添加 Text-To-Speech 支持的 Flutter 插件</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/web_view_ble">web_view_ble</a> - 在适用于 Android 和 iOS 的 WebView Flutter 中添加低功耗蓝牙支持</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_side_menu">flutter_side_menu</a> - 完全可定制的侧边菜单</li>  
-      </ul> 
-</div>
+
 
 
 
@@ -783,6 +789,41 @@
   </tr>
   </thead>
   <tbody id="设备相关">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_zxing" rel="nofollow">flutter_zxing</a></td>
+    <td>Flutter 中原生的条码扫描器和生成器，带有基于 ZXing 的 Dart FFI</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/cunning_document_scanner" rel="nofollow">cunning_document_scanner</a></td>
+    <td>文档扫描仪插件。在 iOS 和 Android 上自动扫描和裁剪</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/privacy_screen" rel="nofollow">privacy_screen</a></td>
+    <td>当应用程序在应用程序切换器和后台时隐藏敏感数据的插件。它还提供带有本机生命周期事件和本机生命周期侦听器的自动锁定触发器</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/smart_auth" rel="nofollow">smart_auth</a></td>
+    <td>用于在 Android 上监听 SMS 代码，建议电话号码，电子邮件，保存凭据</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/live_activities" rel="nofollow">live_activities</a></td>
+    <td>用于在 iPhone 14 Pro / Max 上显示动态实时通知和实现动态岛功能</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/serial_communication" rel="nofollow">serial_communication</a></td>
@@ -2600,6 +2641,34 @@
   <tbody id="UI">
       
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/animation_search_bar" rel="nofollow">animation_search_bar</a></td>
+    <td>自定义的动画搜索栏。它适用于 AppBar</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/slide_switcher" rel="nofollow">slide_switcher</a></td>
+    <td>用于创建具有广泛自定义选项的切换小部件的软件包</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/expandable_menu" rel="nofollow">expandable_menu</a></td>
+    <td>可扩展菜单</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_pin_code_widget" rel="nofollow">flutter_pin_code_widget</a></td>
+    <td>PIN Code wiget 用于通过灵活的设置创建和检查本地 PIN 码</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/easy_refresh" rel="nofollow">easy_refresh</a></td>
     <td>提供下拉刷新和上拉加载的小部件</td>
     <td>2022-10-31</td>
@@ -3816,6 +3885,13 @@
   <tbody id="音视频类">
       
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/apivideo_live_stream" rel="nofollow">apivideo_live_stream</a></td>
+    <td>适用于您的音频/视频应用程序的 Flutter RTMP 直播客户端</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/pod_player" rel="nofollow">pod_player</a></td>
     <td>Vimeo 和 youtube 播放器</td>
     <td>2022-08-04</td>
@@ -4953,6 +5029,13 @@
   </tr>
   </thead>
   <tbody id="动画">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/siri_wave" rel="nofollow">siri_wave</a></td>
+    <td>在 Siri 中一样创建漂亮的波形</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/fade_out_particle" rel="nofollow">fade_out_particle</a></td>
@@ -6610,6 +6693,13 @@
   </tr>
   </thead>
   <tbody id="地图类">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_google_street_view" rel="nofollow">flutter_google_street_view</a></td>
+    <td>提供谷歌街景的 Flutter 小部件插件</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/huawei_location" rel="nofollow">huawei_location</a></td>
