@@ -14,6 +14,20 @@
 <br>	
 <div class="changeLog">
 
+<div class="changeLogItem 11-13">
+      <h3>11-13</h3>
+      <ul>
+        <li><a href="https://pub.flutter-io.cn/packages/super_drag_and_drop">super_drag_and_drop</a> -  Flutter 的原生拖放支持。允许跨应用程序拖动内容</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/motion">motion</a> - 一个精美的小部件，将陀螺仪或基于悬停的运动效果应用于其子级</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/snappable_thanos">snappable_thanos</a> - 灭霸的快照效果包。用它把你的小部件变成灰尘</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/ar_location_view">ar_location_view</a> - ArLocationView 设计用于静态 POI 集中的区域</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/appflowy_editor">appflowy_editor</a> - 高度可定制的 Flutter 富文本编辑器</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/particle_field">particle_field</a> - 用于为您的 UI 添加高性能自定义粒子效果</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_animated_icons">flutter_animated_icons</a> - 为您的图标和按钮收集 2400 多个动画。它们由 Lottie 动画实现</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/appflowy_board">appflowy_board</a> - 可自定义和可拖动看板小部件</li>  
+      </ul> 
+</div>
+
 <div class="changeLogItem 11-12">
       <h3>11-12</h3>
       <ul>
@@ -32,14 +46,7 @@
       </ul> 
 </div>
 
-<div class="changeLogItem 11-06">
-      <h3>11-06</h3>
-      <ul>
-        <li><a href="https://pub.flutter-io.cn/packages/serial_communication">serial_communication</a> - 用于串行通信的 Android 插件，允许您通过可用端口读取和写入数据</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/bottom_bar_matu">bottom_bar_matu</a> - 漂亮的动画底部导航栏</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/ar_location_view">ar_location_view</a> - ArLocationView 设计用于静态 POI 集中的区域</li>  
-      </ul> 
-</div>
+
 
 
 
@@ -110,6 +117,20 @@
   </tr>
   </thead>
   <tbody id="插件">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/super_drag_and_drop" rel="nofollow">super_drag_and_drop</a></td>
+    <td> Flutter 的原生拖放支持。允许跨应用程序拖动内容</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/appflowy_editor" rel="nofollow">appflowy_editor</a></td>
+    <td>高度可定制的 Flutter 富文本编辑器</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_web_auth" rel="nofollow">flutter_web_auth</a></td>
@@ -2641,6 +2662,13 @@
   <tbody id="UI">
       
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/appflowy_board" rel="nofollow">appflowy_board</a></td>
+    <td>可自定义和可拖动看板小部件</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/animation_search_bar" rel="nofollow">animation_search_bar</a></td>
     <td>自定义的动画搜索栏。它适用于 AppBar</td>
     <td>2022-06-08</td>
@@ -5031,6 +5059,34 @@
   <tbody id="动画">
       
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/motion" rel="nofollow">motion</a></td>
+    <td>一个精美的小部件，将陀螺仪或基于悬停的运动效果应用于其子级</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/snappable_thanos" rel="nofollow">snappable_thanos</a></td>
+    <td>灭霸的快照效果包。用它把你的小部件变成灰尘</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/particle_field" rel="nofollow">particle_field</a></td>
+    <td>用于为您的 UI 添加高性能自定义粒子效果</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_animated_icons" rel="nofollow">flutter_animated_icons</a></td>
+    <td>为您的图标和按钮收集 2400 多个动画。它们由 Lottie 动画实现</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/siri_wave" rel="nofollow">siri_wave</a></td>
     <td>在 Siri 中一样创建漂亮的波形</td>
     <td>2022-08-02</td>
@@ -6693,6 +6749,13 @@
   </tr>
   </thead>
   <tbody id="地图类">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/ar_location_view" rel="nofollow">ar_location_view</a></td>
+    <td>ArLocationView 设计用于静态 POI 集中的区域</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_google_street_view" rel="nofollow">flutter_google_street_view</a></td>
