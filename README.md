@@ -14,6 +14,17 @@
 <br>	
 <div class="changeLog">
 
+<div class="changeLogItem 12-22">
+      <h3>12-22</h3>
+      <ul>
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_sticky_widgets">flutter_sticky_widgets</a> - 其行为类似于 CSS 中的位置粘性</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/tencent_calls_uikit">tencent_calls_uikit</a> - 用于视频通话的腾讯云 UIKit</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_internet_speed_test">flutter_internet_speed_test</a> - 用于测试互联网下载和上传速度的 Flutter 插件</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/auto_store_translate">auto_store_translate</a> - 在 App Store/Play Store 中自动翻译/注册元数据</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_live_activities">flutter_live_activities</a> - 用于实时活动的 Flutter 插件</li>  
+      </ul> 
+</div>
+
 <div class="changeLogItem 11-13">
       <h3>11-13</h3>
       <ul>
@@ -28,23 +39,7 @@
       </ul> 
 </div>
 
-<div class="changeLogItem 11-12">
-      <h3>11-12</h3>
-      <ul>
-        <li><a href="https://pub.flutter-io.cn/packages/animation_search_bar">animation_search_bar</a> - 自定义的动画搜索栏。它适用于 AppBar</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/slide_switcher">slide_switcher</a> - 用于创建具有广泛自定义选项的切换小部件的软件包</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/siri_wave">siri_wave</a> - 在 Siri 中一样创建漂亮的波形</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/expandable_menu">expandable_menu</a> - 可扩展菜单</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_zxing">flutter_zxing</a> - Flutter 中原生的条码扫描器和生成器，带有基于 ZXing 的 Dart FFI</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/cunning_document_scanner">cunning_document_scanner</a> - 文档扫描仪插件。在 iOS 和 Android 上自动扫描和裁剪</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/apivideo_live_stream">apivideo_live_stream</a> - 适用于您的音频/视频应用程序的 Flutter RTMP 直播客户端</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/privacy_screen">privacy_screen</a> - 当应用程序在应用程序切换器和后台时隐藏敏感数据的插件。它还提供带有本机生命周期事件和本机生命周期侦听器的自动锁定触发器</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/smart_auth">smart_auth</a> - 用于在 Android 上监听 SMS 代码，建议电话号码，电子邮件，保存凭据</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_pin_code_widget">flutter_pin_code_widget</a> - PIN Code wiget 用于通过灵活的设置创建和检查本地 PIN 码</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_google_street_view">flutter_google_street_view</a> - 提供谷歌街景的 Flutter 小部件插件</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/live_activities">live_activities</a> - 用于在 iPhone 14 Pro / Max 上显示动态实时通知和实现动态岛功能</li>  
-      </ul> 
-</div>
+
 
 
 
@@ -117,6 +112,13 @@
   </tr>
   </thead>
   <tbody id="插件">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/auto_store_translate" rel="nofollow">auto_store_translate</a></td>
+    <td>在 App Store/Play Store 中自动翻译/注册元数据</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/super_drag_and_drop" rel="nofollow">super_drag_and_drop</a></td>
@@ -810,6 +812,20 @@
   </tr>
   </thead>
   <tbody id="设备相关">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_internet_speed_test" rel="nofollow">flutter_internet_speed_test</a></td>
+    <td>用于测试互联网下载和上传速度的 Flutter 插件</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_live_activities" rel="nofollow">flutter_live_activities</a></td>
+    <td>用于实时活动的 Flutter 插件</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_zxing" rel="nofollow">flutter_zxing</a></td>
@@ -2660,6 +2676,13 @@
   </tr>
   </thead>
   <tbody id="UI">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_sticky_widgets" rel="nofollow">flutter_sticky_widgets</a></td>
+    <td>其行为类似于 CSS 中的位置粘性</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/appflowy_board" rel="nofollow">appflowy_board</a></td>
@@ -6228,6 +6251,13 @@
   </tr>
   </thead>
   <tbody id="通讯类">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/tencent_calls_uikit" rel="nofollow">tencent_calls_uikit</a></td>
+    <td>用于视频通话的腾讯云 UIKit</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/telegram_client" rel="nofollow">telegram_client</a></td>
