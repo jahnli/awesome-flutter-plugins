@@ -14,6 +14,14 @@
 <br>	
 <div class="changeLog">
 
+<div class="changeLogItem 01-02">
+      <h3>01-02</h3>
+      <ul>
+        <li><a href="https://pub.flutter-io.cn/packages/easy_stepper">easy_stepper</a> - 完全可定制、美观且易于使用的步进器小部件</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_chatgpt_api">flutter_chatgpt_api</a> - 围绕 ChatGPT 的 Flutter/Dart API，用于非官方的 ChatGPT API</li>  
+      </ul> 
+</div>
+
 <div class="changeLogItem 12-22">
       <h3>12-22</h3>
       <ul>
@@ -25,19 +33,7 @@
       </ul> 
 </div>
 
-<div class="changeLogItem 11-13">
-      <h3>11-13</h3>
-      <ul>
-        <li><a href="https://pub.flutter-io.cn/packages/super_drag_and_drop">super_drag_and_drop</a> -  Flutter 的原生拖放支持。允许跨应用程序拖动内容</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/motion">motion</a> - 一个精美的小部件，将陀螺仪或基于悬停的运动效果应用于其子级</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/snappable_thanos">snappable_thanos</a> - 灭霸的快照效果包。用它把你的小部件变成灰尘</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/ar_location_view">ar_location_view</a> - ArLocationView 设计用于静态 POI 集中的区域</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/appflowy_editor">appflowy_editor</a> - 高度可定制的 Flutter 富文本编辑器</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/particle_field">particle_field</a> - 用于为您的 UI 添加高性能自定义粒子效果</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_animated_icons">flutter_animated_icons</a> - 为您的图标和按钮收集 2400 多个动画。它们由 Lottie 动画实现</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/appflowy_board">appflowy_board</a> - 可自定义和可拖动看板小部件</li>  
-      </ul> 
-</div>
+
 
 
 
@@ -2676,6 +2672,13 @@
   </tr>
   </thead>
   <tbody id="UI">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/easy_stepper" rel="nofollow">easy_stepper</a></td>
+    <td>完全可定制、美观且易于使用的步进器小部件</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_sticky_widgets" rel="nofollow">flutter_sticky_widgets</a></td>
@@ -6253,6 +6256,13 @@
   <tbody id="通讯类">
       
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_chatgpt_api" rel="nofollow">flutter_chatgpt_api</a></td>
+    <td>围绕 ChatGPT 的 Flutter/Dart API，用于非官方的 ChatGPT API</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/tencent_calls_uikit" rel="nofollow">tencent_calls_uikit</a></td>
     <td>用于视频通话的腾讯云 UIKit</td>
     <td>2022-12-02</td>
@@ -7027,6 +7037,7 @@
 
 
 </div>
+
 
 
 
