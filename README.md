@@ -88,7 +88,7 @@
 	<li><a href="#图像-title">图像 / 图形</a></li>
 	<li><a href="#时间-title">时间</a></li>
 	<li><a href="#动画-title">动画</a></li>
-	<li><a href="#图表类-title">图表</a></li>
+	<li><a href="#图表-title">图表</a></li>
 	<li><a href="#侧边栏-title">侧边栏 / 侧边菜单</a></li>
 	<li><a href="#底部导航栏-title">底部导航栏 / 浮动菜单</a></li>
 	<li><a href="#对话框-title">对话框 / 底部弹片 / Toast</a></li>
