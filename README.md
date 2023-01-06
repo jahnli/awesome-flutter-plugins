@@ -6950,42 +6950,42 @@
   <tbody id="广告">
    
   <tr class="item">
-    <td>< a href="https://pub.flutter-io.cn/packages/admob_flutter" rel="nofollow">admob_flutter</ a></td>
+    <td><a href="https://pub.flutter-io.cn/packages/admob_flutter" rel="nofollow">admob_flutter</ a></td>
     <td>使用本机平台视图显示横幅广告的 Admob 插件。</td>
     <td>2022-06-02</td>
     <td>412</td>
   </tr>
 	  
   <tr class="item">
-    <td>< a href="https://pub.flutter-io.cn/packages/huawei_ads" rel="nofollow">huawei_ads</ a></td>
+    <td><a href="https://pub.flutter-io.cn/packages/huawei_ads" rel="nofollow">huawei_ads</ a></td>
     <td>HUAWEI Ads Kit 插件利用华为庞大的用户群和海量数据能力，为用户提供有针对性的优质广告内容</td>
     <td>2022-12-30</td>
     <td>18</td>
   </tr>
 	  
   <tr class="item">
-    <td>< a href="https://pub.flutter-io.cn/packages/flutter_qq_ads" rel="nofollow">flutter_qq_ads</ a></td>
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_qq_ads" rel="nofollow">flutter_qq_ads</ a></td>
     <td>基于「腾讯广告、广点通、优量汇」SDK 的插件。</td>
     <td>2022-04-08</td>
     <td>15</td>
   </tr>
 	  
   <tr class="item">
-    <td>< a href="https://pub.flutter-io.cn/packages/pangle_flutter" rel="nofollow">pangle_flutter</ a></td>
+    <td><a href="https://pub.flutter-io.cn/packages/pangle_flutter" rel="nofollow">pangle_flutter</ a></td>
     <td>一个在 Android 和 iOS 上支持字节跳动 Pangle SDK 的 Flutter 插件</td>
     <td>2022-10-25</td>
     <td>27</td>
   </tr>	
 	  
   <tr class="item">
-    <td>< a href="https://pub.flutter-io.cn/packages/google_mobile_ads" rel="nofollow">google_mobile_ads</ a></td>
+    <td><a href="https://pub.flutter-io.cn/packages/google_mobile_ads" rel="nofollow">google_mobile_ads</ a></td>
     <td>希望通过Flutter应用获利的发布商，适用于Google移动广告的Flutter插件，支持横幅广告，非页内广告（全屏），奖励广告和原生广告。</td>
     <td>2022-11-16</td>
     <td>1537</td>
   </tr>
 	  
   <tr class="item">
-    <td>< a href="https://pub.flutter-io.cn/packages/facebook_audience_network" rel="nofollow">facebook_audience_network</ a></td>
+    <td><a href="https://pub.flutter-io.cn/packages/facebook_audience_network" rel="nofollow">facebook_audience_network</ a></td>
     <td>Facebook Audience Network 插件。您可以通过此插件展示 Facebook 横幅广告、插页式广告、奖励视频广告和原生广告。</td>
     <td>2021-12-30</td>
     <td>267</td>
