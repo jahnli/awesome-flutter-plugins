@@ -9,10 +9,19 @@
 
 <br>
 
-<h3 id="count">收录 971 个</h3>   
+<h3 id="count">收录 974 个</h3>   
 
 <br>	
 <div class="changeLog">
+
+<div class="changeLogItem 01-02">
+      <h3>01-06</h3>
+      <ul>
+        <li><a href="https://github.com/FlutterAds/flutter_pangle_ads">flutter_pangle_ads</a> - 一款优质的 Flutter 广告插件（字节跳动、巨量引擎、穿山甲）</li> 
+        <li><a href="https://github.com/FlutterAds/flutter_qq_ads">flutter_qq_ads</a> - 一款优质的 Flutter 广告插件（腾讯广告、广点通、优量汇）</li> 
+        <li><a href="https://github.com/FlutterAds/flutter_gromore_ads">flutter_gromore_ads</a> - 一款优质的 Flutter 广告插件（GroMore、穿山甲）</li>  
+      </ul> 
+</div>
 
 <div class="changeLogItem 01-02">
       <h3>01-02</h3>
@@ -86,6 +95,7 @@
 	<li><a href="#跨平台-title">Windows / Linux / Mac</a></li>
 	<li><a href="#通讯类-title">通讯类</a></li>
 	<li><a href="#地图类-title">地图类</a></li>
+  <li><a href="#广告-title">广告</a></li>
 	<li><a href="#Web-title">Web</a></li>
  </ul> 
 
@@ -6960,6 +6970,47 @@
   </tbody>
 </table>
 <br>
+
+
+<blockquote>
+  <h3 id="广告-title">广告</h3>
+</blockquote>
+
+<br>
+
+<table>
+  <thead>
+  <tr>
+    <th>依赖</th>
+    <th>描述</th>
+    <th>更新时间</th>
+    <th>likes</th>
+  </tr>
+  </thead>
+  <tbody id="Ads">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_pangle_ads" rel="nofollow">flutter_pangle_ads</a></td>
+    <td>一款优质的 Flutter 广告插件（字节跳动、穿山甲）</td>
+    <td>2022-09-06</td>
+    <td>25</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_qq_ads" rel="nofollow">flutter_qq_ads</a></td>
+    <td>一款优质的 Flutter 广告插件（腾讯广告、广点通、优量汇）</td>
+    <td>2022-04-08</td>
+    <td>15</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_gromore_ads" rel="nofollow">flutter_gromore_ads</a></td>
+    <td>一款优质的 Flutter 广告插件（GroMore、穿山甲）</td>
+    <td>2022-10-06</td>
+    <td>5</td>
+  </tr>
+  </tbody>
+</table>
 
 <blockquote>
   <h3 id="Web-title">Web</h3>
