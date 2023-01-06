@@ -2036,7 +2036,7 @@
 <br>
 
 <blockquote>
-  <h3 id="项目相关-title">项目相关</h3>
+  <h3 id="项目-title">项目</h3>
 </blockquote>
 
 <br>
@@ -2362,7 +2362,7 @@
 	
 
 <blockquote>
-  <h3 id="列表相关-title">列表相关</h3>
+  <h3 id="列表-title">列表</h3>
 </blockquote>
 
 <br>
@@ -3932,7 +3932,7 @@
 	
 
 <blockquote>
-  <h3 id="音视频类-title">音视频类</h3>
+  <h3 id="音视频-title">音视频</h3>
 </blockquote>
 
 <br>
@@ -4868,7 +4868,7 @@
 <br>
 	
 <blockquote>
-  <h3 id="时间相关-title">时间相关</h3>
+  <h3 id="时间-title">时间</h3>
 </blockquote>
 
 <br>
@@ -5419,7 +5419,7 @@
 <br>
 
 <blockquote>
-  <h3 id="图表类-title">图表类</h3>
+  <h3 id="图表-title">图表</h3>
 </blockquote>
 
 <br>
@@ -6249,7 +6249,7 @@
 <br>
 	
 <blockquote>
-  <h3 id="通讯类-title">通讯类</h3>
+  <h3 id="通讯-title">通讯</h3>
 </blockquote>
 
 <br>
@@ -6263,7 +6263,7 @@
     <th>likes</th>
   </tr>
   </thead>
-  <tbody id="通讯类">
+  <tbody id="通讯">
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_chatgpt_api" rel="nofollow">flutter_chatgpt_api</a></td>
@@ -6784,7 +6784,7 @@
 <br>
 
 <blockquote>
-  <h3 id="地图类-title">地图类</h3>
+  <h3 id="地图-title">地图</h3>
 </blockquote>
 
 <br>
@@ -6798,7 +6798,7 @@
     <th>likes</th>
   </tr>
   </thead>
-  <tbody id="地图类">
+  <tbody id="地图">
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/ar_location_view" rel="nofollow">ar_location_view</a></td>
@@ -6987,7 +6987,7 @@
     <th>likes</th>
   </tr>
   </thead>
-  <tbody id="Ads">
+  <tbody id="广告">
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_pangle_ads" rel="nofollow">flutter_pangle_ads</a></td>
