@@ -6406,13 +6406,6 @@
     <td>2023-01-01</td>
     <td>273</td>
   </tr>
-
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/flutter_pangle_ads" rel="nofollow">flutter_pangle_ads</a></td>
-    <td>Flutter 广告插件（字节跳动、穿山甲）。</td>
-    <td>2022-09-06</td>
-    <td>25</td>
-  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_facebook_auth" rel="nofollow">flutter_facebook_auth</a></td>
