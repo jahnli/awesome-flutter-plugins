@@ -6961,14 +6961,7 @@
     <td>HUAWEI Ads Kit 插件利用华为庞大的用户群和海量数据能力，为用户提供有针对性的优质广告内容</td>
     <td>2022-12-30</td>
     <td>18</td>
-  </tr>
-	  
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/flutter_qq_ads" rel="nofollow">flutter_qq_ads</ a></td>
-    <td>基于「腾讯广告、广点通、优量汇」SDK 的插件。</td>
-    <td>2022-04-08</td>
-    <td>15</td>
-  </tr>
+  </tr> 
 	  
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/pangle_flutter" rel="nofollow">pangle_flutter</ a></td>
