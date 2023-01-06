@@ -80,22 +80,22 @@
 <h3>目录</h3>   	
  <ul>
 	<li><a href="#插件-title">插件</a></li>
-	<li><a href="#设备相关-title">设备相关</a></li>
- 	<li><a href="#项目相关-title">项目相关</a></li>
-	<li><a href="#列表相关-title">列表相关</a></li>
+	<li><a href="#设备-title">设备</a></li>
+ 	<li><a href="#项目-title">项目</a></li>
+	<li><a href="#列表-title">列表</a></li>
 	<li><a href="#UI-title">UI / 小部件</a></li>
-	<li><a href="#音视频类-title">音视频类</a></li>
+	<li><a href="#音视频-title">音视频</a></li>
 	<li><a href="#图像-title">图像 / 图形</a></li>
-	<li><a href="#时间相关-title">时间相关</a></li>
-	 <li><a href="#动画-title">动画</a></li>
-	<li><a href="#图表类-title">图表类</a></li>
+	<li><a href="#时间-title">时间</a></li>
+	<li><a href="#动画-title">动画</a></li>
+	<li><a href="#图表类-title">图表</a></li>
 	<li><a href="#侧边栏-title">侧边栏 / 侧边菜单</a></li>
 	<li><a href="#底部导航栏-title">底部导航栏 / 浮动菜单</a></li>
 	<li><a href="#对话框-title">对话框 / 底部弹片 / Toast</a></li>
 	<li><a href="#跨平台-title">Windows / Linux / Mac</a></li>
-	<li><a href="#通讯类-title">通讯类</a></li>
-	<li><a href="#地图类-title">地图类</a></li>
-  <li><a href="#广告-title">广告</a></li>
+	<li><a href="#通讯-title">通讯</a></li>
+	<li><a href="#地图-title">地图</a></li>
+        <li><a href="#广告-title">广告</a></li>
 	<li><a href="#Web-title">Web</a></li>
  </ul> 
 
@@ -803,7 +803,7 @@
 <br>
 
 <blockquote>
-  <h3 id="设备相关-title">设备相关</h3>
+  <h3 id="设备-title">设备</h3>
 </blockquote>
 
 <br>
@@ -817,7 +817,7 @@
     <th>likes</th>
   </tr>
   </thead>
-  <tbody id="设备相关">
+  <tbody id="设备">
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_internet_speed_test" rel="nofollow">flutter_internet_speed_test</a></td>
