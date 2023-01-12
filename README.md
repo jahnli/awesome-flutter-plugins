@@ -1,5 +1,7 @@
 <html><head></head><body>
-<img src="https://user-images.githubusercontent.com/20943608/120912379-1d731080-c6c1-11eb-8871-281f4092a703.png" alt="awesome-flutter-plugins">
+
+![logo](https://user-images.githubusercontent.com/20943608/211971592-9e8510f4-766f-40ac-814b-610196248672.png)
+
 <br>
 🔥🔥🔥  收集好用的Flutter插件以便更高效的开发， 如果有好用的插件或者建议，请Issue 或 PR ， 期待参与。
 <br>
