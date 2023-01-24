@@ -16,6 +16,14 @@
 <br>	
 <div class="changeLog">
 
+<div class="changeLogItem 01-24">
+      <h3>01-24</h3>
+      <ul>
+        <li><a href="https://pub.flutter-io.cn/packages/paperfold">paperfold</a> - UI</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_in_app_pip">flutter_in_app_pip</a> - 设备</li>  
+      </ul> 
+</div>
+
 <div class="changeLogItem 01-02">
       <h3>01-06</h3>
       <ul>
@@ -33,16 +41,7 @@
       </ul> 
 </div>
 
-<div class="changeLogItem 12-22">
-      <h3>12-22</h3>
-      <ul>
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_sticky_widgets">flutter_sticky_widgets</a> - 其行为类似于 CSS 中的位置粘性</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/tencent_calls_uikit">tencent_calls_uikit</a> - 用于视频通话的腾讯云 UIKit</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_internet_speed_test">flutter_internet_speed_test</a> - 用于测试互联网下载和上传速度的 Flutter 插件</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/auto_store_translate">auto_store_translate</a> - 在 App Store/Play Store 中自动翻译/注册元数据</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_live_activities">flutter_live_activities</a> - 用于实时活动的 Flutter 插件</li>  
-      </ul> 
-</div>
+
 
 
 
@@ -7078,6 +7077,7 @@
 
 
 </div>
+
 
 
 
