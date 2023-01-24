@@ -16,6 +16,14 @@
 <br>	
 <div class="changeLog">
 
+<div class="changeLogItem 01-24">
+      <h3>01-24</h3>
+      <ul>
+        <li><a href="https://pub.flutter-io.cn/packages/paperfold">paperfold</a> - 实现元素折纸效果</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_in_app_pip">flutter_in_app_pip</a> - 在 Flutter 应用程序中轻松实现应用内 PiP（画中画）</li>  
+      </ul> 
+</div>
+
 
 <div class="changeLogItem 01-02">
       <h3>01-06</h3>
@@ -755,6 +763,13 @@
   </tr>
   </thead>
   <tbody id="设备">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_in_app_pip" rel="nofollow">flutter_in_app_pip</a></td>
+    <td>在 Flutter 应用程序中轻松实现应用内 PiP（画中画）</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_internet_speed_test" rel="nofollow">flutter_internet_speed_test</a></td>
@@ -2614,6 +2629,13 @@
   </tr>
   </thead>
   <tbody id="UI">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/paperfold" rel="nofollow">paperfold</a></td>
+    <td>实现元素折纸效果</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/easy_stepper" rel="nofollow">easy_stepper</a></td>
@@ -7027,6 +7049,7 @@
 
 
 </div>
+
 
 
 
