@@ -11,7 +11,7 @@
 
 <br>
 
-<h3 id="count">收录 972 个</h3>   
+<h3 id="count">收录 974 个</h3>   
 
 <br>	
 <div class="changeLog">
@@ -767,8 +767,8 @@
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_in_app_pip" rel="nofollow">flutter_in_app_pip</a></td>
     <td>在 Flutter 应用程序中轻松实现应用内 PiP（画中画）</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2022-12-27</td>
+    <td>4</td>
   </tr>
       
   <tr class="item">
@@ -2633,8 +2633,8 @@
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/paperfold" rel="nofollow">paperfold</a></td>
     <td>实现元素折纸效果</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2022-12-29</td>
+    <td>18</td>
   </tr>
       
   <tr class="item">
