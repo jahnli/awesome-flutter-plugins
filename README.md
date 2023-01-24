@@ -32,49 +32,6 @@
         <li><a href="https://github.com/FlutterAds/flutter_gromore_ads">flutter_gromore_ads</a> - 一款优质的 Flutter 广告插件（GroMore、穿山甲）</li>  
       </ul> 
 </div>
-
-<div class="changeLogItem 01-02">
-      <h3>01-02</h3>
-      <ul>
-        <li><a href="https://pub.flutter-io.cn/packages/easy_stepper">easy_stepper</a> - 完全可定制、美观且易于使用的步进器小部件</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_chatgpt_api">flutter_chatgpt_api</a> - 围绕 ChatGPT 的 Flutter/Dart API，用于非官方的 ChatGPT API</li>  
-      </ul> 
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 	
 	
 <br>
