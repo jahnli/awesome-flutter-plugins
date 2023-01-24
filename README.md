@@ -16,13 +16,6 @@
 <br>	
 <div class="changeLog">
 
-<div class="changeLogItem 01-24">
-      <h3>01-24</h3>
-      <ul>
-        <li><a href="https://pub.flutter-io.cn/packages/paperfold">paperfold</a> - UI</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_in_app_pip">flutter_in_app_pip</a> - 设备</li>  
-      </ul> 
-</div>
 
 <div class="changeLogItem 01-02">
       <h3>01-06</h3>
