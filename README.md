@@ -16,6 +16,28 @@
 <br>	
 <div class="changeLog">
 
+<div class="changeLogItem 02-11">
+      <h3>02-11</h3>
+      <ul>
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_carplay">flutter_carplay</a> - 通过与 CarPlay 集成，使在汽车中使用 Flutter 制作的应用程序</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/android_intent_plus">android_intent_plus</a> - 用于启动 Android Intents 的 Flutter 插件</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/quick_settings">quick_settings</a> - 在 Android 快速设置中创建和处理您自己的自定义 Tile</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/leak_tracker">leak_tracker</a> - 用于 Dart 和 Flutter 应用程序的内存泄漏跟踪框架</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/vr_player">vr_player</a> - 在 Android 和 iOS 平台上流畅播放 360° 和 VR 视频</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/chat_gpt_sdk">chat_gpt_sdk</a> - 使用 ChatGPT SDK 创建聊天机器人和其他机器人</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/sitesurface_flutter_openai">sitesurface_flutter_openai</a> - 允许将 OpenAI 的 API 服务集成到您的 Flutter 应用程序中，可以向 OpenAI 的语言模型发出请求、检索完成和摘要等</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/chat_gpt_api">chat_gpt_api</a> - 用 dart 编写的 chatGPT SDK，用于访问 OpenAI API 的功能</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/alarm">alarm</a> - 用于在 iOS 和 Android 设备上设置和取消闹钟</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/esim">esim</a> - 用于检查 eSIM 兼容性的 Flutter 插件</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/hardware_buttons_find_flutter">hardware_buttons_find_flutter</a> - 在带有不同按钮的移动设备上，按下按钮时监听按钮的名称</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/parallax_sensors_bg">parallax_sensors_bg</a> - 简化了在响应相应传感器检测的页面背景中提供视差效果</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/televerse">televerse</a> - 在 Dart 中轻松创建自己的高效 Telegram 机器人</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_card_swiper">flutter_card_swiper</a> - 类似于 Tinder 的刷卡程序包。它允许您向左、向右、向上和向下滑动，并为每个方向定义您自己的业务逻辑</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/focus_on_it">focus_on_it</a> - 当小部件聚焦或未聚焦时获得通知并对其做出反应</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/hashlib">hashlib</a> - 为 Dart 优化的安全哈希函数、校验和生成器和密钥派生算法</li>  
+      </ul> 
+</div>
+
 <div class="changeLogItem 01-24">
       <h3>01-24</h3>
       <ul>
@@ -25,14 +47,7 @@
 </div>
 
 
-<div class="changeLogItem 01-02">
-      <h3>01-06</h3>
-      <ul>
-        <li><a href="https://github.com/FlutterAds/flutter_pangle_ads">flutter_pangle_ads</a> - 一款优质的 Flutter 广告插件（字节跳动、巨量引擎、穿山甲）</li> 
-        <li><a href="https://github.com/FlutterAds/flutter_qq_ads">flutter_qq_ads</a> - 一款优质的 Flutter 广告插件（腾讯广告、广点通、优量汇）</li> 
-        <li><a href="https://github.com/FlutterAds/flutter_gromore_ads">flutter_gromore_ads</a> - 一款优质的 Flutter 广告插件（GroMore、穿山甲）</li>  
-      </ul> 
-</div>
+
 	
 	
 <br>
@@ -77,6 +92,20 @@
   </tr>
   </thead>
   <tbody id="插件">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/focus_on_it" rel="nofollow">focus_on_it</a></td>
+    <td>当小部件聚焦或未聚焦时获得通知并对其做出反应</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/hashlib" rel="nofollow">hashlib</a></td>
+    <td>为 Dart 优化的安全哈希函数、校验和生成器和密钥派生算法</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/auto_store_translate" rel="nofollow">auto_store_translate</a></td>
@@ -2005,6 +2034,13 @@
   <tbody id="项目">
       
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/leak_tracker" rel="nofollow">leak_tracker</a></td>
+    <td>用于 Dart 和 Flutter 应用程序的内存泄漏跟踪框架</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/once" rel="nofollow">once</a></td>
     <td>想要定期运行一段代码（一次 - 每日 - 每周 - 每月 - 在新版本上 - 任何时期）</td>
     <td>2023-01-19</td>
@@ -2629,6 +2665,20 @@
   </tr>
   </thead>
   <tbody id="UI">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/parallax_sensors_bg" rel="nofollow">parallax_sensors_bg</a></td>
+    <td>简化了在响应相应传感器检测的页面背景中提供视差效果</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_card_swiper" rel="nofollow">flutter_card_swiper</a></td>
+    <td>类似于 Tinder 的刷卡程序包。它允许您向左、向右、向上和向下滑动，并为每个方向定义您自己的业务逻辑</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/paperfold" rel="nofollow">paperfold</a></td>
@@ -3901,6 +3951,13 @@
   </tr>
   </thead>
   <tbody id="音视频">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/vr_player" rel="nofollow">vr_player</a></td>
+    <td>在 Android 和 iOS 平台上流畅播放 360° 和 VR 视频</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/apivideo_live_stream" rel="nofollow">apivideo_live_stream</a></td>
@@ -6218,6 +6275,34 @@
   </tr>
   </thead>
   <tbody id="通讯">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/chat_gpt_sdk" rel="nofollow">chat_gpt_sdk</a></td>
+    <td>使用 ChatGPT SDK 创建聊天机器人和其他机器人</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/sitesurface_flutter_openai" rel="nofollow">sitesurface_flutter_openai</a></td>
+    <td>允许将 OpenAI 的 API 服务集成到您的 Flutter 应用程序中，可以向 OpenAI 的语言模型发出请求、检索完成和摘要等</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/chat_gpt_api" rel="nofollow">chat_gpt_api</a></td>
+    <td>用 dart 编写的 chatGPT SDK，用于访问 OpenAI API 的功能</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/televerse" rel="nofollow">televerse</a></td>
+    <td>在 Dart 中轻松创建自己的高效 Telegram 机器人</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_chatgpt_api" rel="nofollow">flutter_chatgpt_api</a></td>
