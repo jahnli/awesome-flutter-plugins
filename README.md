@@ -16,6 +16,16 @@
 <br>	
 <div class="changeLog">
 
+<div class="changeLogItem 03-19">
+      <h3>03-19</h3>
+      <ul>
+        <li><a href="https://pub.flutter-io.cn/packages/zerker">zerker</a> - 灵活轻便的 flutter canvas 图形动画库</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/dart_openai">dart_openai</a> - 适用于 openAI Apis（GPT-3 和 DALL-E）的 Dart SDK，可以轻松地将 OpenAI 最先进的 AI 模型的强大功能集成到他们的 Dart 应用程序中</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/davi">davi</a> - 按需构建单元格的完全自定义数据视图,专注于 Web/桌面应用程序</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/image_compare_slider">image_compare_slider</a> - 使用滑块和可拖动的线/手柄轻松比较两个图像</li>  
+      </ul> 
+</div>
+
 <div class="changeLogItem 02-11">
       <h3>02-11</h3>
       <ul>
@@ -54,13 +64,7 @@
       </ul> 
 </div>
 
-<div class="changeLogItem 01-24">
-      <h3>01-24</h3>
-      <ul>
-        <li><a href="https://pub.flutter-io.cn/packages/paperfold">paperfold</a> - 实现元素折纸效果</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_in_app_pip">flutter_in_app_pip</a> - 在 Flutter 应用程序中轻松实现应用内 PiP（画中画）</li>  
-      </ul> 
-</div>
+
 
 
 
@@ -2441,6 +2445,13 @@
   <tbody id="列表">
       
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/davi" rel="nofollow">davi</a></td>
+    <td>按需构建单元格的完全自定义数据视图,专注于 Web/桌面应用程序</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_reorderable_grid_view" rel="nofollow">flutter_reorderable_grid_view</a></td>
     <td>更新子项或尝试使用拖放重新排序它们时启用动画 GridView</td>
     <td>2023-02-02</td>
@@ -4393,6 +4404,13 @@
   <tbody id="图像">
       
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/image_compare_slider" rel="nofollow">image_compare_slider</a></td>
+    <td>使用滑块和可拖动的线/手柄轻松比较两个图像</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/ar_location_view" rel="nofollow">ar_location_view</a></td>
     <td>ArLocationView 设计用于静态 POI 集中的区域</td>
     <td>2022-12-21</td>
@@ -5204,6 +5222,13 @@
   </tr>
   </thead>
   <tbody id="动画">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/zerker" rel="nofollow">zerker</a></td>
+    <td>灵活轻便的 flutter canvas 图形动画库</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/motion" rel="nofollow">motion</a></td>
@@ -6375,6 +6400,13 @@
   </tr>
   </thead>
   <tbody id="通讯">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/dart_openai" rel="nofollow">dart_openai</a></td>
+    <td>适用于 openAI Apis（GPT-3 和 DALL-E）的 Dart SDK，可以轻松地将 OpenAI 最先进的 AI 模型的强大功能集成到他们的 Dart 应用程序中</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/chat_gpt_sdk" rel="nofollow">chat_gpt_sdk</a></td>
