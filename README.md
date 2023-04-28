@@ -16,6 +16,15 @@
 <br>	
 <div class="changeLog">
 
+<div class="changeLogItem 04-28">
+      <h3>04-28</h3>
+      <ul>
+        <li><a href="https://pub.flutter-io.cn/packages/squares">squares</a> - 灵活的 Flutter 棋盘小部件。视觉上可定制，支持许多国际象棋变体</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/quill_html_editor">quill_html_editor</a> - 适用于 Android、iOS 和 Web 的 HTML 富文本编辑器，它使用强大的 Quill Js 库构建</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_pannable_rating_bar">flutter_pannable_rating_bar</a> - 多功能且可自定义的评分栏</li>  
+      </ul> 
+</div>
+
 <div class="changeLogItem 03-19">
       <h3>03-19</h3>
       <ul>
@@ -26,43 +35,7 @@
       </ul> 
 </div>
 
-<div class="changeLogItem 02-11">
-      <h3>02-11</h3>
-      <ul>
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_carplay">flutter_carplay</a> - 通过与 CarPlay 集成，使在汽车中使用 Flutter 制作的应用程序</li>
-        <li><a href="https://pub.flutter-io.cn/packages/android_intent_plus">android_intent_plus</a> - 用于启动 Android Intents 的 Flutter 插件</li>
-        <li><a href="https://pub.flutter-io.cn/packages/quick_settings">quick_settings</a> - 在 Android 快速设置中创建和处理您自己的自定义 Tile</li>
-        <li><a href="https://pub.flutter-io.cn/packages/leak_tracker">leak_tracker</a> - 用于 Dart 和 Flutter 应用程序的内存泄漏跟踪框架</li>
-        <li><a href="https://pub.flutter-io.cn/packages/vr_player">vr_player</a> - 在 Android 和 iOS 平台上流畅播放 360° 和 VR 视频</li>
-        <li><a href="https://pub.flutter-io.cn/packages/chat_gpt_sdk">chat_gpt_sdk</a> - 使用 ChatGPT SDK 创建聊天机器人和其他机器人</li>
-        <li><a href="https://pub.flutter-io.cn/packages/sitesurface_flutter_openai">sitesurface_flutter_openai</a> - 允许将 OpenAI 的 API 服务集成到您的 Flutter 应用程序中，可以向 OpenAI 的语言模型发出请求、检索完成和摘要等</li>
-        <li><a href="https://pub.flutter-io.cn/packages/chat_gpt_api">chat_gpt_api</a> - 用 dart 编写的 chatGPT SDK，用于访问 OpenAI API 的功能</li>
-        <li><a href="https://pub.flutter-io.cn/packages/alarm">alarm</a> - 用于在 iOS 和 Android 设备上设置和取消闹钟</li>
-        <li><a href="https://pub.flutter-io.cn/packages/esim">esim</a> - 用于检查 eSIM 兼容性的 Flutter 插件</li>
-        <li><a href="https://pub.flutter-io.cn/packages/hardware_buttons_find_flutter">hardware_buttons_find_flutter</a> - 在带有不同按钮的移动设备上，按下按钮时监听按钮的名称</li>
-        <li><a href="https://pub.flutter-io.cn/packages/parallax_sensors_bg">parallax_sensors_bg</a> - 简化了在响应相应传感器检测的页面背景中提供视差效果</li>
-        <li><a href="https://pub.flutter-io.cn/packages/televerse">televerse</a> - 在 Dart 中轻松创建自己的高效 Telegram 机器人</li>
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_card_swiper">flutter_card_swiper</a> - 类似于 Tinder 的刷卡程序包。它允许您向左、向右、向上和向下滑动，并为每个方向定义您自己的业务逻辑</li>
-        <li><a href="https://pub.flutter-io.cn/packages/focus_on_it">focus_on_it</a> - 当小部件聚焦或未聚焦时获得通知并对其做出反应</li>
-        <li><a href="https://pub.flutter-io.cn/packages/hashlib">hashlib</a> - 为 Dart 优化的安全哈希函数、校验和生成器和密钥派生算法</li>
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_carplay">flutter_carplay</a> - 通过与 CarPlay 集成，使在汽车中使用 Flutter 制作的应用程序</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/android_intent_plus">android_intent_plus</a> - 用于启动 Android Intents 的 Flutter 插件</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/quick_settings">quick_settings</a> - 在 Android 快速设置中创建和处理您自己的自定义 Tile</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/leak_tracker">leak_tracker</a> - 用于 Dart 和 Flutter 应用程序的内存泄漏跟踪框架</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/vr_player">vr_player</a> - 在 Android 和 iOS 平台上流畅播放 360° 和 VR 视频</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/chat_gpt_sdk">chat_gpt_sdk</a> - 使用 ChatGPT SDK 创建聊天机器人和其他机器人</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/sitesurface_flutter_openai">sitesurface_flutter_openai</a> - 允许将 OpenAI 的 API 服务集成到您的 Flutter 应用程序中，可以向 OpenAI 的语言模型发出请求、检索完成和摘要等</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/chat_gpt_api">chat_gpt_api</a> - 用 dart 编写的 chatGPT SDK，用于访问 OpenAI API 的功能</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/alarm">alarm</a> - 用于在 iOS 和 Android 设备上设置和取消闹钟</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/esim">esim</a> - 用于检查 eSIM 兼容性的 Flutter 插件</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/hardware_buttons_find_flutter">hardware_buttons_find_flutter</a> - 在带有不同按钮的移动设备上，按下按钮时监听按钮的名称</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/parallax_sensors_bg">parallax_sensors_bg</a> - 简化了在响应相应传感器检测的页面背景中提供视差效果</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/televerse">televerse</a> - 在 Dart 中轻松创建自己的高效 Telegram 机器人</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_card_swiper">flutter_card_swiper</a> - 类似于 Tinder 的刷卡程序包。它允许您向左、向右、向上和向下滑动，并为每个方向定义您自己的业务逻辑</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/focus_on_it">focus_on_it</a> - 当小部件聚焦或未聚焦时获得通知并对其做出反应</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/hashlib">hashlib</a> - 为 Dart 优化的安全哈希函数、校验和生成器和密钥派生算法</li>  
-      </ul> 
-</div>
+
 
 
 
@@ -2755,6 +2728,27 @@
   </tr>
   </thead>
   <tbody id="UI">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/squares" rel="nofollow">squares</a></td>
+    <td>灵活的 Flutter 棋盘小部件。视觉上可定制，支持许多国际象棋变体</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/quill_html_editor" rel="nofollow">quill_html_editor</a></td>
+    <td>适用于 Android、iOS 和 Web 的 HTML 富文本编辑器，它使用强大的 Quill Js 库构建</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_pannable_rating_bar" rel="nofollow">flutter_pannable_rating_bar</a></td>
+    <td>多功能且可自定义的评分栏</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/parallax_sensors_bg" rel="nofollow">parallax_sensors_bg</a></td>
