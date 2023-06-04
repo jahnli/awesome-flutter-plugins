@@ -16,6 +16,15 @@
 <br>	
 <div class="changeLog">
 
+<div class="changeLogItem 06-04">
+      <h3>06-04</h3>
+      <ul>
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_tencentad">flutter_tencentad</a> - 腾讯优量汇(点通)广告插件</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_unionad">flutter_unionad</a> - 字节跳动穿山甲广告插件</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/file_preview">file_preview</a> - 支持flutter预览文件的插件</li>  
+      </ul> 
+</div>
+
 <div class="changeLogItem 04-28">
       <h3>04-28</h3>
       <ul>
@@ -25,15 +34,7 @@
       </ul> 
 </div>
 
-<div class="changeLogItem 03-19">
-      <h3>03-19</h3>
-      <ul>
-        <li><a href="https://pub.flutter-io.cn/packages/zerker">zerker</a> - 灵活轻便的 flutter canvas 图形动画库</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/dart_openai">dart_openai</a> - 适用于 openAI Apis（GPT-3 和 DALL-E）的 Dart SDK，可以轻松地将 OpenAI 最先进的 AI 模型的强大功能集成到他们的 Dart 应用程序中</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/davi">davi</a> - 按需构建单元格的完全自定义数据视图,专注于 Web/桌面应用程序</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/image_compare_slider">image_compare_slider</a> - 使用滑块和可拖动的线/手柄轻松比较两个图像</li>  
-      </ul> 
-</div>
+
 
 
 
@@ -799,6 +800,13 @@
   </tr>
   </thead>
   <tbody id="设备">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/file_preview" rel="nofollow">file_preview</a></td>
+    <td>支持flutter预览文件的插件</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_carplay" rel="nofollow">flutter_carplay</a></td>
@@ -7153,6 +7161,20 @@
   </tr>
   </thead>
   <tbody id="广告">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_tencentad" rel="nofollow">flutter_tencentad</a></td>
+    <td>腾讯优量汇(点通)广告插件</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_unionad" rel="nofollow">flutter_unionad</a></td>
+    <td>字节跳动穿山甲广告插件</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
    
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/admob_flutter" rel="nofollow">admob_flutter<!-- a--></a></td>
