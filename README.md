@@ -16,6 +16,14 @@
 <br>	
 <div class="changeLog">
 
+<div class="changeLogItem 06-05">
+      <h3>06-05</h3>
+      <ul>
+        <li><a href="https://pub.flutter-io.cn/packages/alipay_kit">alipay_kit</a> - 允许开发人员使用 natvie Android 和 iOS 支付宝 SDK 进行授权/支付</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/tencent_kit">tencent_kit</a> - 允许开发者使用 natvie Android 和 iOS 腾讯 SDK 进行授权/共享</li>  
+      </ul> 
+</div>
+
 <div class="changeLogItem 06-04">
       <h3>06-04</h3>
       <ul>
@@ -25,14 +33,7 @@
       </ul> 
 </div>
 
-<div class="changeLogItem 04-28">
-      <h3>04-28</h3>
-      <ul>
-        <li><a href="https://pub.flutter-io.cn/packages/squares">squares</a> - 灵活的 Flutter 棋盘小部件。视觉上可定制，支持许多国际象棋变体</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/quill_html_editor">quill_html_editor</a> - 适用于 Android、iOS 和 Web 的 HTML 富文本编辑器，它使用强大的 Quill Js 库构建</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_pannable_rating_bar">flutter_pannable_rating_bar</a> - 多功能且可自定义的评分栏</li>  
-      </ul> 
-</div>
+
 
 
 
@@ -6402,6 +6403,20 @@
   </tr>
   </thead>
   <tbody id="通讯">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/alipay_kit" rel="nofollow">alipay_kit</a></td>
+    <td>允许开发人员使用 natvie Android 和 iOS 支付宝 SDK 进行授权/支付</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/tencent_kit" rel="nofollow">tencent_kit</a></td>
+    <td>允许开发者使用 natvie Android 和 iOS 腾讯 SDK 进行授权/共享</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/dart_openai" rel="nofollow">dart_openai</a></td>
