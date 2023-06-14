@@ -5310,14 +5310,7 @@
     <td>2021-05-10</td>
     <td>209</td>
   </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/flutter_bounce" rel="nofollow">flutter_bounce</a></td>
-    <td>用于将点击弹跳动画传递到环绕的小部件。</td>
-    <td>2021-06-14</td>
-    <td>131</td>
-  </tr>
-      
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/bouncing_widget" rel="nofollow">bouncing_widget</a></td>
     <td>在小部件上添加弹跳动画。</td>
