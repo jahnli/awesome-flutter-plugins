@@ -4374,13 +4374,6 @@
   </tr>
       
   <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/ar_location_view" rel="nofollow">ar_location_view</a></td>
-    <td>ArLocationView 设计用于静态 POI 集中的区域</td>
-    <td>2023-05-15</td>
-    <td>40</td>
-  </tr>
-      
-  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/power_image" rel="nofollow">power_image</a></td>
     <td>功能强大的插件，充分利用原生图片库在flutter端展示图片的能力</td>
     <td>2022-05-25</td>
