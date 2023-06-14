@@ -2753,21 +2753,7 @@
     <td>2023-05-15</td>
     <td>80</td>
   </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/parallax_sensors_bg" rel="nofollow">parallax_sensors_bg</a></td>
-    <td>简化了在响应相应传感器检测的页面背景中提供视差效果</td>
-    <td>2023-01-01</td>
-    <td>39</td>
-  </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/flutter_card_swiper" rel="nofollow">flutter_card_swiper</a></td>
-    <td>类似于 Tinder 的刷卡程序包。它允许您向左、向右、向上和向下滑动，并为每个方向定义您自己的业务逻辑</td>
-    <td>2023-05-15</td>
-    <td>80</td>
-  </tr>
-      
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/paperfold" rel="nofollow">paperfold</a></td>
     <td>实现元素折纸效果</td>
