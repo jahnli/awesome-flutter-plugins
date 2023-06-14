@@ -87,7 +87,13 @@
   </tr>
   </thead>
   <tbody id="插件">
-      
+	  
+   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/hashlib" rel="nofollow">hashlib</a></td>
+    <td>为 Dart 优化的安全哈希函数、校验和生成器和密钥派生算法</td>
+    <td>2023-05-24</td>
+    <td>18</td>
+  </tr>
 
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/hashlib" rel="nofollow">hashlib</a></td>
