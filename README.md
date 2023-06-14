@@ -4048,13 +4048,6 @@
   </tr>
       
   <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/vr_player" rel="nofollow">vr_player</a></td>
-    <td>在 Android 和 iOS 平台上流畅播放 360° 和 VR 视频</td>
-    <td>2023-05-31</td>
-    <td>23</td>
-  </tr>
-      
-  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/apivideo_live_stream" rel="nofollow">apivideo_live_stream</a></td>
     <td>适用于您的音频/视频应用程序的 Flutter RTMP 直播客户端</td>
     <td>2023-01-23</td>
