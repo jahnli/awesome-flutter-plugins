@@ -87,13 +87,6 @@
   </tr>
   </thead>
   <tbody id="插件">
-	  
-   <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/hashlib" rel="nofollow">hashlib</a></td>
-    <td>为 Dart 优化的安全哈希函数、校验和生成器和密钥派生算法</td>
-    <td>2023-05-24</td>
-    <td>18</td>
-  </tr>
 
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/hashlib" rel="nofollow">hashlib</a></td>
@@ -2135,13 +2128,6 @@
   </tr>
       
   <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/sentry_flutter" rel="nofollow">sentry_flutter</a></td>
-    <td>Flutter 的 Sentry SDK，捕获本机层中的错误。</td>
-    <td>2023-06-05</td>
-    <td>589</td>
-  </tr>
-      
-  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/logging" rel="nofollow">logging</a></td>
     <td>提供用于调试和错误记录的 API。</td>
     <td>2023-05-23</td>
@@ -3500,13 +3486,6 @@
     <td>用于构建设置表单的Flutter包。</td>
     <td>2023-05-22</td>
     <td>225</td>
-  </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/slider_button" rel="nofollow">slider_button</a></td>
-    <td>用于激活/停用某些事件的可定制滑块按钮小部件。</td>
-    <td>2021-12-24</td>
-    <td>249</td>
   </tr>
       
   <tr class="item">
@@ -5247,14 +5226,7 @@
     <td>2022-11-19</td>
     <td>133</td>
   </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/flutter_bounceable" rel="nofollow">flutter_bounceable</a></td>
-    <td>简单、交互式和可自定义的点击弹跳动画，可以包装在您喜欢的任何小部件上。</td>
-    <td>2023-01-03</td>
-    <td>130</td>
-  </tr>
-      
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/local_hero" rel="nofollow">local_hero</a></td>
     <td>当它的位置在同一条路线内发生变化时，它会隐式地启动一个英雄动画。</td>
@@ -5553,14 +5525,7 @@
     <td>2023-05-30</td>
     <td>142</td>
   </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/flutter_animation_progress_bar" rel="nofollow">flutter_animation_progress_bar</a></td>
-    <td>以反应式风格显示动画进度条。它还支持垂直和水平条。</td>
-    <td>2022-10-12</td>
-    <td>187</td>
-  </tr>
-      
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/syncfusion_flutter_treemap" rel="nofollow">syncfusion_flutter_treemap</a></td>
     <td>用于创建交互式树图，以基于平方、切片和切块算法可视化平面和分层数据。</td>
@@ -6228,14 +6193,7 @@
     <td>2023-01-12</td>
     <td>24</td>
   </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/window_decorations" rel="nofollow">window_decorations</a></td>
-    <td>提供 Linux 主题中大部分窗口装饰的包。</td>
-    <td>2022-02-17</td>
-    <td>16</td>
-  </tr>
-      
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/macos_ui" rel="nofollow">macos_ui</a></td>
     <td>实现当前 macOS 设计语言的 Flutter 小部件和主题。</td>
@@ -6803,14 +6761,7 @@
     <td>2021-11-05</td>
     <td>6</td>
   </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/jpush_flutter" rel="nofollow">jpush_flutter</a></td>
-    <td>极光推送官方支持的Flutter插件。</td>
-    <td>2023-04-25</td>
-    <td>60</td>
-  </tr>
-      
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_bugly" rel="nofollow">flutter_bugly</a></td>
     <td>用于腾讯Bugly，崩溃监控，崩溃分析，异常报告，应用程序更新，数据统计等。</td>
