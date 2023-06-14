@@ -1211,13 +1211,6 @@
   </tr>
       
   <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/flutter_shortcuts" rel="nofollow">flutter_shortcuts</a></td>
-    <td>用于在主屏幕上创建静态和动态应用程序/对话快捷方式。</td>
-    <td>2021-12-25</td>
-    <td>105</td>
-  </tr>
-      
-  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/open_mail_app" rel="nofollow">open_mail_app</a></td>
     <td>该库提供了查询设备以查找已安装的电子邮件应用程序并打开这些应用程序的功能。</td>
     <td>2022-02-23</td>
