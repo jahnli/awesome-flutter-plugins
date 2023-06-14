@@ -6386,13 +6386,6 @@
   </tr>
       
   <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/chat_gpt_sdk" rel="nofollow">chat_gpt_sdk</a></td>
-    <td>使用 ChatGPT SDK 创建聊天机器人和其他机器人</td>
-    <td>2023-06-03</td>
-    <td>161</td>
-  </tr>
-      
-  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/sitesurface_flutter_openai" rel="nofollow">sitesurface_flutter_openai</a></td>
     <td>允许将 OpenAI 的 API 服务集成到您的 Flutter 应用程序中，可以向 OpenAI 的语言模型发出请求、检索完成和摘要等</td>
     <td>2023-01-08</td>
@@ -6418,27 +6411,6 @@
     <td>使用 ChatGPT SDK 创建聊天机器人和其他机器人</td>
     <td>2023-06-03</td>
     <td>161</td>
-  </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/sitesurface_flutter_openai" rel="nofollow">sitesurface_flutter_openai</a></td>
-    <td>允许将 OpenAI 的 API 服务集成到您的 Flutter 应用程序中，可以向 OpenAI 的语言模型发出请求、检索完成和摘要等</td>
-    <td>2023-01-08</td>
-    <td>23</td>
-  </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/chat_gpt_api" rel="nofollow">chat_gpt_api</a></td>
-    <td>用 dart 编写的 chatGPT SDK，用于访问 OpenAI API 的功能</td>
-    <td>2023-02-02</td>
-    <td>26</td>
-  </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/televerse" rel="nofollow">televerse</a></td>
-    <td>在 Dart 中轻松创建自己的高效 Telegram 机器人</td>
-    <td>2023-05-29</td>
-    <td>22</td>
   </tr>
       
   <tr class="item">
