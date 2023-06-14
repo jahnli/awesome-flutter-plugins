@@ -6449,13 +6449,6 @@
   </tr>
       
   <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/huawei_iap" rel="nofollow">huawei_iap</a></td>
-    <td>Flutter 的 HUAWEI IAP Kit 插件</td>
-    <td>2023-04-03</td>
-    <td>28</td>
-  </tr>
-      
-  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/huawei_ml_text" rel="nofollow">huawei_ml_text</a></td>
     <td>Flutter 的 HUAWEI ML Kit 文本插件。提供文本、文档、身份证、银行卡、通用卡和表单识别等功能</td>
     <td>2022-10-31</td>
@@ -6488,13 +6481,6 @@
     <td>华为动态标签管理器（DTM）是一个动态标签管理系统</td>
     <td>2023-03-02</td>
     <td>1</td>
-  </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/huawei_analytics" rel="nofollow">huawei_analytics</a></td>
-    <td>Flutter 的 HUAWEI Analytics Kit 插件</td>
-    <td>2023-03-02</td>
-    <td>19</td>
   </tr>
       
   <tr class="item">
