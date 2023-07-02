@@ -16,6 +16,14 @@
 <br>	
 <div class="changeLog">
 
+<div class="changeLogItem 07-02">
+      <h3>07-02</h3>
+      <ul>
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_scalable_ocr">flutter_scalable_ocr</a> - Google ML 套件文本识别的包装器</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/deepar_flutter">deepar_flutter</a> - DeepAR的官方 SDK</li>  
+      </ul> 
+</div>
+
 <div class="changeLogItem 06-05">
       <h3>06-05</h3>
       <ul>
@@ -24,14 +32,7 @@
       </ul> 
 </div>
 
-<div class="changeLogItem 06-04">
-      <h3>06-04</h3>
-      <ul>
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_tencentad">flutter_tencentad</a> - 腾讯优量汇(点通)广告插件</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_unionad">flutter_unionad</a> - 字节跳动穿山甲广告插件</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/file_preview">file_preview</a> - 支持flutter预览文件的插件</li>  
-      </ul> 
-</div>
+
 
 
 
@@ -4343,6 +4344,20 @@
   </tr>
   </thead>
   <tbody id="图像">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_scalable_ocr" rel="nofollow">flutter_scalable_ocr</a></td>
+    <td>Google ML 套件文本识别的包装器</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/deepar_flutter" rel="nofollow">deepar_flutter</a></td>
+    <td>DeepAR的官方 SDK</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/image_compare_slider" rel="nofollow">image_compare_slider</a></td>
