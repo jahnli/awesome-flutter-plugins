@@ -11,7 +11,7 @@
 
 <br>
 
-<h3 id="count">收录 991 个</h3>   
+<h3 id="count">收录 993 个</h3>   
 
 <br>	
 <div class="changeLog">
@@ -4348,15 +4348,15 @@
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_scalable_ocr" rel="nofollow">flutter_scalable_ocr</a></td>
     <td>Google ML 套件文本识别的包装器</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2023-05-31</td>
+    <td>26</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/deepar_flutter" rel="nofollow">deepar_flutter</a></td>
     <td>DeepAR的官方 SDK</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2023-01-29</td>
+    <td>26</td>
   </tr>
       
   <tr class="item">
