@@ -280,13 +280,6 @@
   </tr>
       
   <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/advance_pdf_viewer" rel="nofollow">advance_pdf_viewer</a></td>
-    <td>用于处理 PDF 文件的 Flutter 插件。适用于 Android 和 iOS</td>
-    <td>2022-01-04</td>
-    <td>350</td>
-  </tr>
-      
-  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/encrypt" rel="nofollow">encrypt</a></td>
     <td>PointyCastle 上的一组用于双向加密的高级 API。</td>
     <td>2021-08-08</td>
