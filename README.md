@@ -4299,12 +4299,7 @@
     <td>2022-05-22</td>
     <td>1154</td>
   </tr>
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/fijkplayer">fijkplayer</a></td>
-    <td>基于ijkplayer的Video Player Flutter插件，支持最流行的协议和编解码器。</td>
-    <td>2021-11-30</td>
-    <td>161</td>
-  </tr>
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/chewie">chewie</a></td>
     <td>Flutter的视频播放器，带有Cupertino和Material播放控件。</td>
