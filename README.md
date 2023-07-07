@@ -4444,20 +4444,6 @@
   </tr>
       
   <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/native_pdf_renderer" rel="nofollow">native_pdf_renderer</a></td>
-    <td>用于在 Web、MacOS、Windows、Android 和 iOS 上将 PDF 页面呈现为图像。</td>
-    <td>2022-02-10</td>
-    <td>100</td>
-  </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/flutter_cached_pdfview" rel="nofollow">flutter_cached_pdfview</a></td>
-    <td>用于显示 iOS 和 Android 的本机 PDF 视图。</td>
-    <td>2021-12-01</td>
-    <td>320</td>
-  </tr>
-      
-  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_mobile_vision" rel="nofollow">flutter_mobile_vision</a></td>
     <td>谷歌移动视觉的 Flutter 实现。扫描条码、识别文本和检测人脸。</td>
     <td>2020-04-28</td>
