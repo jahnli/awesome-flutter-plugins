@@ -665,7 +665,7 @@
   </tr>
 	  
   <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/native_pdf_view" rel="nofollow">native_pdf_view</a></td>
+    <td><a href="https://pub.flutter-io.cn/packages/pdfx" rel="nofollow">pdfx</a></td>
     <td>可在Web，MacOS，Android和iOS上呈现PDF文件。</td>
     <td>2022-02-10</td>
     <td>387</td>
