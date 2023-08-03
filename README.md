@@ -301,13 +301,6 @@
   </tr>
       
   <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/flutter_code_push" rel="nofollow">flutter_code_push</a></td>
-    <td>Fl​​utter 应用代码推送的增强和实现。</td>
-    <td>2021-03-03</td>
-    <td>27</td>
-  </tr>
-      
-  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/app_installer" rel="nofollow">app_installer</a></td>
     <td>全新的Android+iOS应用安装插件，支持打开应用商店和编辑评论，以及安装Apk文件。</td>
     <td>2021-08-25</td>
