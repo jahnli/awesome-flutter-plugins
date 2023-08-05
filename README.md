@@ -1874,12 +1874,7 @@
     <td>2021-10-30</td>
     <td>57</td>
   </tr>
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/sensors">sensors</a></td>
-    <td>访问Android和iOS加速度计和陀螺仪传感器。</td>
-    <td>2021-05-26</td>
-    <td>387</td>
-  </tr>
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/app_settings">app_settings</a></td>
     <td>从应用程序打开iOS和Android手机设置。</td>
@@ -1907,12 +1902,6 @@
   </tr>
 
   <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/connectivity">connectivity</a></td>
-    <td>发现Android和iOS上的网络（WiFi和移动/蜂窝）连接状态。</td>
-    <td>2021-05-26</td>
-    <td>1868</td>
-  </tr>
-  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/image_picker">image_picker</a></td>
     <td>用于从Android和iOS图像库中选择图像，并使用相机拍摄新照片。</td>
     <td>2023-06-10</td>
@@ -1930,13 +1919,20 @@
     <td>2023-05-24</td>
     <td>672</td>
   </tr>
-
   <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/device_info">device_info</a></td>
-    <td>从Flutter应用程序中获取当前设备信息。</td>
-    <td>2021-11-01</td>
-    <td>1259</td>
+    <td><a href="https://pub.flutter-io.cn/packages/device_info_plus" rel="nofollow">device_info_plus</a></td>
+    <td>可提供有关设备（制造商，型号等）以及运行该应用程序的Android或iOS版本的详细信息。</td>
+    <td>2023-05-29</td>
+    <td>1651</td>
   </tr>
+  
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/connectivity_plus" rel="nofollow">connectivity_plus</a></td>
+    <td>用于发现Android和iOS上的网络状态（WiFi和移动/蜂窝）连接。</td>
+    <td>2023-05-19</td>
+    <td>2278</td>
+  </tr>
+  
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/url_launcher">url_launcher</a></td>
     <td>一款支持android和IOS的插件，其中包含打开网址、发送邮件、拨打电话、以及发送信息功能。</td>
@@ -1967,12 +1963,7 @@
     <td>2023-05-06</td>
     <td>487</td>
   </tr>
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/system_info">system_info</a></td>
-    <td>可以轻松访问有关系统的有用信息（architecture, bitness, kernel, memory, operating system, CPU, user)。</td>
-    <td>2021-07-01</td>
-    <td>42</td>
-  </tr>
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_blue">flutter_blue</a></td>
     <td>Android和iOS上与低功耗蓝牙设备连接和通信。</td>
