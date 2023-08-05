@@ -1684,14 +1684,7 @@
     <td>2022-08-15</td>
     <td>1698</td>
   </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/share_extend" rel="nofollow">share_extend</a></td>
-    <td>用于与系统ui共享文本，图像，视频和文件。</td>
-    <td>2021-04-05</td>
-    <td>124</td>
-  </tr>
-      
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_vpn" rel="nofollow">flutter_vpn</a></td>
     <td>应用内调用 VPN 服务。</td>
@@ -1761,12 +1754,7 @@
     <td>2022-11-18</td>
     <td>103</td>
   </tr>
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/flutter_camera_ml_vision">flutter_camera_ml_vision</a></td>
-    <td>可显示相机预览并使用Firebase ML Vision检测事物。</td>
-    <td>2021-04-30</td>
-    <td>97</td>
-  </tr>
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/dokit">dokit</a></td>
     <td>滴滴DoKit For Flutter，一个DoKit针对Flutter环境的产研工具包，内部集成了各种丰富的小工具，UI、网络、内存、监控等等。</td>
