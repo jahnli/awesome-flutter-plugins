@@ -397,14 +397,7 @@
     <td>2021-09-29</td>
     <td>0</td>
   </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/flare_splash_screen" rel="nofollow">flare_splash_screen</a></td>
-    <td>应用程序的初始化完成一些工作之前，具有带有 Flare 动画的 Splash 屏幕。</td>
-    <td>2021-04-16</td>
-    <td>220</td>
-  </tr>
-      
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/opencv_4" rel="nofollow">opencv_4</a></td>
     <td>包含 OpenCV 模块集合的 Flutter 包项目。</td>
@@ -2335,12 +2328,7 @@
     <td>2022-05-23</td>
     <td>2549</td>
   </tr>
-  <tr class="item">
-   <td><a href="https://pub.flutter-io.cn/packages/flutter_annual_task">flutter_annual_task</a></td>
-   <td>用于显示日常任务（如Github-Contributions）的网格视图。</td>
-   <td>2021-03-07</td>
-   <td>45</td>
-  </tr>
+
   <tr class="item">
    <td><a href="https://pub.flutter-io.cn/packages/flutter_staggered_animations">flutter_staggered_animations</a></td>
    <td>轻松将交错动画添加到ListView，GridView，Column和Row子级中。</td>
@@ -5370,12 +5358,7 @@
     <td>2021-12-05</td>
     <td>221</td>
   </tr>
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/fancy_bottom_navigation">fancy_bottom_navigation</a></td>
-    <td>动画的底部导航栏。</td>
-    <td>2021-03-16</td>
-    <td>228</td>
-  </tr>
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/animated_bottom_navigation_bar">animated_bottom_navigation_bar</a></td>
     <td>绚丽的动画底部导航栏。</td>
