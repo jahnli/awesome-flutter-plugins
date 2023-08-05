@@ -6617,14 +6617,7 @@
     <td>2023-05-19</td>
     <td>364</td>
   </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/tencent_rtc_plugin" rel="nofollow">tencent_rtc_plugin</a></td>
-    <td>腾讯云实时音视频插件，集成腾讯RTC，支持安卓和IOS双端。</td>
-    <td>2021-08-25</td>
-    <td>3</td>
-  </tr>
-      
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/tencent_im_plugin" rel="nofollow">tencent_im_plugin</a></td>
     <td>集成腾讯云“imsdk”，实现跨平台即时访问，兼容Android和IOS设备。</td>
