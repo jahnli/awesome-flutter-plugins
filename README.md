@@ -1882,12 +1882,6 @@
   </tr>
 
   <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/flutter_blue">flutter_blue</a></td>
-    <td>Android和iOS上与低功耗蓝牙设备连接和通信。</td>
-    <td>2021-03-15</td>
-    <td>892</td>
-  </tr>
-  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/camera">camera</a></td>
     <td>获取有关和控制Android和iOS上的相机的信息。支持预览摄像头，捕获图像，捕获视频。</td>
     <td>2023-05-24</td>
