@@ -537,14 +537,7 @@
     <td>2021-05-11</td>
     <td>106</td>
   </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/tflite" rel="nofollow">tflite</a></td>
-    <td>用于访问 TensorFlow Lite 的 Flutter 插件。</td>
-    <td>2021-04-13</td>
-    <td>515</td>
-  </tr>
-      
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/excel" rel="nofollow">excel</a></td>
     <td>一个 flutter 和 dart 库，用于读取、创建、编辑和更新 Excel 表。</td>
@@ -1300,14 +1293,7 @@
     <td>2022-11-27</td>
     <td>65</td>
   </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/native_screenshot" rel="nofollow">native_screenshot</a></td>
-    <td>使用本机代码（iOS 和 Android）截取屏幕截图的简单插件。</td>
-    <td>2021-04-04</td>
-    <td>50</td>
-  </tr>
-      
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/file_selector" rel="nofollow">file_selector</a></td>
     <td>用于打开和保存文件的 Flutter 插件。</td>
@@ -1328,14 +1314,7 @@
     <td>2021-10-19</td>
     <td>394</td>
   </tr>
-     
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/clipboard_listener" rel="nofollow">clipboard_listener</a></td>
-    <td>flutter 粘贴板监听器可以监听粘贴板的变化并通过回调通知你。</td>
-    <td>2021-04-07</td>
-    <td>10</td>
-  </tr>
-      
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/perfect_volume_control" rel="nofollow">perfect_volume_control</a></td>
     <td>Flutter 音量控制插件，支持安卓和IOS，具有：显示隐藏音量图标、音量变化监控、设置音量、获取设备当前音量。</td>
@@ -1356,14 +1335,7 @@
     <td>2023-05-12</td>
     <td>149</td>
   </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/platform_device_id" rel="nofollow">platform_device_id</a></td>
-    <td>从 android、ios、windows、linux、mac、web 获取设备 ID。</td>
-    <td>2021-04-04</td>
-    <td>299</td>
-  </tr>
-      
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/health" rel="nofollow">health</a></td>
     <td>iOS HealthKit 和 Android GoogleFit 服务的包装器，用于读取健康和健身数据。</td>
@@ -2293,14 +2265,7 @@
     <td>2023-05-08</td>
     <td>1441</td>
   </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/draggable_scrollbar" rel="nofollow">draggable_scrollbar</a></td>
-    <td>可以拖动滚动条以快速浏览垂直列表。</td>
-    <td>2021-04-04</td>
-    <td>318</td>
-  </tr>
-      
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/material_floating_search_bar" rel="nofollow">material_floating_search_bar</a></td>
     <td>可扩展的动画浮动搜索栏的Flutter实现。</td>
@@ -2665,14 +2630,7 @@
     <td>2022-10-24</td>
     <td>990</td>
   </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/horizontal_card_pager" rel="nofollow">horizontal_card_pager</a></td>
-    <td>创建动态和漂亮的卡片视图。</td>
-    <td>2021-04-05</td>
-    <td>145</td>
-  </tr>
-      
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/stop_watch_timer" rel="nofollow">stop_watch_timer</a></td>
     <td>简单的 CountUp 计时器 / CountDown 计时器。</td>
@@ -2693,14 +2651,6 @@
     <td>2023-07-22</td>
     <td>326</td>
   </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/vertical_card_pager" rel="nofollow">vertical_card_pager</a></td>
-    <td>创建动态和漂亮的卡片视图。</td>
-    <td>2021-04-03</td>
-    <td>218</td>
-  </tr>
-
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/glass_kit" rel="nofollow">glass_kit</a></td>
     <td>用于在应用程序中实现玻璃态射。</td>
