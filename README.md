@@ -1748,7 +1748,13 @@
     <td>2021-07-21</td>
     <td>155</td>
   </tr>
-      
+  
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/system_info2" rel="nofollow">system_info2</a></td>
+    <td>提供对有关系统的有用信息（架构、位数、内核、内存、操作系统、CPU、用户）的轻松访问</td>
+    <td>2023-05-15</td>
+    <td>34</td>
+  </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/qr_code_scanner" rel="nofollow">qr_code_scanner</a></td>
     <td>在iOS和Android上运行的QR码扫描仪，与Flutter无缝集成，比本机Activity或ViewController进行扫描要好得多。</td>
