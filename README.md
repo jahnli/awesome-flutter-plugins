@@ -6900,12 +6900,7 @@
     <td>2021-12-09</td>
     <td>1661</td>
   </tr>
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/flutter_webview_plugin">flutter_webview_plugin</a></td>
-    <td>允许Flutter与本机WebView通信的插件。</td>
-    <td>2021-05-24</td>
-    <td>680</td>
-  </tr>
+
   </tbody>
 </table>
 
