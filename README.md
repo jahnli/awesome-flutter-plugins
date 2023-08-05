@@ -1379,13 +1379,6 @@
   </tr>
       
   <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/all_sensors" rel="nofollow">all_sensors</a></td>
-    <td>用于检索加速度计、陀螺仪、接近传感器数据的 Flutter 插件。</td>
-    <td>2022-06-17</td>
-    <td>24</td>
-  </tr>
-      
-  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/camera_camera" rel="nofollow">camera_camera</a></td>
     <td>适用于您的项目、Android 和 iOS 平台的简单相机插件。</td>
     <td>2021-05-19</td>
