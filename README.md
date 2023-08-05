@@ -3031,13 +3031,6 @@
   </tr>
       
   <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/r_dotted_line_border" rel="nofollow">r_dotted_line_border</a></td>
-    <td>关于虚线边框的 Flutter 装饰盒包装。</td>
-    <td>2021-03-15</td>
-    <td>10</td>
-  </tr>
-      
-  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/liquid_pull_to_refresh" rel="nofollow">liquid_pull_to_refresh</a></td>
     <td>一个漂亮的自定义刷新指示器，带有一些很酷的动画。</td>
     <td>2022-01-10</td>
@@ -3099,14 +3092,7 @@
     <td>2023-02-02</td>
     <td>117</td>
   </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/bubble_tab_indicator" rel="nofollow">bubble_tab_indicator</a></td>
-    <td>为 TabBar 的选项卡指示器添加类似气泡的效果。</td>
-    <td>2021-03-08</td>
-    <td>238</td>
-  </tr>
-      
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/custom_refresh_indicator" rel="nofollow">custom_refresh_indicator</a></td>
     <td>可以轻松实现自定义刷新指示器。</td>
@@ -3372,13 +3358,6 @@
     <td>2021-05-29</td>
     <td>432</td>
   </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/bubble" rel="nofollow">bubble</a></td>
-    <td>用于像 Whatsapp 和其他人中的对话气泡一样聊天。</td>
-    <td>2021-03-10</td>
-    <td>545</td>
-  </tr>
 
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/intro_slider" rel="nofollow">intro_slider</a></td>
@@ -3442,14 +3421,7 @@
     <td>2021-06-15</td>
     <td>321</td>
   </tr>
-        
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/clay_containers" rel="nofollow">clay_containers</a></td>
-    <td>为您自己的独特设计轻松创建自定义的新形态容器小部件。</td>
-    <td>2021-03-09</td>
-    <td>306</td>
-  </tr>
-      
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/skeleton_text" rel="nofollow">skeleton_text</a></td>
     <td>提供了一种在 Flutter 项目中添加骨架屏加载动画的简单方法。</td>
@@ -3627,14 +3599,7 @@
     <td>2023-08-02</td>
     <td>686</td>
   </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/expandable" rel="nofollow">expandable</a></td>
-    <td>通过单击标题或图标来展开或折叠的 Flutter 小部件。</td>
-    <td>2021-03-16</td>
-    <td>1553</td>
-  </tr>
-      
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_typeahead" rel="nofollow">flutter_typeahead</a></td>
     <td>高度可定制的预先输入（自动完成）文本输入字段。</td>
@@ -4117,14 +4082,7 @@
     <td>2022-06-06</td>
     <td>97</td>
   </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/draw_your_image" rel="nofollow">draw_your_image</a></td>
-    <td>使用户能够在您设计的 UI 中用手指进行绘制。</td>
-    <td>2021-03-31</td>
-    <td>32</td>
-  </tr>
-      
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/patterns_canvas" rel="nofollow">patterns_canvas</a></td>
     <td>在画布元素或小部件上绘制条纹或圆点等图案。</td>
@@ -4264,14 +4222,7 @@
     <td>2021-04-04</td>
     <td>50</td>
   </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/animate_icons" rel="nofollow">animate_icons</a></td>
-    <td>可以在任何两个图标之间设置动画。</td>
-    <td>2021-03-14</td>
-    <td>180</td>
-  </tr>
-      
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/path_drawing" rel="nofollow">path_drawing</a></td>
     <td>帮助（画布）路径创建和操作。</td>
