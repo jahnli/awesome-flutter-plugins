@@ -1484,13 +1484,6 @@
   </tr>
 
   <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/disk_space" rel="nofollow">disk_space</a></td>
-    <td>用于显示可用和总磁盘空间。</td>
-    <td>2021-10-04</td>
-    <td>56</td>
-  </tr>
-      
-  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/mobile_number" rel="nofollow">mobile_number</a></td>
     <td>用于获取设备的手机号码或列出 SIM 卡数据。</td>
     <td>2022-10-11</td>
@@ -1601,14 +1594,7 @@
     <td>2022-10-29</td>
     <td>2283</td>
   </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/qrscan" rel="nofollow">qrscan</a></td>
-    <td>使用 android 设备扫描条码和二维码。</td>
-    <td>2022-08-05</td>
-    <td>375</td>
-  </tr>
-      
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/keyboard_actions" rel="nofollow">keyboard_actions</a></td>
     <td>向 Android / iOS 键盘添加功能。。</td>
