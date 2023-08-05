@@ -2700,14 +2700,7 @@
     <td>2021-04-03</td>
     <td>218</td>
   </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/overflow_view" rel="nofollow">overflow_view</a></td>
-    <td>如果没有足够的空间，小部件会在一行中显示子级，并在末尾带有溢出指示符。</td>
-    <td>2021-04-10</td>
-    <td>183</td>
-  </tr>
-      
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/glass_kit" rel="nofollow">glass_kit</a></td>
     <td>用于在应用程序中实现玻璃态射。</td>
@@ -2848,13 +2841,6 @@
     <td>297</td>
   </tr>
 
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/sliver_header_delegate" rel="nofollow">sliver_header_delegate</a></td>
-    <td>一个灵活的 sliver header delegate，允许轻松自定义您的 SliverHeader。</td>
-    <td>2021-04-19</td>
-    <td>77</td>
-  </tr>
-      
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/onboarding_overlay" rel="nofollow">onboarding_overlay</a></td>
     <td>灵活地控制有或没有目标元素的进入。</td>
@@ -3232,14 +3218,7 @@
     <td>2023-06-17</td>
     <td>532</td>
   </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/gradient_widgets" rel="nofollow">gradient_widgets</a></td>
-    <td>有漂亮的渐变的小部件。</td>
-    <td>2021-04-02</td>
-    <td>86</td>
-  </tr>
-      
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/weather" rel="nofollow">weather</a></td>
     <td>一个天气插件，用于通过 OpenWeatherMap API 获取当前天气和预测。适用于 Android 和 iOS。</td>
@@ -3513,12 +3492,7 @@
     <td>2022-06-14</td>
     <td>563</td>
   </tr>
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/credit_card_input_form">credit_card_input_form</a></td>
-    <td>信用卡信息输入表格。</td>
-    <td>2021-04-03</td>
-    <td>57</td>
-  </tr>
+
  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/scratcher">scratcher</a></td>
     <td>刮刮卡小部件。</td>
@@ -4117,28 +4091,14 @@
     <td>2023-05-22</td>
     <td>397</td>
   </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/flutter_qr_reader" rel="nofollow">flutter_qr_reader</a></td>
-    <td>扫描二维码和图片。</td>
-    <td>2021-04-03</td>
-    <td>77</td>
-  </tr>
-      
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/scan" rel="nofollow">scan</a></td>
     <td>使用自定义选项扫描小部件树中的二维码和条形码，从路径准确解码二维码和条形码图像。</td>
     <td>2021-12-22</td>
     <td>146</td>
   </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/flutter_barcode_scanner" rel="nofollow">flutter_barcode_scanner</a></td>
-    <td>Android 和 iOS 上支持条码扫描的插件。支持条码、二维码等。</td>
-    <td>2021-04-19</td>
-    <td>1141</td>
-  </tr>
-      
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/ai_barcode" rel="nofollow">ai_barcode</a></td>
     <td>支持Android、iOS、网络识别'一维条码'和'二维条码'的识别与生成。</td>
@@ -4285,14 +4245,7 @@
     <td>2023-05-11</td>
     <td>166</td>
   </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/panorama" rel="nofollow">panorama</a></td>
-    <td>全景图-360度全景图查看器。</td>
-    <td>2021-04-16</td>
-    <td>153</td>
-  </tr>
-      
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/crop" rel="nofollow">crop</a></td>
     <td>裁剪任何小部件，不仅限于图像。</td>
@@ -4631,14 +4584,7 @@
     <td>2021-03-10</td>
     <td>1484</td>
   </tr>
-	  
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/flutter_datetime_picker">flutter_datetime_picker</a></td>
-    <td>日期时间选择器。</td>
-    <td>2021-04-23</td>
-    <td>869</td>
-  </tr>
-	  
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/date_picker_timeline" rel="nofollow">date_picker_timeline</a></td>
     <td>日期选择器库，提供日历作为水平时间线。</td>
