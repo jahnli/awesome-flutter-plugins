@@ -1461,14 +1461,7 @@
     <td>2022-04-21</td>
     <td>266</td>
   </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/wallpaper_manager" rel="nofollow">wallpaper_manager</a></td>
-    <td>用于更改 Android 设备上的主屏幕、锁定屏幕（或两者）壁纸。</td>
-    <td>2020-08-10</td>
-    <td>102</td>
-  </tr>
-      
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/shake" rel="nofollow">shake</a></td>
     <td>用于检测手机抖动的flutter包，可调节的重力和复位周期。</td>
@@ -2833,13 +2826,6 @@
     <td>条码生成小部件。</td>
     <td>2023-05-22</td>
     <td>220</td>
-  </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/card_scanner" rel="nofollow">card_scanner</a></td>
-    <td>快速、准确和安全的信用卡和借记卡扫描库。</td>
-    <td>2021-04-28</td>
-    <td>112</td>
   </tr>
       
   <tr class="item">
