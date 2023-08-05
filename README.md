@@ -474,14 +474,7 @@
     <td>2022-05-07</td>
     <td>121</td>
   </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/fullscreen" rel="nofollow">fullscreen</a></td>
-    <td>可以轻松地在 Flutter 应用程序中启用全屏。实现了android平台的三种全屏模式。</td>
-    <td>2021-03-14</td>
-    <td>48</td>
-  </tr>
-
+  
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/after_layout" rel="nofollow">after_layout</a></td>
     <td>您的小部件的第一个布局完成后执行代码，即在显示第一帧之后。</td>
@@ -1246,13 +1239,6 @@
   </tr>
       
   <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/sms_user_consent" rel="nofollow">sms_user_consent</a></td>
-    <td>在不添加任何权限的情况下请求用户的电话号码（支持双卡）和/或同意阅读短信。</td>
-    <td>2021-03-15</td>
-    <td>81</td>
-  </tr>
-      
-  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/native_device_orientation" rel="nofollow">native_device_orientation</a></td>
     <td>用于允许获取本机设备方向的插件。</td>
     <td>2022-06-06</td>
@@ -1349,14 +1335,7 @@
     <td>2021-10-19</td>
     <td>394</td>
   </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/receive_sharing_intent" rel="nofollow">receive_sharing_intent</a></td>
-    <td>使 flutter 应用程序能够接收来自其他应用程序的共享照片、文本或 url。</td>
-    <td>2021-03-14</td>
-    <td>570</td>
-  </tr>
-      
+     
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/clipboard_listener" rel="nofollow">clipboard_listener</a></td>
     <td>flutter 粘贴板监听器可以监听粘贴板的变化并通过回调通知你。</td>
@@ -1377,14 +1356,7 @@
     <td>2021-11-28</td>
     <td>117</td>
   </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/flutter_device_type" rel="nofollow">flutter_device_type</a></td>
-    <td>确定 Flutter 上手持设备的类型。就像设备是平板电脑还是 iPhoneX。</td>
-    <td>2021-03-11</td>
-    <td>54</td>
-  </tr>
-      
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/watcher" rel="nofollow">watcher</a></td>
     <td>文件系统观察者。它监视目录内容的更改，并在添加、删除或修改文件时发送通知。</td>
@@ -1580,14 +1552,7 @@
     <td>2023-07-07</td>
     <td>499</td>
   </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/clipboard" rel="nofollow">clipboard</a></td>
-    <td>帮助将文本复制到剪贴板并从剪贴板粘贴。</td>
-    <td>2021-03-09</td>
-    <td>506</td>
-  </tr>
-      
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/sign_in_with_apple" rel="nofollow">sign_in_with_apple</a></td>
     <td>Flutter 启动 Apple 登录。</td>
