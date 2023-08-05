@@ -1678,13 +1678,7 @@
     <td>2023-05-15</td>
     <td>34</td>
   </tr>
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/qr_code_scanner" rel="nofollow">qr_code_scanner</a></td>
-    <td>在iOS和Android上运行的QR码扫描仪，与Flutter无缝集成，比本机Activity或ViewController进行扫描要好得多。</td>
-    <td>2022-08-15</td>
-    <td>1698</td>
-  </tr>
-
+  
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_vpn" rel="nofollow">flutter_vpn</a></td>
     <td>应用内调用 VPN 服务。</td>
