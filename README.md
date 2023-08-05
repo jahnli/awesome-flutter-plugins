@@ -2119,12 +2119,7 @@
     <td>2021-03-04</td>
     <td>533</td>
   </tr>
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/flustars">flustars</a></td>
-    <td>依赖于Dart常用工具类库。</td>
-    <td>2021-03-08</td>
-    <td>85</td>
-  </tr>
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/common_utils">common_utils</a></td>
     <td>以及对其他第三方库封装，致力于为大家分享简单易用工具类。</td>
@@ -2207,14 +2202,7 @@
     <td>2021-12-28</td>
     <td>399</td>
   </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/alphabet_list_scroll_view" rel="nofollow">alphabet_list_scroll_view</a></td>
-    <td>带有 A-Z 侧滚动条的可自定义列表视图。</td>
-    <td>2021-03-31</td>
-    <td>185</td>
-  </tr>
-      
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/horizontal_data_table" rel="nofollow">horizontal_data_table</a></td>
     <td>左侧有固定列的水平数据表。</td>
@@ -2311,13 +2299,6 @@
     <td>滚动列表，允许滚动到列表中的特定项目。</td>
     <td>2023-05-08</td>
     <td>1441</td>
-  </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/lazy_load_scrollview" rel="nofollow">lazy_load_scrollview</a></td>
-    <td>延迟加载ScrollView的包装器。</td>
-    <td>2021-03-07</td>
-    <td>380</td>
   </tr>
       
   <tr class="item">
