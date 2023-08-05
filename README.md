@@ -2328,12 +2328,7 @@
     <td>2023-05-12</td>
     <td>742</td>
   </tr>
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/infinite_listview" rel="nofollow">infinite_listview</a></td>
-    <td>具有可以在两个方向上无限滚动的项目的ListView。</td>
-    <td>2021-03-14</td>
-    <td>111</td>
-  </tr>
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/infinite_scroll_pagination" rel="nofollow">infinite_scroll_pagination</a></td>
     <td>当用户向下滚动屏幕时，懒惰地加载和显示项目页面。</td>
