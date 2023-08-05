@@ -5552,12 +5552,7 @@
     <td>2023-04-15</td>
     <td>4304</td>
   </tr>
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/charts_flutter">charts_flutter</a></td>
-    <td>Material Design图表库。</td>
-    <td>2021-11-03</td>
-    <td>1311</td>
-  </tr>
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/percent_indicator">percent_indicator</a></td>
     <td>根据百分比显示进度小部件，可以是圆形或线性的，也可以根据需要进行自定义。</td>
@@ -5823,12 +5818,7 @@
     <td>2021-03-20</td>
     <td>71</td>
   </tr>
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/fab_circular_menu">fab_circular_menu</a></td>
-    <td>使用Floating Action Button创建漂亮的圆形菜单。</td>
-    <td>2021-03-24</td>
-    <td>542</td>
-  </tr>
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/curved_navigation_bar">curved_navigation_bar</a></td>
     <td>可轻松实现弯曲的导航栏。</td>
@@ -6175,14 +6165,7 @@
     <td>2023-03-03</td>
     <td>582</td>
   </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/window_decorations" rel="nofollow">window_decorations</a></td>
-    <td>提供 Linux 主题中大部分窗口装饰的包。</td>
-    <td>2022-02-17</td>
-    <td>16</td>
-  </tr>
-      
+  
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/hotkey_manager" rel="nofollow">hotkey_manager</a></td>
     <td>允许 Flutter 桌面应用程序定义系统/应用程序范围内的热键（即快捷方式）。</td>
@@ -6224,14 +6207,7 @@
     <td>2023-02-13</td>
     <td>250</td>
   </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/desktoasts" rel="nofollow">desktoasts</a></td>
-    <td>在 Windows 上显示本机 toast 的插件。</td>
-    <td>2022-01-28</td>
-    <td>30</td>
-  </tr>
-      
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/card_swiper" rel="nofollow">card_swiper</a></td>
     <td>一个 macOS 插件，可以为全局键盘快捷键注册回调。</td>
@@ -6498,14 +6474,7 @@
     <td>2023-06-07</td>
     <td>2371</td>
   </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/tencent_im_sdk_plugin" rel="nofollow">tencent_im_sdk_plugin</a></td>
-    <td>腾讯云即时通信IM专业版原生SDK插件，包含了专业版SDK的全部功能。</td>
-    <td>2022-12-27</td>
-    <td>29</td>
-  </tr>
-      
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/nearby_connections" rel="nofollow">nearby_connections</a></td>
     <td>android NearbyConnections API 的插件。</td>
@@ -6582,14 +6551,7 @@
     <td>2021-05-31</td>
     <td>86</td>
   </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/jitsi_meet" rel="nofollow">jitsi_meet</a></td>
-    <td>用于在 Flutter 中集成开源 Jitsi Meet API 的视频会议插件。</td>
-    <td>2021-04-13</td>
-    <td>432</td>
-  </tr>
-      
+  
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/rammus" rel="nofollow">rammus</a></td>
     <td>网友开发的阿里云推送Flutter插件</td>
