@@ -6859,14 +6859,7 @@
   </tr>
   </thead>
   <tbody id="Web">
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/webview_flutter_plus" rel="nofollow">webview_flutter_plus</a></td>
-    <td>webview_flutter 的扩展，用于从资产或字符串等加载本地 HTML、CSS 和 Javascript</td>
-    <td>2022-03-05</td>
-    <td>127</td>
-  </tr>
-      
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/webview_flutter" rel="nofollow">webview_flutter</a></td>
     <td>在 Android 和 iOS 上提供 WebView 小部件的 Flutter 插件。</td>
