@@ -250,14 +250,7 @@
     <td>2022-06-15</td>
     <td>193</td>
   </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/snap_scroll_physics" rel="nofollow">snap_scroll_physics</a></td>
-    <td>允许您的滚动视图优先考虑要停止的点或不停止的区域。</td>
-    <td>2021-12-31</td>
-    <td>62</td>
-  </tr>
-      
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/purchases_flutter" rel="nofollow">purchases_flutter</a></td>
     <td>一个 Flutter 插件，可以轻松添加和管理应用内购买 (IAP) 和订阅。</td>
@@ -284,13 +277,6 @@
     <td>国际电话号码格式化程序包、信用卡/借记卡和屏蔽格式化程序</td>
     <td>2023-07-27</td>
     <td>454</td>
-  </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/adobe_xd" rel="nofollow">adobe_xd</a></td>
-    <td>使用“XD to Flutter”插件，根据您在 Adob​​e XD 中的设计生成使用 Flutter 构建应用程序的代码。</td>
-    <td>2022-01-28</td>
-    <td>342</td>
   </tr>
 
   <tr class="item">
@@ -1159,14 +1145,7 @@
     <td>2022-08-27</td>
     <td>123</td>
   </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/xiaomi_scale" rel="nofollow">xiaomi_scale</a></td>
-    <td>用于从蓝牙小米体重秤进行测量的 Flutter 插件。</td>
-    <td>2021-12-08</td>
-    <td>11</td>
-  </tr>
-      
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/secure_application" rel="nofollow">secure_application</a></td>
     <td>当用户离开应用程序时保护应用程序内容的可见性。</td>
@@ -1845,14 +1824,7 @@
     <td>2023-06-30</td>
     <td>2859</td>
   </tr>
- 
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/double_back_to_close_app">double_back_to_close_app</a></td>
-    <td>可让Android用户按下两次后退按钮以关闭应用程序。</td>
-    <td>2021-12-02</td>
-    <td>299</td>
-  </tr>
-      
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flex_color_scheme" rel="nofollow">flex_color_scheme</a></td>
     <td>制作和使用基于MaterialApp主题的精美配色方案。</td>
@@ -2049,14 +2021,6 @@
     <td>2022-07-25</td>
     <td>130</td>
   </tr>
-
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/inview_notifier_list" rel="nofollow">inview_notifier_list</a></td>
-    <td>构建列表视图并在小部件出现在屏幕上时发出通知。</td>
-    <td>2021-12-28</td>
-    <td>399</td>
-  </tr>
-
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/horizontal_data_table" rel="nofollow">horizontal_data_table</a></td>
     <td>左侧有固定列的水平数据表。</td>
@@ -2498,14 +2462,7 @@
     <td>2023-07-20</td>
     <td>202</td>
   </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/marquee_text" rel="nofollow">marquee_text</a></td>
-    <td>当孩子超过容器的宽度时自动滚动。</td>
-    <td>2021-12-05</td>
-    <td>35</td>
-  </tr>
-      
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/animated_flip_counter" rel="nofollow">animated_flip_counter</a></td>
     <td>从一个数字翻转到另一个数字的隐式动画小部件</td>
@@ -2609,14 +2566,7 @@
     <td>2023-05-17</td>
     <td>247</td>
   </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/cupertino_stepper" rel="nofollow">cupertino_stepper</a></td>
-    <td>Cupertino Stepper步骤显示进度。</td>
-    <td>2021-12-11</td>
-    <td>201</td>
-  </tr>
-      
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_fortune_wheel" rel="nofollow">flutter_fortune_wheel</a></td>
     <td>抽奖幸运轮小部件。</td>
@@ -2630,14 +2580,7 @@
     <td>2022-04-22</td>
     <td>133</td>
   </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/native_updater" rel="nofollow">native_updater</a></td>
-    <td>提示用户使用本机对话框进行更新。</td>
-    <td>2021-12-19</td>
-    <td>138</td>
-  </tr>
-      
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/passcode_screen" rel="nofollow">passcode_screen</a></td>
     <td>用于显示密码输入屏幕，类似于原生 iOS。屏幕可定制颜色、大小、字体等。</td>
@@ -2924,14 +2867,7 @@
     <td>2023-03-13</td>
     <td>39</td>
   </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/slider_button" rel="nofollow">slider_button</a></td>
-    <td>用于激活/停用某些事件的可定制滑块按钮小部件。</td>
-    <td>2021-12-24</td>
-    <td>260</td>
-  </tr>
-      
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/story_view" rel="nofollow">story_view</a></td>
     <td>像 Whatsapp 和 Instagram 一样显示故事。</td>
@@ -3008,14 +2944,7 @@
     <td>2023-07-13</td>
     <td>2302</td>
   </tr>
- 
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/feature_discovery" rel="nofollow">feature_discovery</a></td>
-    <td>向新用户显示特定功能的描述。</td>
-    <td>2021-12-05</td>
-    <td>693</td>
-  </tr>
-	  
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/step_progress_indicator" rel="nofollow">step_progress_indicator</a></td>
     <td>一系列选定和未选定步骤组成的条形指示器。</td>
@@ -3702,13 +3631,6 @@
     <td>Dart 的条码生成库，可以为任何后端生成通用绘图操作。</td>
     <td>2023-05-22</td>
     <td>397</td>
-  </tr>
-
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/scan" rel="nofollow">scan</a></td>
-    <td>使用自定义选项扫描小部件树中的二维码和条形码，从路径准确解码二维码和条形码图像。</td>
-    <td>2021-12-22</td>
-    <td>146</td>
   </tr>
 
   <tr class="item">
@@ -4567,14 +4489,7 @@
     <td>2023-07-29</td>
     <td>45</td>
   </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/shrink_sidemenu" rel="nofollow">shrink_sidemenu</a></td>
-    <td>液体收缩侧边菜单。</td>
-    <td>2021-12-23</td>
-    <td>242</td>
-  </tr>
-      
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/collapsible_sidebar" rel="nofollow">collapsible_sidebar</a></td>
     <td>用于实现 Material Design 的 Flutter 应用程序的可折叠侧边栏。</td>
@@ -4587,13 +4502,6 @@
     <td>带有 Slider Drawer Menu 自定义实现的 Flutter 包。</td>
     <td>2023-02-03</td>
     <td>376</td>
-  </tr>
-
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/hidden_drawer_menu">hidden_drawer_menu</a></td>
-    <td>带有透视动画的精美抽屉模式菜单功能的库。</td>
-    <td>2021-11-16</td>
-    <td>207</td>
   </tr>
 
   <tr class="item">
@@ -5794,14 +5702,7 @@
     <td>2023-04-24</td>
     <td>1797</td>
   </tr>
-	  
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/facebook_audience_network" rel="nofollow">facebook_audience_network<!-- a--></a></td>
-    <td>Facebook Audience Network 插件。您可以通过此插件展示 Facebook 横幅广告、插页式广告、奖励视频广告和原生广告。</td>
-    <td>2021-12-30</td>
-    <td>280</td>
-  </tr>
-	  
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_pangle_ads" rel="nofollow">flutter_pangle_ads</a></td>
     <td>一款优质的 Flutter 广告插件（字节跳动、穿山甲）</td>
