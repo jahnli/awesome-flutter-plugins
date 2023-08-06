@@ -4627,14 +4627,7 @@
     <td>2022-06-07</td>
     <td>309</td>
   </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/spring" rel="nofollow">spring</a></td>
-    <td>简单而强大的预建动画工具包，用于更快、更轻松地开发应用程序。</td>
-    <td>2021-05-10</td>
-    <td>214</td>
-  </tr>
-
+  
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/loading_indicator" rel="nofollow">loading_indicator</a></td>
     <td>加载动画的集合。开箱即用，没有额外的依赖。</td>
@@ -4984,21 +4977,6 @@
     <td>2021-06-20</td>
     <td>20</td>
   </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/cupertino_tabbar" rel="nofollow">cupertino_tabbar</a></td>
-    <td>高度可定制且简单的小部件，用于拥有 iOS 13 风格的标签栏。</td>
-    <td>2021-05-04</td>
-    <td>67</td>
-  </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/expandable_bottom_bar" rel="nofollow">expandable_bottom_bar</a></td>
-    <td>带有可扩展表的动画底部应用栏。</td>
-    <td>2021-05-26</td>
-    <td>316</td>
-  </tr>
-      
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/tab_indicator_styler" rel="nofollow">tab_indicator_styler</a></td>
     <td>将漂亮且流行的标签指示器直接添加到默认的 Flutter TabBar。</td>
