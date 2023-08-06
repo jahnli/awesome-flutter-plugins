@@ -4724,14 +4724,7 @@
     <td>2023-01-20</td>
     <td>68</td>
   </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/delayed_display" rel="nofollow">delayed_display</a></td>
-    <td>在延迟后以漂亮的淡入淡出和滑动动画显示子项。</td>
-    <td>2021-03-22</td>
-    <td>401</td>
-  </tr>
-      
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/rive" rel="nofollow">rive</a></td>
     <td>提供运行时功能，用于回放使用 Rive 编辑器构建的动画并与之交互。</td>
@@ -4754,31 +4747,10 @@
   </tr>
 
   <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/bouncing_widget" rel="nofollow">bouncing_widget</a></td>
-    <td>在小部件上添加弹跳动画。</td>
-    <td>2021-03-22</td>
-    <td>181</td>
-  </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/loading_animations" rel="nofollow">loading_animations</a></td>
-    <td>一系列简单但非常可定制的加载动画。</td>
-    <td>2021-03-09</td>
-    <td>236</td>
-  </tr>
-      
-  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/loading_indicator" rel="nofollow">loading_indicator</a></td>
     <td>加载动画的集合。开箱即用，没有额外的依赖。</td>
     <td>2023-06-25</td>
     <td>412</td>
-  </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/smooth_sort" rel="nofollow">smooth_sort</a></td>
-    <td>添加精彩和自定义排序动画的 Flutter 包。</td>
-    <td>2021-04-17</td>
-    <td>27</td>
   </tr>
       
   <tr class="item">
@@ -5061,26 +5033,14 @@
     <td>2023-05-14</td>
     <td>293</td>
   </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/animated_stack" rel="nofollow">animated_stack</a></td>
-    <td>自定义动画堆叠页面，以创建可自定义的侧边菜单按钮。</td>
-    <td>2021-04-02</td>
-    <td>204</td>
-  </tr>
-      
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_slider_drawer" rel="nofollow">flutter_slider_drawer</a></td>
     <td>带有 Slider Drawer Menu 自定义实现的 Flutter 包。</td>
     <td>2023-02-03</td>
     <td>376</td>
   </tr>
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/flutter_inner_drawer">flutter_inner_drawer</a></td>
-    <td>创建侧边抽屉。</td>
-    <td>2021-03-17</td>
-    <td>457</td>
-  </tr>
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/hidden_drawer_menu">hidden_drawer_menu</a></td>
     <td>带有透视动画的精美抽屉模式菜单功能的库。</td>
@@ -5248,13 +5208,6 @@
     <td>2023-01-28</td>
     <td>2289</td>
   </tr>
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/full_screen_menu">full_screen_menu</a></td>
-    <td>全屏菜单，为用户提供多种精美的方式。</td>
-    <td>2021-03-20</td>
-    <td>73</td>
-  </tr>
-
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/curved_navigation_bar">curved_navigation_bar</a></td>
     <td>可轻松实现弯曲的导航栏。</td>
