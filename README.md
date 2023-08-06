@@ -530,13 +530,6 @@
     <td>2023-07-26</td>
     <td>920</td>
   </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/lpinyin" rel="nofollow">lpinyin</a></td>
-    <td>汉字转换拼音库。</td>
-    <td>2021-05-11</td>
-    <td>106</td>
-  </tr>
 
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/excel" rel="nofollow">excel</a></td>
@@ -2153,14 +2146,7 @@
     <td>2022-07-25</td>
     <td>130</td>
   </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/animated_image_list" rel="nofollow">animated_image_list</a></td>
-    <td>Flutter 动画图像列表，具有视差效果和图像灯箱。</td>
-    <td>2021-05-30</td>
-    <td>83</td>
-  </tr>
-      
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/inview_notifier_list" rel="nofollow">inview_notifier_list</a></td>
     <td>构建列表视图并在小部件出现在屏幕上时发出通知。</td>
@@ -2609,14 +2595,7 @@
     <td>2023-06-19</td>
     <td>387</td>
   </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/animated_background" rel="nofollow">animated_background</a></td>
-    <td>轻松扩展以在画布上绘制想要的任何内容。</td>
-    <td>2021-05-05</td>
-    <td>237</td>
-  </tr>
-      
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/timeline_list" rel="nofollow">timeline_list</a></td>
     <td>显示可自定义的小部件时间线。</td>
@@ -2832,14 +2811,7 @@
     <td>2022-01-03</td>
     <td>107</td>
   </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/flutter_mentions" rel="nofollow">flutter_mentions</a></td>
-    <td>用于向您的应用程序添加@提及功能。</td>
-    <td>2021-05-24</td>
-    <td>147</td>
-  </tr>
-      
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/otp_text_field" rel="nofollow">otp_text_field</a></td>
     <td>在您的应用程序中创建 OTP 文本字段小部件。</td>
@@ -3077,14 +3049,7 @@
     <td>2022-02-04</td>
     <td>61</td>
   </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/painter" rel="nofollow">painter</a></td>
-    <td>一个用手指绘画的简单小部件。</td>
-    <td>2021-05-24</td>
-    <td>170</td>
-  </tr>
-      
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/card_settings" rel="nofollow">card_settings</a></td>
     <td>用于构建设置表单的Flutter包。</td>
