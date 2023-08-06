@@ -1583,12 +1583,6 @@
     <td>2023-07-07</td>
     <td>5191</td>
   </tr>
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/flutter_contact">flutter_contact</a></td>
-    <td>在Android和iOS设备上检索，创建和保存联系人以及与联系人相关的事件。</td>
-    <td>2021-10-30</td>
-    <td>59</td>
-  </tr>
 
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/app_settings">app_settings</a></td>
@@ -2540,13 +2534,6 @@
   </tr>
 
   <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/bubble_showcase" rel="nofollow">bubble_showcase</a></td>
-    <td>小巧但功能强大的 Flutter 包，可让您突出显示应用程序的特定部分，以便向用户解释它们或展示应用程序的新功能。</td>
-    <td>2021-10-05</td>
-    <td>125</td>
-  </tr>
-      
-  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/system_alert_window" rel="nofollow">system_alert_window</a></td>
     <td>用于在所有其他应用程序以及回调事件上显示 Truecaller 之类的覆盖窗口。</td>
     <td>2022-10-18</td>
@@ -2708,13 +2695,6 @@
   </tr>
 
   <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/juxtapose" rel="nofollow">juxtapose</a></td>
-    <td>用于通过拖动滑块拇指以水平或垂直显示滑块的任一侧来比较两个堆叠的小部件的小部件。</td>
-    <td>2021-10-06</td>
-    <td>88</td>
-  </tr>
-      
-  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_signin_button" rel="nofollow">flutter_signin_button</a></td>
     <td>适用于 iOS 和 Android 的 Flutter 插件，用于为不同的社交媒体帐户生成登录按钮。</td>
     <td>2021-03-31</td>
@@ -2826,13 +2806,6 @@
     <td>190</td>
   </tr>
 
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/align_positioned" rel="nofollow">align_positioned</a></td>
-    <td>它允许您以复杂的方式声明性地定位/调整其子项的大小。</td>
-    <td>2021-10-05</td>
-    <td>237</td>
-  </tr>
-      
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_advanced_switch" rel="nofollow">flutter_advanced_switch</a></td>
     <td>高级开关控件为小部件自定义提供了丰富的 API。</td>
@@ -3372,14 +3345,7 @@
     <td>2023-05-15</td>
     <td>135</td>
   </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/audio_manager" rel="nofollow">audio_manager</a></td>
-    <td>用于音乐播放的插件，包括通知处理。</td>
-    <td>2021-10-05</td>
-    <td>134</td>
-  </tr>
-      
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/dart_vlc" rel="nofollow">dart_vlc</a></td>
     <td>媒体播放、广播、录制和 chromecast 库。基于 libVLC 和 libVLC++。</td>
