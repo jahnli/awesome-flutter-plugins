@@ -5874,14 +5874,6 @@
     <td>2022-09-01</td>
     <td>13</td>
   </tr>
-
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/flutter_speech" rel="nofollow">flutter_speech</a></td>
-    <td>Flutter 插件支持 Android、iOS 和 Mac OSX 上的语音识别。</td>
-    <td>2021-04-25</td>
-    <td>48</td>
-  </tr>
-      
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/android_alarm_manager_plus" rel="nofollow">android_alarm_manager_plus</a></td>
     <td>用于访问 Android AlarmManager 服务，并在警报触发时在后台运行 Dart 代码。</td>
