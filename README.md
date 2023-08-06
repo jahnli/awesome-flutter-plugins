@@ -11,7 +11,7 @@
 
 <br>
 
-<h3 id="count">收录 927 个</h3>   
+<h3 id="count">收录 763 个</h3>   
 
 <br>	
 <div class="changeLog">
@@ -687,7 +687,7 @@
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/alarm" rel="nofollow">alarm</a></td>
     <td>用于在 iOS 和 Android 设备上设置和取消闹钟</td>
-    <td>2023-08-04</td>
+    <td>2023-08-05</td>
     <td>121</td>
   </tr>
       
@@ -2335,7 +2335,7 @@
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/rounded_background_text" rel="nofollow">rounded_background_text</a></td>
     <td>用圆角突出显示的文本和文本字段</td>
-    <td>2022-08-03</td>
+    <td>2023-08-05</td>
     <td>31</td>
   </tr>
       
@@ -4161,8 +4161,8 @@
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/rive" rel="nofollow">rive</a></td>
     <td>提供运行时功能，用于回放使用 Rive 编辑器构建的动画并与之交互。</td>
-    <td>2023-08-02</td>
-    <td>1327</td>
+    <td>2023-08-05</td>
+    <td>1329</td>
   </tr>
       
   <tr class="item">
@@ -5665,6 +5665,7 @@
 
 
 </div>
+
 
 
 
