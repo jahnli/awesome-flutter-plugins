@@ -16,6 +16,48 @@
 <br>	
 <div class="changeLog">
 
+<div class="changeLogItem 09-13">
+      <h3>09-13</h3>
+      <ul>
+        <li><a href="https://pub.flutter-io.cn/packages/media_kit">media_kit</a> - 适用于 Flutter 和 Dart 的跨平台视频播放器和音频播放器</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/skeletonizer">skeletonizer</a> - 无需额外的努力即可将已构建的小部件转换为骨架加载器</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/info_popup">info_popup</a> - 用户显示有关所选小部件</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/magnifying_glass">magnifying_glass</a> - 具有实时放大镜镜头小部件</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/headset_connection_event">headset_connection_event</a> - 用于耳机事件的 Flutter 插件</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/wakelock_plus">wakelock_plus</a> - 保持设备屏幕唤醒，即防止屏幕在 Android、iOS、macOS、Windows、Linux 和 Web 上休眠</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/weather_animation">weather_animation</a> - 包含美丽的天气动画。使用天气配置器轻松设置</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/wolt_modal_sheet">wolt_modal_sheet</a> - 提供了具有多个页面的响应模式、页面转换的运动动画以及每个页面内的可滚动内容弹出框</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/focus_detector_v2">focus_detector_v2</a> - 检测您的小部件何时出现或从屏幕上消失</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/appinio_social_share">appinio_social_share</a> - 支持将文本、图像、文件和带图像的文本共享到社交媒体</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/hue_rotation">hue_rotation</a> - 更改任何具有颜色的小部件的颜色</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/google_vision">google_vision</a> - 允许您将 Google Visions 图像标签、人脸、徽标和地标检测、OCR 以及显式内容检测添加到应用程序中</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/pytorch_lite">pytorch_lite</a> - 帮助运行 pytorch lite 模型分类以及 yolov5 和 yolov8</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_azure_tts">flutter_azure_tts</a> - Microsoft Azure 认知文本转语音</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/google_mlkit_translation">google_mlkit_translation</a> - 可使用 Google 的 ML Kit 设备上翻译在 50 多种语言之间动态翻译文本</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/google_mlkit_barcode_scanning">google_mlkit_barcode_scanning</a> - 使用 Google 的 ML Kit 条形码扫描来读取使用大多数标准条形码格式编码的数据</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/google_mlkit_image_labeling">google_mlkit_image_labeling</a> - 使用 Google 的 ML Kit 图像标签来检测和提取有关图像中跨广泛类别的实体的信息</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/google_mlkit_pose_detection">google_mlkit_pose_detection</a> - 使用 Google 的 ML Kit 姿势检测从连续视频或静态图像中实时检测主体身体的姿势</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/google_mlkit_face_mesh_detection">google_mlkit_face_mesh_detection</a> - 使用 Google 的 ML Kit 面部网格检测的 Flutter 插件</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/google_mlkit_text_recognition">google_mlkit_text_recognition</a> - 使用 Google 的 ML Kit 文本识别来识别任何中文、梵文、日语、韩语和拉丁字符集的文本</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/google_mlkit_selfie_segmentation">google_mlkit_selfie_segmentation</a> - 使用 Google 的 ML Kit Selfie Segmentation API 轻松将场景中的背景与用户分开，并专注于重要的事情</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/google_mlkit_language_id">google_mlkit_language_id</a> - 使用 Google 的 ML Kit 语言识别来确定文本字符串的语言</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/google_mlkit_smart_reply">google_mlkit_smart_reply</a> - 使用 Google 的 ML Kit 智能回复 API 自动生成消息的相关回复</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/google_mlkit_entity_extraction">google_mlkit_entity_extraction</a> - 使用 Google 的 ML Kit 实体提取器 API 来识别静态文本中的特定实体</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/google_mlkit_digital_ink_recognition">google_mlkit_digital_ink_recognition</a> - 使用 Google 的 ML Kit 数字墨水识别来识别数字表面上数百种语言的手写文本，并对草图进行分类</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/google_mlkit_object_detection">google_mlkit_object_detection</a> - 使用 Google 的 ML Kit 对象检测和跟踪来检测和跟踪图像或实时摄像头源中的对象</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_floating">flutter_floating</a> - 权限悬浮窗口，支持全局、单页面悬浮、支持边界吸附</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/dash_bubble">dash_bubble</a> - 在屏幕上创建浮动气泡</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/win_toast">win_toast</a> - 允许用户在 Windows 操作系统上的通知中心创建和显示 toast 通知</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/tencent_cloud_chat_sdk">tencent_cloud_chat_sdk</a> - 腾讯云聊天SDK</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/tencent_trtc_cloud">tencent_trtc_cloud</a> - 通过TRTC，您可以快速开发高性价比、低时延、高品质的交互式音视频服务</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/material_table_view">material_table_view</a> - 水平和垂直可滚动的材料样式表格小部件</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/ali_auth">ali_auth</a> - 阿里云号码认证服务中一键登录的插件</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/appinio_video_player">appinio_video_player</a> - 自定义视频播放器</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/audio_video_progress_bar">audio_video_progress_bar</a> - 音频视频进度条</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/deepar_flutter">deepar_flutter</a> - DeepAR 官方 Flutter SDK</li>  
+      </ul> 
+</div>
+
 <div class="changeLogItem 07-02">
       <h3>07-02</h3>
       <ul>
@@ -24,13 +66,7 @@
       </ul> 
 </div>
 
-<div class="changeLogItem 06-05">
-      <h3>06-05</h3>
-      <ul>
-        <li><a href="https://pub.flutter-io.cn/packages/alipay_kit">alipay_kit</a> - 允许开发人员使用 natvie Android 和 iOS 支付宝 SDK 进行授权/支付</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/tencent_kit">tencent_kit</a> - 允许开发者使用 natvie Android 和 iOS 腾讯 SDK 进行授权/共享</li>  
-      </ul> 
-</div>
+
 
 
 
@@ -89,6 +125,13 @@
   </tr>
   </thead>
   <tbody id="插件">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/focus_detector_v2" rel="nofollow">focus_detector_v2</a></td>
+    <td>检测您的小部件何时出现或从屏幕上消失</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
 
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/hashlib" rel="nofollow">hashlib</a></td>
@@ -656,6 +699,34 @@
   </tr>
   </thead>
   <tbody id="设备">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/headset_connection_event" rel="nofollow">headset_connection_event</a></td>
+    <td>用于耳机事件的 Flutter 插件</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/wakelock_plus" rel="nofollow">wakelock_plus</a></td>
+    <td>保持设备屏幕唤醒，即防止屏幕在 Android、iOS、macOS、Windows、Linux 和 Web 上休眠</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_floating" rel="nofollow">flutter_floating</a></td>
+    <td>权限悬浮窗口，支持全局、单页面悬浮、支持边界吸附</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/dash_bubble" rel="nofollow">dash_bubble</a></td>
+    <td>在屏幕上创建浮动气泡</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/file_preview" rel="nofollow">file_preview</a></td>
@@ -1956,6 +2027,13 @@
   <tbody id="列表">
       
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/material_table_view" rel="nofollow">material_table_view</a></td>
+    <td>水平和垂直可滚动的材料样式表格小部件</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/davi" rel="nofollow">davi</a></td>
     <td>按需构建单元格的完全自定义数据视图,专注于 Web/桌面应用程序</td>
     <td>2023-05-19</td>
@@ -2199,6 +2277,41 @@
   </tr>
   </thead>
   <tbody id="UI">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/skeletonizer" rel="nofollow">skeletonizer</a></td>
+    <td>无需额外的努力即可将已构建的小部件转换为骨架加载器</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/info_popup" rel="nofollow">info_popup</a></td>
+    <td>用户显示有关所选小部件</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/magnifying_glass" rel="nofollow">magnifying_glass</a></td>
+    <td>具有实时放大镜镜头小部件</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/appinio_social_share" rel="nofollow">appinio_social_share</a></td>
+    <td>支持将文本、图像、文件和带图像的文本共享到社交媒体</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/hue_rotation" rel="nofollow">hue_rotation</a></td>
+    <td>更改任何具有颜色的小部件的颜色</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/squares" rel="nofollow">squares</a></td>
@@ -3116,6 +3229,27 @@
   </tr>
   </thead>
   <tbody id="音视频">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/media_kit" rel="nofollow">media_kit</a></td>
+    <td>适用于 Flutter 和 Dart 的跨平台视频播放器和音频播放器</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/appinio_video_player" rel="nofollow">appinio_video_player</a></td>
+    <td>自定义视频播放器</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/audio_video_progress_bar" rel="nofollow">audio_video_progress_bar</a></td>
+    <td>音频视频进度条</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/vr_player" rel="nofollow">vr_player</a></td>
@@ -4048,6 +4182,13 @@
   <tbody id="动画">
       
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/weather_animation" rel="nofollow">weather_animation</a></td>
+    <td>包含美丽的天气动画。使用天气配置器轻松设置</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/zerker" rel="nofollow">zerker</a></td>
     <td>灵活轻便的 flutter canvas 图形动画库</td>
     <td>2023-08-02</td>
@@ -4573,6 +4714,13 @@
   <tbody id="对话框">
       
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/wolt_modal_sheet" rel="nofollow">wolt_modal_sheet</a></td>
+    <td>提供了具有多个页面的响应模式、页面转换的运动动画以及每个页面内的可滚动内容弹出框</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_smart_dialog" rel="nofollow">flutter_smart_dialog</a></td>
     <td>优雅的 Flutter Dialog 解决方案，轻松实现 Toast、Loading 和自定义 Dialog。</td>
     <td>2023-07-14</td>
@@ -4714,6 +4862,13 @@
   </tr>
   </thead>
   <tbody id="跨平台">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/win_toast" rel="nofollow">win_toast</a></td>
+    <td>允许用户在 Windows 操作系统上的通知中心创建和显示 toast 通知</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/webview_windows" rel="nofollow">webview_windows</a></td>
@@ -4890,6 +5045,27 @@
   </tr>
   </thead>
   <tbody id="通讯">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/tencent_cloud_chat_sdk" rel="nofollow">tencent_cloud_chat_sdk</a></td>
+    <td>腾讯云聊天SDK</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/tencent_trtc_cloud" rel="nofollow">tencent_trtc_cloud</a></td>
+    <td>通过TRTC，您可以快速开发高性价比、低时延、高品质的交互式音视频服务</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/ali_auth" rel="nofollow">ali_auth</a></td>
+    <td>阿里云号码认证服务中一键登录的插件</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/alipay_kit" rel="nofollow">alipay_kit</a></td>
@@ -5322,6 +5498,118 @@
   </thead>
   <tbody id="AI">
       
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/google_vision" rel="nofollow">google_vision</a></td>
+    <td>允许您将 Google Visions 图像标签、人脸、徽标和地标检测、OCR 以及显式内容检测添加到应用程序中</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/pytorch_lite" rel="nofollow">pytorch_lite</a></td>
+    <td>帮助运行 pytorch lite 模型分类以及 yolov5 和 yolov8</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_azure_tts" rel="nofollow">flutter_azure_tts</a></td>
+    <td>Microsoft Azure 认知文本转语音</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/google_mlkit_translation" rel="nofollow">google_mlkit_translation</a></td>
+    <td>可使用 Google 的 ML Kit 设备上翻译在 50 多种语言之间动态翻译文本</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/google_mlkit_barcode_scanning" rel="nofollow">google_mlkit_barcode_scanning</a></td>
+    <td>使用 Google 的 ML Kit 条形码扫描来读取使用大多数标准条形码格式编码的数据</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/google_mlkit_image_labeling" rel="nofollow">google_mlkit_image_labeling</a></td>
+    <td>使用 Google 的 ML Kit 图像标签来检测和提取有关图像中跨广泛类别的实体的信息</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/google_mlkit_pose_detection" rel="nofollow">google_mlkit_pose_detection</a></td>
+    <td>使用 Google 的 ML Kit 姿势检测从连续视频或静态图像中实时检测主体身体的姿势</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/google_mlkit_face_mesh_detection" rel="nofollow">google_mlkit_face_mesh_detection</a></td>
+    <td>使用 Google 的 ML Kit 面部网格检测的 Flutter 插件</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/google_mlkit_text_recognition" rel="nofollow">google_mlkit_text_recognition</a></td>
+    <td>使用 Google 的 ML Kit 文本识别来识别任何中文、梵文、日语、韩语和拉丁字符集的文本</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/google_mlkit_selfie_segmentation" rel="nofollow">google_mlkit_selfie_segmentation</a></td>
+    <td>使用 Google 的 ML Kit Selfie Segmentation API 轻松将场景中的背景与用户分开，并专注于重要的事情</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/google_mlkit_language_id" rel="nofollow">google_mlkit_language_id</a></td>
+    <td>使用 Google 的 ML Kit 语言识别来确定文本字符串的语言</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/google_mlkit_smart_reply" rel="nofollow">google_mlkit_smart_reply</a></td>
+    <td>使用 Google 的 ML Kit 智能回复 API 自动生成消息的相关回复</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/google_mlkit_entity_extraction" rel="nofollow">google_mlkit_entity_extraction</a></td>
+    <td>使用 Google 的 ML Kit 实体提取器 API 来识别静态文本中的特定实体</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/google_mlkit_digital_ink_recognition" rel="nofollow">google_mlkit_digital_ink_recognition</a></td>
+    <td>使用 Google 的 ML Kit 数字墨水识别来识别数字表面上数百种语言的手写文本，并对草图进行分类</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/google_mlkit_object_detection" rel="nofollow">google_mlkit_object_detection</a></td>
+    <td>使用 Google 的 ML Kit 对象检测和跟踪来检测和跟踪图像或实时摄像头源中的对象</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/deepar_flutter" rel="nofollow">deepar_flutter</a></td>
+    <td>DeepAR 官方 Flutter SDK</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/huawei_ml_body" rel="nofollow">huawei_ml_body</a></td>
@@ -5691,6 +5979,7 @@
 
 
 </div>
+
 
 
 
