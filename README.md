@@ -64,6 +64,7 @@
 	<li><a href="#对话框-title">对话框 / 底部弹片 / Toast</a></li>
 	<li><a href="#跨平台-title">Windows / Linux / Mac</a></li>
 	<li><a href="#通讯-title">通讯</a></li>
+	<li><a href="#AI-title">AI</a></li>
 	<li><a href="#地图-title">地图</a></li>
         <li><a href="#广告-title">广告</a></li>
 	<li><a href="#Web-title">Web</a></li>
@@ -4903,27 +4904,7 @@
     <td>2023-06-06</td>
     <td>24</td>
   </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/dart_openai" rel="nofollow">dart_openai</a></td>
-    <td>适用于 openAI Apis（GPT-3 和 DALL-E）的 Dart SDK，可以轻松地将 OpenAI 最先进的 AI 模型的强大功能集成到他们的 Dart 应用程序中</td>
-    <td>2023-07-24</td>
-    <td>241</td>
-  </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/sitesurface_flutter_openai" rel="nofollow">sitesurface_flutter_openai</a></td>
-    <td>允许将 OpenAI 的 API 服务集成到您的 Flutter 应用程序中，可以向 OpenAI 的语言模型发出请求、检索完成和摘要等</td>
-    <td>2023-01-08</td>
-    <td>23</td>
-  </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/chat_gpt_api" rel="nofollow">chat_gpt_api</a></td>
-    <td>用 dart 编写的 chatGPT SDK，用于访问 OpenAI API 的功能</td>
-    <td>2023-02-02</td>
-    <td>27</td>
-  </tr>
+
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/televerse" rel="nofollow">televerse</a></td>
@@ -4931,20 +4912,7 @@
     <td>2023-07-29</td>
     <td>29</td>
   </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/chat_gpt_sdk" rel="nofollow">chat_gpt_sdk</a></td>
-    <td>使用 ChatGPT SDK 创建聊天机器人和其他机器人</td>
-    <td>2023-07-29</td>
-    <td>192</td>
-  </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/flutter_chatgpt_api" rel="nofollow">flutter_chatgpt_api</a></td>
-    <td>围绕 ChatGPT 的 Flutter/Dart API，用于非官方的 ChatGPT API</td>
-    <td>2022-12-12</td>
-    <td>90</td>
-  </tr>
+
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/tencent_calls_uikit" rel="nofollow">tencent_calls_uikit</a></td>
@@ -4959,28 +4927,7 @@
     <td>2023-07-28</td>
     <td>89</td>
   </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/huawei_ml_image" rel="nofollow">huawei_ml_image</a></td>
-    <td>华为机器学习套件 Flutter 语言插件。提供图像分类、物体检测和图像超分辨率等功能</td>
-    <td>2022-12-12</td>
-    <td>5</td>
-  </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/huawei_ml_body" rel="nofollow">huawei_ml_body</a></td>
-    <td>Flutter 的 HUAWEI ML Kit Body 插件。提供人脸识别、活体和骨骼检测等功能。</td>
-    <td>2022-10-31</td>
-    <td>10</td>
-  </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/huawei_ml_text" rel="nofollow">huawei_ml_text</a></td>
-    <td>Flutter 的 HUAWEI ML Kit 文本插件。提供文本、文档、身份证、银行卡、通用卡和表单识别等功能</td>
-    <td>2022-10-31</td>
-    <td>8</td>
-  </tr>
-      
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/huawei_modeling3d" rel="nofollow">huawei_modeling3d</a></td>
     <td>实现了华为3D建模SDK与Flutter平台的通信</td>
@@ -5357,6 +5304,85 @@
   </tbody>
 </table>
 <br>
+
+<blockquote>
+  <h3 id="AI-title">AI</h3>
+</blockquote>
+
+<br>
+
+<table>
+  <thead>
+  <tr>
+    <th>依赖</th>
+    <th>描述</th>
+    <th>更新时间</th>
+    <th>likes</th>
+  </tr>
+  </thead>
+  <tbody id="AI">
+      
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/huawei_ml_body" rel="nofollow">huawei_ml_body</a></td>
+    <td>Flutter 的 HUAWEI ML Kit Body 插件。提供人脸识别、活体和骨骼检测等功能。</td>
+    <td>2022-10-31</td>
+    <td>10</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/huawei_ml_text" rel="nofollow">huawei_ml_text</a></td>
+    <td>Flutter 的 HUAWEI ML Kit 文本插件。提供文本、文档、身份证、银行卡、通用卡和表单识别等功能</td>
+    <td>2022-10-31</td>
+    <td>8</td>
+  </tr>
+            
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/huawei_ml_image" rel="nofollow">huawei_ml_image</a></td>
+    <td>华为机器学习套件 Flutter 语言插件。提供图像分类、物体检测和图像超分辨率等功能</td>
+    <td>2022-12-12</td>
+    <td>5</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/chat_gpt_sdk" rel="nofollow">chat_gpt_sdk</a></td>
+    <td>使用 ChatGPT SDK 创建聊天机器人和其他机器人</td>
+    <td>2023-07-29</td>
+    <td>192</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_chatgpt_api" rel="nofollow">flutter_chatgpt_api</a></td>
+    <td>围绕 ChatGPT 的 Flutter/Dart API，用于非官方的 ChatGPT API</td>
+    <td>2022-12-12</td>
+    <td>90</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/dart_openai" rel="nofollow">dart_openai</a></td>
+    <td>适用于 openAI Apis（GPT-3 和 DALL-E）的 Dart SDK，可以轻松地将 OpenAI 最先进的 AI 模型的强大功能集成到他们的 Dart 应用程序中</td>
+    <td>2023-07-24</td>
+    <td>241</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/sitesurface_flutter_openai" rel="nofollow">sitesurface_flutter_openai</a></td>
+    <td>允许将 OpenAI 的 API 服务集成到您的 Flutter 应用程序中，可以向 OpenAI 的语言模型发出请求、检索完成和摘要等</td>
+    <td>2023-01-08</td>
+    <td>23</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/chat_gpt_api" rel="nofollow">chat_gpt_api</a></td>
+    <td>用 dart 编写的 chatGPT SDK，用于访问 OpenAI API 的功能</td>
+    <td>2023-02-02</td>
+    <td>27</td>
+  </tr>
+
+  </tbody>
+</table>
+<br>
+
 
 <blockquote>
   <h3 id="地图-title">地图</h3>
