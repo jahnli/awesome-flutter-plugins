@@ -3555,13 +3555,6 @@
   </tr>
       
   <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/deepar_flutter" rel="nofollow">deepar_flutter</a></td>
-    <td>DeepAR的官方 SDK</td>
-    <td>2023-01-29</td>
-    <td>28</td>
-  </tr>
-      
-  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/image_compare_slider" rel="nofollow">image_compare_slider</a></td>
     <td>使用滑块和可拖动的线/手柄轻松比较两个图像</td>
     <td>2023-08-02</td>
