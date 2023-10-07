@@ -1211,13 +1211,6 @@
     <td>2023-03-20</td>
     <td>432</td>
   </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/tray_manager" rel="nofollow">tray_manager</a></td>
-    <td>允许 Flutter 桌面应用定义系统托盘。</td>
-    <td>2022-08-27</td>
-    <td>127</td>
-  </tr>
 
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/secure_application" rel="nofollow">secure_application</a></td>
@@ -4910,6 +4903,13 @@
     <td>允许用户在 Windows 操作系统上的通知中心创建和显示 toast 通知</td>
     <td>2022-12-09</td>
     <td>28</td>
+  </tr>
+
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/tray_manager" rel="nofollow">tray_manager</a></td>
+    <td>允许 Flutter 桌面应用定义系统托盘。</td>
+    <td>2022-08-27</td>
+    <td>127</td>
   </tr>
       
   <tr class="item">
