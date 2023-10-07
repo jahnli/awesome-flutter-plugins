@@ -17,6 +17,17 @@
 <br>	
 <div class="changeLog">
 
+<div class="changeLogItem 10-07">
+      <h3>10-07</h3>
+      <ul>
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_tilt">flutter_tilt</a> - 为 Flutter 应用倾斜视差悬停效果，支持倾斜、灯光、阴影效果、陀螺仪传感器</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_deck">flutter_deck</a> - 创建演示文稿</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/edit_calendar_event_view">edit_calendar_event_view</a> - 打开本机编辑日历事件视图</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/path_animation">path_animation</a> - 轻松地为小部件穿过路径设置动画</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_soloud">flutter_soloud</a> - 使用 SoLoud 库和 FFI 的 Flutter 音频插件</li>  
+      </ul> 
+</div>
+
 <div class="changeLogItem 09-13">
       <h3>09-13</h3>
       <ul>
@@ -59,13 +70,7 @@
       </ul> 
 </div>
 
-<div class="changeLogItem 07-02">
-      <h3>07-02</h3>
-      <ul>
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_scalable_ocr">flutter_scalable_ocr</a> - Google ML 套件文本识别的包装器</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/deepar_flutter">deepar_flutter</a> - DeepAR的官方 SDK</li>  
-      </ul> 
-</div>
+
 
 
 
@@ -126,6 +131,20 @@
   </tr>
   </thead>
   <tbody id="插件">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_deck" rel="nofollow">flutter_deck</a></td>
+    <td>创建演示文稿</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/edit_calendar_event_view" rel="nofollow">edit_calendar_event_view</a></td>
+    <td>打开本机编辑日历事件视图</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/focus_detector_v2" rel="nofollow">focus_detector_v2</a></td>
@@ -3232,6 +3251,13 @@
   <tbody id="音视频">
       
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_soloud" rel="nofollow">flutter_soloud</a></td>
+    <td>使用 SoLoud 库和 FFI 的 Flutter 音频插件</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/media_kit" rel="nofollow">media_kit</a></td>
     <td>适用于 Flutter 和 Dart 的跨平台视频播放器和音频播放器</td>
     <td>2023-08-26</td>
@@ -4174,6 +4200,20 @@
   </tr>
   </thead>
   <tbody id="动画">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_tilt" rel="nofollow">flutter_tilt</a></td>
+    <td>为 Flutter 应用倾斜视差悬停效果，支持倾斜、灯光、阴影效果、陀螺仪传感器</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/path_animation" rel="nofollow">path_animation</a></td>
+    <td>轻松地为小部件穿过路径设置动画</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/weather_animation" rel="nofollow">weather_animation</a></td>
@@ -5973,6 +6013,7 @@
 
 
 </div>
+
 
 
 
