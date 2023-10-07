@@ -20,6 +20,7 @@
 <div class="changeLogItem 10-07">
       <h3>10-07</h3>
       <ul>
+        <li><a href="https://pub.flutter-io.cn/packages/share_handler">share_handler</a> - 用于处理传入的共享文本/媒体，以及添加共享到建议/快捷方式</li>
         <li><a href="https://pub.flutter-io.cn/packages/flutter_tilt">flutter_tilt</a> - 为 Flutter 应用倾斜视差悬停效果，支持倾斜、灯光、阴影效果、陀螺仪传感器</li>  
         <li><a href="https://pub.flutter-io.cn/packages/flutter_deck">flutter_deck</a> - 创建演示文稿</li>  
         <li><a href="https://pub.flutter-io.cn/packages/edit_calendar_event_view">edit_calendar_event_view</a> - 打开本机编辑日历事件视图</li>  
@@ -131,6 +132,13 @@
   </tr>
   </thead>
   <tbody id="插件">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/share_handler" rel="nofollow">share_handler</a></td>
+    <td>用于处理传入的共享文本/媒体，以及添加共享到建议/快捷方式</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_deck" rel="nofollow">flutter_deck</a></td>
