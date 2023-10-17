@@ -341,13 +341,6 @@
   </tr>
 
   <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/change_app_package_name" rel="nofollow">change_app_package_name</a></td>
-    <td>使用单个命令更改应用程序包名称。更新 AndroidManifest、build.gradle、MainActivity 文件并自动将 MainActivity 文件移动到新的目录结构。</td>
-    <td>2022-05-29</td>
-    <td>1211</td>
-  </tr>
-      
-  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/forge2d" rel="nofollow">forge2d</a></td>
     <td>Dart 的 2D 物理引擎，也适用于 Flutter 中的 Flame 游戏引擎。</td>
     <td>2022-04-11</td>
