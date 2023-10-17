@@ -506,14 +506,7 @@
     <td>2023-06-22</td>
     <td>368</td>
   </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/translator" rel="nofollow">translator</a></td>
-    <td>用于 Dart 的免费且无限制的 Google 翻译 API。</td>
-    <td>2021-04-18</td>
-    <td>572</td>
-  </tr>
-      
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/archive" rel="nofollow">archive</a></td>
     <td>为各种存档和压缩格式（例如 zip、tar、bzip2、gzip 和 zlib）提供编码器和解码器。</td>
@@ -5387,7 +5380,14 @@
     <td>2021-11-05</td>
     <td>6</td>
   </tr>
-
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/translator" rel="nofollow">translator</a></td>
+    <td>用于 Dart 的免费且无限制的 Google 翻译 API。</td>
+    <td>2021-04-18</td>
+    <td>572</td>
+  </tr>
+      
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_bugly" rel="nofollow">flutter_bugly</a></td>
     <td>用于腾讯Bugly，崩溃监控，崩溃分析，异常报告，应用程序更新，数据统计等。</td>
