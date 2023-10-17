@@ -539,13 +539,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/flutter_native_splash">flutter_native_splash</a></td><td>生成本机代码以使用背景颜色和初始图像来自定义Flutter的默认白色本机初始屏幕。支持暗模式，全屏等。</td>
     <td>2023-10-02</td><td>6555</td>
   </tr>   
-  
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/tflite_flutter">tflite_flutter</a></td>
-    <td>TensorFlow Lite Flutter插件提供了轻松，灵活和快速的Dart API，可将TFLite模型集成到Flutter应用中。</td>
-    <td>2023-09-27</td>
-    <td>486</td>
-  </tr>
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_treeview">flutter_treeview</a></td>
     <td>用于显示嵌套的分层数据。</td>
@@ -5516,7 +5510,14 @@
     <td>2023-08-04</td>
     <td>29</td>
   </tr>
-      
+        
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/tflite_flutter">tflite_flutter</a></td>
+    <td>TensorFlow Lite Flutter插件提供了轻松，灵活和快速的Dart API，可将TFLite模型集成到Flutter应用中。</td>
+    <td>2023-09-27</td>
+    <td>486</td>
+  </tr>
+  
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/google_mlkit_face_mesh_detection" rel="nofollow">google_mlkit_face_mesh_detection</a></td>
     <td>使用 Google 的 ML Kit 面部网格检测的 Flutter 插件</td>
