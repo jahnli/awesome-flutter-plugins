@@ -355,13 +355,6 @@
   </tr>
 
   <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/easy_localization" rel="nofollow">easy_localization</a></td>
-    <td>轻松快速地国际化和本地化您的 Flutter 应用程序，这个包简化了国际化过程。</td>
-    <td>2023-09-01</td>
-    <td>2317</td>
-  </tr>
-      
-  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/xterm" rel="nofollow">xterm</a></td>
     <td>一个快速且功能齐全的 Flutter 应用程序终端模拟器。</td>
     <td>2023-04-20</td>
@@ -1725,6 +1718,13 @@
     <td>Dart 的崩溃报告库，可将崩溃报告发送到 Sentry.io。</td>
     <td>2023-09-13</td>
     <td>416</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/easy_localization" rel="nofollow">easy_localization</a></td>
+    <td>轻松快速地国际化和本地化您的 Flutter 应用程序，这个包简化了国际化过程。</td>
+    <td>2023-09-01</td>
+    <td>2317</td>
   </tr>
       
   <tr class="item">
