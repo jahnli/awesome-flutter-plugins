@@ -594,12 +594,7 @@
     <td>2023-09-22</td>
     <td>1559</td>
   </tr>
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/logger">logger</a></td>
-    <td>小型，易于使用且可扩展的记录器，可打印精美的日志。</td>
-    <td>2023-09-23</td>
-    <td>2506</td>
-  </tr>
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/touchable">touchable</a></td>
     <td>为CustomPainter中在画布上绘制的每个Shape添加各种手势回调。</td>
@@ -1706,7 +1701,14 @@
     <td>2023-09-01</td>
     <td>2317</td>
   </tr>
-      
+  
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/logger">logger</a></td>
+    <td>小型，易于使用且可扩展的记录器，可打印精美的日志。</td>
+    <td>2023-09-23</td>
+    <td>2506</td>
+  </tr>
+  
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/firebase_crashlytics" rel="nofollow">firebase_crashlytics</a></td>
     <td>Firebase Crashlytics 的 插件，它向 Firebase 控制台报告未捕获的错误。</td>
