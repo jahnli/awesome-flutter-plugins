@@ -378,13 +378,6 @@
     <td>2021-03-26</td>
     <td>387</td>
   </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/google_ml_kit" rel="nofollow">google_ml_kit</a></td>
-    <td>用于实现谷歌为移动平台制作的独立机器学习套件。</td>
-    <td>2023-08-04</td>
-    <td>787</td>
-  </tr>
 
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/change_app_package_name" rel="nofollow">change_app_package_name</a></td>
@@ -5645,7 +5638,14 @@
     <td>28</td>
   </tr>
       
-      
+            
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/google_ml_kit" rel="nofollow">google_ml_kit</a></td>
+    <td>用于实现谷歌为移动平台制作的独立机器学习套件。</td>
+    <td>2023-08-04</td>
+    <td>787</td>
+  </tr>
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/huawei_ml_body" rel="nofollow">huawei_ml_body</a></td>
     <td>Flutter 的 HUAWEI ML Kit Body 插件。提供人脸识别、活体和骨骼检测等功能。</td>
