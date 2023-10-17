@@ -1699,6 +1699,13 @@
   </tr>
 
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_floatwing" rel="nofollow">flutter_floatwing</a></td>
+    <td>为 Android 制作浮动/覆盖窗口</td>
+    <td>2022-07-11</td>
+    <td>63</td>
+  </tr>
+      
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/camera">camera</a></td>
     <td>获取有关和控制Android和iOS上的相机的信息。支持预览摄像头，捕获图像，捕获视频。</td>
     <td>2023-09-29</td>
@@ -2412,13 +2419,6 @@
     <td>265</td>
   </tr>
 
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/flutter_floatwing" rel="nofollow">flutter_floatwing</a></td>
-    <td>为 Android 制作浮动/覆盖窗口</td>
-    <td>2022-07-11</td>
-    <td>63</td>
-  </tr>
-      
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/advstory" rel="nofollow">advstory</a></td>
     <td>先进的，完整的故事查看器。支持图像、视频、自定义小部件内容、手势、拦截器、侦听器、操纵器等</td>
