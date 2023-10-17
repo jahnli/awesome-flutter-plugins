@@ -482,14 +482,7 @@
     <td>2022-11-13</td>
     <td>401</td>
   </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/scanbot_sdk" rel="nofollow">scanbot_sdk</a></td>
-    <td>适用于 Android 和 iOS 的 Scanbot Scanner SDK 的 Flutter 插件。提供文档扫描、QR 和条形码扫描、PDF 创建、TIFF、OCR 等功能。</td>
-    <td>2023-10-04</td>
-    <td>74</td>
-  </tr>
-      
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_archive" rel="nofollow">flutter_archive</a></td>
     <td>在 Android、iOS 和 macOS 中创建和提取 ZIP 存档文件。递归压缩目录或给定文件列表中的所有文件。</td>
@@ -5666,7 +5659,14 @@
     <td>2022-10-31</td>
     <td>8</td>
   </tr>
-            
+                  
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/scanbot_sdk" rel="nofollow">scanbot_sdk</a></td>
+    <td>适用于 Android 和 iOS 的 Scanbot Scanner SDK 的 Flutter 插件。提供文档扫描、QR 和条形码扫描、PDF 创建、TIFF、OCR 等功能。</td>
+    <td>2023-10-04</td>
+    <td>74</td>
+  </tr>
+      
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/huawei_ml_image" rel="nofollow">huawei_ml_image</a></td>
     <td>华为机器学习套件 Flutter 语言插件。提供图像分类、物体检测和图像超分辨率等功能</td>
@@ -6010,30 +6010,7 @@
 
   </tbody>
 </table>
-
-
-
-
-
-
-
-
-
-
 </div>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</body></html>
+</body>
+</html>
