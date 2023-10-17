@@ -2006,12 +2006,6 @@
     <td>543</td>
   </tr>
 
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/jiffy">jiffy</a></td>
-    <td>一个受moment.js启发的程序包，用于解析，处理和格式化日期。</td>
-    <td>2023-06-03</td>
-    <td>770</td>
-  </tr>
   </tbody>
 </table>
 <br>
@@ -3991,7 +3985,14 @@
     <td>2023-08-22</td>
     <td>221</td>
   </tr>
-      
+    
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/jiffy">jiffy</a></td>
+    <td>一个受moment.js启发的程序包，用于解析，处理和格式化日期。</td>
+    <td>2023-06-03</td>
+    <td>770</td>
+  </tr>  
+  
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/moment_dart" rel="nofollow">moment_dart</a></td>
     <td>将 DateTime 转换为人类可读格式的包。灵感来自 moment.js</td>
