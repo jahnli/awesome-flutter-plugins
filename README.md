@@ -874,14 +874,7 @@
     <td>2023-09-05</td>
     <td>42</td>
   </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/face_camera" rel="nofollow">face_camera</a></td>
-    <td>实时检测人脸的 Flutter 相机插件，一旦检测到人脸，它可以自动捕捉</td>
-    <td>2023-08-23</td>
-    <td>106</td>
-  </tr>
-      
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/screen_protector" rel="nofollow">screen_protector</a></td>
     <td>通过应用程序后台屏幕截图和防止 Android 和 iOS 屏幕截图安全数据泄漏</td>
@@ -5687,7 +5680,14 @@
     <td>2022-12-12</td>
     <td>93</td>
   </tr>
-      
+          
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/face_camera" rel="nofollow">face_camera</a></td>
+    <td>实时检测人脸的 Flutter 相机插件，一旦检测到人脸，它可以自动捕捉</td>
+    <td>2023-08-23</td>
+    <td>106</td>
+  </tr>
+        
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/dart_openai" rel="nofollow">dart_openai</a></td>
     <td>适用于 openAI Apis（GPT-3 和 DALL-E）的 Dart SDK，可以轻松地将 OpenAI 最先进的 AI 模型的强大功能集成到他们的 Dart 应用程序中</td>
