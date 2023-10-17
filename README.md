@@ -203,14 +203,7 @@
     <td>2022-11-02</td>
     <td>186</td>
   </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/google_mlkit_face_detection" rel="nofollow">google_mlkit_face_detection</a></td>
-    <td>使用 Google 的 ML Kit Face Detection 来检测图像中的人脸，识别关键的面部特征，并获取检测到的人脸的轮廓</td>
-    <td>2023-07-06</td>
-    <td>110</td>
-  </tr>
-      
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/easy_debounce" rel="nofollow">easy_debounce</a></td>
     <td> Dart/Flutter 的一个非常易于使用的方法调用 debouncer 包</td>
@@ -5667,6 +5660,13 @@
     <td>使用 ChatGPT SDK 创建聊天机器人和其他机器人</td>
     <td>2023-09-17</td>
     <td>206</td>
+  </tr>
+            
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/google_mlkit_face_detection" rel="nofollow">google_mlkit_face_detection</a></td>
+    <td>使用 Google 的 ML Kit Face Detection 来检测图像中的人脸，识别关键的面部特征，并获取检测到的人脸的轮廓</td>
+    <td>2023-07-06</td>
+    <td>110</td>
   </tr>
       
   <tr class="item">
