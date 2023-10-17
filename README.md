@@ -406,14 +406,7 @@
     <td>2023-09-12</td>
     <td>371</td>
   </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/ml_algo" rel="nofollow">ml_algo</a></td>
-    <td>机器学习算法、机器学习模型性能评估功能。</td>
-    <td>2023-07-22</td>
-    <td>87</td>
-  </tr>
-      
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/easy_localization" rel="nofollow">easy_localization</a></td>
     <td>轻松快速地国际化和本地化您的 Flutter 应用程序，这个包简化了国际化过程。</td>
@@ -5636,6 +5629,13 @@
     <td>使用 Google 的 ML Kit 数字墨水识别来识别数字表面上数百种语言的手写文本，并对草图进行分类</td>
     <td>2023-07-06</td>
     <td>13</td>
+  </tr>
+            
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/ml_algo" rel="nofollow">ml_algo</a></td>
+    <td>机器学习算法、机器学习模型性能评估功能。</td>
+    <td>2023-07-22</td>
+    <td>87</td>
   </tr>
       
   <tr class="item">
