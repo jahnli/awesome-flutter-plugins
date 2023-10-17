@@ -527,14 +527,7 @@
     <td>2023-06-30</td>
     <td>291</td>
   </tr>
-	  
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/arcore_flutter_plugin" rel="nofollow">arcore_flutter_plugin</a></td>
-    <td>用于ARCore SDK的Flutter插件，Android平台可构建新的增强现实体验。</td>
-    <td>2023-02-07</td>
-    <td>268</td>
-  </tr>
-      
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/pdf" rel="nofollow">pdf</a></td>
     <td>为Web或Flutter创建pdf文件。</td>
@@ -5642,6 +5635,13 @@
     <td>使用 Google 的 ML Kit Face Detection 来检测图像中的人脸，识别关键的面部特征，并获取检测到的人脸的轮廓</td>
     <td>2023-07-06</td>
     <td>110</td>
+  </tr>
+      	  
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/arcore_flutter_plugin" rel="nofollow">arcore_flutter_plugin</a></td>
+    <td>用于ARCore SDK的Flutter插件，Android平台可构建新的增强现实体验。</td>
+    <td>2023-02-07</td>
+    <td>268</td>
   </tr>
       
   <tr class="item">
