@@ -2411,14 +2411,7 @@
     <td>2023-05-18</td>
     <td>265</td>
   </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/pip_flutter" rel="nofollow">pip_flutter</a></td>
-    <td> Flutter 画中画包</td>
-    <td>2021-12-03</td>
-    <td>50</td>
-  </tr>
-      
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_floatwing" rel="nofollow">flutter_floatwing</a></td>
     <td>为 Android 制作浮动/覆盖窗口</td>
