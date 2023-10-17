@@ -238,14 +238,7 @@
     <td>2023-10-02</td>
     <td>120</td>
   </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/flame_audio" rel="nofollow">flame_audio</a></td>
-    <td>火焰游戏引擎的音频支持</td>
-    <td>2023-09-22</td>
-    <td>61</td>
-  </tr>
-      
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/serverpod" rel="nofollow">serverpod</a></td>
     <td>为 Flutter 社区构建的下一代应用程序和 Web 服务器。它允许您在 Dart 中编写服务器端代码，自动生成您的 API，并以最小的努力连接您的数据库</td>
@@ -3209,6 +3202,13 @@
     <td>使用 SoLoud 库和 FFI 的 Flutter 音频插件</td>
     <td>2023-08-31</td>
     <td>26</td>
+  </tr>
+            
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flame_audio" rel="nofollow">flame_audio</a></td>
+    <td>火焰游戏引擎的音频支持</td>
+    <td>2023-09-22</td>
+    <td>61</td>
   </tr>
       
   <tr class="item">
