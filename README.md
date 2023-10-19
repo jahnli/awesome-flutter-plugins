@@ -17,6 +17,13 @@
 <br>	
 <div class="changeLog">
 
+<div class="changeLogItem 10-19">
+      <h3>10-19</h3>
+      <ul>
+        <li><a href="https://pub.flutter-io.cn/packages/toastification">toastification</a> - 您轻松地在应用程序中显示 toast 和通知消息</li>  
+      </ul> 
+</div>
+
 <div class="changeLogItem 10-07">
       <h3>10-07</h3>
       <ul>
@@ -29,47 +36,7 @@
       </ul> 
 </div>
 
-<div class="changeLogItem 09-13">
-      <h3>09-13</h3>
-      <ul>
-        <li><a href="https://pub.flutter-io.cn/packages/media_kit">media_kit</a> - 适用于 Flutter 和 Dart 的跨平台视频播放器和音频播放器</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/skeletonizer">skeletonizer</a> - 无需额外的努力即可将已构建的小部件转换为骨架加载器</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/info_popup">info_popup</a> - 用户显示有关所选小部件</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/magnifying_glass">magnifying_glass</a> - 具有实时放大镜镜头小部件</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/headset_connection_event">headset_connection_event</a> - 用于耳机事件的 Flutter 插件</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/wakelock_plus">wakelock_plus</a> - 保持设备屏幕唤醒，即防止屏幕在 Android、iOS、macOS、Windows、Linux 和 Web 上休眠</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/weather_animation">weather_animation</a> - 包含美丽的天气动画。使用天气配置器轻松设置</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/wolt_modal_sheet">wolt_modal_sheet</a> - 提供了具有多个页面的响应模式、页面转换的运动动画以及每个页面内的可滚动内容弹出框</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/focus_detector_v2">focus_detector_v2</a> - 检测您的小部件何时出现或从屏幕上消失</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/appinio_social_share">appinio_social_share</a> - 支持将文本、图像、文件和带图像的文本共享到社交媒体</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/hue_rotation">hue_rotation</a> - 更改任何具有颜色的小部件的颜色</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/google_vision">google_vision</a> - 允许您将 Google Visions 图像标签、人脸、徽标和地标检测、OCR 以及显式内容检测添加到应用程序中</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/pytorch_lite">pytorch_lite</a> - 帮助运行 pytorch lite 模型分类以及 yolov5 和 yolov8</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_azure_tts">flutter_azure_tts</a> - Microsoft Azure 认知文本转语音</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/google_mlkit_translation">google_mlkit_translation</a> - 可使用 Google 的 ML Kit 设备上翻译在 50 多种语言之间动态翻译文本</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/google_mlkit_barcode_scanning">google_mlkit_barcode_scanning</a> - 使用 Google 的 ML Kit 条形码扫描来读取使用大多数标准条形码格式编码的数据</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/google_mlkit_image_labeling">google_mlkit_image_labeling</a> - 使用 Google 的 ML Kit 图像标签来检测和提取有关图像中跨广泛类别的实体的信息</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/google_mlkit_pose_detection">google_mlkit_pose_detection</a> - 使用 Google 的 ML Kit 姿势检测从连续视频或静态图像中实时检测主体身体的姿势</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/google_mlkit_face_mesh_detection">google_mlkit_face_mesh_detection</a> - 使用 Google 的 ML Kit 面部网格检测的 Flutter 插件</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/google_mlkit_text_recognition">google_mlkit_text_recognition</a> - 使用 Google 的 ML Kit 文本识别来识别任何中文、梵文、日语、韩语和拉丁字符集的文本</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/google_mlkit_selfie_segmentation">google_mlkit_selfie_segmentation</a> - 使用 Google 的 ML Kit Selfie Segmentation API 轻松将场景中的背景与用户分开，并专注于重要的事情</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/google_mlkit_language_id">google_mlkit_language_id</a> - 使用 Google 的 ML Kit 语言识别来确定文本字符串的语言</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/google_mlkit_smart_reply">google_mlkit_smart_reply</a> - 使用 Google 的 ML Kit 智能回复 API 自动生成消息的相关回复</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/google_mlkit_entity_extraction">google_mlkit_entity_extraction</a> - 使用 Google 的 ML Kit 实体提取器 API 来识别静态文本中的特定实体</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/google_mlkit_digital_ink_recognition">google_mlkit_digital_ink_recognition</a> - 使用 Google 的 ML Kit 数字墨水识别来识别数字表面上数百种语言的手写文本，并对草图进行分类</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/google_mlkit_object_detection">google_mlkit_object_detection</a> - 使用 Google 的 ML Kit 对象检测和跟踪来检测和跟踪图像或实时摄像头源中的对象</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_floating">flutter_floating</a> - 权限悬浮窗口，支持全局、单页面悬浮、支持边界吸附</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/dash_bubble">dash_bubble</a> - 在屏幕上创建浮动气泡</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/win_toast">win_toast</a> - 允许用户在 Windows 操作系统上的通知中心创建和显示 toast 通知</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/tencent_cloud_chat_sdk">tencent_cloud_chat_sdk</a> - 腾讯云聊天SDK</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/tencent_trtc_cloud">tencent_trtc_cloud</a> - 通过TRTC，您可以快速开发高性价比、低时延、高品质的交互式音视频服务</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/material_table_view">material_table_view</a> - 水平和垂直可滚动的材料样式表格小部件</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/ali_auth">ali_auth</a> - 阿里云号码认证服务中一键登录的插件</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/appinio_video_player">appinio_video_player</a> - 自定义视频播放器</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/audio_video_progress_bar">audio_video_progress_bar</a> - 音频视频进度条</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/deepar_flutter">deepar_flutter</a> - DeepAR 官方 Flutter SDK</li>  
-      </ul> 
-</div>
+
 
 <br>
 <h3>目录</h3>   	
@@ -4666,6 +4633,13 @@
   <tbody id="对话框">
       
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/toastification" rel="nofollow">toastification</a></td>
+    <td>您轻松地在应用程序中显示 toast 和通知消息</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/wolt_modal_sheet" rel="nofollow">wolt_modal_sheet</a></td>
     <td>提供了具有多个页面的响应模式、页面转换的运动动画以及每个页面内的可滚动内容弹出框</td>
     <td>2023-09-04</td>
@@ -5985,5 +5959,6 @@
 </table>
 </div>
 
-</body>
-</html>
+
+
+</body></html>
