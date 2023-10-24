@@ -2173,8 +2173,8 @@
 </table>
 <br>	
 	
-<blockquote id="UI-title>
-  <h3">UI / 小部件</h3>
+<blockquote id="UI-title">
+  <h3>UI / 小部件</h3>
 </blockquote>
 
 <br>
