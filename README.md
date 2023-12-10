@@ -17,6 +17,15 @@
 <br>	
 <div class="changeLog">
 
+<div class="changeLogItem 12-10">
+      <h3>12-10</h3>
+      <ul>
+        <li><a href="https://pub.flutter-io.cn/packages/stager">stager</a> - Flutter 生产力工具，允许开发人员隔离 UI 部分</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/android_id">android_id</a> - 用于获取 Android ID 的 Flutter 插件</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_timer_countdown">flutter_timer_countdown</a> - 简单的计时器</li>  
+      </ul> 
+</div>
+
 <div class="changeLogItem 10-19">
       <h3>10-19</h3>
       <ul>
@@ -24,17 +33,7 @@
       </ul> 
 </div>
 
-<div class="changeLogItem 10-07">
-      <h3>10-07</h3>
-      <ul>
-        <li><a href="https://pub.flutter-io.cn/packages/share_handler">share_handler</a> - 用于处理传入的共享文本/媒体，以及添加共享到建议/快捷方式</li>
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_tilt">flutter_tilt</a> - 为 Flutter 应用倾斜视差悬停效果，支持倾斜、灯光、阴影效果、陀螺仪传感器</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_deck">flutter_deck</a> - 创建演示文稿</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/edit_calendar_event_view">edit_calendar_event_view</a> - 打开本机编辑日历事件视图</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/path_animation">path_animation</a> - 轻松地为小部件穿过路径设置动画</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_soloud">flutter_soloud</a> - 使用 SoLoud 库和 FFI 的 Flutter 音频插件</li>  
-      </ul> 
-</div>
+
 
 
 
@@ -81,6 +80,13 @@
   </tr>
   </thead>
   <tbody id="插件">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/stager" rel="nofollow">stager</a></td>
+    <td>Flutter 生产力工具，允许开发人员隔离 UI 部分</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/share_handler" rel="nofollow">share_handler</a></td>
@@ -588,6 +594,13 @@
   </tr>
   </thead>
   <tbody id="设备">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/android_id" rel="nofollow">android_id</a></td>
+    <td>用于获取 Android ID 的 Flutter 插件</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/headset_connection_event" rel="nofollow">headset_connection_event</a></td>
@@ -2189,6 +2202,13 @@
   </tr>
   </thead>
   <tbody id="UI">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_timer_countdown" rel="nofollow">flutter_timer_countdown</a></td>
+    <td>简单的计时器</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/skeletonizer" rel="nofollow">skeletonizer</a></td>
@@ -5958,6 +5978,7 @@
   </tbody>
 </table>
 </div>
+
 
 
 
