@@ -17,6 +17,18 @@
 <br>	
 <div class="changeLog">
 
+<div class="changeLogItem 12-28">
+      <h3>12-28</h3>
+      <ul>
+        <li><a href="https://pub.flutter-io.cn/packages/camerawesome">camerawesome</a> - 带有内置 UI 的最简单的 Flutter 相机插件。支持Android和iOS上的拍摄图像、流图像、视频录制、切换传感器、自动对焦、闪光灯、滤镜</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/aura_box">aura_box</a> - 径向渐变和模糊效果的小部件</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/hyper_effects">hyper_effects</a> - 几行代码即可创建精美的效果和动画</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_3d_controller">flutter_3d_controller</a> - 于渲染不同格式（glb、gltf、fbx、obj）的交互式 3D 模型，能够控制动画、纹理和相机</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/yaml">yaml</a> - YAML 的解析器，一种人性化的数据序列化标准</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/baidupan">baidupan</a> - 百度网盘API</li>  
+      </ul> 
+</div>
+
 <div class="changeLogItem 12-10">
       <h3>12-10</h3>
       <ul>
@@ -26,12 +38,7 @@
       </ul> 
 </div>
 
-<div class="changeLogItem 10-19">
-      <h3>10-19</h3>
-      <ul>
-        <li><a href="https://pub.flutter-io.cn/packages/toastification">toastification</a> - 您轻松地在应用程序中显示 toast 和通知消息</li>  
-      </ul> 
-</div>
+
 
 
 
@@ -80,6 +87,27 @@
   </tr>
   </thead>
   <tbody id="插件">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_3d_controller" rel="nofollow">flutter_3d_controller</a></td>
+    <td>于渲染不同格式（glb、gltf、fbx、obj）的交互式 3D 模型，能够控制动画、纹理和相机</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/yaml" rel="nofollow">yaml</a></td>
+    <td>YAML 的解析器，一种人性化的数据序列化标准</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/baidupan" rel="nofollow">baidupan</a></td>
+    <td>百度网盘API</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/stager" rel="nofollow">stager</a></td>
@@ -594,6 +622,13 @@
   </tr>
   </thead>
   <tbody id="设备">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/camerawesome" rel="nofollow">camerawesome</a></td>
+    <td>带有内置 UI 的最简单的 Flutter 相机插件。支持Android和iOS上的拍摄图像、流图像、视频录制、切换传感器、自动对焦、闪光灯、滤镜</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/android_id" rel="nofollow">android_id</a></td>
@@ -2202,6 +2237,13 @@
   </tr>
   </thead>
   <tbody id="UI">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/aura_box" rel="nofollow">aura_box</a></td>
+    <td>径向渐变和模糊效果的小部件</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_timer_countdown" rel="nofollow">flutter_timer_countdown</a></td>
@@ -4105,6 +4147,13 @@
   </tr>
   </thead>
   <tbody id="动画">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/hyper_effects" rel="nofollow">hyper_effects</a></td>
+    <td>几行代码即可创建精美的效果和动画</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_tilt" rel="nofollow">flutter_tilt</a></td>
