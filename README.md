@@ -17,6 +17,18 @@
 <br>	
 <div class="changeLog">
 
+<div class="changeLogItem 01-25">
+      <h3>01-25</h3>
+      <ul>
+        <li><a href="https://pub.flutter-io.cn/packages/markdown_widget">markdown_widget</a> - 简单易用的Markdown渲染组件</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/serial_port_win32">serial_port_win32</a> - 使用 win32 API 的串行端口库</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/windows_taskbar">windows_taskbar</a> - 提供与 Windows 任务栏相关的实用程序</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/biometric_storage">biometric_storage</a> - 通过适用于 Android、iOS、MacOS 的生物识别锁进行保护</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/win32_gamepad">win32_gamepad</a> - 用于访问连接到 Windows 计算机的游戏手柄</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/win32_registry">win32_registry</a> - 提供友好的 Dart API 用于访问 Windows 注册表的包</li>  
+      </ul> 
+</div>
+
 <div class="changeLogItem 12-28">
       <h3>12-28</h3>
       <ul>
@@ -29,14 +41,7 @@
       </ul> 
 </div>
 
-<div class="changeLogItem 12-10">
-      <h3>12-10</h3>
-      <ul>
-        <li><a href="https://pub.flutter-io.cn/packages/stager">stager</a> - Flutter 生产力工具，允许开发人员隔离 UI 部分</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/android_id">android_id</a> - 用于获取 Android ID 的 Flutter 插件</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_timer_countdown">flutter_timer_countdown</a> - 简单的计时器</li>  
-      </ul> 
-</div>
+
 
 
 
@@ -87,6 +92,20 @@
   </tr>
   </thead>
   <tbody id="插件">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/markdown_widget" rel="nofollow">markdown_widget</a></td>
+    <td>简单易用的Markdown渲染组件</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/biometric_storage" rel="nofollow">biometric_storage</a></td>
+    <td>通过适用于 Android、iOS、MacOS 的生物识别锁进行保护</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_3d_controller" rel="nofollow">flutter_3d_controller</a></td>
@@ -4859,6 +4878,27 @@
   <tbody id="跨平台">
       
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/windows_taskbar" rel="nofollow">windows_taskbar</a></td>
+    <td>提供与 Windows 任务栏相关的实用程序</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/win32_gamepad" rel="nofollow">win32_gamepad</a></td>
+    <td>用于访问连接到 Windows 计算机的游戏手柄</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/win32_registry" rel="nofollow">win32_registry</a></td>
+    <td>提供友好的 Dart API 用于访问 Windows 注册表的包</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/win_toast" rel="nofollow">win_toast</a></td>
     <td>允许用户在 Windows 操作系统上的通知中心创建和显示 toast 通知</td>
     <td>2022-12-09</td>
@@ -5047,6 +5087,13 @@
   </tr>
   </thead>
   <tbody id="通讯">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/serial_port_win32" rel="nofollow">serial_port_win32</a></td>
+    <td>使用 win32 API 的串行端口库</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/tencent_cloud_chat_sdk" rel="nofollow">tencent_cloud_chat_sdk</a></td>
