@@ -101,13 +101,6 @@
   </tr>
       
   <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/biometric_storage" rel="nofollow">biometric_storage</a></td>
-    <td>通过适用于 Android、iOS、MacOS 的生物识别锁进行保护</td>
-    <td>2023-09-04</td>
-    <td>213</td>
-  </tr>
-      
-  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_3d_controller" rel="nofollow">flutter_3d_controller</a></td>
     <td>于渲染不同格式（glb、gltf、fbx、obj）的交互式 3D 模型，能够控制动画、纹理和相机</td>
     <td>2023-12-28</td>
@@ -1538,12 +1531,7 @@
     <td>2023-12-28</td>
     <td>626</td>
   </tr>
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/camerawesome">camerawesome</a></td>
-    <td>社区提供的开源相机插件。</td>
-    <td>2023-11-22</td>
-    <td>638</td>
-  </tr>
+  
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/printing">printing</a></td>
     <td>允许Flutter应用程序生成文档并将其打印到android或ios兼容打印机。</td>
