@@ -20,6 +20,7 @@
 <div class="changeLogItem 02-04">
       <h3>02-04</h3>
       <ul>
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_volume_controller">flutter_volume_controller</a> - 控制系统音量并监听不同平台上的音量变化</li>
         <li><a href="https://pub.flutter-io.cn/packages/mouse_follower">mouse_follower</a> - 使用鼠标跟随器增强您的应用程序，从而轻松自定义光标效果</li>  
         <li><a href="https://pub.flutter-io.cn/packages/newton_particles">newton_particles</a> - 高度可配置的粒子发射器包，可让您创建迷人的动画，例如下雨、烟雾、爆炸</li>  
         <li><a href="https://pub.flutter-io.cn/packages/super_cupertino_navigation_bar">super_cupertino_navigation_bar</a> - 通过可折叠的应用栏、时尚的搜索栏动画和受 iOS 启发的多功能设计</li>  
@@ -652,6 +653,13 @@
   </tr>
   </thead>
   <tbody id="设备">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_volume_controller" rel="nofollow">flutter_volume_controller</a></td>
+    <td>控制系统音量并监听不同平台上的音量变化</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_displaymode" rel="nofollow">flutter_displaymode</a></td>
