@@ -12,7 +12,7 @@
 近期准备收集一些 Flutter 精美的模板，UI，优秀的项目仓库，如果你有，请Issue 或 PR 感谢你的帮助 ！
 
 
-<h3 id="count">收录 818 个</h3>   
+<h3 id="count">收录 821 个</h3>   
 
 <br>	
 <div class="changeLog">
@@ -103,8 +103,8 @@
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_foreground_service" rel="nofollow">flutter_foreground_service</a></td>
     <td>Android 平台的前台服务，即使在后台也能保持应用程序运行</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2023-08-28</td>
+    <td>24</td>
   </tr>
       
   <tr class="item">
@@ -652,8 +652,8 @@
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_displaymode" rel="nofollow">flutter_displaymode</a></td>
     <td>用于在Android平台上设置显示模式（分辨率、刷新率）。允许在支持的设备上启用高刷新率</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2023-04-21</td>
+    <td>144</td>
   </tr>
       
   <tr class="item">
@@ -1720,8 +1720,8 @@
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/talker_flutter" rel="nofollow">talker_flutter</a></td>
     <td>用于 dart 和 flutter 应用程序的高级错误处理程序和记录器</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2024-01-27</td>
+    <td>284</td>
   </tr>
 
   <tr class="item">
