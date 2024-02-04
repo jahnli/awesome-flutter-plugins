@@ -12,7 +12,7 @@
 近期准备收集一些 Flutter 精美的模板，UI，优秀的项目仓库，如果你有，请Issue 或 PR 感谢你的帮助 ！
 
 
-<h3 id="count">收录 821 个</h3>   
+<h3 id="count">收录 828 个</h3>   
 
 <br>	
 <div class="changeLog">
@@ -104,8 +104,8 @@
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/mouse_follower" rel="nofollow">mouse_follower</a></td>
     <td>使用鼠标跟随器增强您的应用程序，从而轻松自定义光标效果</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2023-10-15</td>
+    <td>16</td>
   </tr>
       
   <tr class="item">
@@ -660,15 +660,15 @@
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_displaymode" rel="nofollow">flutter_displaymode</a></td>
     <td>用于在Android平台上设置显示模式（分辨率、刷新率）。允许在支持的设备上启用高刷新率</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2023-04-21</td>
+    <td>144</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_volume_controller" rel="nofollow">flutter_volume_controller</a></td>
     <td>控制系统音量并监听不同平台上的音量变化</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2023-11-01</td>
+    <td>34</td>
   </tr>
 
       
@@ -2293,36 +2293,36 @@
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/super_cupertino_navigation_bar" rel="nofollow">super_cupertino_navigation_bar</a></td>
     <td>通过可折叠的应用栏、时尚的搜索栏动画和受 iOS 启发的多功能设计</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2024-01-16</td>
+    <td>54</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/super_context_menu" rel="nofollow">super_context_menu</a></td>
     <td>上下文菜单可以无缝过渡到移动设备上的拖放</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2024-01-16</td>
+    <td>61</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/tencent_cloud_chat_uikit" rel="nofollow">tencent_cloud_chat_uikit</a></td>
     <td>腾讯云聊天强大的聊天UI组件库和业务逻辑，创建无缝的应用内聊天模块，带来愉悦的用户体验</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2023-12-26</td>
+    <td>32</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/o3d" rel="nofollow">o3d</a></td>
     <td>移动和网络平台上的 Flutter 3D 对象简易控制器（glb 格式）</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2023-12-01</td>
+    <td>68</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/tdesign_flutter" rel="nofollow">tdesign_flutter</a></td>
     <td>腾讯TDesign UI组件库，适合在移动项目中使用</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2024-01-08</td>
+    <td>16</td>
   </tr>
       
   <tr class="item">
@@ -6156,6 +6156,7 @@
   </tbody>
 </table>
 </div>
+
 
 
 
