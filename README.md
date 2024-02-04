@@ -17,6 +17,20 @@
 <br>	
 <div class="changeLog">
 
+<div class="changeLogItem 02-04">
+      <h3>02-04</h3>
+      <ul>
+        <li><a href="https://pub.flutter-io.cn/packages/mouse_follower">mouse_follower</a> - 使用鼠标跟随器增强您的应用程序，从而轻松自定义光标效果</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/newton_particles">newton_particles</a> - 高度可配置的粒子发射器包，可让您创建迷人的动画，例如下雨、烟雾、爆炸</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/super_cupertino_navigation_bar">super_cupertino_navigation_bar</a> - 通过可折叠的应用栏、时尚的搜索栏动画和受 iOS 启发的多功能设计</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/super_context_menu">super_context_menu</a> - 上下文菜单可以无缝过渡到移动设备上的拖放</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/rtc_conference_tUI_kit">rtc_conference_tUI_kit</a> - 腾讯云推出的音视频室UIKit</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/tencent_cloud_chat_UIkit">tencent_cloud_chat_UIkit</a> - 腾讯云聊天强大的聊天UI组件库和业务逻辑，创建无缝的应用内聊天模块，带来愉悦的用户体验</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/o3d">o3d</a> - 移动和网络平台上的 Flutter 3D 对象简易控制器（glb 格式）</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/tdesign_flutter">tdesign_flutter</a> - 腾讯TDesign UI组件库，适合在移动项目中使用</li>  
+      </ul> 
+</div>
+
 <div class="changeLogItem 01-25">
       <h3>01-25</h3>
       <ul>
@@ -82,6 +96,13 @@
   </tr>
   </thead>
   <tbody id="插件">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/mouse_follower" rel="nofollow">mouse_follower</a></td>
+    <td>使用鼠标跟随器增强您的应用程序，从而轻松自定义光标效果</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_foreground_service" rel="nofollow">flutter_foreground_service</a></td>
@@ -2257,6 +2278,41 @@
   <tbody id="UI">
       
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/super_cupertino_navigation_bar" rel="nofollow">super_cupertino_navigation_bar</a></td>
+    <td>通过可折叠的应用栏、时尚的搜索栏动画和受 iOS 启发的多功能设计</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/super_context_menu" rel="nofollow">super_context_menu</a></td>
+    <td>上下文菜单可以无缝过渡到移动设备上的拖放</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/tencent_cloud_chat_UIkit" rel="nofollow">tencent_cloud_chat_UIkit</a></td>
+    <td>腾讯云聊天强大的聊天UI组件库和业务逻辑，创建无缝的应用内聊天模块，带来愉悦的用户体验</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/o3d" rel="nofollow">o3d</a></td>
+    <td>移动和网络平台上的 Flutter 3D 对象简易控制器（glb 格式）</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/tdesign_flutter" rel="nofollow">tdesign_flutter</a></td>
+    <td>腾讯TDesign UI组件库，适合在移动项目中使用</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/aura_box" rel="nofollow">aura_box</a></td>
     <td>径向渐变和模糊效果的小部件</td>
     <td>2023-10-14</td>
@@ -3200,6 +3256,13 @@
   </tr>
   </thead>
   <tbody id="音视频">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/rtc_conference_tUI_kit" rel="nofollow">rtc_conference_tUI_kit</a></td>
+    <td>腾讯云推出的音视频室UIKit</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/rtc_conference_tui_kit" rel="nofollow">rtc_conference_tui_kit</a></td>
@@ -4172,6 +4235,13 @@
   </tr>
   </thead>
   <tbody id="动画">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/newton_particles" rel="nofollow">newton_particles</a></td>
+    <td>高度可配置的粒子发射器包，可让您创建迷人的动画，例如下雨、烟雾、爆炸</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/newton_particles" rel="nofollow">newton_particles</a></td>
@@ -6087,6 +6157,7 @@
   </tbody>
 </table>
 </div>
+
 
 
 
