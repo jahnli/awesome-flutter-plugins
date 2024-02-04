@@ -20,6 +20,9 @@
 <div class="changeLogItem 02-04">
       <h3>02-04</h3>
       <ul>
+        <li><a href="https://pub.flutter-io.cn/packages/talker_flutter">talker_flutter</a> - 用于 dart 和 flutter 应用程序的高级错误处理程序和记录器</li>
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_displaymode">flutter_displaymode</a> - 用于在Android平台上设置显示模式（分辨率、刷新率）。允许在支持的设备上启用高刷新率</li>
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_foreground_service">flutter_foreground_service</a> - Android 平台的前台服务，即使在后台也能保持应用程序运行</li>
         <li><a href="https://pub.flutter-io.cn/packages/flutter_volume_controller">flutter_volume_controller</a> - 控制系统音量并监听不同平台上的音量变化</li>
         <li><a href="https://pub.flutter-io.cn/packages/mouse_follower">mouse_follower</a> - 使用鼠标跟随器增强您的应用程序，从而轻松自定义光标效果</li>  
         <li><a href="https://pub.flutter-io.cn/packages/newton_particles">newton_particles</a> - 高度可配置的粒子发射器包，可让您创建迷人的动画，例如下雨、烟雾、爆炸</li>  
@@ -97,6 +100,13 @@
   </tr>
   </thead>
   <tbody id="插件">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_foreground_service" rel="nofollow">flutter_foreground_service</a></td>
+    <td>Android 平台的前台服务，即使在后台也能保持应用程序运行</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/mouse_follower" rel="nofollow">mouse_follower</a></td>
@@ -653,6 +663,13 @@
   </tr>
   </thead>
   <tbody id="设备">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_displaymode" rel="nofollow">flutter_displaymode</a></td>
+    <td>用于在Android平台上设置显示模式（分辨率、刷新率）。允许在支持的设备上启用高刷新率</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_volume_controller" rel="nofollow">flutter_volume_controller</a></td>
@@ -1728,6 +1745,13 @@
   </tr>
   </thead>
   <tbody id="项目">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/talker_flutter" rel="nofollow">talker_flutter</a></td>
+    <td>用于 dart 和 flutter 应用程序的高级错误处理程序和记录器</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/talker_flutter" rel="nofollow">talker_flutter</a></td>
