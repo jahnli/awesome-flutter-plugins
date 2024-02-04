@@ -28,8 +28,8 @@
         <li><a href="https://pub.flutter-io.cn/packages/newton_particles">newton_particles</a> - 高度可配置的粒子发射器包，可让您创建迷人的动画，例如下雨、烟雾、爆炸</li>  
         <li><a href="https://pub.flutter-io.cn/packages/super_cupertino_navigation_bar">super_cupertino_navigation_bar</a> - 通过可折叠的应用栏、时尚的搜索栏动画和受 iOS 启发的多功能设计</li>  
         <li><a href="https://pub.flutter-io.cn/packages/super_context_menu">super_context_menu</a> - 上下文菜单可以无缝过渡到移动设备上的拖放</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/rtc_conference_tUI_kit">rtc_conference_tUI_kit</a> - 腾讯云推出的音视频室UIKit</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/tencent_cloud_chat_UIkit">tencent_cloud_chat_UIkit</a> - 腾讯云聊天强大的聊天UI组件库和业务逻辑，创建无缝的应用内聊天模块，带来愉悦的用户体验</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/rtc_conference_tui_kit">rtc_conference_tui_kit</a> - 腾讯云推出的音视频室UIKit</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/tencent_cloud_chat_uikit">tencent_cloud_chat_uikit</a> - 腾讯云聊天强大的聊天UI组件库和业务逻辑，创建无缝的应用内聊天模块，带来愉悦的用户体验</li>  
         <li><a href="https://pub.flutter-io.cn/packages/o3d">o3d</a> - 移动和网络平台上的 Flutter 3D 对象简易控制器（glb 格式）</li>  
         <li><a href="https://pub.flutter-io.cn/packages/tdesign_flutter">tdesign_flutter</a> - 腾讯TDesign UI组件库，适合在移动项目中使用</li>  
       </ul> 
@@ -2324,7 +2324,7 @@
   </tr>
       
   <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/tencent_cloud_chat_UIkit" rel="nofollow">tencent_cloud_chat_UIkit</a></td>
+    <td><a href="https://pub.flutter-io.cn/packages/tencent_cloud_chat_uikit" rel="nofollow">tencent_cloud_chat_uikit</a></td>
     <td>腾讯云聊天强大的聊天UI组件库和业务逻辑，创建无缝的应用内聊天模块，带来愉悦的用户体验</td>
     <td>暂无</td>
     <td>暂无</td>
@@ -3288,14 +3288,7 @@
   </tr>
   </thead>
   <tbody id="音视频">
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/rtc_conference_tUI_kit" rel="nofollow">rtc_conference_tUI_kit</a></td>
-    <td>腾讯云推出的音视频室UIKit</td>
-    <td>暂无</td>
-    <td>暂无</td>
-  </tr>
-      
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/rtc_conference_tui_kit" rel="nofollow">rtc_conference_tui_kit</a></td>
     <td>腾讯云推出的音视频室UIKit</td>
