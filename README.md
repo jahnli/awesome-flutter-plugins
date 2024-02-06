@@ -104,14 +104,7 @@
     <td>2023-10-15</td>
     <td>16</td>
   </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/flutter_foreground_service" rel="nofollow">flutter_foreground_service</a></td>
-    <td>Android 平台的前台服务，即使在后台也能保持应用程序运行</td>
-    <td>2023-08-28</td>
-    <td>24</td>
-  </tr>
-      
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/markdown_widget" rel="nofollow">markdown_widget</a></td>
     <td>简单易用的Markdown渲染组件</td>
@@ -659,6 +652,13 @@
     <td>用于在Android平台上实现前台服务</td>
     <td>2023-09-13</td>
     <td>307</td>
+  </tr>
+            
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_foreground_service" rel="nofollow">flutter_foreground_service</a></td>
+    <td>Android 平台的前台服务，即使在后台也能保持应用程序运行</td>
+    <td>2023-08-28</td>
+    <td>24</td>
   </tr>
       
   <tr class="item">
