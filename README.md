@@ -17,6 +17,13 @@
 <br>	
 <div class="changeLog">
 
+<div class="changeLogItem 02-06">
+      <h3>02-06</h3>
+      <ul>
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_foreground_task">flutter_foreground_task</a> - 用于在Android平台上实现前台服务</li>  
+      </ul> 
+</div>
+
 <div class="changeLogItem 02-04">
       <h3>02-04</h3>
       <ul>
@@ -35,17 +42,7 @@
       </ul> 
 </div>
 
-<div class="changeLogItem 01-25">
-      <h3>01-25</h3>
-      <ul>
-        <li><a href="https://pub.flutter-io.cn/packages/markdown_widget">markdown_widget</a> - 简单易用的Markdown渲染组件</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/serial_port_win32">serial_port_win32</a> - 使用 win32 API 的串行端口库</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/windows_taskbar">windows_taskbar</a> - 提供与 Windows 任务栏相关的实用程序</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/biometric_storage">biometric_storage</a> - 通过适用于 Android、iOS、MacOS 的生物识别锁进行保护</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/win32_gamepad">win32_gamepad</a> - 用于访问连接到 Windows 计算机的游戏手柄</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/win32_registry">win32_registry</a> - 提供友好的 Dart API 用于访问 Windows 注册表的包</li>  
-      </ul> 
-</div>
+
 
 
 
@@ -656,6 +653,13 @@
   </tr>
   </thead>
   <tbody id="设备">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_foreground_task" rel="nofollow">flutter_foreground_task</a></td>
+    <td>用于在Android平台上实现前台服务</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_displaymode" rel="nofollow">flutter_displaymode</a></td>
