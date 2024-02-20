@@ -3406,13 +3406,6 @@
     <td>2023-05-15</td>
     <td>142</td>
   </tr>
-
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/dart_vlc" rel="nofollow">dart_vlc</a></td>
-    <td>媒体播放、广播、录制和 chromecast 库。基于 libVLC 和 libVLC++。</td>
-    <td>2022-11-30</td>
-    <td>249</td>
-  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/tflite_audio" rel="nofollow">tflite_audio</a></td>
