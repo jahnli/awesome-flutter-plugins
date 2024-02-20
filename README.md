@@ -484,7 +484,7 @@
   </tr>
       
   <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/phone_number" rel="nofollow">phone_number</a></td>
+    <td><a href="https://pub.flutter-io.cn/packages/phone_numbers_parser" rel="nofollow">phone_numbers_parser</a></td>
     <td>用于解析、格式化和验证国际电话号码。</td>
     <td>2024-01-27</td>
     <td>185</td>
