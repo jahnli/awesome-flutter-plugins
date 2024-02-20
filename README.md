@@ -5371,14 +5371,7 @@
     <td>2023-06-06</td>
     <td>85</td>
   </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/flutter_segment" rel="nofollow">flutter_segment</a></td>
-    <td>适用于 iOS、Android 和 Web 的分析的 Flutter 实现。</td>
-    <td>2023-08-03</td>
-    <td>69</td>
-  </tr>
-      
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/wiredash" rel="nofollow">wiredash</a></td>
     <td>Wiredash 是 Fl​​utter 应用程序的交互式用户反馈工具。</td>
