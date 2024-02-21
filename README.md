@@ -17,6 +17,15 @@
 <br>	
 <div class="changeLog">
 
+<div class="changeLogItem 02-21">
+      <h3>02-21</h3>
+      <ul>
+        <li><a href="https://pub.flutter-io.cn/packages/google_generative_ai">google_generative_ai</a> - Google AI Dart SDK 使开发人员能够使用 Google 最先进的生成式 AI 模型（如 Gemini）</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/floating">floating</a> - 的画中画模式管理。仅适用于 Android</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/custom_sliding_segmented_control">custom_sliding_segmented_control</a> - 允许您灵活配置用于显示控件的小部件</li>  
+      </ul> 
+</div>
+
 <div class="changeLogItem 02-06">
       <h3>02-06</h3>
       <ul>
@@ -24,23 +33,7 @@
       </ul> 
 </div>
 
-<div class="changeLogItem 02-04">
-      <h3>02-04</h3>
-      <ul>
-        <li><a href="https://pub.flutter-io.cn/packages/talker_flutter">talker_flutter</a> - 用于 dart 和 flutter 应用程序的高级错误处理程序和记录器</li>
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_displaymode">flutter_displaymode</a> - 用于在Android平台上设置显示模式（分辨率、刷新率）。允许在支持的设备上启用高刷新率</li>
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_foreground_service">flutter_foreground_service</a> - Android 平台的前台服务，即使在后台也能保持应用程序运行</li>
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_volume_controller">flutter_volume_controller</a> - 控制系统音量并监听不同平台上的音量变化</li>
-        <li><a href="https://pub.flutter-io.cn/packages/mouse_follower">mouse_follower</a> - 使用鼠标跟随器增强您的应用程序，从而轻松自定义光标效果</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/newton_particles">newton_particles</a> - 高度可配置的粒子发射器包，可让您创建迷人的动画，例如下雨、烟雾、爆炸</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/super_cupertino_navigation_bar">super_cupertino_navigation_bar</a> - 通过可折叠的应用栏、时尚的搜索栏动画和受 iOS 启发的多功能设计</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/super_context_menu">super_context_menu</a> - 上下文菜单可以无缝过渡到移动设备上的拖放</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/rtc_conference_tui_kit">rtc_conference_tui_kit</a> - 腾讯云推出的音视频室UIKit</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/tencent_cloud_chat_uikit">tencent_cloud_chat_uikit</a> - 腾讯云聊天强大的聊天UI组件库和业务逻辑，创建无缝的应用内聊天模块，带来愉悦的用户体验</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/o3d">o3d</a> - 移动和网络平台上的 Flutter 3D 对象简易控制器（glb 格式）</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/tdesign_flutter">tdesign_flutter</a> - 腾讯TDesign UI组件库，适合在移动项目中使用</li>  
-      </ul> 
-</div>
+
 
 
 
@@ -646,6 +639,13 @@
   </tr>
   </thead>
   <tbody id="设备">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/floating" rel="nofollow">floating</a></td>
+    <td>的画中画模式管理。仅适用于 Android</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_foreground_task" rel="nofollow">flutter_foreground_task</a></td>
@@ -2293,6 +2293,13 @@
   </tr>
   </thead>
   <tbody id="UI">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/custom_sliding_segmented_control" rel="nofollow">custom_sliding_segmented_control</a></td>
+    <td>允许您灵活配置用于显示控件的小部件</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/super_cupertino_navigation_bar" rel="nofollow">super_cupertino_navigation_bar</a></td>
@@ -5627,6 +5634,13 @@
   <tbody id="AI">
       
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/google_generative_ai" rel="nofollow">google_generative_ai</a></td>
+    <td>Google AI Dart SDK 使开发人员能够使用 Google 最先进的生成式 AI 模型（如 Gemini）</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/google_vision" rel="nofollow">google_vision</a></td>
     <td>允许您将 Google Visions 图像标签、人脸、徽标和地标检测、OCR 以及显式内容检测添加到应用程序中</td>
     <td>2023-12-06</td>
@@ -6146,6 +6160,7 @@
   </tbody>
 </table>
 </div>
+
 
 
 
