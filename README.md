@@ -12,7 +12,7 @@
 近期准备收集一些 Flutter 精美的模板，UI，优秀的项目仓库，如果你有，请Issue 或 PR 感谢你的帮助 ！
 
 
-<h3 id="count">收录 830 个</h3>   
+<h3 id="count">收录 822 个</h3>   
 
 <br>	
 <div class="changeLog">
@@ -6106,6 +6106,7 @@
   </tbody>
 </table>
 </div>
+
 
 
 
