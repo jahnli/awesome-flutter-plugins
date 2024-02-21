@@ -1025,14 +1025,7 @@
     <td>2023-12-21</td>
     <td>185</td>
   </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/live_icon" rel="nofollow">live_icon</a></td>
-    <td>用于实时更改应用程序图标和标签</td>
-    <td>2021-07-01</td>
-    <td>33</td>
-  </tr>
-      
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_siri_suggestions  " rel="nofollow">flutter_siri_suggestions  </a></td>
     <td>用于在 Siri Suggestions 上曝光的 Flutter 插件也可以通过 Siri 唤醒特定功能</td>
@@ -2852,14 +2845,7 @@
     <td>2024-01-20</td>
     <td>396</td>
   </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/glassmorphism" rel="nofollow">glassmorphism</a></td>
-    <td>用于轻松实现 Glassmorphic UI （玻璃拟态） 的 Flutter 包。</td>
-    <td>2021-08-30</td>
-    <td>431</td>
-  </tr>
-
+  
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/hand_signature" rel="nofollow">hand_signature</a></td>
     <td>允许用手指绘制签名的签名板小部件。</td>
@@ -3026,13 +3012,6 @@
     <td>用于显示国家/地区代码选择器。</td>
     <td>2023-03-10</td>
     <td>702</td>
-  </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/dash_chat" rel="nofollow">dash_chat</a></td>
-    <td>受 react-native-gifted-chat 启发的最完整的 Flutter 聊天 UI。</td>
-    <td>2021-05-29</td>
-    <td>435</td>
   </tr>
 
   <tr class="item">
@@ -4686,13 +4665,6 @@
     <td>2022-12-14</td>
     <td>233</td>
   </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/bottom_animation" rel="nofollow">bottom_animation</a></td>
-    <td>Flutter 底部导航栏。</td>
-    <td>2021-06-20</td>
-    <td>22</td>
-  </tr>
 
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/salomon_bottom_bar" rel="nofollow">salomon_bottom_bar</a></td>
@@ -4726,12 +4698,7 @@
     <td>2023-05-23</td>
     <td>1123</td>
   </tr>
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/focused_menu">focused_menu</a></td>
-    <td>长按菜单。</td>
-    <td>2021-03-13</td>
-    <td>452</td>
-  </tr>
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/bottom_navy_bar">bottom_navy_bar</a></td>
     <td>精美而生动的底部导航。</td>
