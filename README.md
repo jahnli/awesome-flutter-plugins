@@ -2763,13 +2763,6 @@
   </tr>
 
   <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/flutter_signin_button" rel="nofollow">flutter_signin_button</a></td>
-    <td>适用于 iOS 和 Android 的 Flutter 插件，用于为不同的社交媒体帐户生成登录按钮。</td>
-    <td>2021-03-31</td>
-    <td>831</td>
-  </tr>
-      
-  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/styled_widget" rel="nofollow">styled_widget</a></td>
     <td>通过使用方法定义小部件来简化小部件树结构。</td>
     <td>2022-11-07</td>
@@ -4166,20 +4159,6 @@
     <td>可滑动的日历小部件。</td>
     <td>2023-01-26</td>
     <td>421</td>
-  </tr>
-  
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/timelines" rel="nofollow">timelines</a></td>
-    <td>功能强大且易于使用的 Flutter 时间线。</td>
-    <td>2021-03-27</td>
-    <td>1398</td>
-  </tr>
-	  
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/timeline_tile">timeline_tile</a></td>
-    <td>建立高度可定制的时间线。</td>
-    <td>2021-03-10</td>
-    <td>1563</td>
   </tr>
 
   <tr class="item">
