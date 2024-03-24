@@ -17,6 +17,16 @@
 <br>	
 <div class="changeLog">
 
+<div class="changeLogItem 03-24">
+      <h3>03-24</h3>
+      <ul>
+        <li><a href="https://pub.flutter-io.cn/packages/image_blur">image_blur</a> - 为图像添加闪烁和模糊效果</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/compassx">compassx</a> - Flutter 指南针插件提供真实的航向、精度和校准需求</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/node_editor">node_editor</a> - 节点编辑器包</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_code_editor">flutter_code_editor</a> - 支持语法突出显示和代码折叠的可定制代码字段</li>  
+      </ul> 
+</div>
+
 <div class="changeLogItem 02-21">
       <h3>02-21</h3>
       <ul>
@@ -26,12 +36,7 @@
       </ul> 
 </div>
 
-<div class="changeLogItem 02-06">
-      <h3>02-06</h3>
-      <ul>
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_foreground_task">flutter_foreground_task</a> - 用于在Android平台上实现前台服务</li>  
-      </ul> 
-</div>
+
 
 
 
@@ -90,6 +95,20 @@
   </tr>
   </thead>
   <tbody id="插件">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/node_editor" rel="nofollow">node_editor</a></td>
+    <td>节点编辑器包</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_code_editor" rel="nofollow">flutter_code_editor</a></td>
+    <td>支持语法突出显示和代码折叠的可定制代码字段</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
 
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/mouse_follower" rel="nofollow">mouse_follower</a></td>
@@ -639,6 +658,13 @@
   </tr>
   </thead>
   <tbody id="设备">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/compassx" rel="nofollow">compassx</a></td>
+    <td>Flutter 指南针插件提供真实的航向、精度和校准需求</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/floating" rel="nofollow">floating</a></td>
@@ -3582,6 +3608,13 @@
   </tr>
   </thead>
   <tbody id="图像">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/image_blur" rel="nofollow">image_blur</a></td>
+    <td>为图像添加闪烁和模糊效果</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_scalable_ocr" rel="nofollow">flutter_scalable_ocr</a></td>
