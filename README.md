@@ -17,6 +17,16 @@
 <br>	
 <div class="changeLog">
 
+<div class="changeLogItem 04-08">
+      <h3>04-08</h3>
+      <ul>
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_storage_info">flutter_storage_info</a> - 用于检索存储信息的 Flutter 插件。轻松获取有关设备存储使用情况的详细信息</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/glossy">glossy</a> - 用于创建时尚的玻璃形态 UI 效果</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/indexed_list_view">indexed_list_view</a> - 可以通过索引以编程方式立即跳转到任何项目</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/scrollview_observer">scrollview_observer</a> - 用于观察与 ScrollView 中显示的子窗口小部件相关的数据的窗口，滚动到 ScrollView 中的特定项目</li>  
+      </ul> 
+</div>
+
 <div class="changeLogItem 03-24">
       <h3>03-24</h3>
       <ul>
@@ -27,14 +37,7 @@
       </ul> 
 </div>
 
-<div class="changeLogItem 02-21">
-      <h3>02-21</h3>
-      <ul>
-        <li><a href="https://pub.flutter-io.cn/packages/google_generative_ai">google_generative_ai</a> - Google AI Dart SDK 使开发人员能够使用 Google 最先进的生成式 AI 模型（如 Gemini）</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/floating">floating</a> - 的画中画模式管理。仅适用于 Android</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/custom_sliding_segmented_control">custom_sliding_segmented_control</a> - 允许您灵活配置用于显示控件的小部件</li>  
-      </ul> 
-</div>
+
 
 
 
@@ -658,6 +661,13 @@
   </tr>
   </thead>
   <tbody id="设备">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_storage_info" rel="nofollow">flutter_storage_info</a></td>
+    <td>用于检索存储信息的 Flutter 插件。轻松获取有关设备存储使用情况的详细信息</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/compassx" rel="nofollow">compassx</a></td>
@@ -2062,6 +2072,20 @@
   <tbody id="列表">
       
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/indexed_list_view" rel="nofollow">indexed_list_view</a></td>
+    <td>可以通过索引以编程方式立即跳转到任何项目</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/scrollview_observer" rel="nofollow">scrollview_observer</a></td>
+    <td>用于观察与 ScrollView 中显示的子窗口小部件相关的数据的窗口，滚动到 ScrollView 中的特定项目</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/material_table_view" rel="nofollow">material_table_view</a></td>
     <td>水平和垂直可滚动的材料样式表格小部件</td>
     <td>2024-03-20</td>
@@ -2312,6 +2336,13 @@
   </tr>
   </thead>
   <tbody id="UI">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/glossy" rel="nofollow">glossy</a></td>
+    <td>用于创建时尚的玻璃形态 UI 效果</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/custom_sliding_segmented_control" rel="nofollow">custom_sliding_segmented_control</a></td>
