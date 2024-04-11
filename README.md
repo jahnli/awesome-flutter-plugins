@@ -1568,12 +1568,7 @@
     <td>2024-03-20</td>
     <td>567</td>
   </tr>
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/geolocator">geolocator</a></td>
-    <td>Flutter的地理位置插件。该插件提供了用于通用位置（GPS等）功能。</td>
-    <td>2024-02-15</td>
-    <td>4923</td>
-  </tr>
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/package_info_plus" rel="nofollow">package_info_plus</a></td>
     <td>用于查询有关应用程序包的信息。</td>
@@ -5889,7 +5884,14 @@
   </tr>
   </thead>
   <tbody id="地图">
-      
+	  
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/geolocator">geolocator</a></td>
+    <td>Flutter的地理位置插件。该插件提供了用于通用位置（GPS等）功能。</td>
+    <td>2024-02-15</td>
+    <td>4923</td>
+  </tr>
+	  
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/ar_location_view" rel="nofollow">ar_location_view</a></td>
     <td>ArLocationView 设计用于静态 POI 集中的区域</td>
