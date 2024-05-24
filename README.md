@@ -17,6 +17,17 @@
 <br>	
 <div class="changeLog">
 
+<div class="changeLogItem 05-24">
+      <h3>05-24</h3>
+      <ul>
+        <li><a href="https://pub.flutter-io.cn/packages/responsive_sizer">responsive_sizer</a> - 通过提供帮助小部件和扩展来帮助实现响应式布局</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_adaptive_scaffold">flutter_adaptive_scaffold</a> - 用于轻松构建自适应布局（包括导航元素）的小部件</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_custom_carousel">flutter_custom_carousel</a> - 创建完全自定义、动画滚动列表的小部件。它管理所有棘手的滚动逻</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/open_file_plus">open_file_plus</a> - 调用原生APP以字符串结果打开文件的插件</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/open_file_manager">open_file_manager</a> - 用于打开默认文件管理器应用程序的 Flutter 插件</li>  
+      </ul> 
+</div>
+
 <div class="changeLogItem 04-08">
       <h3>04-08</h3>
       <ul>
@@ -27,15 +38,7 @@
       </ul> 
 </div>
 
-<div class="changeLogItem 03-24">
-      <h3>03-24</h3>
-      <ul>
-        <li><a href="https://pub.flutter-io.cn/packages/image_blur">image_blur</a> - 为图像添加闪烁和模糊效果</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/compassx">compassx</a> - Flutter 指南针插件提供真实的航向、精度和校准需求</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/node_editor">node_editor</a> - 节点编辑器包</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_code_editor">flutter_code_editor</a> - 支持语法突出显示和代码折叠的可定制代码字段</li>  
-      </ul> 
-</div>
+
 
 
 
@@ -661,6 +664,20 @@
   </tr>
   </thead>
   <tbody id="设备">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/open_file_plus" rel="nofollow">open_file_plus</a></td>
+    <td>调用原生APP以字符串结果打开文件的插件</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/open_file_manager" rel="nofollow">open_file_manager</a></td>
+    <td>用于打开默认文件管理器应用程序的 Flutter 插件</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_storage_info" rel="nofollow">flutter_storage_info</a></td>
@@ -2067,6 +2084,13 @@
   <tbody id="列表">
       
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_custom_carousel" rel="nofollow">flutter_custom_carousel</a></td>
+    <td>创建完全自定义、动画滚动列表的小部件。它管理所有棘手的滚动逻</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/indexed_list_view" rel="nofollow">indexed_list_view</a></td>
     <td>可以通过索引以编程方式立即跳转到任何项目</td>
     <td>2024-01-24</td>
@@ -2331,6 +2355,20 @@
   </tr>
   </thead>
   <tbody id="UI">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/responsive_sizer" rel="nofollow">responsive_sizer</a></td>
+    <td>通过提供帮助小部件和扩展来帮助实现响应式布局</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_adaptive_scaffold" rel="nofollow">flutter_adaptive_scaffold</a></td>
+    <td>用于轻松构建自适应布局（包括导航元素）的小部件</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/glossy" rel="nofollow">glossy</a></td>
@@ -6172,6 +6210,7 @@
   </tbody>
 </table>
 </div>
+
 
 
 
