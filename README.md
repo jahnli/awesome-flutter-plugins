@@ -1300,13 +1300,6 @@
   </tr>
 
   <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/perfect_volume_control" rel="nofollow">perfect_volume_control</a></td>
-    <td>Flutter 音量控制插件，支持安卓和IOS，具有：显示隐藏音量图标、音量变化监控、设置音量、获取设备当前音量。</td>
-    <td>2021-09-22</td>
-    <td>34</td>
-  </tr>
-      
-  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/usb_serial" rel="nofollow">usb_serial</a></td>
     <td>该插件将允许您轻松使用基于 FTDI 或 CDC（以及更多！）协议的 USB uart 硬件。</td>
     <td>2023-09-04</td>
@@ -1405,13 +1398,6 @@
   </tr>
       
   <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/flutter_bluetooth_serial" rel="nofollow">flutter_bluetooth_serial</a></td>
-    <td> Flutter 蓝牙串行库。</td>
-    <td>2021-08-17</td>
-    <td>337</td>
-  </tr>
-      
-  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_reactive_ble" rel="nofollow">flutter_reactive_ble</a></td>
     <td>可与多个设备通信的反应式低功耗蓝牙 (BLE) 插件。</td>
     <td>2024-02-05</td>
@@ -1465,13 +1451,6 @@
     <td>向 Android / iOS 键盘添加功能。。</td>
     <td>2023-02-21</td>
     <td>1030</td>
-  </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/contacts_service" rel="nofollow">contacts_service</a></td>
-    <td>用于在 Android 和 iOS 设备上检索和管理联系人。</td>
-    <td>2021-09-22</td>
-    <td>559</td>
   </tr>
 
   <tr class="item">
@@ -3115,13 +3094,6 @@
   </tr>
 
   <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/blobs" rel="nofollow">blobs</a></td>
-    <td>用最少的代码创建漂亮的斑点形状。</td>
-    <td>2021-06-15</td>
-    <td>340</td>
-  </tr>
-
-  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/skeleton_text" rel="nofollow">skeleton_text</a></td>
     <td>提供了一种在 Flutter 项目中添加骨架屏加载动画的简单方法。</td>
     <td>2023-08-22</td>
@@ -3484,13 +3456,6 @@
     <td>用于在 Android、iOS 和 Web 上与其他 Flutter 小部件一起显示内联视频。</td>
     <td>2024-04-11</td>
     <td>3017</td>
-  </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/miniplayer" rel="nofollow">miniplayer</a></td>
-    <td>简化迷你播放器的创建。</td>
-    <td>2021-09-29</td>
-    <td>315</td>
   </tr>
       
   <tr class="item">
@@ -3942,24 +3907,12 @@
   </tr>
   
   <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/emoji_picker_flutter">emoji_picker_flutter</a></td>
-    <td>提供了一个表情符号选择器小部件，其中包含8种类别的1500多种表情符号。</td>
-    <td>2024-04-13</td>
-    <td>471</td>
-    </tr>
-   <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/graphx">graphx</a></td>
-    <td>使Flutter中的绘图和动画极其简单。</td>
-    <td>2023-03-24</td>
-   <td>375</td>
-   </tr>
+<td><a href="https://pub.flutter-io.cn/packages/emoji_picker_flutter">emoji_picker_flutter</a></td>
+<td>提供了一个表情符号选择器小部件，其中包含8种类别的1500多种表情符号。</td>
+<td>2024-04-13</td>
+<td>471</td>
+</tr>
 
-   <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/photofilters">photofilters</a></td>
-    <td>用于将各种类型的滤镜应用于图像。</td>
-    <td>2021-06-15</td>
-    <td>250</td>
-  </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_custom_clippers">flutter_custom_clippers</a></td>
     <td>将widget裁剪成各种自定义形状。</td>
@@ -4546,14 +4499,7 @@
     <td>2024-05-10</td>
     <td>665</td>
   </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/round_spot" rel="nofollow">round_spot</a></td>
-    <td>可定制、易用的热图界面分析库。</td>
-    <td>2021-07-11</td>
-    <td>85</td>
-  </tr>
-      
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/graphic" rel="nofollow">graphic</a></td>
     <td>声明式、可交互的可视化图表库</td>
@@ -4751,30 +4697,12 @@
   </tr>
 
   <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/bottom_navy_bar">bottom_navy_bar</a></td>
-    <td>精美而生动的底部导航。</td>
-    <td>2021-03-28</td>
-    <td>1250</td>
-  </tr>
-
-  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/convex_bottom_bar">convex_bottom_bar</a></td>
     <td>实现ConvexAppBar以在底部栏中显示一个凸形选项卡。支持主题。</td>
     <td>2023-01-28</td>
     <td>2554</td>
   </tr>
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/curved_navigation_bar">curved_navigation_bar</a></td>
-    <td>可轻松实现弯曲的导航栏。</td>
-    <td>2022-02-08</td>
-    <td>1857</td>
-  </tr>
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/persistent_bottom_nav_bar">persistent_bottom_nav_bar</a></td>
-    <td>高度可定制的持久性/静态底部导航栏。</td>
-    <td>2022-09-16</td>
-    <td>2053</td>
-  </tr>
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/circular_menu">circular_menu</a></td>
     <td>一个简单多样的动画圆形菜单。</td>
@@ -5995,14 +5923,7 @@
     <td>2024-05-14</td>
     <td>702</td>
   </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/coordtransform" rel="nofollow">coordtransform</a></td>
-    <td>坐标变换工具，提供BD09、GCJ02、WGS84坐标系相互变换。</td>
-    <td>2021-06-03</td>
-    <td>5</td>
-  </tr>
-      
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_map" rel="nofollow">flutter_map</a></td>
     <td>Leaflet 的 Dart 实现，为 Flutter 应用程序提供地图小部件。</td>
