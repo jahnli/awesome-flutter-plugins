@@ -12,7 +12,7 @@
 近期准备收集一些 Flutter 精美的模板，UI，优秀的项目仓库，如果你有，请Issue 或 PR 感谢你的帮助 ！
 
 
-<h3 id="count">收录 834 个</h3>   
+<h3 id="count">收录 845 个</h3>   
 
 <br>	
 <div class="changeLog">
@@ -114,22 +114,22 @@
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/pdfrx" rel="nofollow">pdfrx</a></td>
     <td>基于 pdfium 构建的丰富、快速的 PDF 查看器实现</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2024-05-15</td>
+    <td>75</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/html_to_pdf_plus" rel="nofollow">html_to_pdf_plus</a></td>
     <td>用于从 HTML 代码模板生成 PDF 文档</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2024-02-18</td>
+    <td>12</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/htmltopdfwidgets" rel="nofollow">htmltopdfwidgets</a></td>
     <td>Html 到 pdf 小部件</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2024-02-08</td>
+    <td>33</td>
   </tr>
       
   <tr class="item">
@@ -437,7 +437,7 @@
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_genius_scan" rel="nofollow">flutter_genius_scan</a></td>
     <td>适用于 iOS 和 Android 的 Genius Scan SDK 的 Flutter 插件。它允许使用智能手机相机扫描纸质文档。</td>
-    <td>2024-04-22</td>
+    <td>2024-05-24</td>
     <td>87</td>
   </tr>
       
@@ -1626,8 +1626,8 @@
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/nfc_manager">nfc_manager</a></td>
     <td>用于访问Android和iOS上的NFC功能。</td>
-    <td>2024-03-06</td>
-    <td>401</td>
+    <td>2024-05-24</td>
+    <td>421</td>
   </tr>
   
   <tr class="item">
@@ -2028,7 +2028,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/get">get</a></td>
     <td>Flutter的轻便而强大的解决方案。它结合了高性能状态管理，智能依赖注入和快速实用的路由管理。</td>
     <td>2023-09-08</td>
-    <td>13935</td>
+    <td>14126</td>
   </tr>
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/get_storage">get_storage</a></td>
@@ -2110,8 +2110,8 @@
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/animated_reorderable_list" rel="nofollow">animated_reorderable_list</a></td>
     <td>实现简单、过渡流畅的 Flutter 可重新排序动画列表</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2024-04-30</td>
+    <td>48</td>
   </tr>
       
   <tr class="item">
@@ -2390,22 +2390,22 @@
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/mesh_gradient" rel="nofollow">mesh_gradient</a></td>
     <td>创建美丽的流体状网格渐变的小部件</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2024-04-03</td>
+    <td>36</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/shadcn_ui" rel="nofollow">shadcn_ui</a></td>
     <td>shadcn-ui</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2024-05-24</td>
+    <td>74</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/scaled_app" rel="nofollow">scaled_app</a></td>
     <td>按比例缩放整个 UI 设计，当您的 UI 设计是固定宽度</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2024-05-16</td>
+    <td>34</td>
   </tr>
       
   <tr class="item">
@@ -3282,7 +3282,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/carousel_slider" rel="nofollow">carousel_slider</a></td>
     <td>轮播控件，支持无限滚动和自定义子控件。</td>
     <td>2022-12-13</td>
-    <td>5175</td>
+    <td>5080</td>
   </tr>
 <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_summernote">flutter_summernote</a></td>
@@ -3728,15 +3728,15 @@
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/native_image_cropper" rel="nofollow">native_image_cropper</a></td>
     <td>裁剪图片的 Flutter 插件</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2024-04-17</td>
+    <td>34</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/pro_image_editor" rel="nofollow">pro_image_editor</a></td>
     <td>图像编辑器：通过用户友好的编辑功能无缝增强您的图像</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2024-05-21</td>
+    <td>74</td>
   </tr>
       
   <tr class="item">
@@ -3805,8 +3805,8 @@
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/image_pickers" rel="nofollow">image_pickers</a></td>
     <td>image_pickers 支持本地图片或视频多选，支持将网络图片或视频保存到相册，支持预览视频或图片。</td>
-    <td>2024-04-23</td>
-    <td>83</td>
+    <td>2024-05-24</td>
+    <td>85</td>
   </tr>
 
   <tr class="item">
@@ -4490,7 +4490,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/animator" rel="nofollow">animator</a></td>
     <td>使动画更轻松的 Flutter 库。它允许将动画设置与用户界面分离。</td>
     <td>2023-05-12</td>
-    <td>238</td>
+    <td>240</td>
   </tr>
       
   <tr class="item">
@@ -5006,8 +5006,8 @@
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/rate_my_app">rate_my_app</a></td>
     <td>询问用户是否对自定义条件（例如安装时间，启动次数等）进行评分。</td>
-    <td>2024-04-22</td>
-    <td>563</td>
+    <td>2024-05-24</td>
+    <td>568</td>
   </tr>
 
    <tr class="item"> 
@@ -5286,15 +5286,15 @@
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/chrome_extension" rel="nofollow">chrome_extension</a></td>
     <td>用于访问 Chrome 扩展程序中可用的 `chrome.*` API 的库</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2024-05-13</td>
+    <td>33</td>
   </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_v2ray" rel="nofollow">flutter_v2ray</a></td>
     <td>允许你建立 v2ray 连接的插件</td>
-    <td>暂无</td>
-    <td>暂无</td>
+    <td>2024-02-19</td>
+    <td>51</td>
   </tr>
       
   <tr class="item">
@@ -5358,7 +5358,7 @@
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/telegram_client" rel="nofollow">telegram_client</a></td>
     <td>用于制作基于应用程序电报的颤振和 userbot / bot 支持服务器端和客户端</td>
-    <td>2024-05-11</td>
+    <td>2024-05-24</td>
     <td>141</td>
   </tr>
 
@@ -5816,7 +5816,7 @@
     <td><a href="https://pub.flutter-io.cn/packages/tflite_flutter">tflite_flutter</a></td>
     <td>TensorFlow Lite Flutter插件提供了轻松，灵活和快速的Dart API，可将TFLite模型集成到Flutter应用中。</td>
     <td>2023-12-07</td>
-    <td>651</td>
+    <td>623</td>
   </tr>
   
   <tr class="item">
