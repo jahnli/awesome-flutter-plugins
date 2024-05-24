@@ -4153,14 +4153,6 @@
     <td>提供友好的 Dart API 用于访问 Windows 注册表的包</td>
     <td>2024-04-14</td>
     <td>50</td>
-  </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/win_toast" rel="nofollow">win_toast</a></td>
-    <td>允许用户在 Windows 操作系统上的通知中心创建和显示 toast 通知</td>
-    <td>2022-12-09</td>
-    <td>36</td>
-  </tr>
 
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/tray_manager" rel="nofollow">tray_manager</a></td>
@@ -4436,20 +4428,6 @@
     <td>Flutter 的 HUAWEI Account Kit 插件</td>
     <td>2024-05-15</td>
     <td>21</td>
-  </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/social_share" rel="nofollow">social_share</a></td>
-    <td>需要直接与某些知名应用共享的多种共享选项。</td>
-    <td>2022-11-23</td>
-    <td>363</td>
-  </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/completion" rel="nofollow">completion</a></td>
-    <td>将 shell 命令完成添加到 Dart 应用程序的包。</td>
-    <td>2022-12-14</td>
-    <td>44</td>
   </tr>
       
   <tr class="item">
@@ -4953,20 +4931,6 @@
     <td>173</td>
   </tr>
       	  
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/arcore_flutter_plugin" rel="nofollow">arcore_flutter_plugin</a></td>
-    <td>用于ARCore SDK的Flutter插件，Android平台可构建新的增强现实体验。</td>
-    <td>2023-02-07</td>
-    <td>305</td>
-  </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/flutter_chatgpt_api" rel="nofollow">flutter_chatgpt_api</a></td>
-    <td>围绕 ChatGPT 的 Flutter/Dart API，用于非官方的 ChatGPT API</td>
-    <td>2022-12-12</td>
-    <td>99</td>
-  </tr>
-          
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/face_camera" rel="nofollow">face_camera</a></td>
     <td>实时检测人脸的 Flutter 相机插件，一旦检测到人脸，它可以自动捕捉</td>
