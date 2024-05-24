@@ -1641,12 +1641,6 @@
   </tr>
 
   <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/open_file">open_file</a></td>
-    <td>调用本机APP打开带有字符串的文件。</td>
-    <td>2023-06-12</td>
-    <td>810</td>
-  </tr>
-  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/path_provider">path_provider</a></td>
     <td>查找文件系统上的常用位置。</td>
     <td>2024-01-09</td>
