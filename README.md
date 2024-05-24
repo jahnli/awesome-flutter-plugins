@@ -17,6 +17,23 @@
 <br>	
 <div class="changeLog">
 
+<div class="changeLogItem 05-25">
+      <h3>05-25</h3>
+      <ul>
+        <li><a href="https://pub.flutter-io.cn/packages/chrome_extension">chrome_extension</a> - 用于访问 Chrome 扩展程序中可用的 `chrome.*` API 的库</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/mesh_gradient">mesh_gradient</a> - 创建美丽的流体状网格渐变的小部件</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/animated_reorderable_list">animated_reorderable_list</a> - 实现简单、过渡流畅的 Flutter 可重新排序动画列表</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/native_image_cropper">native_image_cropper</a> - 裁剪图片的 Flutter 插件</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/pro_image_editor">pro_image_editor</a> - 图像编辑器：通过用户友好的编辑功能无缝增强您的图像</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/flutter_v2ray">flutter_v2ray</a> - 允许你建立 v2ray 连接的插件</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/pdfrx">pdfrx</a> - 基于 pdfium 构建的丰富、快速的 PDF 查看器实现</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/html_to_pdf_plus">html_to_pdf_plus</a> - 用于从 HTML 代码模板生成 PDF 文档</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/htmltopdfwidgets">htmltopdfwidgets</a> - Html 到 pdf 小部件</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/shadcn_ui">shadcn_ui</a> - shadcn-ui</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/scaled_app">scaled_app</a> - 按比例缩放整个 UI 设计，当您的 UI 设计是固定宽度</li>  
+      </ul> 
+</div>
+
 <div class="changeLogItem 05-24">
       <h3>05-24</h3>
       <ul>
@@ -28,15 +45,7 @@
       </ul> 
 </div>
 
-<div class="changeLogItem 04-08">
-      <h3>04-08</h3>
-      <ul>
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_storage_info">flutter_storage_info</a> - 用于检索存储信息的 Flutter 插件。轻松获取有关设备存储使用情况的详细信息</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/glossy">glossy</a> - 用于创建时尚的玻璃形态 UI 效果</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/indexed_list_view">indexed_list_view</a> - 可以通过索引以编程方式立即跳转到任何项目</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/scrollview_observer">scrollview_observer</a> - 用于观察与 ScrollView 中显示的子窗口小部件相关的数据的窗口，滚动到 ScrollView 中的特定项目</li>  
-      </ul> 
-</div>
+
 
 
 
@@ -101,6 +110,27 @@
   </tr>
   </thead>
   <tbody id="插件">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/pdfrx" rel="nofollow">pdfrx</a></td>
+    <td>基于 pdfium 构建的丰富、快速的 PDF 查看器实现</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/html_to_pdf_plus" rel="nofollow">html_to_pdf_plus</a></td>
+    <td>用于从 HTML 代码模板生成 PDF 文档</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/htmltopdfwidgets" rel="nofollow">htmltopdfwidgets</a></td>
+    <td>Html 到 pdf 小部件</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/node_editor" rel="nofollow">node_editor</a></td>
@@ -2078,6 +2108,13 @@
   <tbody id="列表">
       
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/animated_reorderable_list" rel="nofollow">animated_reorderable_list</a></td>
+    <td>实现简单、过渡流畅的 Flutter 可重新排序动画列表</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_custom_carousel" rel="nofollow">flutter_custom_carousel</a></td>
     <td>创建完全自定义、动画滚动列表的小部件。它管理所有棘手的滚动逻</td>
     <td>2024-04-17</td>
@@ -2349,6 +2386,27 @@
   </tr>
   </thead>
   <tbody id="UI">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/mesh_gradient" rel="nofollow">mesh_gradient</a></td>
+    <td>创建美丽的流体状网格渐变的小部件</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/shadcn_ui" rel="nofollow">shadcn_ui</a></td>
+    <td>shadcn-ui</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/scaled_app" rel="nofollow">scaled_app</a></td>
+    <td>按比例缩放整个 UI 设计，当您的 UI 设计是固定宽度</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/responsive_sizer" rel="nofollow">responsive_sizer</a></td>
@@ -3666,6 +3724,20 @@
   </tr>
   </thead>
   <tbody id="图像">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/native_image_cropper" rel="nofollow">native_image_cropper</a></td>
+    <td>裁剪图片的 Flutter 插件</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/pro_image_editor" rel="nofollow">pro_image_editor</a></td>
+    <td>图像编辑器：通过用户友好的编辑功能无缝增强您的图像</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/image_blur" rel="nofollow">image_blur</a></td>
@@ -5210,6 +5282,20 @@
   </tr>
   </thead>
   <tbody id="通讯">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/chrome_extension" rel="nofollow">chrome_extension</a></td>
+    <td>用于访问 Chrome 扩展程序中可用的 `chrome.*` API 的库</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/flutter_v2ray" rel="nofollow">flutter_v2ray</a></td>
+    <td>允许你建立 v2ray 连接的插件</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/serial_port_win32" rel="nofollow">serial_port_win32</a></td>
