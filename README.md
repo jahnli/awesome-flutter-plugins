@@ -3487,13 +3487,6 @@
   </tr>
       
   <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/zoom" rel="nofollow">zoom</a></td>
-    <td>Zoom 客户端 SDK 的 Flutter 插件</td>
-    <td>2024-02-02</td>
-    <td>33</td>
-  </tr>
-      
-  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/hmssdk_flutter" rel="nofollow">hmssdk_flutter</a></td>
     <td>100ms SDK 的 Flutter 包，视频视频会议基础设施。</td>
     <td>2024-05-15</td>
