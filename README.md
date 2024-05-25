@@ -12,7 +12,7 @@
 近期准备收集一些 Flutter 精美的模板，UI，优秀的项目仓库，如果你有，请Issue 或 PR 感谢你的帮助 ！
 
 
-<h3 id="count">收录 845 个</h3>   
+<h3 id="count">收录 673 个</h3>   
 
 <br>	
 <div class="changeLog">
@@ -4065,7 +4065,7 @@
     <td>2024-04-14</td>
     <td>50</td>
 
-  <tr class="item">
+  </tr><tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/tray_manager" rel="nofollow">tray_manager</a></td>
     <td>允许 Flutter 桌面应用定义系统托盘。</td>
     <td>2024-05-18</td>
@@ -5131,6 +5131,7 @@
   </tbody>
 </table>
 </div>
+
 
 
 
