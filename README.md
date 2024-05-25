@@ -1112,13 +1112,6 @@
   </tr>
 
   <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/mobile_number" rel="nofollow">mobile_number</a></td>
-    <td>用于获取设备的手机号码或列出 SIM 卡数据。</td>
-    <td>2022-10-11</td>
-    <td>97</td>
-  </tr>
-      
-  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_keyboard_visibility" rel="nofollow">flutter_keyboard_visibility</a></td>
     <td>发现 Android 和 iOS 上的软键盘可见性状态。</td>
     <td>2023-12-21</td>
@@ -2404,13 +2397,6 @@
     <td>2024-03-25</td>
     <td>1244</td>
   </tr>
-
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/multi_select_flutter" rel="nofollow">multi_select_flutter</a></td>
-    <td>以您想要的方式制作多选小部件。</td>
-    <td>2022-11-27</td>
-    <td>717</td>
-  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_material_pickers" rel="nofollow">flutter_material_pickers</a></td>
@@ -2558,13 +2544,6 @@
     <td>2023-08-22</td>
     <td>317</td>
   </tr>
-	  
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/chat_ui_kit" rel="nofollow">chat_ui_kit</a></td>
-    <td>完整的 Flutter 聊天 UI 套件，它为您提供基本结构以及一组工具，可让您快速构建现代聊天 UI。</td>
-    <td>2022-09-01</td>
-    <td>62</td>
-  </tr> 
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_form_builder" rel="nofollow">flutter_form_builder</a></td>
@@ -3623,13 +3602,6 @@
   </tr>
 
   <tr class="item">
-     <td><a href="https://pub.flutter-io.cn/packages/like_button">like_button</a></td>
-     <td>点赞按钮动画。</td>
-     <td>2022-09-29</td>
-     <td>1270</td>
-  </tr>
-
-  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/liquid_swipe">liquid_swipe</a></td>
     <td>液体效果的页面切换组件。</td>
     <td>2023-03-29</td>
@@ -4445,14 +4417,7 @@
     <td>2024-05-04</td>
     <td>116</td>
   </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/flutter_insta" rel="nofollow">flutter_insta</a></td>
-    <td>用于获取 instagram 用户的详细信息。</td>
-    <td>2022-08-24</td>
-    <td>180</td>
-  </tr>
-      
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/wechat_kit" rel="nofollow">wechat_kit</a></td>
     <td>允许开发人员使用 natvie Android 和 iOS 微信 SDK 进行身份验证/共享/支付。</td>
@@ -4480,14 +4445,7 @@
     <td>2024-05-16</td>
     <td>798</td>
   </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/flutter_share_me" rel="nofollow">flutter_share_me</a></td>
-    <td>用于将内容分享到社交媒体。您可以使用它分享到 Facebook、WhatsApp、Twitter 和系统共享 UI。支持网址和文字。</td>
-    <td>2022-09-23</td>
-    <td>183</td>
-  </tr>
-      
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/huawei_push" rel="nofollow">huawei_push</a></td>
     <td>Flutter 的 HUAWEI Push Kit 插件。</td>
@@ -4535,14 +4493,7 @@
     <td>2024-04-13</td>
     <td>420</td>
   </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/hive" rel="nofollow">hive</a></td>
-    <td>用纯 Dart 编写的轻量级和极快的键值数据库。</td>
-    <td>2022-06-30</td>
-    <td>5566</td>
-  </tr>
-      
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/stripe_sdk" rel="nofollow">stripe_sdk</a></td>
     <td>Flutter 唯一的原生 Stripe 库，完全支持 SCA/PSD2、支付和最新的 Stripe 功能。</td>
@@ -5086,13 +5037,6 @@
     <td>字节跳动穿山甲广告插件</td>
     <td>2024-01-22</td>
     <td>25</td>
-  </tr>
-   
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/admob_flutter" rel="nofollow">admob_flutter<!-- a--></a></td>
-    <td>使用本机平台视图显示横幅广告的 Admob 插件。</td>
-    <td>2022-06-02</td>
-    <td>458</td>
   </tr>
 	  
   <tr class="item">
