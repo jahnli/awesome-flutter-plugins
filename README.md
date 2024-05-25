@@ -4898,14 +4898,7 @@
     <td>2024-05-15</td>
     <td>33</td>
   </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/amap_flutter_map" rel="nofollow">amap_flutter_map</a></td>
-    <td>高德地图SDK Flutter插件</td>
-    <td>2021-11-23</td>
-    <td>61</td>
-  </tr>
-      
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/huawei_map" rel="nofollow">huawei_map</a></td>
     <td>华为地图套件，提供标准地图和UI元素，为您定制更符合服务场景的地图。</td>
@@ -4988,15 +4981,7 @@
     <td>百度地图定位Flutter插件。</td>
     <td>2024-01-30</td>
     <td>26</td>
-  </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/amap_flutter_location" rel="nofollow">amap_flutter_location</a></td>
-    <td>高德官方定位Flutter插件。</td>
-    <td>2021-11-23</td>
-    <td>52</td>
-  </tr>
-      
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/location" rel="nofollow">location</a></td>
     <td>可轻松处理iOS和Android中的实时位置。</td>
