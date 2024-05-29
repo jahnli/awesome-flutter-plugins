@@ -17,6 +17,14 @@
 <br>	
 <div class="changeLog">
 
+<div class="changeLogItem 05-29">
+      <h3>05-29</h3>
+      <ul>
+        <li><a href="https://pub.flutter-io.cn/packages/rive_animated_icon">rive_animated_icon</a> - 提供了丰富的动画图标，可以根据您的喜好进行定制</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/two_dimensional_scrollables">two_dimensional_scrollables</a> - 使用二维滚动基础滚动的小部件</li>  
+      </ul> 
+</div>
+
 <div class="changeLogItem 05-25">
       <h3>05-25</h3>
       <ul>
@@ -34,16 +42,7 @@
       </ul> 
 </div>
 
-<div class="changeLogItem 05-24">
-      <h3>05-24</h3>
-      <ul>
-        <li><a href="https://pub.flutter-io.cn/packages/responsive_sizer">responsive_sizer</a> - 通过提供帮助小部件和扩展来帮助实现响应式布局</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_adaptive_scaffold">flutter_adaptive_scaffold</a> - 用于轻松构建自适应布局（包括导航元素）的小部件</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_custom_carousel">flutter_custom_carousel</a> - 创建完全自定义、动画滚动列表的小部件。它管理所有棘手的滚动逻</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/open_file_plus">open_file_plus</a> - 调用原生APP以字符串结果打开文件的插件</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/open_file_manager">open_file_manager</a> - 用于打开默认文件管理器应用程序的 Flutter 插件</li>  
-      </ul> 
-</div>
+
 
 
 
@@ -1697,6 +1696,13 @@
   </tr>
   </thead>
   <tbody id="列表">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/two_dimensional_scrollables" rel="nofollow">two_dimensional_scrollables</a></td>
+    <td>使用二维滚动基础滚动的小部件</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/animated_reorderable_list" rel="nofollow">animated_reorderable_list</a></td>
@@ -3467,6 +3473,13 @@
   <tbody id="动画">
       
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/rive_animated_icon" rel="nofollow">rive_animated_icon</a></td>
+    <td>提供了丰富的动画图标，可以根据您的喜好进行定制</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/newton_particles" rel="nofollow">newton_particles</a></td>
     <td>高度可配置的粒子发射器包，可让您创建迷人的动画，例如下雨、烟雾、爆炸</td>
     <td>2023-11-12</td>
@@ -4982,7 +4995,7 @@
     <td>2024-01-30</td>
     <td>26</td>
 
-  <tr class="item">
+  </tr><tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/location" rel="nofollow">location</a></td>
     <td>可轻松处理iOS和Android中的实时位置。</td>
     <td>2024-05-06</td>
@@ -5116,6 +5129,7 @@
   </tbody>
 </table>
 </div>
+
 
 
 
