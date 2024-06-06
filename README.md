@@ -243,14 +243,7 @@
     <td>2024-05-22</td>
     <td>335</td>
   </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/easy_debounce" rel="nofollow">easy_debounce</a></td>
-    <td> Dart/Flutter 的一个非常易于使用的方法调用 debouncer 包</td>
-    <td>2023-01-06</td>
-    <td>348</td>
-  </tr>
-      
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/store_checker" rel="nofollow">store_checker</a></td>
     <td>查找当前安装的 apk/ipa 的来源</td>
@@ -339,13 +332,6 @@
     <td>国际电话号码格式化程序包、信用卡/借记卡和屏蔽格式化程序</td>
     <td>2024-04-19</td>
     <td>509</td>
-  </tr>
-
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/flutter_ume" rel="nofollow">flutter_ume</a></td>
-    <td>UME 是 Fl​​utter 应用程序的应用程序内调试工具包平台。由字节跳动的 Flutter Infra 团队制作。</td>
-    <td>2023-01-12</td>
-    <td>96</td>
   </tr>
 
   <tr class="item">
@@ -714,14 +700,7 @@
     <td>2024-05-17</td>
     <td>215</td>
   </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/esim" rel="nofollow">esim</a></td>
-    <td>用于检查 eSIM 兼容性的 Flutter 插件</td>
-    <td>2023-01-30</td>
-    <td>37</td>
-  </tr>
-      
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/hardware_buttons_find_flutter" rel="nofollow">hardware_buttons_find_flutter</a></td>
     <td>在带有不同按钮的移动设备上，按下按钮时监听按钮的名称</td>
@@ -833,14 +812,7 @@
     <td>2024-04-18</td>
     <td>98</td>
   </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/native_drag_n_drop" rel="nofollow">native_drag_n_drop</a></td>
-    <td>允许您将本机拖放支持添加到您的颤振应用程序中</td>
-    <td>2023-01-12</td>
-    <td>81</td>
-  </tr>
-      
+  
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/timezone" rel="nofollow">timezone</a></td>
     <td>时区数据库和时区感知 DateTime</td>
@@ -952,14 +924,6 @@
     <td>2023-07-29</td>
     <td>341</td>
   </tr>
-
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/flutter_background" rel="nofollow">flutter_background</a></td>
-    <td>通过使用前台服务、唤醒锁定和禁用电池优化来保持 Flutter 应用程序在后台运行的插件。</td>
-    <td>2023-01-17</td>
-    <td>288</td>
-  </tr>
-      
 
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/barcode_scan2" rel="nofollow">barcode_scan2</a></td>
@@ -1873,13 +1837,6 @@
    <td>2023-07-30</td>
    <td>3964</td>
   </tr>
-  <tr class="item">
-   <td><a href="https://pub.flutter-io.cn/packages/reorderables">reorderables</a></td>
-   <td>可重新排列的表格，行，列，环绕，条状列表，允许拖放其子级。</td>
-   <td>2023-01-25</td>
-   <td>902</td>
-  </tr>
-
 
   <tr class="item"> 
    <td><a href="https://pub.flutter-io.cn/packages/flutter_slidable">flutter_slidable</a></td>
