@@ -702,13 +702,6 @@
   </tr>
 
   <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/hardware_buttons_find_flutter" rel="nofollow">hardware_buttons_find_flutter</a></td>
-    <td>在带有不同按钮的移动设备上，按下按钮时监听按钮的名称</td>
-    <td>2023-01-17</td>
-    <td>21</td>
-  </tr>
-      
-  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_in_app_pip" rel="nofollow">flutter_in_app_pip</a></td>
     <td>在 Flutter 应用程序中轻松实现应用内 PiP（画中画）</td>
     <td>2023-05-22</td>
@@ -2095,13 +2088,6 @@
     <td>91</td>
   </tr>
 
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/double_tap_player_view" rel="nofollow">double_tap_player_view</a></td>
-    <td>像视频播放器一样通过双击和水平拖动来处理快进/快退行为的小部件</td>
-    <td>2023-01-31</td>
-    <td>43</td>
-  </tr>
-      
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_onboarding_slider" rel="nofollow">flutter_onboarding_slider</a></td>
     <td>具有平行设计的页面滑块，允许（文本）小部件或正文以不同的速度与背景滑动</td>
