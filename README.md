@@ -2020,13 +2020,6 @@
   </tr>
       
   <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/parallax_sensors_bg" rel="nofollow">parallax_sensors_bg</a></td>
-    <td>简化了在响应相应传感器检测的页面背景中提供视差效果</td>
-    <td>2023-01-01</td>
-    <td>87</td>
-  </tr>
-      
-  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_card_swiper" rel="nofollow">flutter_card_swiper</a></td>
     <td>类似于 Tinder 的刷卡程序包。它允许您向左、向右、向上和向下滑动，并为每个方向定义您自己的业务逻辑</td>
     <td>2024-05-06</td>
@@ -2177,14 +2170,7 @@
     <td>2023-09-13</td>
     <td>145</td>
   </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/timer_count_down" rel="nofollow">timer_count_down</a></td>
-    <td>简单的倒数计时器。用于创建一个简单的计时器。</td>
-    <td>2023-01-12</td>
-    <td>179</td>
-  </tr>
-      
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/auth_buttons" rel="nofollow">auth_buttons</a></td>
     <td>Auth Buttons 是一个 Flutter 小部件库，包括用于与最流行的社交网络（如 Google、Facebook、Apple 和 Twitter）进行身份验证的按钮。</td>
@@ -2609,12 +2595,7 @@
     <td>2024-01-27</td>
     <td>402</td>
   </tr>
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/flutter_picker" rel="nofollow">flutter_picker</a></td>
-    <td>Flutter插件选择器。包括NumberPicker，DateTimePicker，ArrayPicker和默认链接选择器。</td>
-    <td>2023-01-30</td>
-    <td>430</td>
-  </tr>
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/syncfusion_flutter_sliders" rel="nofollow">syncfusion_flutter_sliders</a></td>
     <td>用于创建高度可定制且 UI 丰富的滑块、范围滑块和范围选择器小部件。</td>
@@ -3009,13 +2990,6 @@
   </tr>
       
   <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/google_ml_vision" rel="nofollow">google_ml_vision</a></td>
-    <td>用于 Google ML Kit 设备上视觉 API 的 Flutter 插件。它包括条码扫描、图像标记、文本识别和人脸检测。</td>
-    <td>2023-01-09</td>
-    <td>123</td>
-  </tr>
-      
-  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/fluentui_system_icons" rel="nofollow">fluentui_system_icons</a></td>
     <td>微软友好和现代的图标集合。</td>
     <td>2024-05-17</td>
@@ -3384,13 +3358,6 @@
     <td>一个漂亮，易于使用且可自定义的日历规划器。</td>
     <td>2023-09-28</td>
     <td>138</td>
-  </tr>
-
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/custom_timer" rel="nofollow">custom_timer</a></td>
-    <td>高度可定制的计时器构建器，具有控制器，动画，间隔，回调，自定义操作等。</td>
-    <td>2023-01-15</td>
-    <td>135</td>
   </tr>
 
   <tr class="item">
@@ -3824,13 +3791,6 @@
   </tr>
 
   <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/convex_bottom_bar">convex_bottom_bar</a></td>
-    <td>实现ConvexAppBar以在底部栏中显示一个凸形选项卡。支持主题。</td>
-    <td>2023-01-28</td>
-    <td>2554</td>
-  </tr>
-
-  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/circular_menu">circular_menu</a></td>
     <td>一个简单多样的动画圆形菜单。</td>
     <td>2024-04-12</td>
@@ -3898,13 +3858,6 @@
     <td>用于 Flutter 的超级可定制且易于使用的警报/弹出对话框。</td>
     <td>2023-05-24</td>
     <td>997</td>
-  </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/material_dialogs" rel="nofollow">material_dialogs</a></td>
-    <td>帮助您在应用程序中创建动画、简单、时尚的material对话框。</td>
-    <td>2023-01-07</td>
-    <td>318</td>
   </tr>
 
   <tr class="item">
@@ -4113,13 +4066,6 @@
   </tr>
       
   <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/nativeshell" rel="nofollow">nativeshell</a></td>
-    <td>NativeShell Dart API。用于与 NativeShell 平台代码交互。</td>
-    <td>2023-01-12</td>
-    <td>29</td>
-  </tr>
-
-  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/macos_ui" rel="nofollow">macos_ui</a></td>
     <td>实现当前 macOS 设计语言的 Flutter 小部件和主题。</td>
     <td>2024-05-05</td>
@@ -4317,14 +4263,7 @@
     <td>2024-03-11</td>
     <td>928</td>
   </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/graphql" rel="nofollow">graphql</a></td>
-    <td>Dart 的独立 GraphQL 客户端。</td>
-    <td>2023-01-12</td>
-    <td>451</td>
-  </tr>
-      
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/github" rel="nofollow">github</a></td>
     <td>使用 Github 的 v3 API 的高级 GitHub API 客户端库。</td>
@@ -4401,14 +4340,7 @@
     <td>2024-04-28</td>
     <td>273</td>
   </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/flutter_paystack" rel="nofollow">flutter_paystack</a></td>
-    <td>通过 Paystack 支付网关进行支付。完全支持安卓和iOS。</td>
-    <td>2023-01-07</td>
-    <td>205</td>
-  </tr>
-      
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/onesignal_flutter" rel="nofollow">onesignal_flutter</a></td>
     <td>OneSignal 是一种针对移动应用程序的免费推送通知服务。</td>
@@ -4477,14 +4409,7 @@
     <td>2024-03-07</td>
     <td>1122</td>
   </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/graphql_flutter" rel="nofollow">graphql_flutter</a></td>
-    <td>Flutter 的 GraphQL 客户端。</td>
-    <td>2023-01-12</td>
-    <td>815</td>
-  </tr>
-      
+  
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/flutter_cache_manager" rel="nofollow">flutter_cache_manager</a></td>
     <td>用于在应用程序的缓存目录中下载和缓存文件。可以更改有关文件保留时间的各种设置。</td>
@@ -4735,14 +4660,6 @@
   </tr>
       
   <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/deepar_flutter" rel="nofollow">deepar_flutter</a></td>
-    <td>DeepAR 官方 Flutter SDK</td>
-    <td>2023-01-29</td>
-    <td>33</td>
-  </tr>
-      
-            
-  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/google_ml_kit" rel="nofollow">google_ml_kit</a></td>
     <td>用于实现谷歌为移动平台制作的独立机器学习套件。</td>
     <td>2024-04-25</td>
@@ -4804,14 +4721,7 @@
     <td>2024-02-21</td>
     <td>422</td>
   </tr>
-      
-  <tr class="item">
-    <td><a href="https://pub.flutter-io.cn/packages/sitesurface_flutter_openai" rel="nofollow">sitesurface_flutter_openai</a></td>
-    <td>允许将 OpenAI 的 API 服务集成到您的 Flutter 应用程序中，可以向 OpenAI 的语言模型发出请求、检索完成和摘要等</td>
-    <td>2023-01-08</td>
-    <td>24</td>
-  </tr>
-      
+
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/chat_gpt_api" rel="nofollow">chat_gpt_api</a></td>
     <td>用 dart 编写的 chatGPT SDK，用于访问 OpenAI API 的功能</td>
