@@ -14,6 +14,17 @@
 <br>	
 <div class="changeLog">
 
+<div class="changeLogItem 07-23">
+      <h3>07-23</h3>
+      <ul>
+        <li><a href="https://pub.flutter-io.cn/packages/pull_down_button">pull_down_button</a> - 尝试将 iOS 14+ 中的弹出按钮和 下拉按钮引入 Flutter</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/thermion_dart">thermion_dart</a> - 适用于 Dart 和 Flutter 的跨平台 3D 工具包</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/chat_bottom_container">chat_bottom_container</a> - 用于管理聊天页面底部容器的Flutter包，可用于实现键盘与其他面板之间的平滑切换</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/community_charts_flutter">community_charts_flutter</a> - 用于 Flutter 的 Material Design 图表库。从 google/charts 分叉而来</li>  
+        <li><a href="https://pub.flutter-io.cn/packages/data_table_2">data_table_2</a> - 使用固定/粘性标题和一些额外功能就地替代 Flutter 的 DataTable 和 PaginatedDataTable</li>  
+      </ul> 
+</div>
+
 <div class="changeLogItem 05-29">
       <h3>05-29</h3>
       <ul>
@@ -22,22 +33,7 @@
       </ul> 
 </div>
 
-<div class="changeLogItem 05-25">
-      <h3>05-25</h3>
-      <ul>
-        <li><a href="https://pub.flutter-io.cn/packages/chrome_extension">chrome_extension</a> - 用于访问 Chrome 扩展程序中可用的 `chrome.*` API 的库</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/mesh_gradient">mesh_gradient</a> - 创建美丽的流体状网格渐变的小部件</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/animated_reorderable_list">animated_reorderable_list</a> - 实现简单、过渡流畅的 Flutter 可重新排序动画列表</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/native_image_cropper">native_image_cropper</a> - 裁剪图片的 Flutter 插件</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/pro_image_editor">pro_image_editor</a> - 图像编辑器：通过用户友好的编辑功能无缝增强您的图像</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/flutter_v2ray">flutter_v2ray</a> - 允许你建立 v2ray 连接的插件</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/pdfrx">pdfrx</a> - 基于 pdfium 构建的丰富、快速的 PDF 查看器实现</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/html_to_pdf_plus">html_to_pdf_plus</a> - 用于从 HTML 代码模板生成 PDF 文档</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/htmltopdfwidgets">htmltopdfwidgets</a> - Html 到 pdf 小部件</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/shadcn_ui">shadcn_ui</a> - shadcn-ui</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/scaled_app">scaled_app</a> - 按比例缩放整个 UI 设计，当您的 UI 设计是固定宽度</li>  
-      </ul> 
-</div>
+
 
 
 
@@ -1652,6 +1648,13 @@
   <tbody id="列表">
       
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/data_table_2" rel="nofollow">data_table_2</a></td>
+    <td>使用固定/粘性标题和一些额外功能就地替代 Flutter 的 DataTable 和 PaginatedDataTable</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/two_dimensional_scrollables" rel="nofollow">two_dimensional_scrollables</a></td>
     <td>使用二维滚动基础滚动的小部件</td>
     <td>暂无</td>
@@ -1854,6 +1857,27 @@
   </tr>
   </thead>
   <tbody id="UI">
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/pull_down_button" rel="nofollow">pull_down_button</a></td>
+    <td>尝试将 iOS 14+ 中的弹出按钮和 下拉按钮引入 Flutter</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/thermion_dart" rel="nofollow">thermion_dart</a></td>
+    <td>适用于 Dart 和 Flutter 的跨平台 3D 工具包</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/chat_bottom_container" rel="nofollow">chat_bottom_container</a></td>
+    <td>用于管理聊天页面底部容器的Flutter包，可用于实现键盘与其他面板之间的平滑切换</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
       
   <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/mesh_gradient" rel="nofollow">mesh_gradient</a></td>
@@ -3583,6 +3607,13 @@
   <tbody id="图表">
       
   <tr class="item">
+    <td><a href="https://pub.flutter-io.cn/packages/community_charts_flutter" rel="nofollow">community_charts_flutter</a></td>
+    <td>用于 Flutter 的 Material Design 图表库。从 google/charts 分叉而来</td>
+    <td>暂无</td>
+    <td>暂无</td>
+  </tr>
+      
+  <tr class="item">
     <td><a href="https://pub.flutter-io.cn/packages/calendar_view" rel="nofollow">calendar_view</a></td>
     <td>允许您轻松实现所有日历 UI 和日历事件功能。</td>
     <td>2024-05-10</td>
@@ -4979,6 +5010,7 @@
   </tbody>
 </table>
 </div>
+
 
 
 
