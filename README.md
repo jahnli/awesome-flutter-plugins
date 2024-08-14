@@ -10,7 +10,8 @@
 
 ### 2024-08-14
 
-- [icons_launcher](https://pub.flutter-io.cn/packages/icons_launcher) - 可简化更新 Flutter 应用启动器图标的任务
+- [device_marketing_names](https://pub.flutter-io.cn/packages/device_marketing_names) - 轻松查找 Android、iOS 和浏览器的设备营销名称。无需互联网连接或数据库。
+- [flutter_graph_view](https://pub.flutter-io.cn/packages/flutter_graph_view) - 用于精美的图形数据结构的小部件，例如力导向图。
 
 ## 目录
 
@@ -220,6 +221,7 @@
 | [vibration](https://pub.flutter-io.cn/packages/vibration)                                         | iOS 和 Android 设备上处理震动的插件。                                                                                           | 2024-05-20 | 698   |
 | [camera](https://pub.flutter-io.cn/packages/camera)                                               | 获取有关和控制 Android 和 iOS 上的相机的信息。支持预览摄像头，捕获图像，捕获视频。                                              | 2024-05-29 | 2116  |
 | [device_calendar](https://pub.flutter-io.cn/packages/device_calendar)                             | 修改用户设备上的日历。                                                                                                          | 2023-11-07 | 218   |
+| [device_marketing_names](https://pub.flutter-io.cn/packages/device_marketing_names) | 轻松查找 Android、iOS 和浏览器的设备营销名称。无需互联网连接或数据库。 | 暂无 | 暂无 |
 
 > ### <a id="项目">项目</a>
 
@@ -577,6 +579,7 @@
 | [fl_chart](https://pub.flutter-io.cn/packages/fl_chart)                                     | Flutter 图表库，当前支持折线图，条形图和饼图。                                                   | 2024-05-09 | 5597  |
 | [percent_indicator](https://pub.flutter-io.cn/packages/percent_indicator)                   | 根据百分比显示进度小部件，可以是圆形或线性的，也可以根据需要进行自定义。                         | 2023-03-03 | 2485  |
 | [graphview](https://pub.flutter-io.cn/packages/graphview)                                   | 图形结构显示数据。它可以显示树形布局和层次结构图。                                               | 2023-04-29 | 435   |
+| [flutter_graph_view](https://pub.flutter-io.cn/packages/flutter_graph_view) | 用于精美的图形数据结构的小部件，例如力导向图。 | 暂无 | 暂无 |
 
 > ### <a id="侧边栏">侧边栏 / 侧边菜单</a>
 
