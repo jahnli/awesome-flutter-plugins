@@ -6,29 +6,11 @@
 🔥🔥🔥  收集好用的Flutter插件以便更高效的开发， 如果有好用的插件或者建议，请Issue 或 PR ， 期待参与。
 <br>
 
-## 收录 657 个
+## 收录
 
-<br>	
-<div class="changeLog">
+### 2024-08-14
 
-<div class="changeLogItem 07-23">
-      <h3>07-23</h3>
-      <ul>
-        <li><a href="https://pub.flutter-io.cn/packages/pull_down_button">pull_down_button</a> - 尝试将 iOS 14+ 中的弹出按钮和 下拉按钮引入 Flutter</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/thermion_dart">thermion_dart</a> - 适用于 Dart 和 Flutter 的跨平台 3D 工具包</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/chat_bottom_container">chat_bottom_container</a> - 用于管理聊天页面底部容器的Flutter包，可用于实现键盘与其他面板之间的平滑切换</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/community_charts_flutter">community_charts_flutter</a> - 用于 Flutter 的 Material Design 图表库。从 google/charts 分叉而来</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/data_table_2">data_table_2</a> - 使用固定/粘性标题和一些额外功能就地替代 Flutter 的 DataTable 和 PaginatedDataTable</li>  
-      </ul> 
-</div>
-
-<div class="changeLogItem 05-29">
-      <h3>05-29</h3>
-      <ul>
-        <li><a href="https://pub.flutter-io.cn/packages/rive_animated_icon">rive_animated_icon</a> - 提供了丰富的动画图标，可以根据您的喜好进行定制</li>  
-        <li><a href="https://pub.flutter-io.cn/packages/two_dimensional_scrollables">two_dimensional_scrollables</a> - 使用二维滚动基础滚动的小部件</li>  
-      </ul> 
-</div>
+- [icons_launcher](https://pub.flutter-io.cn/packages/icons_launcher) - 可简化更新 Flutter 应用启动器图标的任务
 
 ## 目录
 
@@ -281,6 +263,7 @@
 | [fluro](https://pub.flutter-io.cn/packages/fluro)                               | Flutter 的 企业级的路由框架。                                                                                                         | 2023-02-17 | 870   |
 | [provider](https://pub.flutter-io.cn/packages/provider)                         | 官方推荐的状态管理。                                                                                                                  | 2024-02-28 | 9965  |
 | [intl](https://pub.flutter-io.cn/packages/intl)                                 | 包含用于处理国际化/本地化消息，日期和数字格式和解析，双向文本以及其他国际化问题的代码。                                               | 2023-12-07 | 5196  |
+| [icons_launcher](https://pub.flutter-io.cn/packages/icons_launcher) | 可简化更新 Flutter 应用启动器图标的任务 | 暂无 | 100 |
 
 > ### <a id="列表">列表</a>
 
