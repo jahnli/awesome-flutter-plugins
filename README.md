@@ -9,6 +9,8 @@
 
 - [1](https://pub.flutter-io.cn/packages/1) - 1
 
+- [2](https://pub.flutter-io.cn/packages/2) - 2
+
 ## 目录
 
 - [插件](#插件)
@@ -787,3 +789,4 @@
 | [flutter_inappwebview](https://pub.flutter-io.cn/packages/flutter_inappwebview)         | 可让您添加嵌入式 Web 视图，使用 Web 视图以及打开应用内浏览器窗口。        | 2023-12-25 | 2280  |
 | [flutter_widget_from_html](https://pub.flutter-io.cn/packages/flutter_widget_from_html) | 用于从 html 构建小部件树的 Flutter 软件包，支持超链接，图像，嵌套列表等。 | 2024-06-09 | 830   |
 | [1](https://pub.flutter-io.cn/packages/1) | 1 | 暂无 | 暂无 |
+| [2](https://pub.flutter-io.cn/packages/2) | 2 | 暂无 | 暂无 |
