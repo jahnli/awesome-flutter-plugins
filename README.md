@@ -215,7 +215,6 @@
 | [camera](https://pub.flutter-io.cn/packages/camera)                                               | 获取有关和控制 Android 和 iOS 上的相机的信息。支持预览摄像头，捕获图像，捕获视频。                                              | 2024-05-29 | 2116  |
 | [device_calendar](https://pub.flutter-io.cn/packages/device_calendar)                             | 修改用户设备上的日历。                                                                                                          | 2023-11-07 | 218   |
 | [device_marketing_names](https://pub.flutter-io.cn/packages/device_marketing_names) | 轻松查找 Android、iOS 和浏览器的设备营销名称。无需互联网连接或数据库。 | 暂无 | 暂无 |
-| [1](https://pub.flutter-io.cn/packages/1) | 1 | 暂无 | 暂无 |
 
 > ### <a id="项目">项目</a>
 
