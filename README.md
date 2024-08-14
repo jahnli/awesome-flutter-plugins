@@ -8,6 +8,7 @@
 ### 2024-08-14
 
 - [2](https://pub.flutter-io.cn/packages/2) - 2
+- [3](https://pub.flutter-io.cn/packages/3) - 2
 ## 目录
 
 - [插件](#插件)
@@ -98,6 +99,7 @@
 | [flutter_unity_widget](https://pub.flutter-io.cn/packages/flutter_unity_widget)                         | Flutter Unity 3D 小部件，用于将 Unity 游戏场景嵌入 flutter 中。                                                                      | 2024-01-08 | 822   |
 | [flame](https://pub.flutter-io.cn/packages/flame)                                                       | Flutter 游戏引擎。                                                                                                                   | 2024-05-27 | 1881  |
 | [2](https://pub.flutter-io.cn/packages/2) | 2 | 暂无 | 暂无 |
+| [3](https://pub.flutter-io.cn/packages/3) | 2 | 暂无 | 暂无 |
 
 > ### <a id="设备">设备</a>
 
