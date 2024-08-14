@@ -103,7 +103,6 @@
 | [flutter_colorpicker](https://pub.flutter-io.cn/packages/flutter_colorpicker)                           | 一款受 chrome devtools 启发的 HSV（HSB）/ HSL 拾色器。                                                                               | 2024-05-19 | 882   |
 | [flutter_unity_widget](https://pub.flutter-io.cn/packages/flutter_unity_widget)                         | Flutter Unity 3D 小部件，用于将 Unity 游戏场景嵌入 flutter 中。                                                                      | 2024-01-08 | 822   |
 | [flame](https://pub.flutter-io.cn/packages/flame)                                                       | Flutter 游戏引擎。                                                                                                                   | 2024-05-27 | 1881  |
-| [1](https://pub.flutter-io.cn/packages/1) | 1 | 暂无 | 暂无 |
 
 > ### <a id="设备">设备</a>
 
