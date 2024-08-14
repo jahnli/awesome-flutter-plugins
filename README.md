@@ -5,6 +5,9 @@
 
 ## 收录
 
+### 2024-08-14
+
+- [animated_analog_clock](https://pub.flutter-io.cn/packages/animated_analog_clock) - 适用于 Flutter 应用程序的可定制动画模拟时钟小部件
 ## 目录
 
 - [插件](#插件)
@@ -406,6 +409,7 @@
 | [dough](https://pub.flutter-io.cn/packages/dough)                                                       | 创建自定义的面团小部件以实现自定义的挤压效果。                                                                                | 2024-01-27 | 417   |
 | [syncfusion_flutter_sliders](https://pub.flutter-io.cn/packages/syncfusion_flutter_sliders)             | 用于创建高度可定制且 UI 丰富的滑块、范围滑块和范围选择器小部件。                                                              | 2024-07-16 | 856   |
 | [flutter_typeahead](https://pub.flutter-io.cn/packages/flutter_typeahead)                               | 高度可定制的预先输入（自动完成）文本输入字段。                                                                                | 2024-02-08 | 1911  |
+| [animated_analog_clock](https://pub.flutter-io.cn/packages/animated_analog_clock) | 适用于 Flutter 应用程序的可定制动画模拟时钟小部件 | 暂无 | 暂无 |
 
 > ### <a id="音视频">音视频</a>
 
