@@ -10,8 +10,7 @@
 
 ### 2024-08-14
 
-- [device_marketing_names](https://pub.flutter-io.cn/packages/device_marketing_names) - 轻松查找 Android、iOS 和浏览器的设备营销名称。无需互联网连接或数据库。
-- [flutter_graph_view](https://pub.flutter-io.cn/packages/flutter_graph_view) - 用于精美的图形数据结构的小部件，例如力导向图。
+- [1](https://pub.flutter-io.cn/packages/1) - 1
 
 ## 目录
 
@@ -102,6 +101,7 @@
 | [flutter_colorpicker](https://pub.flutter-io.cn/packages/flutter_colorpicker)                           | 一款受 chrome devtools 启发的 HSV（HSB）/ HSL 拾色器。                                                                               | 2024-05-19 | 882   |
 | [flutter_unity_widget](https://pub.flutter-io.cn/packages/flutter_unity_widget)                         | Flutter Unity 3D 小部件，用于将 Unity 游戏场景嵌入 flutter 中。                                                                      | 2024-01-08 | 822   |
 | [flame](https://pub.flutter-io.cn/packages/flame)                                                       | Flutter 游戏引擎。                                                                                                                   | 2024-05-27 | 1881  |
+| [1](https://pub.flutter-io.cn/packages/1) | 1 | 暂无 | 暂无 |
 
 > ### <a id="设备">设备</a>
 
