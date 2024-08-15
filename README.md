@@ -1,6 +1,6 @@
 ![logo](https://user-images.githubusercontent.com/20943608/211971592-9e8510f4-766f-40ac-814b-610196248672.png)
 
-🔥🔥🔥  收集好用的Flutter插件以便更高效的开发， 如果有好用的插件或者建议，请Issue 或 PR ， 期待参与。
+🔥🔥🔥 收集好用的Flutter插件以便更高效的开发， 如果有好用的插件或者建议，请Issue 或 PR ， 期待参与。
 
 ## 收录
 
@@ -97,7 +97,6 @@
 | [flutter_colorpicker](https://pub.flutter-io.cn/packages/flutter_colorpicker)                           | 一款受 chrome devtools 启发的 HSV（HSB）/ HSL 拾色器。                                                                               | 2024-05-19 | 882   |
 | [flutter_unity_widget](https://pub.flutter-io.cn/packages/flutter_unity_widget)                         | Flutter Unity 3D 小部件，用于将 Unity 游戏场景嵌入 flutter 中。                                                                      | 2024-01-08 | 822   |
 | [flame](https://pub.flutter-io.cn/packages/flame)                                                       | Flutter 游戏引擎。                                                                                                                   | 2024-05-27 | 1881  |
-
 
 > ### <a id="设备">设备</a>
 
@@ -217,7 +216,7 @@
 | [vibration](https://pub.flutter-io.cn/packages/vibration)                                         | iOS 和 Android 设备上处理震动的插件。                                                                                           | 2024-05-20 | 698   |
 | [camera](https://pub.flutter-io.cn/packages/camera)                                               | 获取有关和控制 Android 和 iOS 上的相机的信息。支持预览摄像头，捕获图像，捕获视频。                                              | 2024-05-29 | 2116  |
 | [device_calendar](https://pub.flutter-io.cn/packages/device_calendar)                             | 修改用户设备上的日历。                                                                                                          | 2023-11-07 | 218   |
-| [device_marketing_names](https://pub.flutter-io.cn/packages/device_marketing_names) | 轻松查找 Android、iOS 和浏览器的设备营销名称。无需互联网连接或数据库。 | 暂无 | 暂无 |
+| [device_marketing_names](https://pub.flutter-io.cn/packages/device_marketing_names)               | 轻松查找 Android、iOS 和浏览器的设备营销名称。无需互联网连接或数据库。                                                          | 暂无       | 暂无  |
 
 > ### <a id="项目">项目</a>
 
@@ -261,7 +260,7 @@
 | [fluro](https://pub.flutter-io.cn/packages/fluro)                               | Flutter 的 企业级的路由框架。                                                                                                         | 2023-02-17 | 870   |
 | [provider](https://pub.flutter-io.cn/packages/provider)                         | 官方推荐的状态管理。                                                                                                                  | 2024-02-28 | 9965  |
 | [intl](https://pub.flutter-io.cn/packages/intl)                                 | 包含用于处理国际化/本地化消息，日期和数字格式和解析，双向文本以及其他国际化问题的代码。                                               | 2023-12-07 | 5196  |
-| [icons_launcher](https://pub.flutter-io.cn/packages/icons_launcher) | 可简化更新 Flutter 应用启动器图标的任务 | 暂无 | 100 |
+| [icons_launcher](https://pub.flutter-io.cn/packages/icons_launcher)             | 可简化更新 Flutter 应用启动器图标的任务                                                                                               | 暂无       | 100   |
 
 > ### <a id="列表">列表</a>
 
@@ -409,8 +408,8 @@
 | [dough](https://pub.flutter-io.cn/packages/dough)                                                       | 创建自定义的面团小部件以实现自定义的挤压效果。                                                                                | 2024-01-27 | 417   |
 | [syncfusion_flutter_sliders](https://pub.flutter-io.cn/packages/syncfusion_flutter_sliders)             | 用于创建高度可定制且 UI 丰富的滑块、范围滑块和范围选择器小部件。                                                              | 2024-07-16 | 856   |
 | [flutter_typeahead](https://pub.flutter-io.cn/packages/flutter_typeahead)                               | 高度可定制的预先输入（自动完成）文本输入字段。                                                                                | 2024-02-08 | 1911  |
-| [animated_analog_clock](https://pub.flutter-io.cn/packages/animated_analog_clock) | 适用于 Flutter 应用程序的可定制动画模拟时钟小部件 | 暂无 | 暂无 |
-| [text_gradiate](https://pub.flutter-io.cn/packages/text_gradiate) | 用于轻松创建渐变文本的 Flutter 包 | 暂无 | 暂无 |
+| [animated_analog_clock](https://pub.flutter-io.cn/packages/animated_analog_clock)                       | 适用于 Flutter 应用程序的可定制动画模拟时钟小部件                                                                             | 暂无       | 暂无  |
+| [text_gradiate](https://pub.flutter-io.cn/packages/text_gradiate)                                       | 用于轻松创建渐变文本的 Flutter 包                                                                                             | 暂无       | 暂无  |
 
 > ### <a id="音视频">音视频</a>
 
@@ -577,7 +576,7 @@
 | [fl_chart](https://pub.flutter-io.cn/packages/fl_chart)                                     | Flutter 图表库，当前支持折线图，条形图和饼图。                                                   | 2024-05-09 | 5597  |
 | [percent_indicator](https://pub.flutter-io.cn/packages/percent_indicator)                   | 根据百分比显示进度小部件，可以是圆形或线性的，也可以根据需要进行自定义。                         | 2023-03-03 | 2485  |
 | [graphview](https://pub.flutter-io.cn/packages/graphview)                                   | 图形结构显示数据。它可以显示树形布局和层次结构图。                                               | 2023-04-29 | 435   |
-| [flutter_graph_view](https://pub.flutter-io.cn/packages/flutter_graph_view) | 用于精美的图形数据结构的小部件，例如力导向图。 | 暂无 | 暂无 |
+| [flutter_graph_view](https://pub.flutter-io.cn/packages/flutter_graph_view)                 | 用于精美的图形数据结构的小部件，例如力导向图。                                                   | 暂无       | 暂无  |
 
 > ### <a id="侧边栏">侧边栏 / 侧边菜单</a>
 
@@ -787,4 +786,3 @@
 | [html](https://pub.flutter-io.cn/packages/html)                                         | 用于在浏览器外解析和操作 HTML 内容的 API。                                | 2023-06-08 | 551   |
 | [flutter_inappwebview](https://pub.flutter-io.cn/packages/flutter_inappwebview)         | 可让您添加嵌入式 Web 视图，使用 Web 视图以及打开应用内浏览器窗口。        | 2023-12-25 | 2280  |
 | [flutter_widget_from_html](https://pub.flutter-io.cn/packages/flutter_widget_from_html) | 用于从 html 构建小部件树的 Flutter 软件包，支持超链接，图像，嵌套列表等。 | 2024-06-09 | 830   |
-
