@@ -767,7 +767,7 @@
 | [flutter_map](https://pub.dev/packages/flutter_map)                                       | Leaflet 的 Dart 实现，为 Flutter 应用程序提供地图小部件。                                       | 2024-07-02 | 1766  |
 | [flutter_baidu_mapapi_map](https://pub.dev/packages/flutter_baidu_mapapi_map)             | 百度地图 Flutter 插件。                                                                         | 2024-06-27 | 32    |
 | [flutter_bmflocation](https://pub.dev/packages/flutter_bmflocation)                       | 百度地图定位 Flutter 插件。                                                                     | 2024-01-30 | 28    |
-| [location](https://pub.dev/packages/location)                                             | 可轻松处理 iOS 和 Android 中的实时位置。                                                        | 2024-06-28 | 2921  |
+| [location](https://pub.dev/packages/location)                                             | 可轻松处理 iOS 和 Android 中的实时位置。                                                        | 2024-06-28 | 2922  |
 
 > ### <a id="广告">广告</a>
 
