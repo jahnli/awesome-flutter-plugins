@@ -6,6 +6,14 @@
 
 ### 08-15
 
+- [rating_and_feedback_collector](https://pub.dev/packages/rating_and_feedback_collector) - 可定制的评级栏，带有表情符号、图标、带有半/满评级的自定义图像和动态反馈警报
+- [livelyness_detection](https://pub.dev/packages/livelyness_detection) - 用于检测相机中可见的脸部是否为真人脸部
+- [moon_design](https://pub.dev/packages/moon_design) - Moon 设计系统。一组遵循 Moon 设计系统的连贯、可主题化且可扩展的小部件
+- [forui](https://pub.dev/packages/forui) - 它提供了一组受 Shadcn/ui 很大启发的简约小部件
+- [media_query_preview](https://pub.dev/packages/media_query_preview) - 支持跨各种设备和条件进行 UI 预览，支持自定义设备、亮度和文本比例
+- [animated_hint_textfield](https://pub.dev/packages/animated_hint_textfield) - 为文本字段提示/标签文本添加动画，添加动态和引人注目的过渡以增强用户体验
+- [hugeicons](https://pub.dev/packages/hugeicons) - 4,000 多个免费 Flutter 图标。由 Hugeicons Pro Icon Library 创建
+
 ## 目录
 
 - [插件](#插件)
@@ -261,6 +269,7 @@
 | [provider](https://pub.dev/packages/provider)                         | 官方推荐的状态管理。                                                                                                                  | 2024-02-28 | 10102 |
 | [intl](https://pub.dev/packages/intl)                                 | 包含用于处理国际化/本地化消息，日期和数字格式和解析，双向文本以及其他国际化问题的代码。                                               | 2023-12-07 | 5342  |
 | [icons_launcher](https://pub.dev/packages/icons_launcher)             | 可简化更新 Flutter 应用启动器图标的任务                                                                                               | 2024-01-08 | 623   |
+| [media_query_preview](https://pub.dev/packages/media_query_preview)   | 支持跨各种设备和条件进行 UI 预览，支持自定义设备、亮度和文本比例                                                                      | 暂无       | 暂无  |
 
 > ### <a id="列表">列表</a>
 
@@ -410,6 +419,11 @@
 | [flutter_typeahead](https://pub.dev/packages/flutter_typeahead)                               | 高度可定制的预先输入（自动完成）文本输入字段。                                                                                | 2024-02-08 | 1935  |
 | [animated_analog_clock](https://pub.dev/packages/animated_analog_clock)                       | 适用于 Flutter 应用程序的可定制动画模拟时钟小部件                                                                             | 2024-06-24 | 3     |
 | [text_gradiate](https://pub.dev/packages/text_gradiate)                                       | 用于轻松创建渐变文本的 Flutter 包                                                                                             | 2024-04-23 | 41    |
+| [rating_and_feedback_collector](https://pub.dev/packages/rating_and_feedback_collector)       | 可定制的评级栏，带有表情符号、图标、带有半/满评级的自定义图像和动态反馈警报                                                   | 暂无       | 暂无  |
+| [moon_design](https://pub.dev/packages/moon_design)                                           | Moon 设计系统。一组遵循 Moon 设计系统的连贯、可主题化且可扩展的小部件                                                         | 暂无       | 暂无  |
+| [forui](https://pub.dev/packages/forui)                                                       | 它提供了一组受 Shadcn/ui 很大启发的简约小部件                                                                                 | 暂无       | 暂无  |
+| [animated_hint_textfield](https://pub.dev/packages/animated_hint_textfield)                   | 为文本字段提示/标签文本添加动画，添加动态和引人注目的过渡以增强用户体验                                                       | 暂无       | 暂无  |
+| [hugeicons](https://pub.dev/packages/hugeicons)                                               | 4,000 多个免费 Flutter 图标。由 Hugeicons Pro Icon Library 创建                                                               | 暂无       | 暂无  |
 
 > ### <a id="音视频">音视频</a>
 
@@ -742,6 +756,7 @@
 | [face_camera](https://pub.dev/packages/face_camera)                                                   | 实时检测人脸的 Flutter 相机插件，一旦检测到人脸，它可以自动捕捉                                                              | 2024-06-07 | 165   |
 | [dart_openai](https://pub.dev/packages/dart_openai)                                                   | 适用于 openAI Apis（GPT-3 和 DALL-E）的 Dart SDK，可以轻松地将 OpenAI 最先进的 AI 模型的强大功能集成到他们的 Dart 应用程序中 | 2024-02-21 | 463   |
 | [chat_gpt_api](https://pub.dev/packages/chat_gpt_api)                                                 | 用 dart 编写的 chatGPT SDK，用于访问 OpenAI API 的功能                                                                       | 2023-10-22 | 31    |
+| [livelyness_detection](https://pub.dev/packages/livelyness_detection)                                 | 用于检测相机中可见的脸部是否为真人脸部                                                                                       | 暂无       | 暂无  |
 
 > ### <a id="地图">地图</a>
 
