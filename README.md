@@ -1,10 +1,12 @@
-![logo](https://user-images.githubusercontent.com/20943608/211971592-9e8510f4-766f-40ac-814b-610196248672.png)
+![logo]()
 
 🔥🔥🔥 收集好用的Flutter插件以便更高效的开发， 如果有好用的插件或者建议，请Issue 或 PR ， 期待参与。
 
 ## 收录
 
 ### 08-15
+
+## 目录
 
 - [插件](#插件)
 - [设备](#设备)
@@ -95,7 +97,6 @@
 | [flame](https://pub.dev/packages/flame)                                                       | Flutter 游戏引擎。                                                                                                                   | 2024-05-27 | 1945  |
 | [compdfkit_flutter](https://pub.dev/packages/compdfkit_flutter)                               | 可让您快速向 Android 和 iOS Flutter 应用程序添加 PDF 功能                                                                            | 2024-08-12 | 41    |
 | [flutter_to_pdf](https://pub.dev/packages/flutter_to_pdf)                                     | 用于将任何 Flutter 小部件导出为 PDF 文档、PDF 页面或 PDF 文件的包                                                                    | 2024-08-13 | 41    |
-| [1](https://pub.dev/packages/1)                                                               | 1                                                                                                                                    | 暂无       | 暂无  |
 
 > ### <a id="设备">设备</a>
 
