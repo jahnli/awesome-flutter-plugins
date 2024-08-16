@@ -429,7 +429,7 @@
 
 | 依赖                                                                            | 描述                                                                                                         | 更新时间   | likes |
 | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | ---------- | ----- |
-| [rtc_conference_tui_kit](https://pub.dev/packages/rtc_conference_tui_kit)       | 腾讯云推出的音视频室 UIKit                                                                                   | 2024-07-01 | 3     |
+| [tencent_conference_uikit](https://pub.dev/packages/tencent_conference_uikit)       | 腾讯云推出的音视频室 UIKit                                                                                   | 2024-07-01 | 3     |
 | [flutter_soloud](https://pub.dev/packages/flutter_soloud)                       | 使用 SoLoud 库和 FFI 的 Flutter 音频插件                                                                     | 2024-05-23 | 178   |
 | [flame_audio](https://pub.dev/packages/flame_audio)                             | 火焰游戏引擎的音频支持                                                                                       | 2024-05-27 | 83    |
 | [media_kit](https://pub.dev/packages/media_kit)                                 | 适用于 Flutter 和 Dart 的跨平台视频播放器和音频播放器                                                        | 2023-10-19 | 548   |
