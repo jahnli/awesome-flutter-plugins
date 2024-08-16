@@ -45,9 +45,7 @@
 | [flutter_code_editor](https://pub.dev/packages/flutter_code_editor)                           | 支持语法突出显示和代码折叠的可定制代码字段                                                                                           | 2024-06-26 | 132   |
 | [mouse_follower](https://pub.dev/packages/mouse_follower)                                     | 使用鼠标跟随器增强您的应用程序，从而轻松自定义光标效果                                                                               | 2024-06-25 | 21    |
 | [markdown_widget](https://pub.dev/packages/markdown_widget)                                   | 简单易用的 Markdown 渲染组件                                                                                                         | 2024-02-28 | 256   |
-| [flutter_3d_controller](https://pub.dev/packages/flutter_3d_controller)                       | 于渲染不同格式（glb、gltf、fbx、obj）的交互式 3D 模型，能够控制动画、纹理和相机                                                      | 2024-05-27 | 195   |
-| [yaml](https://pub.dev/packages/yaml)                                                         | YAML 的解析器，一种人性化的数据序列化标准                                                                                            | 2023-05-04 | 241   |
-| [baidupan](https://pub.dev/packages/baidupan)                                                 | 百度网盘 API                                                                                                                         | 2023-12-02 | 6     |
+| [flutter_3d_controller](https://pub.dev/packages/flutter_3d_controller)                       | 渲染不同格式（glb、gltf、fbx、obj）的交互式 3D 模型，能够控制动画、纹理和相机                                                      | 2024-05-27 | 195   |
 | [stager](https://pub.dev/packages/stager)                                                     | Flutter 生产力工具，允许开发人员隔离 UI 部分                                                                                         | 2023-06-02 | 13    |
 | [share_handler](https://pub.dev/packages/share_handler)                                       | 用于处理传入的共享文本/媒体，以及添加共享到建议/快捷方式                                                                             | 2024-03-12 | 104   |
 | [flutter_deck](https://pub.dev/packages/flutter_deck)                                         | 创建演示文稿                                                                                                                         | 2024-06-28 | 177   |
@@ -547,6 +545,7 @@
 | [time_planner](https://pub.dev/packages/time_planner)                                   | 一个漂亮，易于使用且可自定义的日历规划器。                                                       | 2023-09-28 | 142   |
 | [syncfusion_flutter_datepicker](https://pub.dev/packages/syncfusion_flutter_datepicker) | 使用户可以轻松选择日期或日期范围。                                                               | 2024-08-13 | 1466  |
 | [syncfusion_flutter_calendar](https://pub.dev/packages/syncfusion_flutter_calendar)     | 九个内置的可配置视图，提供用于高效安排和表示约会/事件的基本功能。                                | 2024-08-13 | 1388  |
+| [yaml](https://pub.dev/packages/yaml)                                                         | YAML 的解析器，一种人性化的数据序列化标准                                                                                            | 2023-05-04 | 241   |
 
 > ### <a id="动画">动画</a>
 
@@ -670,7 +669,7 @@
 | [process_run](https://pub.dev/packages/process_run)                     | 适用于 Linux/Win/Mac 的进程运行助手以及查找可执行文件的功能。                                                                                       | 2024-07-25 | 300   |
 | [rename](https://pub.dev/packages/rename)                               | 帮助您为 Ios、Android、MacOS 和 Linux 平台更改或重命名您的 Flutter 项目 BundleId 和 AppName                                                         | 2024-03-07 | 1108  |
 
-> ### <a id="通讯">通讯</a>
+> ### <a id="通讯">通讯 / API</a>
 
 | 依赖                                                                              | 描述                                                                                                                  | 更新时间   | likes |
 | --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- | ---------- | ----- |
@@ -728,6 +727,7 @@
 | [fluwx](https://pub.dev/packages/fluwx)                                           | Flutter 中实现 WeChat SDK 的功能。借助 Fluwx，开发人员可以轻松使用 WeChatSDK，例如分享，付款，小程序。                | 2024-04-07 | 210   |
 | [socket_io_client](https://pub.dev/packages/socket_io_client)                     | 用于 Web，Flutter 和 dartvm 的 socket.io-client 的 Dartlang 端口。                                                    | 2023-08-01 | 1326  |
 | [jpush_flutter](https://pub.dev/packages/jpush_flutter)                           | 极光推送官方支持的 Flutter 插件。                                                                                     | 2024-08-09 | 84    |
+| [baidupan](https://pub.dev/packages/baidupan)                                                 | 百度网盘 API                                                                                                                         | 2023-12-02 | 6     |
 
 > ### <a id="AI">AI</a>
 
