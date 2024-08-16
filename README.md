@@ -1,4 +1,4 @@
-![logo](https://user-images.githubusercontent.com/20943608/211971592-9e8510f4-766f-40ac-814b-610196248672.png)
+![logo]()
 
 🔥🔥🔥 收集好用的Flutter插件以便更高效的开发， 如果有好用的插件或者建议，请Issue 或 PR ， 期待参与。
 
@@ -296,7 +296,6 @@
 | [scrollable_positioned_list](https://pub.dev/packages/scrollable_positioned_list)       | 滚动列表，允许滚动到列表中的特定项目。                                                     | 2023-05-08 | 1766  |
 | [pluto_grid](https://pub.dev/packages/pluto_grid)                                       | 数据表格展示。                                                                             | 2024-03-01 | 937   |
 | [infinite_scroll_pagination](https://pub.dev/packages/infinite_scroll_pagination)       | 当用户向下滚动屏幕时，懒惰地加载和显示项目页面。                                           | 2023-08-14 | 3350  |
-| [dropdown_search](https://pub.dev/packages/dropdown_search)                             | 用于让用户搜索在单个或多个选择列表中显示在对话框或菜单中的下拉列表。                       | 2023-02-26 | 1721  |
 | [extended_nested_scroll_view](https://pub.dev/packages/extended_nested_scroll_view)     | 扩展的嵌套滚动视图。                                                                       | 2023-12-27 | 274   |
 | [drag_select_grid_view](https://pub.dev/packages/drag_select_grid_view)                 | 一个同时支持拖动和点击以选择其项目的网格。                                                 | 2023-08-29 | 151   |
 | [sticky_infinite_list](https://pub.dev/packages/device_calendar)                        | 具有粘性标头的无限列表。                                                                   | 2023-11-07 | 230   |
