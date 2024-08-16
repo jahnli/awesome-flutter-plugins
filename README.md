@@ -23,6 +23,7 @@
 - [UI / 小部件](#UI)
 - [音视频](#音视频)
 - [图像 / 图形](#图像)
+- [文件](#文件)
 - [时间](#时间)
 - [动画](#动画)
 - [图表](#图表)
@@ -40,9 +41,6 @@
 
 | 依赖                                                                                          | 描述                                                                                                                                 | 更新时间   | likes |
 | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | ---------- | ----- |
-| [pdfrx](https://pub.dev/packages/pdfrx)                                                       | 基于 pdfium 构建的丰富、快速的 PDF 查看器实现                                                                                        | 2024-07-17 | 116   |
-| [html_to_pdf_plus](https://pub.dev/packages/html_to_pdf_plus)                                 | 用于从 HTML 代码模板生成 PDF 文档                                                                                                    | 2024-02-18 | 15    |
-| [htmltopdfwidgets](https://pub.dev/packages/htmltopdfwidgets)                                 | Html 到 pdf 小部件                                                                                                                   | 2024-02-08 | 42    |
 | [node_editor](https://pub.dev/packages/node_editor)                                           | 节点编辑器包                                                                                                                         | 2024-07-17 | 35    |
 | [flutter_code_editor](https://pub.dev/packages/flutter_code_editor)                           | 支持语法突出显示和代码折叠的可定制代码字段                                                                                           | 2024-06-26 | 132   |
 | [mouse_follower](https://pub.dev/packages/mouse_follower)                                     | 使用鼠标跟随器增强您的应用程序，从而轻松自定义光标效果                                                                               | 2024-06-25 | 21    |
@@ -520,6 +518,14 @@
 | [font_awesome_flutter](https://pub.dev/packages/font_awesome_flutter)                       | 以 Flutter Icons 的形式提供. 提供 1500 个其他图标供您的应用使用。                                                                                                                     | 2024-01-27 | 4454  |
 | [photo_view](https://pub.dev/packages/photo_view)                                           | 图像能够通过用户手势（例如捏，旋转和拖动）进行缩放和平移，还可以显示任何窗口小部件而不是图像，例如容器，文本或 SVG。                                                                  | 2024-04-17 | 2902  |
 | [flutter_emoji](https://pub.dev/packages/flutter_emoji)                                     | 轻巧的表情符号。                                                                                                                                                                      | 2023-08-07 | 190   |
+
+> ### <a id="文件">文件</a>
+
+| 依赖                                                                                    | 描述                                                                                             | 更新时间   | likes |
+| --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ---------- | ----- |
+| [pdfrx](https://pub.dev/packages/pdfrx)                                                       | 基于 pdfium 构建的丰富、快速的 PDF 查看器实现                                                                                        | 2024-07-17 | 116   |
+| [html_to_pdf_plus](https://pub.dev/packages/html_to_pdf_plus)                                 | 用于从 HTML 代码模板生成 PDF 文档                                                                                                    | 2024-02-18 | 15    |
+| [htmltopdfwidgets](https://pub.dev/packages/htmltopdfwidgets)                                 | Html 到 pdf 小部件                                                                                                                   | 2024-02-08 | 42    |
 
 > ### <a id="时间">时间</a>
 
