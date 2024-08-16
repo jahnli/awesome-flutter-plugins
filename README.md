@@ -322,10 +322,10 @@
 | [super_context_menu](https://pub.dev/packages/super_context_menu)                             | 上下文菜单可以无缝过渡到移动设备上的拖放                                                                                      | 2024-08-08 | 150   |
 | [tencent_cloud_chat_uikit](https://pub.dev/packages/tencent_cloud_chat_uikit)                 | 腾讯云聊天强大的聊天 UI 组件库和业务逻辑，创建无缝的应用内聊天模块，带来愉悦的用户体验                                        | 2024-07-26 | 46    |
 | [o3d](https://pub.dev/packages/o3d)                                                           | 移动和网络平台上的 Flutter 3D 对象简易控制器（glb 格式）                                                                      | 2024-06-23 | 155   |
-| [tdesign_flutter](https://pub.dev/packages/tdesign_flutter)                                   | 腾讯 TDesign UI 组件库，适合在移动项目中使用                                                                                  | 2024-07-24 | 45    |
+| [tdesign_flutter](https://pub.dev/packages/tdesign_flutter)                                   | 腾讯 TDesign UI 组件库，适合在移动项目中使用                                                                                  | 2024-07-24 | 46    |
 | [aura_box](https://pub.dev/packages/aura_box)                                                 | 径向渐变和模糊效果的小部件                                                                                                    | 2023-10-14 | 39    |
 | [flutter_timer_countdown](https://pub.dev/packages/flutter_timer_countdown)                   | 简单的计时器                                                                                                                  | 2023-11-11 | 165   |
-| [skeletonizer](https://pub.dev/packages/skeletonizer)                                         | 无需额外的努力即可将已构建的小部件转换为骨架加载器                                                                            | 2024-07-31 | 1055  |
+| [skeletonizer](https://pub.dev/packages/skeletonizer)                                         | 无需额外的努力即可将已构建的小部件转换为骨架加载器                                                                            | 2024-07-31 | 1056  |
 | [info_popup](https://pub.dev/packages/info_popup)                                             | 用户显示有关所选小部件                                                                                                        | 2023-11-22 | 116   |
 | [magnifying_glass](https://pub.dev/packages/magnifying_glass)                                 | 具有实时放大镜镜头小部件                                                                                                      | 2023-10-17 | 39    |
 | [appinio_social_share](https://pub.dev/packages/appinio_social_share)                         | 支持将文本、图像、文件和带图像的文本共享到社交媒体                                                                            | 2024-08-01 | 221   |
@@ -369,7 +369,7 @@
 | [in_app_review](https://pub.dev/packages/in_app_review)                                       | Flutter 插件，用于在 Android、IOS 和 MacOS 上显示应用内评论/系统评级弹出窗口。                                                | 2024-03-17 | 1925  |
 | [flutter_glow](https://pub.dev/packages/flutter_glow)                                         | Flutter Glow ui 套件，可帮助您创建和使用发光的小部件。                                                                        | 2023-04-08 | 144   |
 | [readmore](https://pub.dev/packages/readmore)                                                 | 允许动态展开和折叠文本的 Flutter 包。                                                                                         | 2024-03-27 | 941   |
-| [smooth_page_indicator](https://pub.dev/packages/smooth_page_indicator)                       | 具有一组内置效果的可定制动画页面指示器。                                                                                      | 2024-07-20 | 3411  |
+| [smooth_page_indicator](https://pub.dev/packages/smooth_page_indicator)                       | 具有一组内置效果的可定制动画页面指示器。                                                                                      | 2024-07-20 | 3412  |
 | [visibility_detector](https://pub.dev/packages/visibility_detector)                           | 检测其子项的可见性并通知回调的小部件。                                                                                        | 2023-03-09 | 1054  |
 | [flutter_instagram_stories](https://pub.dev/packages/flutter_instagram_stories)               | 显示故事（视频和图像），如 Whatsapp 和 Instagram。                                                                            | 2024-04-09 | 170   |
 | [expand_widget](https://pub.dev/packages/expand_widget)                                       | 能够轻松展开和收回小部件集合或文本。                                                                                          | 2023-02-02 | 134   |
@@ -540,8 +540,8 @@
 | [flutter_calendar_carousel](https://pub.dev/packages/flutter_calendar_carousel)         | 可滑动的日历小部件。                                                                             | 2024-05-23 | 446   |
 | [date_picker_timeline](https://pub.dev/packages/date_picker_timeline)                   | 日期选择器库，提供日历作为水平时间线。                                                           | 2024-04-02 | 535   |
 | [time_planner](https://pub.dev/packages/time_planner)                                   | 一个漂亮，易于使用且可自定义的日历规划器。                                                       | 2023-09-28 | 142   |
-| [syncfusion_flutter_datepicker](https://pub.dev/packages/syncfusion_flutter_datepicker) | 使用户可以轻松选择日期或日期范围。                                                               | 2024-08-13 | 1465  |
-| [syncfusion_flutter_calendar](https://pub.dev/packages/syncfusion_flutter_calendar)     | 九个内置的可配置视图，提供用于高效安排和表示约会/事件的基本功能。                                | 2024-08-13 | 1387  |
+| [syncfusion_flutter_datepicker](https://pub.dev/packages/syncfusion_flutter_datepicker) | 使用户可以轻松选择日期或日期范围。                                                               | 2024-08-13 | 1466  |
+| [syncfusion_flutter_calendar](https://pub.dev/packages/syncfusion_flutter_calendar)     | 九个内置的可配置视图，提供用于高效安排和表示约会/事件的基本功能。                                | 2024-08-13 | 1388  |
 
 > ### <a id="动画">动画</a>
 
