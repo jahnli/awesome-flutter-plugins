@@ -23,6 +23,7 @@
 - [UI / 小部件](#UI)
 - [音视频](#音视频)
 - [图像 / 图形](#图像)
+- [文件](#文件)
 - [时间](#时间)
 - [动画](#动画)
 - [图表](#图表)
@@ -40,16 +41,11 @@
 
 | 依赖                                                                                          | 描述                                                                                                                                 | 更新时间   | likes |
 | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | ---------- | ----- |
-| [pdfrx](https://pub.dev/packages/pdfrx)                                                       | 基于 pdfium 构建的丰富、快速的 PDF 查看器实现                                                                                        | 2024-07-17 | 116   |
-| [html_to_pdf_plus](https://pub.dev/packages/html_to_pdf_plus)                                 | 用于从 HTML 代码模板生成 PDF 文档                                                                                                    | 2024-02-18 | 15    |
-| [htmltopdfwidgets](https://pub.dev/packages/htmltopdfwidgets)                                 | Html 到 pdf 小部件                                                                                                                   | 2024-02-08 | 42    |
 | [node_editor](https://pub.dev/packages/node_editor)                                           | 节点编辑器包                                                                                                                         | 2024-07-17 | 35    |
 | [flutter_code_editor](https://pub.dev/packages/flutter_code_editor)                           | 支持语法突出显示和代码折叠的可定制代码字段                                                                                           | 2024-06-26 | 132   |
 | [mouse_follower](https://pub.dev/packages/mouse_follower)                                     | 使用鼠标跟随器增强您的应用程序，从而轻松自定义光标效果                                                                               | 2024-06-25 | 21    |
 | [markdown_widget](https://pub.dev/packages/markdown_widget)                                   | 简单易用的 Markdown 渲染组件                                                                                                         | 2024-02-28 | 256   |
-| [flutter_3d_controller](https://pub.dev/packages/flutter_3d_controller)                       | 于渲染不同格式（glb、gltf、fbx、obj）的交互式 3D 模型，能够控制动画、纹理和相机                                                      | 2024-05-27 | 195   |
-| [yaml](https://pub.dev/packages/yaml)                                                         | YAML 的解析器，一种人性化的数据序列化标准                                                                                            | 2023-05-04 | 241   |
-| [baidupan](https://pub.dev/packages/baidupan)                                                 | 百度网盘 API                                                                                                                         | 2023-12-02 | 6     |
+| [flutter_3d_controller](https://pub.dev/packages/flutter_3d_controller)                       | 渲染不同格式（glb、gltf、fbx、obj）的交互式 3D 模型，能够控制动画、纹理和相机                                                      | 2024-05-27 | 195   |
 | [stager](https://pub.dev/packages/stager)                                                     | Flutter 生产力工具，允许开发人员隔离 UI 部分                                                                                         | 2023-06-02 | 13    |
 | [share_handler](https://pub.dev/packages/share_handler)                                       | 用于处理传入的共享文本/媒体，以及添加共享到建议/快捷方式                                                                             | 2024-03-12 | 104   |
 | [flutter_deck](https://pub.dev/packages/flutter_deck)                                         | 创建演示文稿                                                                                                                         | 2024-06-28 | 177   |
@@ -296,7 +292,6 @@
 | [scrollable_positioned_list](https://pub.dev/packages/scrollable_positioned_list)       | 滚动列表，允许滚动到列表中的特定项目。                                                     | 2023-05-08 | 1766  |
 | [pluto_grid](https://pub.dev/packages/pluto_grid)                                       | 数据表格展示。                                                                             | 2024-03-01 | 937   |
 | [infinite_scroll_pagination](https://pub.dev/packages/infinite_scroll_pagination)       | 当用户向下滚动屏幕时，懒惰地加载和显示项目页面。                                           | 2023-08-14 | 3350  |
-| [dropdown_search](https://pub.dev/packages/dropdown_search)                             | 用于让用户搜索在单个或多个选择列表中显示在对话框或菜单中的下拉列表。                       | 2023-02-26 | 1721  |
 | [extended_nested_scroll_view](https://pub.dev/packages/extended_nested_scroll_view)     | 扩展的嵌套滚动视图。                                                                       | 2023-12-27 | 274   |
 | [drag_select_grid_view](https://pub.dev/packages/drag_select_grid_view)                 | 一个同时支持拖动和点击以选择其项目的网格。                                                 | 2023-08-29 | 151   |
 | [sticky_infinite_list](https://pub.dev/packages/device_calendar)                        | 具有粘性标头的无限列表。                                                                   | 2023-11-07 | 230   |
@@ -522,6 +517,14 @@
 | [photo_view](https://pub.dev/packages/photo_view)                                           | 图像能够通过用户手势（例如捏，旋转和拖动）进行缩放和平移，还可以显示任何窗口小部件而不是图像，例如容器，文本或 SVG。                                                                  | 2024-04-17 | 2902  |
 | [flutter_emoji](https://pub.dev/packages/flutter_emoji)                                     | 轻巧的表情符号。                                                                                                                                                                      | 2023-08-07 | 190   |
 
+> ### <a id="文件">文件</a>
+
+| 依赖                                                                                    | 描述                                                                                             | 更新时间   | likes |
+| --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ---------- | ----- |
+| [pdfrx](https://pub.dev/packages/pdfrx)                                                       | 基于 pdfium 构建的丰富、快速的 PDF 查看器实现                                                                                        | 2024-07-17 | 116   |
+| [html_to_pdf_plus](https://pub.dev/packages/html_to_pdf_plus)                                 | 用于从 HTML 代码模板生成 PDF 文档                                                                                                    | 2024-02-18 | 15    |
+| [htmltopdfwidgets](https://pub.dev/packages/htmltopdfwidgets)                                 | Html 到 pdf 小部件                                                                                                                   | 2024-02-08 | 42    |
+
 > ### <a id="时间">时间</a>
 
 | 依赖                                                                                    | 描述                                                                                             | 更新时间   | likes |
@@ -542,6 +545,7 @@
 | [time_planner](https://pub.dev/packages/time_planner)                                   | 一个漂亮，易于使用且可自定义的日历规划器。                                                       | 2023-09-28 | 142   |
 | [syncfusion_flutter_datepicker](https://pub.dev/packages/syncfusion_flutter_datepicker) | 使用户可以轻松选择日期或日期范围。                                                               | 2024-08-13 | 1466  |
 | [syncfusion_flutter_calendar](https://pub.dev/packages/syncfusion_flutter_calendar)     | 九个内置的可配置视图，提供用于高效安排和表示约会/事件的基本功能。                                | 2024-08-13 | 1388  |
+| [yaml](https://pub.dev/packages/yaml)                                                         | YAML 的解析器，一种人性化的数据序列化标准                                                                                            | 2023-05-04 | 241   |
 
 > ### <a id="动画">动画</a>
 
@@ -665,7 +669,7 @@
 | [process_run](https://pub.dev/packages/process_run)                     | 适用于 Linux/Win/Mac 的进程运行助手以及查找可执行文件的功能。                                                                                       | 2024-07-25 | 300   |
 | [rename](https://pub.dev/packages/rename)                               | 帮助您为 Ios、Android、MacOS 和 Linux 平台更改或重命名您的 Flutter 项目 BundleId 和 AppName                                                         | 2024-03-07 | 1108  |
 
-> ### <a id="通讯">通讯</a>
+> ### <a id="通讯">通讯 / API</a>
 
 | 依赖                                                                              | 描述                                                                                                                  | 更新时间   | likes |
 | --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- | ---------- | ----- |
@@ -723,6 +727,7 @@
 | [fluwx](https://pub.dev/packages/fluwx)                                           | Flutter 中实现 WeChat SDK 的功能。借助 Fluwx，开发人员可以轻松使用 WeChatSDK，例如分享，付款，小程序。                | 2024-04-07 | 210   |
 | [socket_io_client](https://pub.dev/packages/socket_io_client)                     | 用于 Web，Flutter 和 dartvm 的 socket.io-client 的 Dartlang 端口。                                                    | 2023-08-01 | 1326  |
 | [jpush_flutter](https://pub.dev/packages/jpush_flutter)                           | 极光推送官方支持的 Flutter 插件。                                                                                     | 2024-08-09 | 84    |
+| [baidupan](https://pub.dev/packages/baidupan)                                                 | 百度网盘 API                                                                                                                         | 2023-12-02 | 6     |
 
 > ### <a id="AI">AI</a>
 
