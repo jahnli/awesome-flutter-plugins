@@ -56,7 +56,6 @@
 | [store_checker](https://pub.dev/packages/store_checker)                                       | 查找当前安装的 apk/ipa 的来源                                                                                                        | 2024-08-02 | 64    |
 | [twitter_api_v2](https://pub.dev/packages/twitter_api_v2)                                     | Dart 语言编写的 Twitter API v2.0 的轻量级和强大的包装库                                                                              | 2023-02-27 | 72    |
 | [flame_forge2d](https://pub.dev/packages/flame_forge2d)                                       | Forge2D (Box2D) 支持 Flame 游戏引擎                                                                                                  | 2024-05-27 | 63    |
-| [flutter_tesseract_ocr](https://pub.dev/packages/flutter_tesseract_ocr)                       | 基于神经网络 (LSTM) 的 OCR 引擎，该引擎专注于线识别。它支持 unicode (UTF-8)，可以识别 100 多种语言                                   | 2024-07-02 | 161   |
 | [serverpod](https://pub.dev/packages/serverpod)                                               | 为 Flutter 社区构建的下一代应用程序和 Web 服务器。它允许您在 Dart 中编写服务器端代码，自动生成您的 API，并以最小的努力连接您的数据库 | 2024-07-12 | 571   |
 | [super_editor](https://pub.dev/packages/super_editor)                                         | 可配置、可组合、可扩展的文本编辑器和文档渲染器。                                                                                     | 2024-06-11 | 644   |
 | [flutter_link_previewer](https://pub.dev/packages/flutter_link_previewer)                     | 从提供的文本中提取的 URL 预览，具有基本自定义和从缓存数据呈现的能力。                                                                | 2023-07-09 | 283   |
@@ -763,6 +762,7 @@
 | [dart_openai](https://pub.dev/packages/dart_openai)                                                   | 适用于 openAI Apis（GPT-3 和 DALL-E）的 Dart SDK，可以轻松地将 OpenAI 最先进的 AI 模型的强大功能集成到他们的 Dart 应用程序中 | 2024-02-21 | 463   |
 | [chat_gpt_api](https://pub.dev/packages/chat_gpt_api)                                                 | 用 dart 编写的 chatGPT SDK，用于访问 OpenAI API 的功能                                                                       | 2023-10-22 | 31    |
 | [livelyness_detection](https://pub.dev/packages/livelyness_detection)                                 | 用于检测相机中可见的脸部是否为真人脸部                                                                                       | 2024-07-23 | 20    |
+| [flutter_tesseract_ocr](https://pub.dev/packages/flutter_tesseract_ocr)                       | 基于神经网络 (LSTM) 的 OCR 引擎，该引擎专注于线识别。它支持 unicode (UTF-8)，可以识别 100 多种语言                                   | 2024-07-02 | 161   |
 
 > ### <a id="地图">地图</a>
 
