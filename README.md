@@ -239,7 +239,6 @@
 | [crypto](https://pub.dev/packages/crypto)                             | SHA，MD5 和 HMAC 加密功能的实现                                                                                                       | 2024-08-15 | 1612  |
 | [Dio](https://pub.dev/packages/dio)                                   | Dart 的强大 Http 客户端，支持拦截器，全局配置，FormData，请求取消，文件下载，超时等。                                                 | 2024-08-13 | 7288  |
 | [shared_preferences](https://pub.dev/packages/shared_preferences)     | 读取、设置缓存。                                                                                                                      | 2024-08-15 | 9403  |
-| [fluro](https://pub.dev/packages/fluro)                               | Flutter 的 企业级的路由框架。                                                                                                         | 2023-02-17 | 876   |
 | [provider](https://pub.dev/packages/provider)                         | 官方推荐的状态管理。                                                                                                                  | 2024-02-28 | 10105 |
 | [intl](https://pub.dev/packages/intl)                                 | 包含用于处理国际化/本地化消息，日期和数字格式和解析，双向文本以及其他国际化问题的代码。                                               | 2023-12-07 | 5342  |
 | [icons_launcher](https://pub.dev/packages/icons_launcher)             | 可简化更新 Flutter 应用启动器图标的任务                                                                                               | 2024-01-08 | 623   |
@@ -377,7 +376,6 @@
 | [flutter_form_builder](https://pub.dev/packages/flutter_form_builder)                         | 通过删除样板代码，重用验证，对更改做出反应并收集最终用户输入来帮助在 Flutter 中创建表单。                                     | 2024-08-12 | 2477  |
 | [flutter_platform_widgets](https://pub.dev/packages/flutter_platform_widgets)                 | 通过单个小部件简化了 Material 和 Cupertino 小部件的使用。                                                                     | 2024-07-21 | 1162  |
 | [flutter_login](https://pub.dev/packages/flutter_login)                                       | 具有登录/注册功能的登录小部件，可帮助加快开发速度。                                                                           | 2023-12-19 | 1364  |
-| [flutter_quill](https://pub.dev/packages/flutter_quill)                                       | 支持移动和 Web 的富文本编辑器。                                                                                               | 2024-08-15 | 1690  |
 | [sign_button](https://pub.dev/packages/sign_button)                                           | 为不同的社交媒体帐户生成登录按钮。                                                                                            | 2023-09-12 | 171   |
 | [velocity_x](https://pub.dev/packages/velocity_x)                                             | 开源极简 UI 框架，可快速构建定制设计。                                                                                        | 2024-05-27 | 1399  |
 | [getwidget](https://pub.dev/packages/getwidget)                                               | 带有预构建的 1000 多个 UI 组件。它使开发更快，更愉快。                                                                        | 2023-08-24 | 2277  |
@@ -523,6 +521,8 @@
 | [syncfusion_flutter_datagrid](https://pub.dev/packages/syncfusion_flutter_datagrid)     | 用于在表格视图中显示和操作数据                                                             | 2024-08-13 | 729   |
 | [super_editor](https://pub.dev/packages/super_editor)                                         | 可配置、可组合、可扩展的文本编辑器和文档渲染器。                                                                                     | 2024-06-11 | 644   |
 | [appflowy_editor](https://pub.dev/packages/appflowy_editor)                                   | 高度可定制的 Flutter 富文本编辑器                                                                                                    | 2024-07-08 | 373   |
+| [flutter_quill](https://pub.dev/packages/flutter_quill)                                       | 支持移动和 Web 的富文本编辑器。                                                                                               | 2024-08-15 | 1690  |
+| [yaml](https://pub.dev/packages/yaml)                                                         | YAML 的解析器，一种人性化的数据序列化标准                                                                                            | 2023-05-04 | 241   |
 
 > ### <a id="时间">时间</a>
 
@@ -544,7 +544,6 @@
 | [time_planner](https://pub.dev/packages/time_planner)                                   | 一个漂亮，易于使用且可自定义的日历规划器。                                                       | 2023-09-28 | 142   |
 | [syncfusion_flutter_datepicker](https://pub.dev/packages/syncfusion_flutter_datepicker) | 使用户可以轻松选择日期或日期范围。                                                               | 2024-08-13 | 1466  |
 | [syncfusion_flutter_calendar](https://pub.dev/packages/syncfusion_flutter_calendar)     | 九个内置的可配置视图，提供用于高效安排和表示约会/事件的基本功能。                                | 2024-08-13 | 1388  |
-| [yaml](https://pub.dev/packages/yaml)                                                         | YAML 的解析器，一种人性化的数据序列化标准                                                                                            | 2023-05-04 | 241   |
 
 > ### <a id="动画">动画</a>
 
