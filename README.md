@@ -54,7 +54,6 @@
 | [super_drag_and_drop](https://pub.dev/packages/super_drag_and_drop)                           | Flutter 的原生拖放支持。允许跨应用程序拖动内容                                                                                       | 2024-08-08 | 395   |
 | [appflowy_editor](https://pub.dev/packages/appflowy_editor)                                   | 高度可定制的 Flutter 富文本编辑器                                                                                                    | 2024-07-08 | 373   |
 | [store_checker](https://pub.dev/packages/store_checker)                                       | 查找当前安装的 apk/ipa 的来源                                                                                                        | 2024-08-02 | 64    |
-| [twitter_api_v2](https://pub.dev/packages/twitter_api_v2)                                     | Dart 语言编写的 Twitter API v2.0 的轻量级和强大的包装库                                                                              | 2023-02-27 | 72    |
 | [flame_forge2d](https://pub.dev/packages/flame_forge2d)                                       | Forge2D (Box2D) 支持 Flame 游戏引擎                                                                                                  | 2024-05-27 | 63    |
 | [serverpod](https://pub.dev/packages/serverpod)                                               | 为 Flutter 社区构建的下一代应用程序和 Web 服务器。它允许您在 Dart 中编写服务器端代码，自动生成您的 API，并以最小的努力连接您的数据库 | 2024-07-12 | 571   |
 | [super_editor](https://pub.dev/packages/super_editor)                                         | 可配置、可组合、可扩展的文本编辑器和文档渲染器。                                                                                     | 2024-06-11 | 644   |
@@ -82,9 +81,7 @@
 | [flutter_inapp_purchase](https://pub.dev/packages/flutter_inapp_purchase)                     | 应用程序购买。                                                                                                                       | 2023-12-18 | 403   |
 | [pin_code_fields](https://pub.dev/packages/pin_code_fields)                                   | 帮助您生成 pin 码字段。                                                                                                              | 2023-06-24 | 2140  |
 | [flutter_native_splash](https://pub.dev/packages/flutter_native_splash)                       | 生成本机代码以使用背景颜色和初始图像来自定义 Flutter 的默认白色本机初始屏幕。支持暗模式，全屏等。                                    | 2024-07-07 | 8101  |
-| [markdown](https://pub.dev/packages/markdown)                                                 | 便携式 Markdown 库。它可以将 Markdown 解析为客户端和服务器上的 HTML。                                                                | 2024-03-07 | 271   |
 | [arkit_plugin](https://pub.dev/packages/arkit_plugin)                                         | ARKit-Apple 的 iOS 移动设备增强现实（AR）开发平台。                                                                                  | 2024-06-01 | 437   |
-| [flutter_markdown](https://pub.dev/packages/flutter_markdown)                                 | Flutter 的 Markdown 渲染器。                                                                                                         | 2024-08-08 | 1310  |
 | [flutter_colorpicker](https://pub.dev/packages/flutter_colorpicker)                           | 一款受 chrome devtools 启发的 HSV（HSB）/ HSL 拾色器。                                                                               | 2024-05-19 | 901   |
 | [flutter_unity_widget](https://pub.dev/packages/flutter_unity_widget)                         | Flutter Unity 3D 小部件，用于将 Unity 游戏场景嵌入 flutter 中。                                                                      | 2024-01-08 | 824   |
 | [flame](https://pub.dev/packages/flame)                                                       | Flutter 游戏引擎。                                                                                                                   | 2024-05-27 | 1945  |
@@ -524,6 +521,8 @@
 | [pdf](https://pub.dev/packages/pdf)                                                           | 为 Web 或 Flutter 创建 pdf 文件。                                                                                                    | 2024-08-08 | 2620  |
 | [compdfkit_flutter](https://pub.dev/packages/compdfkit_flutter)                               | 可让您快速向 Android 和 iOS Flutter 应用程序添加 PDF 功能                                                                            | 2024-08-12 | 41    |
 | [flutter_to_pdf](https://pub.dev/packages/flutter_to_pdf)                                     | 用于将任何 Flutter 小部件导出为 PDF 文档、PDF 页面或 PDF 文件的包                                                                    | 2024-08-13 | 41    |
+| [markdown](https://pub.dev/packages/markdown)                                                 | 便携式 Markdown 库。它可以将 Markdown 解析为客户端和服务器上的 HTML。                                                                | 2024-03-07 | 271   |
+| [flutter_markdown](https://pub.dev/packages/flutter_markdown)                                 | Flutter 的 Markdown 渲染器。                                                                                                         | 2024-08-08 | 1310  |
 
 > ### <a id="时间">时间</a>
 
@@ -728,6 +727,7 @@
 | [socket_io_client](https://pub.dev/packages/socket_io_client)                     | 用于 Web，Flutter 和 dartvm 的 socket.io-client 的 Dartlang 端口。                                                    | 2023-08-01 | 1326  |
 | [jpush_flutter](https://pub.dev/packages/jpush_flutter)                           | 极光推送官方支持的 Flutter 插件。                                                                                     | 2024-08-09 | 84    |
 | [baidupan](https://pub.dev/packages/baidupan)                                                 | 百度网盘 API                                                                                                                         | 2023-12-02 | 6     |
+| [twitter_api_v2](https://pub.dev/packages/twitter_api_v2)                                     | Dart 语言编写的 Twitter API v2.0 的轻量级和强大的包装库                                                                              | 2023-02-27 | 72    |
 
 > ### <a id="AI">AI</a>
 
