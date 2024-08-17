@@ -23,7 +23,7 @@
 - [UI / 小部件](#UI)
 - [音视频](#音视频)
 - [图像 / 图标 / 图形](#图像)
-- [文件](#文件)
+- [文件 / 文档](#文件)
 - [时间](#时间)
 - [动画](#动画)
 - [图表](#图表)
@@ -268,9 +268,6 @@
 | [sticky_and_expandable_list](https://pub.dev/packages/sticky_and_expandable_list)       | 构建分组列表，支持展开/折叠部分和粘性标题，支持将其与 sliver 小部件一起使用。              | 2023-09-24 | 156   |
 | [horizontal_data_table](https://pub.dev/packages/horizontal_data_table)                 | 左侧有固定列的水平数据表。                                                                 | 2023-06-17 | 381   |
 | [waterfall_flow](https://pub.dev/packages/waterfall_flow)                               | 快速构建瀑布流布局的 Flutter 网格视图。                                                    | 2023-11-21 | 169   |
-| [syncfusion_officechart](https://pub.dev/packages/syncfusion_officechart)               | 用于从头开始创建 Office 图表。                                                             | 2024-08-13 | 80    |
-| [syncfusion_flutter_xlsio](https://pub.dev/packages/syncfusion_flutter_xlsio)           | 创建带有公式、图表、图像、超链接、自动调整行和列等的 Excel 文档。                          | 2024-08-13 | 358   |
-| [syncfusion_flutter_datagrid](https://pub.dev/packages/syncfusion_flutter_datagrid)     | 用于在表格视图中显示和操作数据                                                             | 2024-08-13 | 729   |
 | [sliver_tools](https://pub.dev/packages/sliver_tools)                                   | 一组有用的 sliver 工具。                                                                   | 2023-07-17 | 1248  |
 | [flutter_layout_grid](https://pub.dev/packages/flutter_layout_grid)                     | 强大的 Flutter 网格布局系统                                                                | 2024-05-20 | 734   |
 | [scrollable_positioned_list](https://pub.dev/packages/scrollable_positioned_list)       | 滚动列表，允许滚动到列表中的特定项目。                                                     | 2023-05-08 | 1766  |
@@ -501,7 +498,7 @@
 | [flutter_emoji](https://pub.dev/packages/flutter_emoji)                                     | 轻巧的表情符号。                                                                                                                                                                      | 2023-08-07 | 190   |
 | [hugeicons](https://pub.dev/packages/hugeicons)                                               | 4,000 多个免费 Flutter 图标。由 Hugeicons Pro Icon Library 创建                                                               | 2024-07-25 | 179   |
 
-> ### <a id="文件">文件</a>
+> ### <a id="文件">文件 / 文档</a>
 
 | 依赖                                                                                    | 描述                                                                                             | 更新时间   | likes |
 | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ---------- | ----- |
@@ -523,6 +520,9 @@
 | [flutter_to_pdf](https://pub.dev/packages/flutter_to_pdf)                                     | 用于将任何 Flutter 小部件导出为 PDF 文档、PDF 页面或 PDF 文件的包                                                                    | 2024-08-13 | 41    |
 | [markdown](https://pub.dev/packages/markdown)                                                 | 便携式 Markdown 库。它可以将 Markdown 解析为客户端和服务器上的 HTML。                                                                | 2024-03-07 | 271   |
 | [flutter_markdown](https://pub.dev/packages/flutter_markdown)                                 | Flutter 的 Markdown 渲染器。                                                                                                         | 2024-08-08 | 1310  |
+| [syncfusion_officechart](https://pub.dev/packages/syncfusion_officechart)               | 用于从头开始创建 Office 图表。                                                             | 2024-08-13 | 80    |
+| [syncfusion_flutter_xlsio](https://pub.dev/packages/syncfusion_flutter_xlsio)           | 创建带有公式、图表、图像、超链接、自动调整行和列等的 Excel 文档。                          | 2024-08-13 | 358   |
+| [syncfusion_flutter_datagrid](https://pub.dev/packages/syncfusion_flutter_datagrid)     | 用于在表格视图中显示和操作数据                                                             | 2024-08-13 | 729   |
 
 > ### <a id="时间">时间</a>
 
