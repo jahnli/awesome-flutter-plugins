@@ -22,7 +22,7 @@
 - [列表](#列表)
 - [UI / 小部件](#UI)
 - [音视频](#音视频)
-- [图像 / 图形](#图像)
+- [图像 / 图标 / 图形](#图像)
 - [文件](#文件)
 - [时间](#时间)
 - [动画](#动画)
@@ -402,7 +402,6 @@
 | [moon_design](https://pub.dev/packages/moon_design)                                           | Moon 设计系统。一组遵循 Moon 设计系统的连贯、可主题化且可扩展的小部件                                                         | 2024-08-09 | 35    |
 | [forui](https://pub.dev/packages/forui)                                                       | 它提供了一组受 Shadcn/ui 很大启发的简约小部件                                                                                 | 2024-08-06 | 41    |
 | [animated_hint_textfield](https://pub.dev/packages/animated_hint_textfield)                   | 为文本字段提示/标签文本添加动画，添加动态和引人注目的过渡以增强用户体验                                                       | 2024-06-21 | 58    |
-| [hugeicons](https://pub.dev/packages/hugeicons)                                               | 4,000 多个免费 Flutter 图标。由 Hugeicons Pro Icon Library 创建                                                               | 2024-07-25 | 179   |
 
 > ### <a id="音视频">音视频</a>
 
@@ -446,7 +445,7 @@
 | [chewie](https://pub.dev/packages/chewie)                                       | Flutter 的视频播放器，带有 Cupertino 和 Material 播放控件。                                                  | 2024-08-05 | 1981  |
 | [flutter_webrtc](https://pub.dev/packages/flutter_webrtc)                       | Flutter WebRTC 插件。                                                                                        | 2024-08-07 | 1116  |
 
-> ### <a id="图像">图像 / 图形</a>
+> ### <a id="图像">图像 / 图标 / 图形</a>
 
 | 依赖                                                                                        | 描述                                                                                                                                                                                  | 更新时间   | likes |
 | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ----- |
@@ -500,6 +499,7 @@
 | [font_awesome_flutter](https://pub.dev/packages/font_awesome_flutter)                       | 以 Flutter Icons 的形式提供. 提供 1500 个其他图标供您的应用使用。                                                                                                                     | 2024-01-27 | 4454  |
 | [photo_view](https://pub.dev/packages/photo_view)                                           | 图像能够通过用户手势（例如捏，旋转和拖动）进行缩放和平移，还可以显示任何窗口小部件而不是图像，例如容器，文本或 SVG。                                                                  | 2024-04-17 | 2902  |
 | [flutter_emoji](https://pub.dev/packages/flutter_emoji)                                     | 轻巧的表情符号。                                                                                                                                                                      | 2023-08-07 | 190   |
+| [hugeicons](https://pub.dev/packages/hugeicons)                                               | 4,000 多个免费 Flutter 图标。由 Hugeicons Pro Icon Library 创建                                                               | 2024-07-25 | 179   |
 
 > ### <a id="文件">文件</a>
 
