@@ -52,11 +52,9 @@
 | [focus_on_it](https://pub.dev/packages/focus_on_it)                                           | 当小部件聚焦或未聚焦时获得通知并对其做出反应                                                                                         | 2023-09-08 | 36    |
 | [auto_store_translate](https://pub.dev/packages/auto_store_translate)                         | 在 App Store/Play Store 中自动翻译/注册元数据                                                                                        | 2023-10-18 | 9     |
 | [super_drag_and_drop](https://pub.dev/packages/super_drag_and_drop)                           | Flutter 的原生拖放支持。允许跨应用程序拖动内容                                                                                       | 2024-08-08 | 395   |
-| [appflowy_editor](https://pub.dev/packages/appflowy_editor)                                   | 高度可定制的 Flutter 富文本编辑器                                                                                                    | 2024-07-08 | 373   |
 | [store_checker](https://pub.dev/packages/store_checker)                                       | 查找当前安装的 apk/ipa 的来源                                                                                                        | 2024-08-02 | 64    |
 | [flame_forge2d](https://pub.dev/packages/flame_forge2d)                                       | Forge2D (Box2D) 支持 Flame 游戏引擎                                                                                                  | 2024-05-27 | 63    |
 | [serverpod](https://pub.dev/packages/serverpod)                                               | 为 Flutter 社区构建的下一代应用程序和 Web 服务器。它允许您在 Dart 中编写服务器端代码，自动生成您的 API，并以最小的努力连接您的数据库 | 2024-07-12 | 571   |
-| [super_editor](https://pub.dev/packages/super_editor)                                         | 可配置、可组合、可扩展的文本编辑器和文档渲染器。                                                                                     | 2024-06-11 | 644   |
 | [flutter_link_previewer](https://pub.dev/packages/flutter_link_previewer)                     | 从提供的文本中提取的 URL 预览，具有基本自定义和从缓存数据呈现的能力。                                                                | 2023-07-09 | 283   |
 | [any_link_preview](https://pub.dev/packages/any_link_preview)                                 | 帮助您显示 Web 链接的预览。对于具有聊天功能的应用程序更有用。                                                                        | 2024-04-10 | 381   |
 | [dart_jsonwebtoken](https://pub.dev/packages/dart_jsonwebtoken)                               | jsonwebtoken' (JWT) 的 dart 实现                                                                                                     | 2024-04-25 | 261   |
@@ -69,11 +67,7 @@
 | [bonfire](https://pub.dev/packages/bonfire)                                                   | 使用 Flame 更简单地创建 RPG 风格或类似的游戏。                                                                                       | 2024-08-09 | 461   |
 | [xterm](https://pub.dev/packages/xterm)                                                       | 一个快速且功能齐全的 Flutter 应用程序终端模拟器。                                                                                    | 2024-02-27 | 171   |
 | [flutter_plugin_android_lifecycle](https://pub.dev/packages/flutter_plugin_android_lifecycle) | 用于在其他插件中访问 Android 生命周期。                                                                                              | 2024-07-26 | 92    |
-| [lint](https://pub.dev/packages/lint)                                                         | 一套针对 Dart 和 Flutter 项目的意见建议、社区驱动的 lint 规则。                                                                      | 2023-12-22 | 845   |
 | [formz](https://pub.dev/packages/formz)                                                       | Dart 中的统一表单表示，旨在以通用方式简化表单表示和验证。                                                                            | 2024-02-21 | 765   |
-| [flutter_background_service](https://pub.dev/packages/flutter_background_service)             | 用于在后台执行 dart 代码的 flutter 插件。                                                                                            | 2024-08-03 | 1266  |
-| [neat_periodic_task](https://pub.dev/packages/neat_periodic_task)                             | 长时间运行的进程中可靠地运行周期性任务的辅助类，例如 Web 服务器。                                                                    | 2023-04-28 | 148   |
-| [cron](https://pub.dev/packages/cron)                                                         | 类似于 cron 的基于时间的作业调度程序。以固定时间或间隔定期运行任务。                                                                 | 2024-06-16 | 503   |
 | [mask_text_input_formatter](https://pub.dev/packages/mask_text_input_formatter)               | 为 TextField 和 TextFormField 提供了 TextInputFormatter。                                                                            | 2024-02-15 | 1180  |
 | [phone_numbers_parser](https://pub.dev/packages/phone_numbers_parser)                         | 用于解析、格式化和验证国际电话号码。                                                                                                 | 2024-05-29 | 171   |
 | [ota_update](https://pub.dev/packages/ota_update)                                             | 为 Android 和 iOS 提供 ota 更新，带有下载进度（仅限 Android）。                                                                      | 2023-11-24 | 272   |
@@ -250,6 +244,10 @@
 | [intl](https://pub.dev/packages/intl)                                 | 包含用于处理国际化/本地化消息，日期和数字格式和解析，双向文本以及其他国际化问题的代码。                                               | 2023-12-07 | 5342  |
 | [icons_launcher](https://pub.dev/packages/icons_launcher)             | 可简化更新 Flutter 应用启动器图标的任务                                                                                               | 2024-01-08 | 623   |
 | [media_query_preview](https://pub.dev/packages/media_query_preview)   | 支持跨各种设备和条件进行 UI 预览，支持自定义设备、亮度和文本比例                                                                      | 2024-06-21 | 2     |
+| [lint](https://pub.dev/packages/lint)                                                         | 一套针对 Dart 和 Flutter 项目的意见建议、社区驱动的 lint 规则。                                                                      | 2023-12-22 | 845   |
+| [flutter_background_service](https://pub.dev/packages/flutter_background_service)             | 用于在后台执行 dart 代码的 flutter 插件。                                                                                            | 2024-08-03 | 1266  |
+| [neat_periodic_task](https://pub.dev/packages/neat_periodic_task)                             | 长时间运行的进程中可靠地运行周期性任务的辅助类，例如 Web 服务器。                                                                    | 2023-04-28 | 148   |
+| [cron](https://pub.dev/packages/cron)                                                         | 类似于 cron 的基于时间的作业调度程序。以固定时间或间隔定期运行任务。                                                                 | 2024-06-16 | 503   |
 
 > ### <a id="列表">列表</a>
 
@@ -523,6 +521,8 @@
 | [syncfusion_officechart](https://pub.dev/packages/syncfusion_officechart)               | 用于从头开始创建 Office 图表。                                                             | 2024-08-13 | 80    |
 | [syncfusion_flutter_xlsio](https://pub.dev/packages/syncfusion_flutter_xlsio)           | 创建带有公式、图表、图像、超链接、自动调整行和列等的 Excel 文档。                          | 2024-08-13 | 358   |
 | [syncfusion_flutter_datagrid](https://pub.dev/packages/syncfusion_flutter_datagrid)     | 用于在表格视图中显示和操作数据                                                             | 2024-08-13 | 729   |
+| [super_editor](https://pub.dev/packages/super_editor)                                         | 可配置、可组合、可扩展的文本编辑器和文档渲染器。                                                                                     | 2024-06-11 | 644   |
+| [appflowy_editor](https://pub.dev/packages/appflowy_editor)                                   | 高度可定制的 Flutter 富文本编辑器                                                                                                    | 2024-07-08 | 373   |
 
 > ### <a id="时间">时间</a>
 
