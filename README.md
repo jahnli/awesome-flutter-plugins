@@ -2,17 +2,11 @@
 
 🔥🔥🔥 收集好用的Flutter插件以便更高效的开发， 如果有好用的插件或者建议，请Issue 或 PR ， 期待参与。
 
-## 收录 671 个
+## 收录
 
-### 08-15
+### 08-19
 
-- [rating_and_feedback_collector](https://pub.dev/packages/rating_and_feedback_collector) - 可定制的评级栏，带有表情符号、图标、带有半/满评级的自定义图像和动态反馈警报
-- [livelyness_detection](https://pub.dev/packages/livelyness_detection) - 用于检测相机中可见的脸部是否为真人脸部
-- [moon_design](https://pub.dev/packages/moon_design) - Moon 设计系统。一组遵循 Moon 设计系统的连贯、可主题化且可扩展的小部件
-- [forui](https://pub.dev/packages/forui) - 它提供了一组受 Shadcn/ui 很大启发的简约小部件
-- [media_query_preview](https://pub.dev/packages/media_query_preview) - 支持跨各种设备和条件进行 UI 预览，支持自定义设备、亮度和文本比例
-- [animated_hint_textfield](https://pub.dev/packages/animated_hint_textfield) - 为文本字段提示/标签文本添加动画，添加动态和引人注目的过渡以增强用户体验
-- [hugeicons](https://pub.dev/packages/hugeicons) - 4,000 多个免费 Flutter 图标。由 Hugeicons Pro Icon Library 创建
+- [super_sliver_list](https://pub.dev/packages/super_sliver_list) - SliverList 和 ListView 的直接替代品，可以处理具有可变范围的大型列表并跳转/动画到特定项目
 
 ## 目录
 
@@ -44,7 +38,7 @@
 | [node_editor](https://pub.dev/packages/node_editor)                                           | 节点编辑器包                                                                                                                         | 2024-07-17 | 35    |
 | [flutter_code_editor](https://pub.dev/packages/flutter_code_editor)                           | 支持语法突出显示和代码折叠的可定制代码字段                                                                                           | 2024-06-26 | 132   |
 | [mouse_follower](https://pub.dev/packages/mouse_follower)                                     | 使用鼠标跟随器增强您的应用程序，从而轻松自定义光标效果                                                                               | 2024-06-25 | 21    |
-| [flutter_3d_controller](https://pub.dev/packages/flutter_3d_controller)                       | 渲染不同格式（glb、gltf、fbx、obj）的交互式 3D 模型，能够控制动画、纹理和相机                                                      | 2024-05-27 | 195   |
+| [flutter_3d_controller](https://pub.dev/packages/flutter_3d_controller)                       | 渲染不同格式（glb、gltf、fbx、obj）的交互式 3D 模型，能够控制动画、纹理和相机                                                        | 2024-05-27 | 195   |
 | [stager](https://pub.dev/packages/stager)                                                     | Flutter 生产力工具，允许开发人员隔离 UI 部分                                                                                         | 2023-06-02 | 13    |
 | [share_handler](https://pub.dev/packages/share_handler)                                       | 用于处理传入的共享文本/媒体，以及添加共享到建议/快捷方式                                                                             | 2024-03-12 | 104   |
 | [focus_detector_v2](https://pub.dev/packages/focus_detector_v2)                               | 检测您的小部件何时出现或从屏幕上消失                                                                                                 | 2023-05-23 | 44    |
@@ -202,51 +196,51 @@
 
 > ### <a id="项目">项目</a>
 
-| 依赖                                                                  | 描述                                                                                                                                  | 更新时间   | likes |
-| --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ----- |
-| [talker_flutter](https://pub.dev/packages/talker_flutter)             | 用于 dart 和 flutter 应用程序的高级错误处理程序和记录器                                                                               | 2024-08-12 | 426   |
-| [leak_tracker](https://pub.dev/packages/leak_tracker)                 | 用于 Dart 和 Flutter 应用程序的内存泄漏跟踪框架                                                                                       | 2024-03-28 | 118   |
-| [once](https://pub.dev/packages/once)                                 | 想要定期运行一段代码（一次 - 每日 - 每周 - 每月 - 在新版本上 - 任何时期）                                                             | 2024-05-16 | 198   |
-| [sentry](https://pub.dev/packages/sentry)                             | Dart 的崩溃报告库，可将崩溃报告发送到 Sentry.io。                                                                                     | 2024-08-09 | 479   |
-| [easy_localization](https://pub.dev/packages/easy_localization)       | 轻松快速地国际化和本地化您的 Flutter 应用程序，这个包简化了国际化过程。                                                               | 2024-05-12 | 3133  |
-| [logger](https://pub.dev/packages/logger)                             | 小型，易于使用且可扩展的记录器，可打印精美的日志。                                                                                    | 2024-07-15 | 3131  |
-| [firebase_crashlytics](https://pub.dev/packages/firebase_crashlytics) | Firebase Crashlytics 的 插件，它向 Firebase 控制台报告未捕获的错误。                                                                  | 2024-07-30 | 1127  |
-| [firebase_analytics](https://pub.dev/packages/firebase_analytics)     | Google Analytics for Firebase 的 Flutter 插件，这是一种应用测量解决方案，可提供有关 Android 和 iOS 上应用使用情况和用户参与度的洞察。 | 2024-07-30 | 1154  |
-| [bloc](https://pub.dev/packages/bloc)                                 | 可预测的状态管理库，有助于实现 BLoC（业务逻辑组件）设计模式。                                                                         | 2024-03-24 | 2828  |
-| [adaptive_theme](https://pub.dev/packages/adaptive_theme)             | 允许在明暗主题之间动态切换并添加系统自适应主题支持。                                                                                  | 2024-01-30 | 765   |
-| [logging](https://pub.dev/packages/logging)                           | 提供用于调试和错误记录的 API。                                                                                                        | 2023-05-23 | 789   |
-| [fvm](https://pub.dev/packages/fvm)                                   | 一个简单的 cli 来管理每个项目的 Flutter SDK 版本。支持通道、发布和本地缓存，以便在版本之间快速切换。                                  | 2024-06-04 | 591   |
-| [flutter_mobx](https://pub.dev/packages/flutter_mobx)                 | MobX 的 Flutter 集成。                                                                                                                | 2024-03-28 | 667   |
-| [flutter_dotenv](https://pub.dev/packages/flutter_dotenv)             | 使用 \`.env\` 文件轻松配置任何带有全局变量的 Flutter 应用程序。                                                                       | 2023-06-01 | 1671  |
-| [biometric_storage](https://pub.dev/packages/biometric_storage)       | 加密的文件存储，可以选择通过针对 Android，iOS，MacOS 的生物特征识别锁进行保护，并部分支持 Linux，Windows 和 Web。                     | 2024-02-03 | 237   |
-| [flutter_hooks](https://pub.dev/packages/flutter_hooks)               | React hooks 的 flutter 实现。                                                                                                         | 2024-02-05 | 2128  |
-| [responsive_builder](https://pub.dev/packages/responsive_builder)     | 为小部件定义可读的响应式 UI。                                                                                                         | 2024-07-03 | 1602  |
-| [auto_route](https://pub.dev/packages/auto_route)                     | 声明式路由解决方案。                                                                                                                  | 2024-08-12 | 2941  |
-| [flutter_bloc](https://pub.dev/packages/flutter_bloc)                 | 轻松实现 BLoC（业务逻辑组件）设计模式。                                                                                               | 2024-06-11 | 6997  |
-| [web_socket_channel](https://pub.dev/packages/web_socket_channel)     | WebSocket 的 StreamChannel 包装器。提供跨平台的 WebSocketChannel API，该 API 的跨平台实现可通过基础 StreamChannel 进行通信。          | 2024-07-16 | 1297  |
-| [json_serializable](https://pub.dev/packages/json_serializable)       | 通过注释 Dart 类自动生成用于与 JSON 相互转换的代码。                                                                                  | 2024-04-24 | 3487  |
-| [flex_color_scheme](https://pub.dev/packages/flex_color_scheme)       | 制作和使用基于 MaterialApp 主题的精美配色方案。                                                                                       | 2023-08-17 | 2605  |
-| [dartx](https://pub.dev/packages/dartx)                               | 静态扩展方法的集合。                                                                                                                  | 2023-07-18 | 882   |
-| [responsive_framework](https://pub.dev/packages/responsive_framework) | 轻松使 Flutter 应用程序具有响应能力。自动使 UI 适应不同的屏幕尺寸。                                                                   | 2024-02-25 | 2952  |
-| [i18n_extension](https://pub.dev/packages/i18n_extension)             | Flutter 的翻译和国际化（i18n）。大型和小型项目均易于使用。                                                                            | 2024-05-14 | 346   |
-| [catcher](https://pub.dev/packages/catcher)                           | 用于捕获错误的插件。当开发人员未发现错误时，允许进行处理。插件提供了多个错误处理程序。                                                | 2023-11-09 | 591   |
-| [sentry_flutter](https://pub.dev/packages/sentry_flutter)             | Flutter 的崩溃报告库，可将崩溃报告发送到 Sentry.io。                                                                                  | 2024-08-09 | 850   |
-| [mobx](https://pub.dev/packages/mobx)                                 | 用于被动管理应用程序状态的库。                                                                                                        | 2024-04-03 | 1235  |
-| [google_fonts](https://pub.dev/packages/google_fonts)                 | 在 Flutter 应用程序中包含来自 fonts.google.com 中的字体的软件包。                                                                     | 2024-03-04 | 5786  |
-| [get](https://pub.dev/packages/get)                                   | Flutter 的轻便而强大的解决方案。它结合了高性能状态管理，智能依赖注入和快速实用的路由管理。                                            | 2023-09-08 | 14496 |
-| [get_storage](https://pub.dev/packages/get_storage)                   | 完全用 Dart 编写的快速，轻巧且同步的键值存储。                                                                                        | 2023-02-27 | 1691  |
-| [flutter_screenutil](https://pub.dev/packages/flutter_screenutil)     | 不同终端屏幕适配问题。                                                                                                                | 2024-05-31 | 4404  |
-| [crypto](https://pub.dev/packages/crypto)                             | SHA，MD5 和 HMAC 加密功能的实现                                                                                                       | 2024-08-15 | 1612  |
-| [Dio](https://pub.dev/packages/dio)                                   | Dart 的强大 Http 客户端，支持拦截器，全局配置，FormData，请求取消，文件下载，超时等。                                                 | 2024-08-13 | 7288  |
-| [shared_preferences](https://pub.dev/packages/shared_preferences)     | 读取、设置缓存。                                                                                                                      | 2024-08-15 | 9403  |
-| [provider](https://pub.dev/packages/provider)                         | 官方推荐的状态管理。                                                                                                                  | 2024-02-28 | 10105 |
-| [intl](https://pub.dev/packages/intl)                                 | 包含用于处理国际化/本地化消息，日期和数字格式和解析，双向文本以及其他国际化问题的代码。                                               | 2023-12-07 | 5342  |
-| [icons_launcher](https://pub.dev/packages/icons_launcher)             | 可简化更新 Flutter 应用启动器图标的任务                                                                                               | 2024-01-08 | 623   |
-| [media_query_preview](https://pub.dev/packages/media_query_preview)   | 支持跨各种设备和条件进行 UI 预览，支持自定义设备、亮度和文本比例                                                                      | 2024-06-21 | 2     |
-| [lint](https://pub.dev/packages/lint)                                                         | 一套针对 Dart 和 Flutter 项目的意见建议、社区驱动的 lint 规则。                                                                      | 2023-12-22 | 845   |
-| [flutter_background_service](https://pub.dev/packages/flutter_background_service)             | 用于在后台执行 dart 代码的 flutter 插件。                                                                                            | 2024-08-03 | 1266  |
-| [neat_periodic_task](https://pub.dev/packages/neat_periodic_task)                             | 长时间运行的进程中可靠地运行周期性任务的辅助类，例如 Web 服务器。                                                                    | 2023-04-28 | 148   |
-| [cron](https://pub.dev/packages/cron)                                                         | 类似于 cron 的基于时间的作业调度程序。以固定时间或间隔定期运行任务。                                                                 | 2024-06-16 | 503   |
+| 依赖                                                                              | 描述                                                                                                                                  | 更新时间   | likes |
+| --------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ----- |
+| [talker_flutter](https://pub.dev/packages/talker_flutter)                         | 用于 dart 和 flutter 应用程序的高级错误处理程序和记录器                                                                               | 2024-08-12 | 426   |
+| [leak_tracker](https://pub.dev/packages/leak_tracker)                             | 用于 Dart 和 Flutter 应用程序的内存泄漏跟踪框架                                                                                       | 2024-03-28 | 118   |
+| [once](https://pub.dev/packages/once)                                             | 想要定期运行一段代码（一次 - 每日 - 每周 - 每月 - 在新版本上 - 任何时期）                                                             | 2024-05-16 | 198   |
+| [sentry](https://pub.dev/packages/sentry)                                         | Dart 的崩溃报告库，可将崩溃报告发送到 Sentry.io。                                                                                     | 2024-08-09 | 479   |
+| [easy_localization](https://pub.dev/packages/easy_localization)                   | 轻松快速地国际化和本地化您的 Flutter 应用程序，这个包简化了国际化过程。                                                               | 2024-05-12 | 3133  |
+| [logger](https://pub.dev/packages/logger)                                         | 小型，易于使用且可扩展的记录器，可打印精美的日志。                                                                                    | 2024-07-15 | 3131  |
+| [firebase_crashlytics](https://pub.dev/packages/firebase_crashlytics)             | Firebase Crashlytics 的 插件，它向 Firebase 控制台报告未捕获的错误。                                                                  | 2024-07-30 | 1127  |
+| [firebase_analytics](https://pub.dev/packages/firebase_analytics)                 | Google Analytics for Firebase 的 Flutter 插件，这是一种应用测量解决方案，可提供有关 Android 和 iOS 上应用使用情况和用户参与度的洞察。 | 2024-07-30 | 1154  |
+| [bloc](https://pub.dev/packages/bloc)                                             | 可预测的状态管理库，有助于实现 BLoC（业务逻辑组件）设计模式。                                                                         | 2024-03-24 | 2828  |
+| [adaptive_theme](https://pub.dev/packages/adaptive_theme)                         | 允许在明暗主题之间动态切换并添加系统自适应主题支持。                                                                                  | 2024-01-30 | 765   |
+| [logging](https://pub.dev/packages/logging)                                       | 提供用于调试和错误记录的 API。                                                                                                        | 2023-05-23 | 789   |
+| [fvm](https://pub.dev/packages/fvm)                                               | 一个简单的 cli 来管理每个项目的 Flutter SDK 版本。支持通道、发布和本地缓存，以便在版本之间快速切换。                                  | 2024-06-04 | 591   |
+| [flutter_mobx](https://pub.dev/packages/flutter_mobx)                             | MobX 的 Flutter 集成。                                                                                                                | 2024-03-28 | 667   |
+| [flutter_dotenv](https://pub.dev/packages/flutter_dotenv)                         | 使用 \`.env\` 文件轻松配置任何带有全局变量的 Flutter 应用程序。                                                                       | 2023-06-01 | 1671  |
+| [biometric_storage](https://pub.dev/packages/biometric_storage)                   | 加密的文件存储，可以选择通过针对 Android，iOS，MacOS 的生物特征识别锁进行保护，并部分支持 Linux，Windows 和 Web。                     | 2024-02-03 | 237   |
+| [flutter_hooks](https://pub.dev/packages/flutter_hooks)                           | React hooks 的 flutter 实现。                                                                                                         | 2024-02-05 | 2128  |
+| [responsive_builder](https://pub.dev/packages/responsive_builder)                 | 为小部件定义可读的响应式 UI。                                                                                                         | 2024-07-03 | 1602  |
+| [auto_route](https://pub.dev/packages/auto_route)                                 | 声明式路由解决方案。                                                                                                                  | 2024-08-12 | 2941  |
+| [flutter_bloc](https://pub.dev/packages/flutter_bloc)                             | 轻松实现 BLoC（业务逻辑组件）设计模式。                                                                                               | 2024-06-11 | 6997  |
+| [web_socket_channel](https://pub.dev/packages/web_socket_channel)                 | WebSocket 的 StreamChannel 包装器。提供跨平台的 WebSocketChannel API，该 API 的跨平台实现可通过基础 StreamChannel 进行通信。          | 2024-07-16 | 1297  |
+| [json_serializable](https://pub.dev/packages/json_serializable)                   | 通过注释 Dart 类自动生成用于与 JSON 相互转换的代码。                                                                                  | 2024-04-24 | 3487  |
+| [flex_color_scheme](https://pub.dev/packages/flex_color_scheme)                   | 制作和使用基于 MaterialApp 主题的精美配色方案。                                                                                       | 2023-08-17 | 2605  |
+| [dartx](https://pub.dev/packages/dartx)                                           | 静态扩展方法的集合。                                                                                                                  | 2023-07-18 | 882   |
+| [responsive_framework](https://pub.dev/packages/responsive_framework)             | 轻松使 Flutter 应用程序具有响应能力。自动使 UI 适应不同的屏幕尺寸。                                                                   | 2024-02-25 | 2952  |
+| [i18n_extension](https://pub.dev/packages/i18n_extension)                         | Flutter 的翻译和国际化（i18n）。大型和小型项目均易于使用。                                                                            | 2024-05-14 | 346   |
+| [catcher](https://pub.dev/packages/catcher)                                       | 用于捕获错误的插件。当开发人员未发现错误时，允许进行处理。插件提供了多个错误处理程序。                                                | 2023-11-09 | 591   |
+| [sentry_flutter](https://pub.dev/packages/sentry_flutter)                         | Flutter 的崩溃报告库，可将崩溃报告发送到 Sentry.io。                                                                                  | 2024-08-09 | 850   |
+| [mobx](https://pub.dev/packages/mobx)                                             | 用于被动管理应用程序状态的库。                                                                                                        | 2024-04-03 | 1235  |
+| [google_fonts](https://pub.dev/packages/google_fonts)                             | 在 Flutter 应用程序中包含来自 fonts.google.com 中的字体的软件包。                                                                     | 2024-03-04 | 5786  |
+| [get](https://pub.dev/packages/get)                                               | Flutter 的轻便而强大的解决方案。它结合了高性能状态管理，智能依赖注入和快速实用的路由管理。                                            | 2023-09-08 | 14496 |
+| [get_storage](https://pub.dev/packages/get_storage)                               | 完全用 Dart 编写的快速，轻巧且同步的键值存储。                                                                                        | 2023-02-27 | 1691  |
+| [flutter_screenutil](https://pub.dev/packages/flutter_screenutil)                 | 不同终端屏幕适配问题。                                                                                                                | 2024-05-31 | 4404  |
+| [crypto](https://pub.dev/packages/crypto)                                         | SHA，MD5 和 HMAC 加密功能的实现                                                                                                       | 2024-08-15 | 1612  |
+| [Dio](https://pub.dev/packages/dio)                                               | Dart 的强大 Http 客户端，支持拦截器，全局配置，FormData，请求取消，文件下载，超时等。                                                 | 2024-08-13 | 7288  |
+| [shared_preferences](https://pub.dev/packages/shared_preferences)                 | 读取、设置缓存。                                                                                                                      | 2024-08-15 | 9403  |
+| [provider](https://pub.dev/packages/provider)                                     | 官方推荐的状态管理。                                                                                                                  | 2024-02-28 | 10105 |
+| [intl](https://pub.dev/packages/intl)                                             | 包含用于处理国际化/本地化消息，日期和数字格式和解析，双向文本以及其他国际化问题的代码。                                               | 2023-12-07 | 5342  |
+| [icons_launcher](https://pub.dev/packages/icons_launcher)                         | 可简化更新 Flutter 应用启动器图标的任务                                                                                               | 2024-01-08 | 623   |
+| [media_query_preview](https://pub.dev/packages/media_query_preview)               | 支持跨各种设备和条件进行 UI 预览，支持自定义设备、亮度和文本比例                                                                      | 2024-06-21 | 2     |
+| [lint](https://pub.dev/packages/lint)                                             | 一套针对 Dart 和 Flutter 项目的意见建议、社区驱动的 lint 规则。                                                                       | 2023-12-22 | 845   |
+| [flutter_background_service](https://pub.dev/packages/flutter_background_service) | 用于在后台执行 dart 代码的 flutter 插件。                                                                                             | 2024-08-03 | 1266  |
+| [neat_periodic_task](https://pub.dev/packages/neat_periodic_task)                 | 长时间运行的进程中可靠地运行周期性任务的辅助类，例如 Web 服务器。                                                                     | 2023-04-28 | 148   |
+| [cron](https://pub.dev/packages/cron)                                             | 类似于 cron 的基于时间的作业调度程序。以固定时间或间隔定期运行任务。                                                                  | 2024-06-16 | 503   |
 
 > ### <a id="列表">列表</a>
 
@@ -276,6 +270,7 @@
 | [flutter_swipe_action_cell](https://pub.dev/packages/flutter_swipe_action_cell)         | iOS 式单元格滑动操作效果。                                                                 | 2023-11-21 | 393   |
 | [flutter_staggered_grid_view](https://pub.dev/packages/flutter_staggered_grid_view)     | 瀑布流展示控件，支持多列且行大小不同。                                                     | 2023-07-30 | 4197  |
 | [flutter_slidable](https://pub.dev/packages/flutter_slidable)                           | 实现的可滑动列表项，具有可被取消的定向滑动动作。                                           | 2024-07-11 | 5407  |
+| [super_sliver_list](https://pub.dev/packages/super_sliver_list)                         | SliverList 和 ListView 的直接替代品，可以处理具有可变范围的大型列表并跳转/动画到特定项目   | 暂无       | 暂无  |
 
 > ### <a id="UI">UI / 小部件</a>
 
@@ -400,7 +395,7 @@
 
 | 依赖                                                                            | 描述                                                                                                         | 更新时间   | likes |
 | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | ---------- | ----- |
-| [tencent_conference_uikit](https://pub.dev/packages/tencent_conference_uikit)       | 腾讯云推出的音视频室 UIKit                                                                                   | 2024-07-01 | 3     |
+| [tencent_conference_uikit](https://pub.dev/packages/tencent_conference_uikit)   | 腾讯云推出的音视频室 UIKit                                                                                   | 2024-07-01 | 3     |
 | [flutter_soloud](https://pub.dev/packages/flutter_soloud)                       | 使用 SoLoud 库和 FFI 的 Flutter 音频插件                                                                     | 2024-05-23 | 178   |
 | [flame_audio](https://pub.dev/packages/flame_audio)                             | 火焰游戏引擎的音频支持                                                                                       | 2024-05-27 | 83    |
 | [media_kit](https://pub.dev/packages/media_kit)                                 | 适用于 Flutter 和 Dart 的跨平台视频播放器和音频播放器                                                        | 2023-10-19 | 548   |
@@ -492,37 +487,37 @@
 | [font_awesome_flutter](https://pub.dev/packages/font_awesome_flutter)                       | 以 Flutter Icons 的形式提供. 提供 1500 个其他图标供您的应用使用。                                                                                                                     | 2024-01-27 | 4454  |
 | [photo_view](https://pub.dev/packages/photo_view)                                           | 图像能够通过用户手势（例如捏，旋转和拖动）进行缩放和平移，还可以显示任何窗口小部件而不是图像，例如容器，文本或 SVG。                                                                  | 2024-04-17 | 2902  |
 | [flutter_emoji](https://pub.dev/packages/flutter_emoji)                                     | 轻巧的表情符号。                                                                                                                                                                      | 2023-08-07 | 190   |
-| [hugeicons](https://pub.dev/packages/hugeicons)                                               | 4,000 多个免费 Flutter 图标。由 Hugeicons Pro Icon Library 创建                                                               | 2024-07-25 | 179   |
+| [hugeicons](https://pub.dev/packages/hugeicons)                                             | 4,000 多个免费 Flutter 图标。由 Hugeicons Pro Icon Library 创建                                                                                                                       | 2024-07-25 | 179   |
 
 > ### <a id="文件">文件 / 文档</a>
 
-| 依赖                                                                                    | 描述                                                                                             | 更新时间   | likes |
-| --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ---------- | ----- |
-| [pdfrx](https://pub.dev/packages/pdfrx)                                                       | 基于 pdfium 构建的丰富、快速的 PDF 查看器实现                                                                                        | 2024-07-17 | 116   |
-| [html_to_pdf_plus](https://pub.dev/packages/html_to_pdf_plus)                                 | 用于从 HTML 代码模板生成 PDF 文档                                                                                                    | 2024-02-18 | 15    |
-| [htmltopdfwidgets](https://pub.dev/packages/htmltopdfwidgets)                                 | Html 到 pdf 小部件                                                                                                                   | 2024-02-08 | 42    |
-| [markdown_widget](https://pub.dev/packages/markdown_widget)                                   | 简单易用的 Markdown 渲染组件                                                                                                         | 2024-02-28 | 256   |
-| [flutter_deck](https://pub.dev/packages/flutter_deck)                                         | 创建演示文稿                                                                                                                         | 2024-06-28 | 177   |
-| [flutter_genius_scan](https://pub.dev/packages/flutter_genius_scan)                           | 适用于 iOS 和 Android 的 Genius Scan SDK 的 Flutter 插件。它允许使用智能手机相机扫描纸质文档。                                       | 2024-08-05 | 88    |
-| [flutter_archive](https://pub.dev/packages/flutter_archive)                                   | 在 Android、iOS 和 macOS 中创建和提取 ZIP 存档文件。递归压缩目录或给定文件列表中的所有文件。                                         | 2024-04-15 | 151   |
-| [syncfusion_flutter_pdfviewer](https://pub.dev/packages/syncfusion_flutter_pdfviewer)         | Flutter PDF Viewer 库用于无缝高效地显示 PDF 文档。                                                                                   | 2024-08-13 | 922   |
-| [excel](https://pub.dev/packages/excel)                                                       | 一个 flutter 和 dart 库，用于读取、创建、编辑和更新 Excel 表。                                                                       | 2024-03-17 | 1018  |
-| [syncfusion_flutter_pdf](https://pub.dev/packages/syncfusion_flutter_pdf)                     | 用于在 Android、iOS 和 Web 平台上创建、阅读、编辑和保护 PDF 文件。                                                                   | 2024-08-13 | 682   |
-| [archive](https://pub.dev/packages/archive)                                                   | 为各种存档和压缩格式（例如 zip、tar、bzip2、gzip 和 zlib）提供编码器和解码器。                                                       | 2024-06-01 | 708   |
-| [pdf](https://pub.dev/packages/pdf)                                                           | 为 Web 或 Flutter 创建 pdf 文件。                                                  
-| [pdfx](https://pub.dev/packages/pdfx)                                                         | 可在 Web，MacOS，Android 和 iOS 上呈现 PDF 文件。                                                                                    | 2024-02-10 | 396   |
-| [pdf](https://pub.dev/packages/pdf)                                                           | 为 Web 或 Flutter 创建 pdf 文件。                                                                                                    | 2024-08-08 | 2620  |
-| [compdfkit_flutter](https://pub.dev/packages/compdfkit_flutter)                               | 可让您快速向 Android 和 iOS Flutter 应用程序添加 PDF 功能                                                                            | 2024-08-12 | 41    |
-| [flutter_to_pdf](https://pub.dev/packages/flutter_to_pdf)                                     | 用于将任何 Flutter 小部件导出为 PDF 文档、PDF 页面或 PDF 文件的包                                                                    | 2024-08-13 | 41    |
-| [markdown](https://pub.dev/packages/markdown)                                                 | 便携式 Markdown 库。它可以将 Markdown 解析为客户端和服务器上的 HTML。                                                                | 2024-03-07 | 271   |
-| [flutter_markdown](https://pub.dev/packages/flutter_markdown)                                 | Flutter 的 Markdown 渲染器。                                                                                                         | 2024-08-08 | 1310  |
-| [syncfusion_officechart](https://pub.dev/packages/syncfusion_officechart)               | 用于从头开始创建 Office 图表。                                                             | 2024-08-13 | 80    |
-| [syncfusion_flutter_xlsio](https://pub.dev/packages/syncfusion_flutter_xlsio)           | 创建带有公式、图表、图像、超链接、自动调整行和列等的 Excel 文档。                          | 2024-08-13 | 358   |
-| [syncfusion_flutter_datagrid](https://pub.dev/packages/syncfusion_flutter_datagrid)     | 用于在表格视图中显示和操作数据                                                             | 2024-08-13 | 729   |
-| [super_editor](https://pub.dev/packages/super_editor)                                         | 可配置、可组合、可扩展的文本编辑器和文档渲染器。                                                                                     | 2024-06-11 | 644   |
-| [appflowy_editor](https://pub.dev/packages/appflowy_editor)                                   | 高度可定制的 Flutter 富文本编辑器                                                                                                    | 2024-07-08 | 373   |
-| [flutter_quill](https://pub.dev/packages/flutter_quill)                                       | 支持移动和 Web 的富文本编辑器。                                                                                               | 2024-08-15 | 1690  |
-| [yaml](https://pub.dev/packages/yaml)                                                         | YAML 的解析器，一种人性化的数据序列化标准                                                                                            | 2023-05-04 | 241   |
+| 依赖                                                                                  | 描述                                                                                           | 更新时间   | likes |
+| ------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ---------- | ----- |
+| [pdfrx](https://pub.dev/packages/pdfrx)                                               | 基于 pdfium 构建的丰富、快速的 PDF 查看器实现                                                  | 2024-07-17 | 116   |
+| [html_to_pdf_plus](https://pub.dev/packages/html_to_pdf_plus)                         | 用于从 HTML 代码模板生成 PDF 文档                                                              | 2024-02-18 | 15    |
+| [htmltopdfwidgets](https://pub.dev/packages/htmltopdfwidgets)                         | Html 到 pdf 小部件                                                                             | 2024-02-08 | 42    |
+| [markdown_widget](https://pub.dev/packages/markdown_widget)                           | 简单易用的 Markdown 渲染组件                                                                   | 2024-02-28 | 256   |
+| [flutter_deck](https://pub.dev/packages/flutter_deck)                                 | 创建演示文稿                                                                                   | 2024-06-28 | 177   |
+| [flutter_genius_scan](https://pub.dev/packages/flutter_genius_scan)                   | 适用于 iOS 和 Android 的 Genius Scan SDK 的 Flutter 插件。它允许使用智能手机相机扫描纸质文档。 | 2024-08-05 | 88    |
+| [flutter_archive](https://pub.dev/packages/flutter_archive)                           | 在 Android、iOS 和 macOS 中创建和提取 ZIP 存档文件。递归压缩目录或给定文件列表中的所有文件。   | 2024-04-15 | 151   |
+| [syncfusion_flutter_pdfviewer](https://pub.dev/packages/syncfusion_flutter_pdfviewer) | Flutter PDF Viewer 库用于无缝高效地显示 PDF 文档。                                             | 2024-08-13 | 922   |
+| [excel](https://pub.dev/packages/excel)                                               | 一个 flutter 和 dart 库，用于读取、创建、编辑和更新 Excel 表。                                 | 2024-03-17 | 1018  |
+| [syncfusion_flutter_pdf](https://pub.dev/packages/syncfusion_flutter_pdf)             | 用于在 Android、iOS 和 Web 平台上创建、阅读、编辑和保护 PDF 文件。                             | 2024-08-13 | 682   |
+| [archive](https://pub.dev/packages/archive)                                           | 为各种存档和压缩格式（例如 zip、tar、bzip2、gzip 和 zlib）提供编码器和解码器。                 | 2024-06-01 | 708   |
+| [pdf](https://pub.dev/packages/pdf)                                                   | 为 Web 或 Flutter 创建 pdf 文件。                                                              |
+| [pdfx](https://pub.dev/packages/pdfx)                                                 | 可在 Web，MacOS，Android 和 iOS 上呈现 PDF 文件。                                              | 2024-02-10 | 396   |
+| [pdf](https://pub.dev/packages/pdf)                                                   | 为 Web 或 Flutter 创建 pdf 文件。                                                              | 2024-08-08 | 2620  |
+| [compdfkit_flutter](https://pub.dev/packages/compdfkit_flutter)                       | 可让您快速向 Android 和 iOS Flutter 应用程序添加 PDF 功能                                      | 2024-08-12 | 41    |
+| [flutter_to_pdf](https://pub.dev/packages/flutter_to_pdf)                             | 用于将任何 Flutter 小部件导出为 PDF 文档、PDF 页面或 PDF 文件的包                              | 2024-08-13 | 41    |
+| [markdown](https://pub.dev/packages/markdown)                                         | 便携式 Markdown 库。它可以将 Markdown 解析为客户端和服务器上的 HTML。                          | 2024-03-07 | 271   |
+| [flutter_markdown](https://pub.dev/packages/flutter_markdown)                         | Flutter 的 Markdown 渲染器。                                                                   | 2024-08-08 | 1310  |
+| [syncfusion_officechart](https://pub.dev/packages/syncfusion_officechart)             | 用于从头开始创建 Office 图表。                                                                 | 2024-08-13 | 80    |
+| [syncfusion_flutter_xlsio](https://pub.dev/packages/syncfusion_flutter_xlsio)         | 创建带有公式、图表、图像、超链接、自动调整行和列等的 Excel 文档。                              | 2024-08-13 | 358   |
+| [syncfusion_flutter_datagrid](https://pub.dev/packages/syncfusion_flutter_datagrid)   | 用于在表格视图中显示和操作数据                                                                 | 2024-08-13 | 729   |
+| [super_editor](https://pub.dev/packages/super_editor)                                 | 可配置、可组合、可扩展的文本编辑器和文档渲染器。                                               | 2024-06-11 | 644   |
+| [appflowy_editor](https://pub.dev/packages/appflowy_editor)                           | 高度可定制的 Flutter 富文本编辑器                                                              | 2024-07-08 | 373   |
+| [flutter_quill](https://pub.dev/packages/flutter_quill)                               | 支持移动和 Web 的富文本编辑器。                                                                | 2024-08-15 | 1690  |
+| [yaml](https://pub.dev/packages/yaml)                                                 | YAML 的解析器，一种人性化的数据序列化标准                                                      | 2023-05-04 | 241   |
 
 > ### <a id="时间">时间</a>
 
@@ -725,8 +720,8 @@
 | [fluwx](https://pub.dev/packages/fluwx)                                           | Flutter 中实现 WeChat SDK 的功能。借助 Fluwx，开发人员可以轻松使用 WeChatSDK，例如分享，付款，小程序。                | 2024-04-07 | 210   |
 | [socket_io_client](https://pub.dev/packages/socket_io_client)                     | 用于 Web，Flutter 和 dartvm 的 socket.io-client 的 Dartlang 端口。                                                    | 2023-08-01 | 1326  |
 | [jpush_flutter](https://pub.dev/packages/jpush_flutter)                           | 极光推送官方支持的 Flutter 插件。                                                                                     | 2024-08-09 | 84    |
-| [baidupan](https://pub.dev/packages/baidupan)                                                 | 百度网盘 API                                                                                                                         | 2023-12-02 | 6     |
-| [twitter_api_v2](https://pub.dev/packages/twitter_api_v2)                                     | Dart 语言编写的 Twitter API v2.0 的轻量级和强大的包装库                                                                              | 2023-02-27 | 72    |
+| [baidupan](https://pub.dev/packages/baidupan)                                     | 百度网盘 API                                                                                                          | 2023-12-02 | 6     |
+| [twitter_api_v2](https://pub.dev/packages/twitter_api_v2)                         | Dart 语言编写的 Twitter API v2.0 的轻量级和强大的包装库                                                               | 2023-02-27 | 72    |
 
 > ### <a id="AI">AI</a>
 
@@ -761,7 +756,7 @@
 | [dart_openai](https://pub.dev/packages/dart_openai)                                                   | 适用于 openAI Apis（GPT-3 和 DALL-E）的 Dart SDK，可以轻松地将 OpenAI 最先进的 AI 模型的强大功能集成到他们的 Dart 应用程序中 | 2024-02-21 | 463   |
 | [chat_gpt_api](https://pub.dev/packages/chat_gpt_api)                                                 | 用 dart 编写的 chatGPT SDK，用于访问 OpenAI API 的功能                                                                       | 2023-10-22 | 31    |
 | [livelyness_detection](https://pub.dev/packages/livelyness_detection)                                 | 用于检测相机中可见的脸部是否为真人脸部                                                                                       | 2024-07-23 | 20    |
-| [flutter_tesseract_ocr](https://pub.dev/packages/flutter_tesseract_ocr)                       | 基于神经网络 (LSTM) 的 OCR 引擎，该引擎专注于线识别。它支持 unicode (UTF-8)，可以识别 100 多种语言                                   | 2024-07-02 | 161   |
+| [flutter_tesseract_ocr](https://pub.dev/packages/flutter_tesseract_ocr)                               | 基于神经网络 (LSTM) 的 OCR 引擎，该引擎专注于线识别。它支持 unicode (UTF-8)，可以识别 100 多种语言                           | 2024-07-02 | 161   |
 
 > ### <a id="地图">地图</a>
 
