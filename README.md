@@ -2,11 +2,11 @@
 
 🔥🔥🔥 收集好用的Flutter插件以便更高效的开发， 如果有好用的插件或者建议，请Issue 或 PR ， 期待参与。
 
-## 收录 671 个
+## 收录
 
-### 08-19
+### 08-21
 
-- [super_sliver_list](https://pub.dev/packages/super_sliver_list) - SliverList 和 ListView 的直接替代品，可以处理具有可变范围的大型列表并跳转/动画到特定项目
+- [smooth_sheets](https://pub.dev/packages/smooth_sheets) - 提供模态和持久表单小部件
 
 ## 目录
 
@@ -610,6 +610,7 @@
 | [animated_bottom_navigation_bar](https://pub.dev/packages/animated_bottom_navigation_bar) | 绚丽的动画底部导航栏。                           | 2024-01-31 | 1234  |
 | [flutter_speed_dial](https://pub.dev/packages/flutter_speed_dial)                         | 可展开选项的浮动按钮。                           | 2023-05-23 | 1235  |
 | [circular_menu](https://pub.dev/packages/circular_menu)                                   | 一个简单多样的动画圆形菜单。                     | 2024-05-28 | 462   |
+| [smooth_sheets](https://pub.dev/packages/smooth_sheets)                                   | 提供模态和持久表单小部件                         | 暂无       | 暂无  |
 
 > ### <a id="Toast">对话框 / 底部弹片 / Toast</a>
 
