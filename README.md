@@ -506,7 +506,6 @@
 | [archive](https://pub.dev/packages/archive)                                           | 为各种存档和压缩格式（例如 zip、tar、bzip2、gzip 和 zlib）提供编码器和解码器。                 | 2024-06-01 | 711   |
 | [pdf](https://pub.dev/packages/pdf)                                                   | 为 Web 或 Flutter 创建 pdf 文件。                                                              | 2024-08-08 | 2625  |
 | [pdfx](https://pub.dev/packages/pdfx)                                                 | 可在 Web，MacOS，Android 和 iOS 上呈现 PDF 文件。                                              | 2024-02-10 | 397   |
-| [pdf](https://pub.dev/packages/pdf)                                                   | 为 Web 或 Flutter 创建 pdf 文件。                                                              | 2024-08-08 | 2625  |
 | [compdfkit_flutter](https://pub.dev/packages/compdfkit_flutter)                       | 可让您快速向 Android 和 iOS Flutter 应用程序添加 PDF 功能                                      | 2024-08-12 | 41    |
 | [flutter_to_pdf](https://pub.dev/packages/flutter_to_pdf)                             | 用于将任何 Flutter 小部件导出为 PDF 文档、PDF 页面或 PDF 文件的包                              | 2024-08-13 | 42    |
 | [markdown](https://pub.dev/packages/markdown)                                         | 便携式 Markdown 库。它可以将 Markdown 解析为客户端和服务器上的 HTML。                          | 2024-03-07 | 270   |
