@@ -234,7 +234,7 @@
 | [flutter_screenutil](https://pub.dev/packages/flutter_screenutil)                 | 不同终端屏幕适配问题。                                                                                                                | 2024-05-31 | 4498  |
 | [crypto](https://pub.dev/packages/crypto)                                         | SHA，MD5 和 HMAC 加密功能的实现                                                                                                       | 2024-08-15 | 1631  |
 | [Dio](https://pub.dev/packages/dio)                                               | Dart 的强大 Http 客户端，支持拦截器，全局配置，FormData，请求取消，文件下载，超时等。                                                 | 2024-09-03 | 7412  |
-| [shared_preferences](https://pub.dev/packages/shared_preferences)                 | 读取、设置缓存。                                                                                                                      | 2024-08-15 | 9558  |
+| [shared_preferences](https://pub.dev/packages/shared_preferences)                 | 读取、设置缓存。                                                                                                                      | 2024-08-15 | 9559  |
 | [provider](https://pub.dev/packages/provider)                                     | 官方推荐的状态管理。                                                                                                                  | 2024-02-28 | 10237 |
 | [intl](https://pub.dev/packages/intl)                                             | 包含用于处理国际化/本地化消息，日期和数字格式和解析，双向文本以及其他国际化问题的代码。                                               | 2023-12-07 | 5438  |
 | [icons_launcher](https://pub.dev/packages/icons_launcher)                         | 可简化更新 Flutter 应用启动器图标的任务                                                                                               | 2024-09-17 | 658   |
@@ -570,7 +570,7 @@
 | [shimmer](https://pub.dev/packages/shimmer)                       | 为控件添加闪光效果。                                                                  | 2023-05-21 | 4891  |
 | [lottie](https://pub.dev/packages/lottie)                         | 在 Flutter 上本地渲染 After Effects 动画。该软件包是 Lottie 播放器的纯 Dart 实现。    | 2024-05-17 | 3929  |
 | [simple_animations](https://pub.dev/packages/simple_animations)   | 创建精美的自定义动画。                                                                | 2023-06-13 | 1937  |
-| [animate_do](https://pub.dev/packages/animate_do)                 | 受 Animate.css 启发的动画包，仅使用 Flutter 动画构建，没有额外的包。                  | 2024-02-29 | 4411  |
+| [animate_do](https://pub.dev/packages/animate_do)                 | 受 Animate.css 启发的动画包，仅使用 Flutter 动画构建，没有额外的包。                  | 2024-02-29 | 4412  |
 | [animations](https://pub.dev/packages/animations)                 | 轻松集成到任何 Flutter 应用程序中的精美预建动画。                                     | 2024-01-04 | 6154  |
 
 > ### <a id="图表">图表</a>
@@ -803,5 +803,5 @@
 | ----------------------------------------------------------------------------- | ------------------------------------------------------------------------- | ---------- | ----- |
 | [webview_flutter](https://pub.dev/packages/webview_flutter)                   | 在 Android 和 iOS 上提供 WebView 小部件的 Flutter 插件。                  | 2024-08-21 | 4059  |
 | [html](https://pub.dev/packages/html)                                         | 用于在浏览器外解析和操作 HTML 内容的 API。                                | 2023-06-08 | 577   |
-| [flutter_inappwebview](https://pub.dev/packages/flutter_inappwebview)         | 可让您添加嵌入式 Web 视图，使用 Web 视图以及打开应用内浏览器窗口。        | 2024-09-23 | 2411  |
+| [flutter_inappwebview](https://pub.dev/packages/flutter_inappwebview)         | 可让您添加嵌入式 Web 视图，使用 Web 视图以及打开应用内浏览器窗口。        | 2024-09-23 | 2412  |
 | [flutter_widget_from_html](https://pub.dev/packages/flutter_widget_from_html) | 用于从 html 构建小部件树的 Flutter 软件包，支持超链接，图像，嵌套列表等。 | 2024-08-22 | 916   |
