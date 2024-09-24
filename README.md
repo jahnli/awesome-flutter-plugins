@@ -2,11 +2,12 @@
 
 🔥🔥🔥 收集好用的Flutter插件以便更高效的开发， 如果有好用的插件或者建议，请Issue 或 PR ， 期待参与。
 
-## 收录 672 个
+## 收录
 
-### 09-09
+### 09-24
 
-- [pedometer_2](https://pub.dev/packages/pedometer_2) - 计步器和步数检测。获取一定时间内的步数并实时记录步数
+- [nimble_charts](https://pub.dev/packages/nimble_charts) - charts_flutter 的持续维护，为 Flutter 开发人员提供强大而灵活的图表包
+- [avatar_plus](https://pub.dev/packages/avatar_plus) - 用于生成和显示具有随机字符串内容的可自定义头像
 
 ## 目录
 
@@ -489,6 +490,7 @@
 | [photo_view](https://pub.dev/packages/photo_view)                                           | 图像能够通过用户手势（例如捏，旋转和拖动）进行缩放和平移，还可以显示任何窗口小部件而不是图像，例如容器，文本或 SVG。                                                                  | 2024-04-17 | 2917  |
 | [flutter_emoji](https://pub.dev/packages/flutter_emoji)                                     | 轻巧的表情符号。                                                                                                                                                                      | 2023-08-07 | 191   |
 | [hugeicons](https://pub.dev/packages/hugeicons)                                             | 4,000 多个免费 Flutter 图标。由 Hugeicons Pro Icon Library 创建                                                                                                                       | 2024-07-25 | 198   |
+| [avatar_plus](https://pub.dev/packages/avatar_plus)                                         | 用于生成和显示具有随机字符串内容的可自定义头像                                                                                                                                        | 暂无       | 暂无  |
 
 > ### <a id="文件">文件 / 文档</a>
 
@@ -588,6 +590,7 @@
 | [percent_indicator](https://pub.dev/packages/percent_indicator)                   | 根据百分比显示进度小部件，可以是圆形或线性的，也可以根据需要进行自定义。                         | 2023-03-03 | 2540  |
 | [graphview](https://pub.dev/packages/graphview)                                   | 图形结构显示数据。它可以显示树形布局和层次结构图。                                               | 2023-04-29 | 438   |
 | [flutter_graph_view](https://pub.dev/packages/flutter_graph_view)                 | 用于精美的图形数据结构的小部件，例如力导向图。                                                   | 2024-07-26 | 42    |
+| [nimble_charts](https://pub.dev/packages/nimble_charts)                           | charts_flutter 的持续维护，为 Flutter 开发人员提供强大而灵活的图表包                             | 暂无       | 暂无  |
 
 > ### <a id="侧边栏">侧边栏 / 侧边菜单</a>
 
