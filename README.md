@@ -2,12 +2,12 @@
 
 🔥🔥🔥 收集好用的Flutter插件以便更高效的开发， 如果有好用的插件或者建议，请Issue 或 PR ， 期待参与。
 
-## 收录 674 个
+## 收录
 
-### 09-24
+### 10-12
 
-- [nimble_charts](https://pub.dev/packages/nimble_charts) - charts_flutter 的持续维护，为 Flutter 开发人员提供强大而灵活的图表包
-- [avatar_plus](https://pub.dev/packages/avatar_plus) - 用于生成和显示具有随机字符串内容的可自定义头像
+- [timelines_plus](https://pub.dev/packages/timelines_plus) - 功能强大且易于使用的 Flutter 时间线包
+- [soft_edge_blur](https://pub.dev/packages/soft_edge_blur) - 对其子小部件的一个或多个边缘应用柔和渐进模糊效果
 
 ## 目录
 
@@ -392,6 +392,7 @@
 | [moon_design](https://pub.dev/packages/moon_design)                                           | Moon 设计系统。一组遵循 Moon 设计系统的连贯、可主题化且可扩展的小部件                                                         | 2024-08-30 | 40    |
 | [forui](https://pub.dev/packages/forui)                                                       | 它提供了一组受 Shadcn/ui 很大启发的简约小部件                                                                                 | 2024-09-18 | 60    |
 | [animated_hint_textfield](https://pub.dev/packages/animated_hint_textfield)                   | 为文本字段提示/标签文本添加动画，添加动态和引人注目的过渡以增强用户体验                                                       | 2024-06-21 | 64    |
+| [soft_edge_blur](https://pub.dev/packages/soft_edge_blur)                                     | 对其子小部件的一个或多个边缘应用柔和渐进模糊效果                                                                              | 暂无       | 暂无  |
 
 > ### <a id="音视频">音视频</a>
 
@@ -541,6 +542,7 @@
 | [time_planner](https://pub.dev/packages/time_planner)                                   | 一个漂亮，易于使用且可自定义的日历规划器。                                                       | 2023-09-28 | 146   |
 | [syncfusion_flutter_datepicker](https://pub.dev/packages/syncfusion_flutter_datepicker) | 使用户可以轻松选择日期或日期范围。                                                               | 2024-09-24 | 1485  |
 | [syncfusion_flutter_calendar](https://pub.dev/packages/syncfusion_flutter_calendar)     | 九个内置的可配置视图，提供用于高效安排和表示约会/事件的基本功能。                                | 2024-09-24 | 1405  |
+| [timelines_plus](https://pub.dev/packages/timelines_plus)                               | 功能强大且易于使用的 Flutter 时间线包                                                            | 暂无       | 暂无  |
 
 > ### <a id="动画">动画</a>
 
