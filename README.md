@@ -11,6 +11,10 @@
 - [dynamic_color](https://pub.dev/packages/dynamic_color) - 根据平台的动态颜色实现创建 Material 配色方案
 - [re_editor](https://pub.dev/packages/re_editor) - 功能强大的轻量级文本和代码编辑器小部件
 - [re_highlight](https://pub.dev/packages/re_highlight) - 强大的文本语法高亮库
+- [openai_dart](https://pub.dev/packages/openai_dart) - OpenAI API 的 Dart 客户端。支持聊天（GPT-4o、o1 等）、补全、嵌入、图像（DALL·E 3）、助手（线程、向量存储等）、批处理、微调等
+- [ollama_dart](https://pub.dev/packages/ollama_dart) - Ollama API 的 Dart 客户端（在本地运行 Llama 3.2、Gemma 2、Phi-3.5、Mistral nemo、Qwen2
+- [opencv_dart](https://pub.dev/packages/opencv_dart) - OpenCV4 绑定，使用 dart:ffi。此插件包含 `videoio` 模块
+- [universal_ble](https://pub.dev/packages/universal_ble) - 适用于 Flutter 的跨平台（Android/iOS/macOS/Windows/Linux/Web）蓝牙低功耗 (BLE) 插件
 
 ## 目录
 
@@ -199,6 +203,7 @@
 | [device_marketing_names](https://pub.dev/packages/device_marketing_names)               | 轻松查找 Android、iOS 和浏览器的设备营销名称。无需互联网连接或数据库。                                                          | 2024-10-28 | 28    |
 | [pedometer_2](https://pub.dev/packages/pedometer_2)                                     | 计步器和步数检测。获取一定时间内的步数并实时记录步数                                                                            | 2024-07-10 | 14    |
 | [dynamic_color](https://pub.dev/packages/dynamic_color)                                 | 根据平台的动态颜色实现创建 Material 配色方案                                                                                    | 2024-03-01 | 550   |
+| [universal_ble](https://pub.dev/packages/universal_ble)                                 | 适用于 Flutter 的跨平台（Android/iOS/macOS/Windows/Linux/Web）蓝牙低功耗 (BLE) 插件                                             | 暂无       | 暂无  |
 
 > ### <a id="项目">项目</a>
 
@@ -678,64 +683,67 @@
 
 > ### <a id="通讯">通讯 / API</a>
 
-| 依赖                                                                              | 描述                                                                                                                  | 更新时间   | likes |
-| --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- | ---------- | ----- |
-| [chrome_extension](https://pub.dev/packages/chrome_extension)                     | 用于访问 Chrome 扩展程序中可用的 \`chrome.\*\` API 的库                                                               | 2024-08-16 | 50    |
-| [flutter_v2ray](https://pub.dev/packages/flutter_v2ray)                           | 允许你建立 v2ray 连接的插件                                                                                           | 2024-11-17 | 73    |
-| [serial_port_win32](https://pub.dev/packages/serial_port_win32)                   | 使用 win32 API 的串行端口库                                                                                           | 2024-11-15 | 54    |
-| [tencent_cloud_chat_sdk](https://pub.dev/packages/tencent_cloud_chat_sdk)         | 腾讯云聊天 SDK                                                                                                        | 2024-11-18 | 26    |
-| [tencent_trtc_cloud](https://pub.dev/packages/tencent_trtc_cloud)                 | 通过 TRTC，您可以快速开发高性价比、低时延、高品质的交互式音视频服务                                                   | 2024-11-05 | 22    |
-| [ali_auth](https://pub.dev/packages/ali_auth)                                     | 阿里云号码认证服务中一键登录的插件                                                                                    | 2024-09-06 | 20    |
-| [alipay_kit](https://pub.dev/packages/alipay_kit)                                 | 允许开发人员使用 natvie Android 和 iOS 支付宝 SDK 进行授权/支付                                                       | 2023-06-04 | 36    |
-| [tencent_kit](https://pub.dev/packages/tencent_kit)                               | 允许开发者使用 natvie Android 和 iOS 腾讯 SDK 进行授权/共享                                                           | 2024-11-14 | 29    |
-| [televerse](https://pub.dev/packages/televerse)                                   | 在 Dart 中轻松创建自己的高效 Telegram 机器人                                                                          | 2024-11-18 | 67    |
-| [tencent_calls_uikit](https://pub.dev/packages/tencent_calls_uikit)               | 用于视频通话的腾讯云 UIKit                                                                                            | 2024-10-29 | 46    |
-| [telegram_client](https://pub.dev/packages/telegram_client)                       | 用于制作基于应用程序电报的颤振和 userbot / bot 支持服务器端和客户端                                                   | 2024-09-24 | 147   |
-| [huawei_modeling3d](https://pub.dev/packages/huawei_modeling3d)                   | 实现了华为 3D 建模 SDK 与 Flutter 平台的通信                                                                          | 2023-03-02 | 6     |
-| [huawei_iap](https://pub.dev/packages/huawei_iap)                                 | Flutter 的 HUAWEI IAP Kit 插件                                                                                        | 2024-07-02 | 33    |
-| [huawei_analytics](https://pub.dev/packages/huawei_analytics)                     | Flutter 的 HUAWEI Analytics Kit 插件                                                                                  | 2024-01-31 | 21    |
-| [huawei_dtm](https://pub.dev/packages/huawei_dtm)                                 | 华为动态标签管理器（DTM）是一个动态标签管理系统                                                                       | 2023-03-02 | 1     |
-| [huawei_account](https://pub.dev/packages/huawei_account)                         | Flutter 的 HUAWEI Account Kit 插件                                                                                    | 2024-05-15 | 22    |
-| [googleapis](https://pub.dev/packages/googleapis)                                 | 用于访问通过 API 发现服务描述的 Google API 的自动生成的客户端库。                                                     | 2024-06-13 | 1030  |
-| [github](https://pub.dev/packages/github)                                         | 使用 Github 的 v3 API 的高级 GitHub API 客户端库。                                                                    | 2024-02-26 | 144   |
-| [flutter_chat_bubble](https://pub.dev/packages/flutter_chat_bubble)               | 用于创建不同类型的聊天气泡。                                                                                          | 2023-02-10 | 296   |
-| [flutter_chat_ui](https://pub.dev/packages/flutter_chat_ui)                       | 积极维护、社区驱动的聊天 UI 实施，带有可选的 Firebase BaaS。                                                          | 2024-08-12 | 1382  |
-| [teledart](https://pub.dev/packages/teledart)                                     | 与最新 Telegram Bot API 接口的 Dart 库。                                                                              | 2023-08-29 | 301   |
-| [ftpconnect](https://pub.dev/packages/ftpconnect)                                 | Flutter 简单而强大的 dart FTP 连接库，可与 FTP 服务器交互，并可以压缩和解压缩文件。                                   | 2024-02-25 | 127   |
-| [mailer](https://pub.dev/packages/mailer)                                         | 从 Dart 撰写和发送电子邮件。支持文件附件和 HTML 电子邮件。                                                            | 2024-09-26 | 410   |
-| [flutter_facebook_auth](https://pub.dev/packages/flutter_facebook_auth)           | 将 facebook 登录添加到您的 Flutter 应用程序、获取用户信息、个人资料图片等的最简单方法。包括网络支持。                 | 2024-09-08 | 1342  |
-| [google_sign_in](https://pub.dev/packages/google_sign_in)                         | 用于 Google Sign-In 的 Flutter 插件，一种用于在 Android 和 iOS 上使用 Google 帐户登录的安全身份验证系统。             | 2024-11-04 | 3197  |
-| [nearby_connections](https://pub.dev/packages/nearby_connections)                 | android NearbyConnections API 的插件。                                                                                | 2024-05-04 | 124   |
-| [wechat_kit](https://pub.dev/packages/wechat_kit)                                 | 允许开发人员使用 natvie Android 和 iOS 微信 SDK 进行身份验证/共享/支付。                                              | 2024-11-18 | 111   |
-| [wiredash](https://pub.dev/packages/wiredash)                                     | Wiredash 是 Fl​​utter 应用程序的交互式用户反馈工具。                                                                  | 2024-10-28 | 285   |
-| [onesignal_flutter](https://pub.dev/packages/onesignal_flutter)                   | OneSignal 是一种针对移动应用程序的免费推送通知服务。                                                                  | 2024-11-05 | 868   |
-| [huawei_push](https://pub.dev/packages/huawei_push)                               | Flutter 的 HUAWEI Push Kit 插件。                                                                                     | 2024-08-22 | 85    |
-| [amplitude_flutter](https://pub.dev/packages/amplitude_flutter)                   | 官方 Amplitude Flutter SDK。                                                                                          | 2024-09-09 | 100   |
-| [rammus](https://pub.dev/packages/rammus)                                         | 网友开发的阿里云推送 Flutter 插件                                                                                     | 2024-02-25 | 13    |
-| [android_alarm_manager_plus](https://pub.dev/packages/android_alarm_manager_plus) | 用于访问 Android AlarmManager 服务，并在警报触发时在后台运行 Dart 代码。                                              | 2024-07-29 | 517   |
-| [mongo_dart](https://pub.dev/packages/mongo_dart)                                 | MongoDB 驱动程序，在纯 Dart 中实现。所有 CRUD 操作、聚合管道。                                                        | 2024-06-08 | 477   |
-| [pay](https://pub.dev/packages/pay)                                               | 对 Flutter 应用程序付款支持的插件。                                                                                   | 2024-02-27 | 968   |
-| [mqtt_client](https://pub.dev/packages/mqtt_client)                               | 用于 Dart 的基于服务器和浏览器的 MQTT 客户端。                                                                        | 2024-11-16 | 452   |
-| [stripe_sdk](https://pub.dev/packages/stripe_sdk)                                 | Flutter 唯一的原生 Stripe 库，完全支持 SCA/PSD2、支付和最新的 Stripe 功能。                                           | 2023-07-31 | 173   |
-| [flutter_stripe](https://pub.dev/packages/flutter_stripe)                         | Stripe 的 flutter 库，支持 PaymentSheets、Apple 和 Google Pay、SCA、PSD2 等。                                         | 2024-11-19 | 1312  |
-| [flutter_cache_manager](https://pub.dev/packages/flutter_cache_manager)           | 用于在应用程序的缓存目录中下载和缓存文件。可以更改有关文件保留时间的各种设置。                                        | 2024-08-13 | 1695  |
-| [tobias](https://pub.dev/packages/tobias)                                         | 允许用户使用原生 Android 和 iOS 支付宝 SDK 进行身份验证或支付。                                                       | 2024-11-05 | 81    |
-| [jmlink_flutter_plugin](https://pub.dev/packages/jmlink_flutter_plugin)           | 移动端 JMLink 服务可以从多种渠道中唤醒 APP 内一个具体的页面。                                                         | 2023-07-28 | 2     |
-| [firebase_messaging](https://pub.dev/packages/firebase_messaging)                 | Firebase 消息传递插件。                                                                                               | 2024-11-13 | 3621  |
-| [jverify](https://pub.dev/packages/jverify)                                       | 整合了三大运营商的网关认证能力，为开发者提供了一键登录和号码认证功能，优化用户注册/登录、号码验证的体验，提高安全性。 | 2024-08-19 | 14    |
-| [translator](https://pub.dev/packages/translator)                                 | 用于 Dart 的免费且无限制的 Google 翻译 API。                                                                          | 2024-11-18 | 667   |
-| [firebase_core](https://pub.dev/packages/firebase_core)                           | 用于 Firebase Core 的 Flutter 插件，可连接到多个 Firebase 应用程序。                                                  | 2024-11-13 | 3649  |
-| [cloud_firestore](https://pub.dev/packages/cloud_firestore)                       | 用于 Cloud Firestore 的 Flutter 插件，这是一个云托管的 noSQL 数据库，具有实时同步功能。                               | 2024-11-13 | 3544  |
-| [sqflite](https://pub.dev/packages/sqflite)                                       | SQLite 的 Flutter 插件。                                                                                              | 2024-11-08 | 5077  |
-| [firebase_auth](https://pub.dev/packages/firebase_auth)                           | 用于 Firebase 身份验证的 Flutter 插件。                                                                               | 2024-11-13 | 3977  |
-| [share_plus](https://pub.dev/packages/share_plus)                                 | 通过平台的“共享”对话框共享 Flutter 应用程序中的内容。                                                                 | 2024-11-07 | 3463  |
-| [speech_to_text](https://pub.dev/packages/speech_to_text)                         | 将特定于设备的语音显示给文本识别功能。                                                                                | 2024-08-19 | 1363  |
-| [flutter_tts](https://pub.dev/packages/flutter_tts)                               | 用于文字转语音的 Flutter 插件。iOS，Android 和 Web 支持该插件。                                                       | 2024-11-14 | 1330  |
-| [fluwx](https://pub.dev/packages/fluwx)                                           | Flutter 中实现 WeChat SDK 的功能。借助 Fluwx，开发人员可以轻松使用 WeChatSDK，例如分享，付款，小程序。                | 2024-11-19 | 224   |
-| [socket_io_client](https://pub.dev/packages/socket_io_client)                     | 用于 Web，Flutter 和 dartvm 的 socket.io-client 的 Dartlang 端口。                                                    | 2024-11-15 | 1393  |
-| [jpush_flutter](https://pub.dev/packages/jpush_flutter)                           | 极光推送官方支持的 Flutter 插件。                                                                                     | 2024-11-05 | 86    |
-| [baidupan](https://pub.dev/packages/baidupan)                                     | 百度网盘 API                                                                                                          | 2023-12-02 | 6     |
-| [twitter_api_v2](https://pub.dev/packages/twitter_api_v2)                         | Dart 语言编写的 Twitter API v2.0 的轻量级和强大的包装库                                                               | 2023-02-27 | 72    |
+| 依赖                                                                              | 描述                                                                                                                         | 更新时间   | likes |
+| --------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | ---------- | ----- |
+| [chrome_extension](https://pub.dev/packages/chrome_extension)                     | 用于访问 Chrome 扩展程序中可用的 \`chrome.\*\` API 的库                                                                      | 2024-08-16 | 50    |
+| [flutter_v2ray](https://pub.dev/packages/flutter_v2ray)                           | 允许你建立 v2ray 连接的插件                                                                                                  | 2024-11-17 | 73    |
+| [serial_port_win32](https://pub.dev/packages/serial_port_win32)                   | 使用 win32 API 的串行端口库                                                                                                  | 2024-11-15 | 54    |
+| [tencent_cloud_chat_sdk](https://pub.dev/packages/tencent_cloud_chat_sdk)         | 腾讯云聊天 SDK                                                                                                               | 2024-11-18 | 26    |
+| [tencent_trtc_cloud](https://pub.dev/packages/tencent_trtc_cloud)                 | 通过 TRTC，您可以快速开发高性价比、低时延、高品质的交互式音视频服务                                                          | 2024-11-05 | 22    |
+| [ali_auth](https://pub.dev/packages/ali_auth)                                     | 阿里云号码认证服务中一键登录的插件                                                                                           | 2024-09-06 | 20    |
+| [alipay_kit](https://pub.dev/packages/alipay_kit)                                 | 允许开发人员使用 natvie Android 和 iOS 支付宝 SDK 进行授权/支付                                                              | 2023-06-04 | 36    |
+| [tencent_kit](https://pub.dev/packages/tencent_kit)                               | 允许开发者使用 natvie Android 和 iOS 腾讯 SDK 进行授权/共享                                                                  | 2024-11-14 | 29    |
+| [televerse](https://pub.dev/packages/televerse)                                   | 在 Dart 中轻松创建自己的高效 Telegram 机器人                                                                                 | 2024-11-18 | 67    |
+| [tencent_calls_uikit](https://pub.dev/packages/tencent_calls_uikit)               | 用于视频通话的腾讯云 UIKit                                                                                                   | 2024-10-29 | 46    |
+| [telegram_client](https://pub.dev/packages/telegram_client)                       | 用于制作基于应用程序电报的颤振和 userbot / bot 支持服务器端和客户端                                                          | 2024-09-24 | 147   |
+| [huawei_modeling3d](https://pub.dev/packages/huawei_modeling3d)                   | 实现了华为 3D 建模 SDK 与 Flutter 平台的通信                                                                                 | 2023-03-02 | 6     |
+| [huawei_iap](https://pub.dev/packages/huawei_iap)                                 | Flutter 的 HUAWEI IAP Kit 插件                                                                                               | 2024-07-02 | 33    |
+| [huawei_analytics](https://pub.dev/packages/huawei_analytics)                     | Flutter 的 HUAWEI Analytics Kit 插件                                                                                         | 2024-01-31 | 21    |
+| [huawei_dtm](https://pub.dev/packages/huawei_dtm)                                 | 华为动态标签管理器（DTM）是一个动态标签管理系统                                                                              | 2023-03-02 | 1     |
+| [huawei_account](https://pub.dev/packages/huawei_account)                         | Flutter 的 HUAWEI Account Kit 插件                                                                                           | 2024-05-15 | 22    |
+| [googleapis](https://pub.dev/packages/googleapis)                                 | 用于访问通过 API 发现服务描述的 Google API 的自动生成的客户端库。                                                            | 2024-06-13 | 1030  |
+| [github](https://pub.dev/packages/github)                                         | 使用 Github 的 v3 API 的高级 GitHub API 客户端库。                                                                           | 2024-02-26 | 144   |
+| [flutter_chat_bubble](https://pub.dev/packages/flutter_chat_bubble)               | 用于创建不同类型的聊天气泡。                                                                                                 | 2023-02-10 | 296   |
+| [flutter_chat_ui](https://pub.dev/packages/flutter_chat_ui)                       | 积极维护、社区驱动的聊天 UI 实施，带有可选的 Firebase BaaS。                                                                 | 2024-08-12 | 1382  |
+| [teledart](https://pub.dev/packages/teledart)                                     | 与最新 Telegram Bot API 接口的 Dart 库。                                                                                     | 2023-08-29 | 301   |
+| [ftpconnect](https://pub.dev/packages/ftpconnect)                                 | Flutter 简单而强大的 dart FTP 连接库，可与 FTP 服务器交互，并可以压缩和解压缩文件。                                          | 2024-02-25 | 127   |
+| [mailer](https://pub.dev/packages/mailer)                                         | 从 Dart 撰写和发送电子邮件。支持文件附件和 HTML 电子邮件。                                                                   | 2024-09-26 | 410   |
+| [flutter_facebook_auth](https://pub.dev/packages/flutter_facebook_auth)           | 将 facebook 登录添加到您的 Flutter 应用程序、获取用户信息、个人资料图片等的最简单方法。包括网络支持。                        | 2024-09-08 | 1342  |
+| [google_sign_in](https://pub.dev/packages/google_sign_in)                         | 用于 Google Sign-In 的 Flutter 插件，一种用于在 Android 和 iOS 上使用 Google 帐户登录的安全身份验证系统。                    | 2024-11-04 | 3197  |
+| [nearby_connections](https://pub.dev/packages/nearby_connections)                 | android NearbyConnections API 的插件。                                                                                       | 2024-05-04 | 124   |
+| [wechat_kit](https://pub.dev/packages/wechat_kit)                                 | 允许开发人员使用 natvie Android 和 iOS 微信 SDK 进行身份验证/共享/支付。                                                     | 2024-11-18 | 111   |
+| [wiredash](https://pub.dev/packages/wiredash)                                     | Wiredash 是 Fl​​utter 应用程序的交互式用户反馈工具。                                                                         | 2024-10-28 | 285   |
+| [onesignal_flutter](https://pub.dev/packages/onesignal_flutter)                   | OneSignal 是一种针对移动应用程序的免费推送通知服务。                                                                         | 2024-11-05 | 868   |
+| [huawei_push](https://pub.dev/packages/huawei_push)                               | Flutter 的 HUAWEI Push Kit 插件。                                                                                            | 2024-08-22 | 85    |
+| [amplitude_flutter](https://pub.dev/packages/amplitude_flutter)                   | 官方 Amplitude Flutter SDK。                                                                                                 | 2024-09-09 | 100   |
+| [rammus](https://pub.dev/packages/rammus)                                         | 网友开发的阿里云推送 Flutter 插件                                                                                            | 2024-02-25 | 13    |
+| [android_alarm_manager_plus](https://pub.dev/packages/android_alarm_manager_plus) | 用于访问 Android AlarmManager 服务，并在警报触发时在后台运行 Dart 代码。                                                     | 2024-07-29 | 517   |
+| [mongo_dart](https://pub.dev/packages/mongo_dart)                                 | MongoDB 驱动程序，在纯 Dart 中实现。所有 CRUD 操作、聚合管道。                                                               | 2024-06-08 | 477   |
+| [pay](https://pub.dev/packages/pay)                                               | 对 Flutter 应用程序付款支持的插件。                                                                                          | 2024-02-27 | 968   |
+| [mqtt_client](https://pub.dev/packages/mqtt_client)                               | 用于 Dart 的基于服务器和浏览器的 MQTT 客户端。                                                                               | 2024-11-16 | 452   |
+| [stripe_sdk](https://pub.dev/packages/stripe_sdk)                                 | Flutter 唯一的原生 Stripe 库，完全支持 SCA/PSD2、支付和最新的 Stripe 功能。                                                  | 2023-07-31 | 173   |
+| [flutter_stripe](https://pub.dev/packages/flutter_stripe)                         | Stripe 的 flutter 库，支持 PaymentSheets、Apple 和 Google Pay、SCA、PSD2 等。                                                | 2024-11-19 | 1312  |
+| [flutter_cache_manager](https://pub.dev/packages/flutter_cache_manager)           | 用于在应用程序的缓存目录中下载和缓存文件。可以更改有关文件保留时间的各种设置。                                               | 2024-08-13 | 1695  |
+| [tobias](https://pub.dev/packages/tobias)                                         | 允许用户使用原生 Android 和 iOS 支付宝 SDK 进行身份验证或支付。                                                              | 2024-11-05 | 81    |
+| [jmlink_flutter_plugin](https://pub.dev/packages/jmlink_flutter_plugin)           | 移动端 JMLink 服务可以从多种渠道中唤醒 APP 内一个具体的页面。                                                                | 2023-07-28 | 2     |
+| [firebase_messaging](https://pub.dev/packages/firebase_messaging)                 | Firebase 消息传递插件。                                                                                                      | 2024-11-13 | 3621  |
+| [jverify](https://pub.dev/packages/jverify)                                       | 整合了三大运营商的网关认证能力，为开发者提供了一键登录和号码认证功能，优化用户注册/登录、号码验证的体验，提高安全性。        | 2024-08-19 | 14    |
+| [translator](https://pub.dev/packages/translator)                                 | 用于 Dart 的免费且无限制的 Google 翻译 API。                                                                                 | 2024-11-18 | 667   |
+| [firebase_core](https://pub.dev/packages/firebase_core)                           | 用于 Firebase Core 的 Flutter 插件，可连接到多个 Firebase 应用程序。                                                         | 2024-11-13 | 3649  |
+| [cloud_firestore](https://pub.dev/packages/cloud_firestore)                       | 用于 Cloud Firestore 的 Flutter 插件，这是一个云托管的 noSQL 数据库，具有实时同步功能。                                      | 2024-11-13 | 3544  |
+| [sqflite](https://pub.dev/packages/sqflite)                                       | SQLite 的 Flutter 插件。                                                                                                     | 2024-11-08 | 5077  |
+| [firebase_auth](https://pub.dev/packages/firebase_auth)                           | 用于 Firebase 身份验证的 Flutter 插件。                                                                                      | 2024-11-13 | 3977  |
+| [share_plus](https://pub.dev/packages/share_plus)                                 | 通过平台的“共享”对话框共享 Flutter 应用程序中的内容。                                                                        | 2024-11-07 | 3463  |
+| [speech_to_text](https://pub.dev/packages/speech_to_text)                         | 将特定于设备的语音显示给文本识别功能。                                                                                       | 2024-08-19 | 1363  |
+| [flutter_tts](https://pub.dev/packages/flutter_tts)                               | 用于文字转语音的 Flutter 插件。iOS，Android 和 Web 支持该插件。                                                              | 2024-11-14 | 1330  |
+| [fluwx](https://pub.dev/packages/fluwx)                                           | Flutter 中实现 WeChat SDK 的功能。借助 Fluwx，开发人员可以轻松使用 WeChatSDK，例如分享，付款，小程序。                       | 2024-11-19 | 224   |
+| [socket_io_client](https://pub.dev/packages/socket_io_client)                     | 用于 Web，Flutter 和 dartvm 的 socket.io-client 的 Dartlang 端口。                                                           | 2024-11-15 | 1393  |
+| [jpush_flutter](https://pub.dev/packages/jpush_flutter)                           | 极光推送官方支持的 Flutter 插件。                                                                                            | 2024-11-05 | 86    |
+| [baidupan](https://pub.dev/packages/baidupan)                                     | 百度网盘 API                                                                                                                 | 2023-12-02 | 6     |
+| [twitter_api_v2](https://pub.dev/packages/twitter_api_v2)                         | Dart 语言编写的 Twitter API v2.0 的轻量级和强大的包装库                                                                      | 2023-02-27 | 72    |
+| [openai_dart](https://pub.dev/packages/openai_dart)                               | OpenAI API 的 Dart 客户端。支持聊天（GPT-4o、o1 等）、补全、嵌入、图像（DALL·E 3）、助手（线程、向量存储等）、批处理、微调等 | 暂无       | 暂无  |
+| [ollama_dart](https://pub.dev/packages/ollama_dart)                               | Ollama API 的 Dart 客户端（在本地运行 Llama 3.2、Gemma 2、Phi-3.5、Mistral nemo、Qwen2                                       | 暂无       | 暂无  |
+| [opencv_dart](https://pub.dev/packages/opencv_dart)                               | OpenCV4 绑定，使用 dart:ffi。此插件包含 `videoio` 模块                                                                       | 暂无       | 暂无  |
 
 > ### <a id="AI">AI</a>
 
