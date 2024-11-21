@@ -2,12 +2,15 @@
 
 🔥🔥🔥 收集好用的Flutter插件以便更高效的开发， 如果有好用的插件或者建议，请Issue 或 PR ， 期待参与。
 
-## 收录 676 个
+## 收录
 
-### 10-12
+### 11-21
 
-- [timelines_plus](https://pub.dev/packages/timelines_plus) - 功能强大且易于使用的 Flutter 时间线包
-- [soft_edge_blur](https://pub.dev/packages/soft_edge_blur) - 对其子小部件的一个或多个边缘应用柔和渐进模糊效果
+- [material_dialogs](https://pub.dev/packages/material_dialogs) - 创建动画、简单、时尚的 Material Dialogs
+- [pretty_animated_text ](https://pub.dev/packages/pretty_animated_text) - 创建可自定义的动画文本小部件
+- [dynamic_color](https://pub.dev/packages/dynamic_color) - 根据平台的动态颜色实现创建 Material 配色方案
+- [re_editor](https://pub.dev/packages/re_editor) - 功能强大的轻量级文本和代码编辑器小部件
+- [re_highlight](https://pub.dev/packages/re_highlight) - 强大的文本语法高亮库
 
 ## 目录
 
@@ -195,6 +198,7 @@
 | [device_calendar](https://pub.dev/packages/device_calendar)                             | 修改用户设备上的日历。                                                                                                          | 2024-09-29 | 239   |
 | [device_marketing_names](https://pub.dev/packages/device_marketing_names)               | 轻松查找 Android、iOS 和浏览器的设备营销名称。无需互联网连接或数据库。                                                          | 2024-09-26 | 27    |
 | [pedometer_2](https://pub.dev/packages/pedometer_2)                                     | 计步器和步数检测。获取一定时间内的步数并实时记录步数                                                                            | 2024-07-10 | 14    |
+| [dynamic_color](https://pub.dev/packages/dynamic_color)                                 | 根据平台的动态颜色实现创建 Material 配色方案                                                                                    | 暂无       | 暂无  |
 
 > ### <a id="项目">项目</a>
 
@@ -393,6 +397,7 @@
 | [forui](https://pub.dev/packages/forui)                                                       | 它提供了一组受 Shadcn/ui 很大启发的简约小部件                                                                                 | 2024-09-24 | 64    |
 | [animated_hint_textfield](https://pub.dev/packages/animated_hint_textfield)                   | 为文本字段提示/标签文本添加动画，添加动态和引人注目的过渡以增强用户体验                                                       | 2024-06-21 | 63    |
 | [soft_edge_blur](https://pub.dev/packages/soft_edge_blur)                                     | 对其子小部件的一个或多个边缘应用柔和渐进模糊效果                                                                              | 2024-09-28 | 70    |
+| [material_dialogs](https://pub.dev/packages/material_dialogs)                                 | 创建动画、简单、时尚的 Material Dialogs                                                                                       | 暂无       | 暂无  |
 
 > ### <a id="音视频">音视频</a>
 
@@ -521,6 +526,8 @@
 | [appflowy_editor](https://pub.dev/packages/appflowy_editor)                           | 高度可定制的 Flutter 富文本编辑器                                                              | 2024-09-11 | 394   |
 | [flutter_quill](https://pub.dev/packages/flutter_quill)                               | 支持移动和 Web 的富文本编辑器。                                                                | 2024-10-01 | 1773  |
 | [yaml](https://pub.dev/packages/yaml)                                                 | YAML 的解析器，一种人性化的数据序列化标准                                                      | 2023-05-04 | 246   |
+| [re_editor](https://pub.dev/packages/re_editor)                                       | 功能强大的轻量级文本和代码编辑器小部件                                                         | 暂无       | 暂无  |
+| [re_highlight](https://pub.dev/packages/re_highlight)                                 | 强大的文本语法高亮库                                                                           | 暂无       | 暂无  |
 
 > ### <a id="时间">时间</a>
 
@@ -546,34 +553,35 @@
 
 > ### <a id="动画">动画</a>
 
-| 依赖                                                              | 描述                                                                                  | 更新时间   | likes |
-| ----------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ---------- | ----- |
-| [rive_animated_icon](https://pub.dev/packages/rive_animated_icon) | 提供了丰富的动画图标，可以根据您的喜好进行定制                                        | 2024-10-02 | 128   |
-| [newton_particles](https://pub.dev/packages/newton_particles)     | 高度可配置的粒子发射器包，可让您创建迷人的动画，例如下雨、烟雾、爆炸                  | 2024-09-06 | 89    |
-| [hyper_effects](https://pub.dev/packages/hyper_effects)           | 几行代码即可创建精美的效果和动画                                                      | 2024-02-02 | 183   |
-| [flutter_tilt](https://pub.dev/packages/flutter_tilt)             | 为 Flutter 应用倾斜视差悬停效果，支持倾斜、灯光、阴影效果、陀螺仪传感器               | 2024-09-06 | 178   |
-| [path_animation](https://pub.dev/packages/path_animation)         | 轻松地为小部件穿过路径设置动画                                                        | 2024-04-10 | 12    |
-| [weather_animation](https://pub.dev/packages/weather_animation)   | 包含美丽的天气动画。使用天气配置器轻松设置                                            | 2024-08-20 | 93    |
-| [zerker](https://pub.dev/packages/zerker)                         | 灵活轻便的 flutter canvas 图形动画库                                                  | 2024-08-16 | 86    |
-| [motion](https://pub.dev/packages/motion)                         | 一个精美的小部件，将陀螺仪或基于悬停的运动效果应用于其子级                            | 2024-09-25 | 214   |
-| [particle_field](https://pub.dev/packages/particle_field)         | 用于为您的 UI 添加高性能自定义粒子效果                                                | 2023-03-12 | 130   |
-| [siri_wave](https://pub.dev/packages/siri_wave)                   | 在 Siri 中一样创建漂亮的波形                                                          | 2023-09-09 | 107   |
-| [flutter_animate](https://pub.dev/packages/flutter_animate)       | 通过简单、可定制、统一的 API 在 Flutter 中添加精美的动画效果和构建器                  | 2024-01-31 | 3407  |
-| [dismissible_page](https://pub.dev/packages/dismissible_page)     | 创建通过滑动手势关闭的页面，具有英雄风格的动画，受 Facebook 和 Instagram 故事的启发。 | 2023-04-18 | 607   |
-| [animator](https://pub.dev/packages/animator)                     | 使动画更轻松的 Flutter 库。它允许将动画设置与用户界面分离。                           | 2023-05-12 | 242   |
-| [giphy_get](https://pub.dev/packages/giphy_get)                   | 使用纯飞镖代码从 Giphy 中选择 EMOJI、STICKER 或 GIF，支持安卓、iOS、网页和桌面。      | 2024-08-01 | 119   |
-| [giphy_picker](https://pub.dev/packages/giphy_picker)             | 允许您从 Giphy 中挑选动画 GIF 图像的插件。                                            | 2024-02-20 | 76    |
-| [rive](https://pub.dev/packages/rive)                             | 提供运行时功能，用于回放使用 Rive 编辑器构建的动画并与之交互。                        | 2024-09-28 | 1722  |
-| [loading_indicator](https://pub.dev/packages/loading_indicator)   | 加载动画的集合。开箱即用，没有额外的依赖。                                            | 2023-06-25 | 583   |
-| [funvas](https://pub.dev/packages/funvas)                         | 根据时间和数学函数创建画布动画的包。                                                  | 2023-09-24 | 231   |
-| [auto_animated](https://pub.dev/packages/auto_animated)           | 可以为列表和图标设置动画。                                                            | 2023-06-30 | 1250  |
-| [page_transition](https://pub.dev/packages/page_transition)       | 漂亮的页面过渡包。                                                                    | 2023-09-10 | 1394  |
-| [liquid_swipe](https://pub.dev/packages/liquid_swipe)             | 液体效果的页面切换组件。                                                              | 2023-03-29 | 1274  |
-| [shimmer](https://pub.dev/packages/shimmer)                       | 为控件添加闪光效果。                                                                  | 2023-05-21 | 4933  |
-| [lottie](https://pub.dev/packages/lottie)                         | 在 Flutter 上本地渲染 After Effects 动画。该软件包是 Lottie 播放器的纯 Dart 实现。    | 2024-05-17 | 3964  |
-| [simple_animations](https://pub.dev/packages/simple_animations)   | 创建精美的自定义动画。                                                                | 2023-06-13 | 1943  |
-| [animate_do](https://pub.dev/packages/animate_do)                 | 受 Animate.css 启发的动画包，仅使用 Flutter 动画构建，没有额外的包。                  | 2024-02-29 | 4448  |
-| [animations](https://pub.dev/packages/animations)                 | 轻松集成到任何 Flutter 应用程序中的精美预建动画。                                     | 2024-01-04 | 6198  |
+| 依赖                                                                   | 描述                                                                                  | 更新时间   | likes |
+| ---------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ---------- | ----- |
+| [rive_animated_icon](https://pub.dev/packages/rive_animated_icon)      | 提供了丰富的动画图标，可以根据您的喜好进行定制                                        | 2024-10-02 | 128   |
+| [newton_particles](https://pub.dev/packages/newton_particles)          | 高度可配置的粒子发射器包，可让您创建迷人的动画，例如下雨、烟雾、爆炸                  | 2024-09-06 | 89    |
+| [hyper_effects](https://pub.dev/packages/hyper_effects)                | 几行代码即可创建精美的效果和动画                                                      | 2024-02-02 | 183   |
+| [flutter_tilt](https://pub.dev/packages/flutter_tilt)                  | 为 Flutter 应用倾斜视差悬停效果，支持倾斜、灯光、阴影效果、陀螺仪传感器               | 2024-09-06 | 178   |
+| [path_animation](https://pub.dev/packages/path_animation)              | 轻松地为小部件穿过路径设置动画                                                        | 2024-04-10 | 12    |
+| [weather_animation](https://pub.dev/packages/weather_animation)        | 包含美丽的天气动画。使用天气配置器轻松设置                                            | 2024-08-20 | 93    |
+| [zerker](https://pub.dev/packages/zerker)                              | 灵活轻便的 flutter canvas 图形动画库                                                  | 2024-08-16 | 86    |
+| [motion](https://pub.dev/packages/motion)                              | 一个精美的小部件，将陀螺仪或基于悬停的运动效果应用于其子级                            | 2024-09-25 | 214   |
+| [particle_field](https://pub.dev/packages/particle_field)              | 用于为您的 UI 添加高性能自定义粒子效果                                                | 2023-03-12 | 130   |
+| [siri_wave](https://pub.dev/packages/siri_wave)                        | 在 Siri 中一样创建漂亮的波形                                                          | 2023-09-09 | 107   |
+| [flutter_animate](https://pub.dev/packages/flutter_animate)            | 通过简单、可定制、统一的 API 在 Flutter 中添加精美的动画效果和构建器                  | 2024-01-31 | 3407  |
+| [dismissible_page](https://pub.dev/packages/dismissible_page)          | 创建通过滑动手势关闭的页面，具有英雄风格的动画，受 Facebook 和 Instagram 故事的启发。 | 2023-04-18 | 607   |
+| [animator](https://pub.dev/packages/animator)                          | 使动画更轻松的 Flutter 库。它允许将动画设置与用户界面分离。                           | 2023-05-12 | 242   |
+| [giphy_get](https://pub.dev/packages/giphy_get)                        | 使用纯飞镖代码从 Giphy 中选择 EMOJI、STICKER 或 GIF，支持安卓、iOS、网页和桌面。      | 2024-08-01 | 119   |
+| [giphy_picker](https://pub.dev/packages/giphy_picker)                  | 允许您从 Giphy 中挑选动画 GIF 图像的插件。                                            | 2024-02-20 | 76    |
+| [rive](https://pub.dev/packages/rive)                                  | 提供运行时功能，用于回放使用 Rive 编辑器构建的动画并与之交互。                        | 2024-09-28 | 1722  |
+| [loading_indicator](https://pub.dev/packages/loading_indicator)        | 加载动画的集合。开箱即用，没有额外的依赖。                                            | 2023-06-25 | 583   |
+| [funvas](https://pub.dev/packages/funvas)                              | 根据时间和数学函数创建画布动画的包。                                                  | 2023-09-24 | 231   |
+| [auto_animated](https://pub.dev/packages/auto_animated)                | 可以为列表和图标设置动画。                                                            | 2023-06-30 | 1250  |
+| [page_transition](https://pub.dev/packages/page_transition)            | 漂亮的页面过渡包。                                                                    | 2023-09-10 | 1394  |
+| [liquid_swipe](https://pub.dev/packages/liquid_swipe)                  | 液体效果的页面切换组件。                                                              | 2023-03-29 | 1274  |
+| [shimmer](https://pub.dev/packages/shimmer)                            | 为控件添加闪光效果。                                                                  | 2023-05-21 | 4933  |
+| [lottie](https://pub.dev/packages/lottie)                              | 在 Flutter 上本地渲染 After Effects 动画。该软件包是 Lottie 播放器的纯 Dart 实现。    | 2024-05-17 | 3964  |
+| [simple_animations](https://pub.dev/packages/simple_animations)        | 创建精美的自定义动画。                                                                | 2023-06-13 | 1943  |
+| [animate_do](https://pub.dev/packages/animate_do)                      | 受 Animate.css 启发的动画包，仅使用 Flutter 动画构建，没有额外的包。                  | 2024-02-29 | 4448  |
+| [animations](https://pub.dev/packages/animations)                      | 轻松集成到任何 Flutter 应用程序中的精美预建动画。                                     | 2024-01-04 | 6198  |
+| [pretty_animated_text ](https://pub.dev/packages/pretty_animated_text) | 创建可自定义的动画文本小部件                                                          | 暂无       | 暂无  |
 
 > ### <a id="图表">图表</a>
 
