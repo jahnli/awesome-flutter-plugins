@@ -2,7 +2,7 @@
 
 🔥🔥🔥 收集好用的Flutter插件以便更高效的开发， 如果有好用的插件或者建议，请Issue 或 PR ， 期待参与。
 
-## 收录 681 个
+## 收录 685 个
 
 ### 11-21
 
@@ -203,7 +203,7 @@
 | [device_marketing_names](https://pub.dev/packages/device_marketing_names)               | 轻松查找 Android、iOS 和浏览器的设备营销名称。无需互联网连接或数据库。                                                          | 2024-10-28 | 28    |
 | [pedometer_2](https://pub.dev/packages/pedometer_2)                                     | 计步器和步数检测。获取一定时间内的步数并实时记录步数                                                                            | 2024-07-10 | 14    |
 | [dynamic_color](https://pub.dev/packages/dynamic_color)                                 | 根据平台的动态颜色实现创建 Material 配色方案                                                                                    | 2024-03-01 | 550   |
-| [universal_ble](https://pub.dev/packages/universal_ble)                                 | 适用于 Flutter 的跨平台（Android/iOS/macOS/Windows/Linux/Web）蓝牙低功耗 (BLE) 插件                                             | 暂无       | 暂无  |
+| [universal_ble](https://pub.dev/packages/universal_ble)                                 | 适用于 Flutter 的跨平台（Android/iOS/macOS/Windows/Linux/Web）蓝牙低功耗 (BLE) 插件                                             | 2024-10-03 | 45    |
 
 > ### <a id="项目">项目</a>
 
@@ -238,13 +238,13 @@
 | [sentry_flutter](https://pub.dev/packages/sentry_flutter)                         | Flutter 的崩溃报告库，可将崩溃报告发送到 Sentry.io。                                                                                  | 2024-11-08 | 900   |
 | [mobx](https://pub.dev/packages/mobx)                                             | 用于被动管理应用程序状态的库。                                                                                                        | 2024-10-31 | 1255  |
 | [google_fonts](https://pub.dev/packages/google_fonts)                             | 在 Flutter 应用程序中包含来自 fonts.google.com 中的字体的软件包。                                                                     | 2024-03-04 | 5959  |
-| [get](https://pub.dev/packages/get)                                               | Flutter 的轻便而强大的解决方案。它结合了高性能状态管理，智能依赖注入和快速实用的路由管理。                                            | 2023-09-08 | 14865 |
+| [get](https://pub.dev/packages/get)                                               | Flutter 的轻便而强大的解决方案。它结合了高性能状态管理，智能依赖注入和快速实用的路由管理。                                            | 2023-09-08 | 14866 |
 | [get_storage](https://pub.dev/packages/get_storage)                               | 完全用 Dart 编写的快速，轻巧且同步的键值存储。                                                                                        | 2023-02-27 | 1757  |
 | [flutter_screenutil](https://pub.dev/packages/flutter_screenutil)                 | 不同终端屏幕适配问题。                                                                                                                | 2024-05-31 | 4597  |
 | [crypto](https://pub.dev/packages/crypto)                                         | SHA，MD5 和 HMAC 加密功能的实现                                                                                                       | 2024-10-16 | 1658  |
 | [Dio](https://pub.dev/packages/dio)                                               | Dart 的强大 Http 客户端，支持拦截器，全局配置，FormData，请求取消，文件下载，超时等。                                                 | 2024-09-03 | 7570  |
 | [shared_preferences](https://pub.dev/packages/shared_preferences)                 | 读取、设置缓存。                                                                                                                      | 2024-11-09 | 9741  |
-| [provider](https://pub.dev/packages/provider)                                     | 官方推荐的状态管理。                                                                                                                  | 2024-02-28 | 10370 |
+| [provider](https://pub.dev/packages/provider)                                     | 官方推荐的状态管理。                                                                                                                  | 2024-02-28 | 10371 |
 | [intl](https://pub.dev/packages/intl)                                             | 包含用于处理国际化/本地化消息，日期和数字格式和解析，双向文本以及其他国际化问题的代码。                                               | 2024-11-13 | 5565  |
 | [icons_launcher](https://pub.dev/packages/icons_launcher)                         | 可简化更新 Flutter 应用启动器图标的任务                                                                                               | 2024-09-17 | 737   |
 | [media_query_preview](https://pub.dev/packages/media_query_preview)               | 支持跨各种设备和条件进行 UI 预览，支持自定义设备、亮度和文本比例                                                                      | 2024-06-21 | 2     |
@@ -741,9 +741,9 @@
 | [jpush_flutter](https://pub.dev/packages/jpush_flutter)                           | 极光推送官方支持的 Flutter 插件。                                                                                            | 2024-11-05 | 86    |
 | [baidupan](https://pub.dev/packages/baidupan)                                     | 百度网盘 API                                                                                                                 | 2023-12-02 | 6     |
 | [twitter_api_v2](https://pub.dev/packages/twitter_api_v2)                         | Dart 语言编写的 Twitter API v2.0 的轻量级和强大的包装库                                                                      | 2023-02-27 | 72    |
-| [openai_dart](https://pub.dev/packages/openai_dart)                               | OpenAI API 的 Dart 客户端。支持聊天（GPT-4o、o1 等）、补全、嵌入、图像（DALL·E 3）、助手（线程、向量存储等）、批处理、微调等 | 暂无       | 暂无  |
-| [ollama_dart](https://pub.dev/packages/ollama_dart)                               | Ollama API 的 Dart 客户端（在本地运行 Llama 3.2、Gemma 2、Phi-3.5、Mistral nemo、Qwen2                                       | 暂无       | 暂无  |
-| [opencv_dart](https://pub.dev/packages/opencv_dart)                               | OpenCV4 绑定，使用 dart:ffi。此插件包含 `videoio` 模块                                                                       | 暂无       | 暂无  |
+| [openai_dart](https://pub.dev/packages/openai_dart)                               | OpenAI API 的 Dart 客户端。支持聊天（GPT-4o、o1 等）、补全、嵌入、图像（DALL·E 3）、助手（线程、向量存储等）、批处理、微调等 | 2024-10-31 | 61    |
+| [ollama_dart](https://pub.dev/packages/ollama_dart)                               | Ollama API 的 Dart 客户端（在本地运行 Llama 3.2、Gemma 2、Phi-3.5、Mistral nemo、Qwen2                                       | 2024-09-25 | 42    |
+| [opencv_dart](https://pub.dev/packages/opencv_dart)                               | OpenCV4 绑定，使用 dart:ffi。此插件包含 `videoio` 模块                                                                       | 2024-11-06 | 71    |
 
 > ### <a id="AI">AI</a>
 
