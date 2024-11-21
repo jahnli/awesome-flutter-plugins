@@ -305,7 +305,6 @@
 | [appinio_social_share](https://pub.dev/packages/appinio_social_share)                         | 支持将文本、图像、文件和带图像的文本共享到社交媒体                                                                            | 2024-08-01 | 233   |
 | [hue_rotation](https://pub.dev/packages/hue_rotation)                                         | 更改任何具有颜色的小部件的颜色                                                                                                | 2024-06-06 | 24    |
 | [squares](https://pub.dev/packages/squares)                                                   | 灵活的 Flutter 棋盘小部件。视觉上可定制，支持许多国际象棋变体                                                                 | 2023-08-08 | 32    |
-| [quill_html_editor](https://pub.dev/packages/quill_html_editor)                               | 适用于 Android、iOS 和 Web 的 HTML 富文本编辑器，它使用强大的 Quill Js 库构建                                                 | 2024-01-13 | 238   |
 | [flutter_pannable_rating_bar](https://pub.dev/packages/flutter_pannable_rating_bar)           | 多功能且可自定义的评分栏                                                                                                      | 2023-03-10 | 35    |
 | [flutter_card_swiper](https://pub.dev/packages/flutter_card_swiper)                           | 类似于 Tinder 的刷卡程序包。它允许您向左、向右、向上和向下滑动，并为每个方向定义您自己的业务逻辑                              | 2024-10-08 | 409   |
 | [easy_stepper](https://pub.dev/packages/easy_stepper)                                         | 完全可定制、美观且易于使用的步进器小部件                                                                                      | 2024-08-02 | 327   |
@@ -332,7 +331,6 @@
 | [draggable_home](https://pub.dev/packages/draggable_home)                                     | Draggable 是一个用于添加漂亮的可拖动主页的部件。                                                                              | 2023-09-28 | 696   |
 | [fluent_ui](https://pub.dev/packages/fluent_ui)                                               | 在 Flutter 中实现 Windows UI。基于官方文档。                                                                                  | 2024-10-09 | 2846  |
 | [flutter_intro](https://pub.dev/packages/flutter_intro)                                       | 为您的 Flutter 项目提供新功能介绍和分步用户指南的更好方法。                                                                   | 2024-07-22 | 536   |
-| [html_editor_enhanced](https://pub.dev/packages/html_editor_enhanced)                         | 适用于 Android、iOS 和 Web 的 HTML 富文本编辑器。                                                                             | 2024-05-18 | 594   |
 | [zoom_widget](https://pub.dev/packages/zoom_widget)                                           | 用于放大子小部件可以容纳的可修改大小的画布的小部件。                                                                          | 2023-02-19 | 203   |
 | [onboarding_overlay](https://pub.dev/packages/onboarding_overlay)                             | 灵活地控制有或没有目标元素的进入。                                                                                            | 2024-05-05 | 331   |
 | [flutter_fortune_wheel](https://pub.dev/packages/flutter_fortune_wheel)                       | 抽奖幸运轮小部件。                                                                                                            | 2024-02-05 | 308   |
@@ -528,6 +526,8 @@
 | [yaml](https://pub.dev/packages/yaml)                                                 | YAML 的解析器，一种人性化的数据序列化标准                                                      | 2023-05-04 | 246   |
 | [re_editor](https://pub.dev/packages/re_editor)                                       | 功能强大的轻量级文本和代码编辑器小部件                                                         | 暂无       | 暂无  |
 | [re_highlight](https://pub.dev/packages/re_highlight)                                 | 强大的文本语法高亮库                                                                           | 暂无       | 暂无  |
+| [html_editor_enhanced](https://pub.dev/packages/html_editor_enhanced)                         | 适用于 Android、iOS 和 Web 的 HTML 富文本编辑器。                                                                             | 2024-05-18 | 594   |
+| [quill_html_editor](https://pub.dev/packages/quill_html_editor)                               | 适用于 Android、iOS 和 Web 的 HTML 富文本编辑器，它使用强大的 Quill Js 库构建                                                 | 2024-01-13 | 238   |
 
 > ### <a id="时间">时间</a>
 
