@@ -2,19 +2,17 @@
 
 🔥🔥🔥 收集好用的Flutter插件以便更高效的开发， 如果有好用的插件或者建议，请 Issue 或 PR
 
-## 收录 685 个
+## 收录
 
-### 11-21
+### 12-19
 
-- [material_dialogs](https://pub.dev/packages/material_dialogs) - 创建动画、简单、时尚的 Material Dialogs
-- [pretty_animated_text](https://pub.dev/packages/pretty_animated_text) - 创建可自定义的动画文本小部件
-- [dynamic_color](https://pub.dev/packages/dynamic_color) - 根据平台的动态颜色实现创建 Material 配色方案
-- [re_editor](https://pub.dev/packages/re_editor) - 功能强大的轻量级文本和代码编辑器小部件
-- [re_highlight](https://pub.dev/packages/re_highlight) - 强大的文本语法高亮库
-- [openai_dart](https://pub.dev/packages/openai_dart) - OpenAI API 的 Dart 客户端。支持聊天（GPT-4o、o1 等）、补全、嵌入、图像（DALL·E 3）、助手（线程、向量存储等）、批处理、微调等
-- [ollama_dart](https://pub.dev/packages/ollama_dart) - Ollama API 的 Dart 客户端（在本地运行 Llama 3.2、Gemma 2、Phi-3.5、Mistral nemo、Qwen2
-- [opencv_dart](https://pub.dev/packages/opencv_dart) - OpenCV4 绑定，使用 dart:ffi。此插件包含 `videoio` 模块
-- [universal_ble](https://pub.dev/packages/universal_ble) - 适用于 Flutter 的跨平台（Android/iOS/macOS/Windows/Linux/Web）蓝牙低功耗 (BLE) 插件
+- [bonsoir](https://pub.dev/packages/bonsoir) - 发现网络服务并广播您自己的服务
+- [flutter_fgbg](https://pub.dev/packages/flutter_fgbg) - 用于检测应用程序（不是 Flutter 容器）何时进入后台或前台
+- [screen_recorder_callback](https://pub.dev/packages/screen_recorder_callback) - 屏幕录像机回调插件用于检测 Android 和 iOS 上的屏幕录像
+- [bonsoir](https://pub.dev/packages/bonsoir) - 发现网络服务并广播您自己的服务
+- [super_clipboard](https://pub.dev/packages/super_clipboard) - Flutter 剪贴板访问包
+- [flutter_scene](https://pub.dev/packages/flutter_scene) - 通用实时 3D 渲染库。它最初是 Flutter Engine 中 Impeller 渲染后端的 C++ 组件，目前正在积极开发为由 Flutter GPU API 提供支持的纯 Dart 包
+- [flutter_ai_toolkit](https://pub.dev/packages/flutter_ai_toolkit) - 一组适用于您的 Flutter 应用的 AI 聊天相关小部件
 
 ## 目录
 
@@ -41,46 +39,47 @@
 
 > ### <a id="插件">插件</a>
 
-| 依赖                                                                                          | 描述                                                                                                                                 | 更新时间   | likes |
-| --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | ---------- | ----- |
-| [node_editor](https://pub.dev/packages/node_editor)                                           | 节点编辑器包                                                                                                                         | 2024-07-17 | 44    |
-| [flutter_code_editor](https://pub.dev/packages/flutter_code_editor)                           | 支持语法突出显示和代码折叠的可定制代码字段                                                                                           | 2024-06-26 | 157   |
-| [mouse_follower](https://pub.dev/packages/mouse_follower)                                     | 使用鼠标跟随器增强您的应用程序，从而轻松自定义光标效果                                                                               | 2024-06-25 | 24    |
-| [flutter_3d_controller](https://pub.dev/packages/flutter_3d_controller)                       | 渲染不同格式（glb、gltf、fbx、obj）的交互式 3D 模型，能够控制动画、纹理和相机                                                        | 2024-10-14 | 248   |
-| [stager](https://pub.dev/packages/stager)                                                     | Flutter 生产力工具，允许开发人员隔离 UI 部分                                                                                         | 2023-06-02 | 13    |
-| [share_handler](https://pub.dev/packages/share_handler)                                       | 用于处理传入的共享文本/媒体，以及添加共享到建议/快捷方式                                                                             | 2024-11-05 | 109   |
-| [focus_detector_v2](https://pub.dev/packages/focus_detector_v2)                               | 检测您的小部件何时出现或从屏幕上消失                                                                                                 | 2023-05-23 | 47    |
-| [hashlib](https://pub.dev/packages/hashlib)                                                   | 为 Dart 优化的安全哈希函数、校验和生成器和密钥派生算法                                                                               | 2024-11-15 | 57    |
-| [focus_on_it](https://pub.dev/packages/focus_on_it)                                           | 当小部件聚焦或未聚焦时获得通知并对其做出反应                                                                                         | 2023-09-08 | 42    |
-| [auto_store_translate](https://pub.dev/packages/auto_store_translate)                         | 在 App Store/Play Store 中自动翻译/注册元数据                                                                                        | 2023-10-18 | 9     |
-| [super_drag_and_drop](https://pub.dev/packages/super_drag_and_drop)                           | Flutter 的原生拖放支持。允许跨应用程序拖动内容                                                                                       | 2024-10-13 | 436   |
-| [store_checker](https://pub.dev/packages/store_checker)                                       | 查找当前安装的 apk/ipa 的来源                                                                                                        | 2024-08-02 | 69    |
-| [flame_forge2d](https://pub.dev/packages/flame_forge2d)                                       | Forge2D (Box2D) 支持 Flame 游戏引擎                                                                                                  | 2024-10-07 | 65    |
-| [serverpod](https://pub.dev/packages/serverpod)                                               | 为 Flutter 社区构建的下一代应用程序和 Web 服务器。它允许您在 Dart 中编写服务器端代码，自动生成您的 API，并以最小的努力连接您的数据库 | 2024-10-16 | 608   |
-| [flutter_link_previewer](https://pub.dev/packages/flutter_link_previewer)                     | 从提供的文本中提取的 URL 预览，具有基本自定义和从缓存数据呈现的能力。                                                                | 2023-07-09 | 294   |
-| [any_link_preview](https://pub.dev/packages/any_link_preview)                                 | 帮助您显示 Web 链接的预览。对于具有聊天功能的应用程序更有用。                                                                        | 2024-04-10 | 410   |
-| [dart_jsonwebtoken](https://pub.dev/packages/dart_jsonwebtoken)                               | jsonwebtoken' (JWT) 的 dart 实现                                                                                                     | 2024-10-01 | 286   |
-| [purchases_flutter](https://pub.dev/packages/purchases_flutter)                               | 一个 Flutter 插件，可以轻松添加和管理应用内购买 (IAP) 和订阅。                                                                       | 2024-11-20 | 723   |
-| [localstorage](https://pub.dev/packages/localstorage)                                         | Flutter 的简单基于 json 文件的存储。替代本机 AsyncStorage                                                                            | 2024-04-01 | 362   |
-| [encrypt](https://pub.dev/packages/encrypt)                                                   | PointyCastle 上的一组用于双向加密的高级 API。                                                                                        | 2023-09-18 | 998   |
-| [flutter_multi_formatter](https://pub.dev/packages/flutter_multi_formatter)                   | 国际电话号码格式化程序包、信用卡/借记卡和屏蔽格式化程序                                                                              | 2024-07-16 | 562   |
-| [fresh](https://pub.dev/packages/fresh)                                                       | 用于 dart 的令牌刷新库。该包公开了各种刷新令牌实现（REST、GraphQL 等）通用的核心组件。                                               | 2024-07-20 | 141   |
-| [forge2d](https://pub.dev/packages/forge2d)                                                   | Dart 的 2D 物理引擎，也适用于 Flutter 中的 Flame 游戏引擎。                                                                          | 2024-08-06 | 110   |
-| [bonfire](https://pub.dev/packages/bonfire)                                                   | 使用 Flame 更简单地创建 RPG 风格或类似的游戏。                                                                                       | 2024-11-16 | 466   |
-| [xterm](https://pub.dev/packages/xterm)                                                       | 一个快速且功能齐全的 Flutter 应用程序终端模拟器。                                                                                    | 2024-02-27 | 182   |
-| [flutter_plugin_android_lifecycle](https://pub.dev/packages/flutter_plugin_android_lifecycle) | 用于在其他插件中访问 Android 生命周期。                                                                                              | 2024-10-05 | 96    |
-| [formz](https://pub.dev/packages/formz)                                                       | Dart 中的统一表单表示，旨在以通用方式简化表单表示和验证。                                                                            | 2024-10-22 | 804   |
-| [mask_text_input_formatter](https://pub.dev/packages/mask_text_input_formatter)               | 为 TextField 和 TextFormField 提供了 TextInputFormatter。                                                                            | 2024-02-15 | 1224  |
-| [phone_numbers_parser](https://pub.dev/packages/phone_numbers_parser)                         | 用于解析、格式化和验证国际电话号码。                                                                                                 | 2024-11-10 | 190   |
-| [ota_update](https://pub.dev/packages/ota_update)                                             | 为 Android 和 iOS 提供 ota 更新，带有下载进度（仅限 Android）。                                                                      | 2023-11-24 | 283   |
-| [collection](https://pub.dev/packages/collection)                                             | 包含的实用函数和类的风格 dart:collection 使集合的工作更容易。                                                                        | 2024-10-21 | 1280  |
-| [flutter_inapp_purchase](https://pub.dev/packages/flutter_inapp_purchase)                     | 应用程序购买。                                                                                                                       | 2023-12-18 | 407   |
-| [pin_code_fields](https://pub.dev/packages/pin_code_fields)                                   | 帮助您生成 pin 码字段。                                                                                                              | 2023-06-24 | 2214  |
-| [flutter_native_splash](https://pub.dev/packages/flutter_native_splash)                       | 生成本机代码以使用背景颜色和初始图像来自定义 Flutter 的默认白色本机初始屏幕。支持暗模式，全屏等。                                    | 2024-11-17 | 8468  |
-| [arkit_plugin](https://pub.dev/packages/arkit_plugin)                                         | ARKit-Apple 的 iOS 移动设备增强现实（AR）开发平台。                                                                                  | 2024-06-01 | 453   |
-| [flutter_colorpicker](https://pub.dev/packages/flutter_colorpicker)                           | 一款受 chrome devtools 启发的 HSV（HSB）/ HSL 拾色器。                                                                               | 2024-05-19 | 932   |
-| [flutter_unity_widget](https://pub.dev/packages/flutter_unity_widget)                         | Flutter Unity 3D 小部件，用于将 Unity 游戏场景嵌入 flutter 中。                                                                      | 2024-01-08 | 846   |
-| [flame](https://pub.dev/packages/flame)                                                       | Flutter 游戏引擎。                                                                                                                   | 2024-10-16 | 2047  |
+| 依赖                                                                                          | 描述                                                                                                                                   | 更新时间   | likes |
+| --------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ----- |
+| [node_editor](https://pub.dev/packages/node_editor)                                           | 节点编辑器包                                                                                                                           | 2024-07-17 | 44    |
+| [flutter_code_editor](https://pub.dev/packages/flutter_code_editor)                           | 支持语法突出显示和代码折叠的可定制代码字段                                                                                             | 2024-06-26 | 157   |
+| [mouse_follower](https://pub.dev/packages/mouse_follower)                                     | 使用鼠标跟随器增强您的应用程序，从而轻松自定义光标效果                                                                                 | 2024-06-25 | 24    |
+| [flutter_3d_controller](https://pub.dev/packages/flutter_3d_controller)                       | 渲染不同格式（glb、gltf、fbx、obj）的交互式 3D 模型，能够控制动画、纹理和相机                                                          | 2024-10-14 | 248   |
+| [stager](https://pub.dev/packages/stager)                                                     | Flutter 生产力工具，允许开发人员隔离 UI 部分                                                                                           | 2023-06-02 | 13    |
+| [share_handler](https://pub.dev/packages/share_handler)                                       | 用于处理传入的共享文本/媒体，以及添加共享到建议/快捷方式                                                                               | 2024-11-05 | 109   |
+| [focus_detector_v2](https://pub.dev/packages/focus_detector_v2)                               | 检测您的小部件何时出现或从屏幕上消失                                                                                                   | 2023-05-23 | 47    |
+| [hashlib](https://pub.dev/packages/hashlib)                                                   | 为 Dart 优化的安全哈希函数、校验和生成器和密钥派生算法                                                                                 | 2024-11-15 | 57    |
+| [focus_on_it](https://pub.dev/packages/focus_on_it)                                           | 当小部件聚焦或未聚焦时获得通知并对其做出反应                                                                                           | 2023-09-08 | 42    |
+| [auto_store_translate](https://pub.dev/packages/auto_store_translate)                         | 在 App Store/Play Store 中自动翻译/注册元数据                                                                                          | 2023-10-18 | 9     |
+| [super_drag_and_drop](https://pub.dev/packages/super_drag_and_drop)                           | Flutter 的原生拖放支持。允许跨应用程序拖动内容                                                                                         | 2024-10-13 | 436   |
+| [store_checker](https://pub.dev/packages/store_checker)                                       | 查找当前安装的 apk/ipa 的来源                                                                                                          | 2024-08-02 | 69    |
+| [flame_forge2d](https://pub.dev/packages/flame_forge2d)                                       | Forge2D (Box2D) 支持 Flame 游戏引擎                                                                                                    | 2024-10-07 | 65    |
+| [serverpod](https://pub.dev/packages/serverpod)                                               | 为 Flutter 社区构建的下一代应用程序和 Web 服务器。它允许您在 Dart 中编写服务器端代码，自动生成您的 API，并以最小的努力连接您的数据库   | 2024-10-16 | 608   |
+| [flutter_link_previewer](https://pub.dev/packages/flutter_link_previewer)                     | 从提供的文本中提取的 URL 预览，具有基本自定义和从缓存数据呈现的能力。                                                                  | 2023-07-09 | 294   |
+| [any_link_preview](https://pub.dev/packages/any_link_preview)                                 | 帮助您显示 Web 链接的预览。对于具有聊天功能的应用程序更有用。                                                                          | 2024-04-10 | 410   |
+| [dart_jsonwebtoken](https://pub.dev/packages/dart_jsonwebtoken)                               | jsonwebtoken' (JWT) 的 dart 实现                                                                                                       | 2024-10-01 | 286   |
+| [purchases_flutter](https://pub.dev/packages/purchases_flutter)                               | 一个 Flutter 插件，可以轻松添加和管理应用内购买 (IAP) 和订阅。                                                                         | 2024-11-20 | 723   |
+| [localstorage](https://pub.dev/packages/localstorage)                                         | Flutter 的简单基于 json 文件的存储。替代本机 AsyncStorage                                                                              | 2024-04-01 | 362   |
+| [encrypt](https://pub.dev/packages/encrypt)                                                   | PointyCastle 上的一组用于双向加密的高级 API。                                                                                          | 2023-09-18 | 998   |
+| [flutter_multi_formatter](https://pub.dev/packages/flutter_multi_formatter)                   | 国际电话号码格式化程序包、信用卡/借记卡和屏蔽格式化程序                                                                                | 2024-07-16 | 562   |
+| [fresh](https://pub.dev/packages/fresh)                                                       | 用于 dart 的令牌刷新库。该包公开了各种刷新令牌实现（REST、GraphQL 等）通用的核心组件。                                                 | 2024-07-20 | 141   |
+| [forge2d](https://pub.dev/packages/forge2d)                                                   | Dart 的 2D 物理引擎，也适用于 Flutter 中的 Flame 游戏引擎。                                                                            | 2024-08-06 | 110   |
+| [bonfire](https://pub.dev/packages/bonfire)                                                   | 使用 Flame 更简单地创建 RPG 风格或类似的游戏。                                                                                         | 2024-11-16 | 466   |
+| [xterm](https://pub.dev/packages/xterm)                                                       | 一个快速且功能齐全的 Flutter 应用程序终端模拟器。                                                                                      | 2024-02-27 | 182   |
+| [flutter_plugin_android_lifecycle](https://pub.dev/packages/flutter_plugin_android_lifecycle) | 用于在其他插件中访问 Android 生命周期。                                                                                                | 2024-10-05 | 96    |
+| [formz](https://pub.dev/packages/formz)                                                       | Dart 中的统一表单表示，旨在以通用方式简化表单表示和验证。                                                                              | 2024-10-22 | 804   |
+| [mask_text_input_formatter](https://pub.dev/packages/mask_text_input_formatter)               | 为 TextField 和 TextFormField 提供了 TextInputFormatter。                                                                              | 2024-02-15 | 1224  |
+| [phone_numbers_parser](https://pub.dev/packages/phone_numbers_parser)                         | 用于解析、格式化和验证国际电话号码。                                                                                                   | 2024-11-10 | 190   |
+| [ota_update](https://pub.dev/packages/ota_update)                                             | 为 Android 和 iOS 提供 ota 更新，带有下载进度（仅限 Android）。                                                                        | 2023-11-24 | 283   |
+| [collection](https://pub.dev/packages/collection)                                             | 包含的实用函数和类的风格 dart:collection 使集合的工作更容易。                                                                          | 2024-10-21 | 1280  |
+| [flutter_inapp_purchase](https://pub.dev/packages/flutter_inapp_purchase)                     | 应用程序购买。                                                                                                                         | 2023-12-18 | 407   |
+| [pin_code_fields](https://pub.dev/packages/pin_code_fields)                                   | 帮助您生成 pin 码字段。                                                                                                                | 2023-06-24 | 2214  |
+| [flutter_native_splash](https://pub.dev/packages/flutter_native_splash)                       | 生成本机代码以使用背景颜色和初始图像来自定义 Flutter 的默认白色本机初始屏幕。支持暗模式，全屏等。                                      | 2024-11-17 | 8468  |
+| [arkit_plugin](https://pub.dev/packages/arkit_plugin)                                         | ARKit-Apple 的 iOS 移动设备增强现实（AR）开发平台。                                                                                    | 2024-06-01 | 453   |
+| [flutter_colorpicker](https://pub.dev/packages/flutter_colorpicker)                           | 一款受 chrome devtools 启发的 HSV（HSB）/ HSL 拾色器。                                                                                 | 2024-05-19 | 932   |
+| [flutter_unity_widget](https://pub.dev/packages/flutter_unity_widget)                         | Flutter Unity 3D 小部件，用于将 Unity 游戏场景嵌入 flutter 中。                                                                        | 2024-01-08 | 846   |
+| [flame](https://pub.dev/packages/flame)                                                       | Flutter 游戏引擎。                                                                                                                     | 2024-10-16 | 2047  |
+| [flutter_scene](https://pub.dev/packages/flutter_scene)                                       | 通用实时 3D 渲染库。它最初是 Flutter Engine 中 Impeller 渲染后端的 C++ 组件，目前正在积极开发为由 Flutter GPU API 提供支持的纯 Dart 包 | 暂无       | 暂无  |
 
 > ### <a id="设备">设备</a>
 
@@ -204,6 +203,11 @@
 | [pedometer_2](https://pub.dev/packages/pedometer_2)                                     | 计步器和步数检测。获取一定时间内的步数并实时记录步数                                                                            | 2024-07-10 | 14    |
 | [dynamic_color](https://pub.dev/packages/dynamic_color)                                 | 根据平台的动态颜色实现创建 Material 配色方案                                                                                    | 2024-03-01 | 550   |
 | [universal_ble](https://pub.dev/packages/universal_ble)                                 | 适用于 Flutter 的跨平台（Android/iOS/macOS/Windows/Linux/Web）蓝牙低功耗 (BLE) 插件                                             | 2024-10-03 | 45    |
+| [bonsoir](https://pub.dev/packages/bonsoir)                                             | 发现网络服务并广播您自己的服务                                                                                                  | 暂无       | 暂无  |
+| [flutter_fgbg](https://pub.dev/packages/flutter_fgbg)                                   | 用于检测应用程序（不是 Flutter 容器）何时进入后台或前台                                                                         | 暂无       | 暂无  |
+| [screen_recorder_callback](https://pub.dev/packages/screen_recorder_callback)           | 屏幕录像机回调插件用于检测 Android 和 iOS 上的屏幕录像                                                                          | 暂无       | 暂无  |
+| [bonsoir](https://pub.dev/packages/bonsoir)                                             | 发现网络服务并广播您自己的服务                                                                                                  | 暂无       | 暂无  |
+| [super_clipboard](https://pub.dev/packages/super_clipboard)                             | Flutter 剪贴板访问包                                                                                                            | 暂无       | 暂无  |
 
 > ### <a id="项目">项目</a>
 
@@ -779,6 +783,7 @@
 | [chat_gpt_api](https://pub.dev/packages/chat_gpt_api)                                                 | 用 dart 编写的 chatGPT SDK，用于访问 OpenAI API 的功能                                                                       | 2023-10-22 | 32    |
 | [livelyness_detection](https://pub.dev/packages/livelyness_detection)                                 | 用于检测相机中可见的脸部是否为真人脸部                                                                                       | 2024-09-05 | 34    |
 | [flutter_tesseract_ocr](https://pub.dev/packages/flutter_tesseract_ocr)                               | 基于神经网络 (LSTM) 的 OCR 引擎，该引擎专注于线识别。它支持 unicode (UTF-8)，可以识别 100 多种语言                           | 2024-11-10 | 179   |
+| [flutter_ai_toolkit](https://pub.dev/packages/flutter_ai_toolkit)                                     | 一组适用于您的 Flutter 应用的 AI 聊天相关小部件                                                                              | 暂无       | 暂无  |
 
 > ### <a id="地图">地图</a>
 
