@@ -2,16 +2,19 @@
 
 🔥🔥🔥 收集好用的Flutter插件以便更高效的开发， 如果有好用的插件或者建议，请 Issue 或 PR
 
-## 收录 692 个
+## 收录
 
-### 12-19
+### 01-02
 
-- [flutter_fgbg](https://pub.dev/packages/flutter_fgbg) - 用于检测应用程序（不是 Flutter 容器）何时进入后台或前台
-- [screen_recorder_callback](https://pub.dev/packages/screen_recorder_callback) - 屏幕录像机回调插件用于检测 Android 和 iOS 上的屏幕录像
-- [bonsoir](https://pub.dev/packages/bonsoir) - 发现网络服务并广播您自己的服务
-- [super_clipboard](https://pub.dev/packages/super_clipboard) - Flutter 剪贴板访问包
-- [flutter_scene](https://pub.dev/packages/flutter_scene) - 通用实时 3D 渲染库。它最初是 Flutter Engine 中 Impeller 渲染后端的 C++ 组件，目前正在积极开发为由 Flutter GPU API 提供支持的纯 Dart 包
-- [flutter_ai_toolkit](https://pub.dev/packages/flutter_ai_toolkit) - 一组适用于您的 Flutter 应用的 AI 聊天相关小部件
+- [flutter_doc_scanner](https://pub.dev/packages/flutter_doc_scanner) - 使用 ML Kit 文档扫描仪 API 和 VisionKit 在 Android 和 iOS 上进行文档扫描的 Flutter 插件
+- [shadcn_flutter](https://pub.dev/packages/shadcn_flutter) - Shadcn/UI 设计精美的组件现已可用于 Flutter
+- [audio_visualizer](https://pub.dev/packages/audio_visualizer) - 用于无缝可视化来自文件、资产、HTTP 流、麦克风输入和原始 PCM16 数据的音频
+- [flutter_story_presenter](https://pub.dev/packages/flutter_story_presenter) - 可将视频、图像和文本以故事形式显示
+- [flutter_confetti](https://pub.dev/packages/flutter_confetti) - Flutter 中的五彩纸屑动画，一个功能强大且易于使用的库，可展示令人惊叹的五彩纸屑效果
+- [u_credit_card](https://pub.dev/packages/u_credit_card) - 易于使用漂亮的卡片 UI Flutter 包
+- [mesh](https://pub.dev/packages/mesh) - 适用于 Flutter 应用程序的快速且高度可定制的动画网格渐变
+- [splash_master](https://pub.dev/packages/splash_master) - 将 Native 和 Flutter 启动画面与多种媒体选项统一起来，以实现无缝的用户体验
+- [dart_console](https://pub.dev/packages/dart_console) - 用于命令行应用程序的辅助库，需要比标准库提供的更多输入/输出控制
 
 ## 目录
 
@@ -79,6 +82,7 @@
 | [flutter_unity_widget](https://pub.dev/packages/flutter_unity_widget)                         | Flutter Unity 3D 小部件，用于将 Unity 游戏场景嵌入 flutter 中。                                                                        | 2024-01-08 | 850   |
 | [flame](https://pub.dev/packages/flame)                                                       | Flutter 游戏引擎。                                                                                                                     | 2024-11-25 | 2.08k |
 | [flutter_scene](https://pub.dev/packages/flutter_scene)                                       | 通用实时 3D 渲染库。它最初是 Flutter Engine 中 Impeller 渲染后端的 C++ 组件，目前正在积极开发为由 Flutter GPU API 提供支持的纯 Dart 包 | 2024-11-07 | 122   |
+| [dart_console](https://pub.dev/packages/dart_console)                                         | 用于命令行应用程序的辅助库，需要比标准库提供的更多输入/输出控制                                                                        | 暂无       | 暂无  |
 
 > ### <a id="设备">设备</a>
 
@@ -206,6 +210,7 @@
 | [screen_recorder_callback](https://pub.dev/packages/screen_recorder_callback)           | 屏幕录像机回调插件用于检测 Android 和 iOS 上的屏幕录像                                                                          | 2024-11-04 | 6     |
 | [bonsoir](https://pub.dev/packages/bonsoir)                                             | 发现网络服务并广播您自己的服务                                                                                                  | 2024-07-15 | 113   |
 | [super_clipboard](https://pub.dev/packages/super_clipboard)                             | Flutter 剪贴板访问包                                                                                                            | 2024-10-13 | 209   |
+| [splash_master](https://pub.dev/packages/splash_master)                                 | 将 Native 和 Flutter 启动画面与多种媒体选项统一起来，以实现无缝的用户体验                                                       | 暂无       | 暂无  |
 
 > ### <a id="项目">项目</a>
 
@@ -403,6 +408,9 @@
 | [animated_hint_textfield](https://pub.dev/packages/animated_hint_textfield)                   | 为文本字段提示/标签文本添加动画，添加动态和引人注目的过渡以增强用户体验                                                       | 2024-06-21 | 71    |
 | [soft_edge_blur](https://pub.dev/packages/soft_edge_blur)                                     | 对其子小部件的一个或多个边缘应用柔和渐进模糊效果                                                                              | 2024-09-28 | 110   |
 | [material_dialogs](https://pub.dev/packages/material_dialogs)                                 | 创建动画、简单、时尚的 Material Dialogs                                                                                       | 2024-07-29 | 346   |
+| [shadcn_flutter](https://pub.dev/packages/shadcn_flutter)                                     | Shadcn/UI 设计精美的组件现已可用于 Flutter                                                                                    | 暂无       | 暂无  |
+| [flutter_story_presenter](https://pub.dev/packages/flutter_story_presenter)                   | 可将视频、图像和文本以故事形式显示                                                                                            | 暂无       | 暂无  |
+| [u_credit_card](https://pub.dev/packages/u_credit_card)                                       | 易于使用漂亮的卡片 UI Flutter 包                                                                                              | 暂无       | 暂无  |
 
 > ### <a id="音视频">音视频</a>
 
@@ -445,6 +453,7 @@
 | [flutter_sound](https://pub.dev/packages/flutter_sound)                         | 音频录制处理。                                                                                               | 2024-12-07 | 1.49k |
 | [chewie](https://pub.dev/packages/chewie)                                       | Flutter 的视频播放器，带有 Cupertino 和 Material 播放控件。                                                  | 2024-09-10 | 2.1k  |
 | [flutter_webrtc](https://pub.dev/packages/flutter_webrtc)                       | Flutter WebRTC 插件。                                                                                        | 2024-12-16 | 1.18k |
+| [audio_visualizer](https://pub.dev/packages/audio_visualizer)                   | 用于无缝可视化来自文件、资产、HTTP 流、麦克风输入和原始 PCM16 数据的音频                                     | 暂无       | 暂无  |
 
 > ### <a id="图像">图像 / 图标 / 图形</a>
 
@@ -535,6 +544,7 @@
 | [re_highlight](https://pub.dev/packages/re_highlight)                                 | 强大的文本语法高亮库                                                                           | 2024-02-05 | 13    |
 | [html_editor_enhanced](https://pub.dev/packages/html_editor_enhanced)                 | 适用于 Android、iOS 和 Web 的 HTML 富文本编辑器。                                              | 2024-05-18 | 607   |
 | [quill_html_editor](https://pub.dev/packages/quill_html_editor)                       | 适用于 Android、iOS 和 Web 的 HTML 富文本编辑器，它使用强大的 Quill Js 库构建                  | 2024-01-13 | 249   |
+| [flutter_doc_scanner](https://pub.dev/packages/flutter_doc_scanner)                   | 使用 ML Kit 文档扫描仪 API 和 VisionKit 在 Android 和 iOS 上进行文档扫描的 Flutter 插件        | 暂无       | 暂无  |
 
 > ### <a id="时间">时间</a>
 
@@ -589,6 +599,8 @@
 | [animate_do](https://pub.dev/packages/animate_do)                     | 受 Animate.css 启发的动画包，仅使用 Flutter 动画构建，没有额外的包。                  | 2024-02-29 | 4.56k |
 | [animations](https://pub.dev/packages/animations)                     | 轻松集成到任何 Flutter 应用程序中的精美预建动画。                                     | 2024-01-04 | 6.33k |
 | [pretty_animated_text](https://pub.dev/packages/pretty_animated_text) | 创建可自定义的动画文本小部件                                                          | 2024-10-17 | 84    |
+| [flutter_confetti](https://pub.dev/packages/flutter_confetti)         | Flutter 中的五彩纸屑动画，一个功能强大且易于使用的库，可展示令人惊叹的五彩纸屑效果    | 暂无       | 暂无  |
+| [mesh](https://pub.dev/packages/mesh)                                 | 适用于 Flutter 应用程序的快速且高度可定制的动画网格渐变                               | 暂无       | 暂无  |
 
 > ### <a id="图表">图表</a>
 
