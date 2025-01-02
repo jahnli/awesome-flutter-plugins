@@ -6,7 +6,6 @@
 
 ### 12-19
 
-- [bonsoir](https://pub.dev/packages/bonsoir) - 发现网络服务并广播您自己的服务
 - [flutter_fgbg](https://pub.dev/packages/flutter_fgbg) - 用于检测应用程序（不是 Flutter 容器）何时进入后台或前台
 - [screen_recorder_callback](https://pub.dev/packages/screen_recorder_callback) - 屏幕录像机回调插件用于检测 Android 和 iOS 上的屏幕录像
 - [bonsoir](https://pub.dev/packages/bonsoir) - 发现网络服务并广播您自己的服务
@@ -203,7 +202,6 @@
 | [pedometer_2](https://pub.dev/packages/pedometer_2)                                     | 计步器和步数检测。获取一定时间内的步数并实时记录步数                                                                            | 2024-07-10 | 14    |
 | [dynamic_color](https://pub.dev/packages/dynamic_color)                                 | 根据平台的动态颜色实现创建 Material 配色方案                                                                                    | 2024-03-01 | 556   |
 | [universal_ble](https://pub.dev/packages/universal_ble)                                 | 适用于 Flutter 的跨平台（Android/iOS/macOS/Windows/Linux/Web）蓝牙低功耗 (BLE) 插件                                             | 2024-12-09 | 52    |
-| [bonsoir](https://pub.dev/packages/bonsoir)                                             | 发现网络服务并广播您自己的服务                                                                                                  | 2024-07-15 | 113   |
 | [flutter_fgbg](https://pub.dev/packages/flutter_fgbg)                                   | 用于检测应用程序（不是 Flutter 容器）何时进入后台或前台                                                                         | 2024-08-19 | 160   |
 | [screen_recorder_callback](https://pub.dev/packages/screen_recorder_callback)           | 屏幕录像机回调插件用于检测 Android 和 iOS 上的屏幕录像                                                                          | 2024-11-04 | 6     |
 | [bonsoir](https://pub.dev/packages/bonsoir)                                             | 发现网络服务并广播您自己的服务                                                                                                  | 2024-07-15 | 113   |
