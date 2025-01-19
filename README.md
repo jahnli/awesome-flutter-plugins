@@ -2,19 +2,14 @@
 
 🔥🔥🔥 收集好用的Flutter插件以便更高效的开发， 如果有好用的插件或者建议，请 Issue 或 PR
 
-## 收录 575 个
+## 收录
 
-### 01-02
+### 01-19
 
-- [flutter_doc_scanner](https://pub.dev/packages/flutter_doc_scanner) - 使用 ML Kit 文档扫描仪 API 和 VisionKit 在 Android 和 iOS 上进行文档扫描的 Flutter 插件
-- [shadcn_flutter](https://pub.dev/packages/shadcn_flutter) - Shadcn/UI 设计精美的组件现已可用于 Flutter
-- [audio_visualizer](https://pub.dev/packages/audio_visualizer) - 用于无缝可视化来自文件、资产、HTTP 流、麦克风输入和原始 PCM16 数据的音频
-- [flutter_story_presenter](https://pub.dev/packages/flutter_story_presenter) - 可将视频、图像和文本以故事形式显示
-- [flutter_confetti](https://pub.dev/packages/flutter_confetti) - Flutter 中的五彩纸屑动画，一个功能强大且易于使用的库，可展示令人惊叹的五彩纸屑效果
-- [u_credit_card](https://pub.dev/packages/u_credit_card) - 易于使用漂亮的卡片 UI Flutter 包
-- [mesh](https://pub.dev/packages/mesh) - 适用于 Flutter 应用程序的快速且高度可定制的动画网格渐变
-- [splash_master](https://pub.dev/packages/splash_master) - 将 Native 和 Flutter 启动画面与多种媒体选项统一起来，以实现无缝的用户体验
-- [dart_console](https://pub.dev/packages/dart_console) - 用于命令行应用程序的辅助库，需要比标准库提供的更多输入/输出控制
+- [heroine](https://pub.dev/packages/heroine) - 流畅的弹簧式 Hero 过渡，可自定义弹跳和持续时间
+- [flutter_physics](https://pub.dev/packages/flutter_physics) - 提供基于物理的动画，包括可定制的弹簧和重力模拟，可用作物理模拟和动画曲线
+- [screen_capture_event](https://pub.dev/packages/screen_capture_event) - 捕捉 Android 和 iOS 的屏幕截图
+- [no_screenshot](https://pub.dev/packages/no_screenshot) - 可在您的应用程序中启用、禁用、切换或流式传输屏幕截图活动
 
 ## 目录
 
@@ -183,6 +178,8 @@
 | [bonsoir](https://pub.dev/packages/bonsoir)                                             | 发现网络服务并广播您自己的服务                                                                                                  | 2024-07-15 | 116   |
 | [super_clipboard](https://pub.dev/packages/super_clipboard)                             | Flutter 剪贴板访问包                                                                                                            | 2024-10-13 | 213   |
 | [splash_master](https://pub.dev/packages/splash_master)                                 | 将 Native 和 Flutter 启动画面与多种媒体选项统一起来，以实现无缝的用户体验                                                       | 2025-01-02 | 40    |
+| [screen_capture_event](https://pub.dev/packages/screen_capture_event)                   | 捕捉 Android 和 iOS 的屏幕截图                                                                                                  | 暂无       | 暂无  |
+| [no_screenshot](https://pub.dev/packages/no_screenshot)                                 | 可在您的应用程序中启用、禁用、切换或流式传输屏幕截图活动                                                                        | 暂无       | 暂无  |
 
 > ### <a id="项目">项目</a>
 
@@ -497,6 +494,8 @@
 | [pretty_animated_text](https://pub.dev/packages/pretty_animated_text) | 创建可自定义的动画文本小部件                                                       | 2024-10-17 | 87    |
 | [flutter_confetti](https://pub.dev/packages/flutter_confetti)         | Flutter 中的五彩纸屑动画，一个功能强大且易于使用的库，可展示令人惊叹的五彩纸屑效果 | 2024-10-19 | 69    |
 | [mesh](https://pub.dev/packages/mesh)                                 | 适用于 Flutter 应用程序的快速且高度可定制的动画网格渐变                            | 2024-11-23 | 110   |
+| [heroine](https://pub.dev/packages/heroine)                           | 流畅的弹簧式 Hero 过渡，可自定义弹跳和持续时间                                     | 暂无       | 暂无  |
+| [flutter_physics](https://pub.dev/packages/flutter_physics)           | 提供基于物理的动画，包括可定制的弹簧和重力模拟，可用作物理模拟和动画曲线           | 暂无       | 暂无  |
 
 > ### <a id="图表">图表</a>
 
