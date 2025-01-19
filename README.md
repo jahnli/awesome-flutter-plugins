@@ -95,7 +95,6 @@
 | [floating](https://pub.dev/packages/floating)                                           | 的画中画模式管理。仅适用于 Android                                                                                              | 2024-11-08 | 207   |
 | [flutter_foreground_task](https://pub.dev/packages/flutter_foreground_task)             | 用于在 Android 平台上实现前台服务                                                                                               | 2024-12-02 | 462   |
 | [flutter_foreground_service](https://pub.dev/packages/flutter_foreground_service)       | Android 平台的前台服务，即使在后台也能保持应用程序运行                                                                          | 2023-08-28 | 32    |
-| [flutter_displaymode](https://pub.dev/packages/flutter_displaymode)                     | 用于在 Android 平台上设置显示模式（分辨率、刷新率）。允许在支持的设备上启用高刷新率                                             | 2023-04-21 | 184   |
 | [flutter_volume_controller](https://pub.dev/packages/flutter_volume_controller)         | 控制系统音量并监听不同平台上的音量变化                                                                                          | 2024-11-12 | 55    |
 | [camerawesome](https://pub.dev/packages/camerawesome)                                   | 带有内置 UI 的最简单的 Flutter 相机插件。支持 Android 和 iOS 上的拍摄图像、流图像、视频录制、切换传感器、自动对焦、闪光灯、滤镜 | 2024-08-16 | 965   |
 | [android_id](https://pub.dev/packages/android_id)                                       | 用于获取 Android ID 的 Flutter 插件                                                                                             | 2024-06-06 | 120   |
@@ -125,7 +124,6 @@
 | [timezone](https://pub.dev/packages/timezone)                                           | 时区数据库和时区感知 DateTime                                                                                                   | 2024-11-05 | 466   |
 | [connectycube_flutter_call_kit](https://pub.dev/packages/connectycube_flutter_call_kit) | 用于在应用程序在后台或终止时显示呼叫屏幕                                                                                        | 2024-02-12 | 118   |
 | [huawei_scan](https://pub.dev/packages/huawei_scan)                                     | HUAWEI Scan Kit 扫描解析所有主要的一维和二维条码并生成二维码，帮助您将条码扫描功能快速构建到您的应用程序中                      | 2024-12-05 | 17    |
-| [dual_screen](https://pub.dev/packages/dual_screen)                                     | 可折叠和双屏支持，例如 TwoPane 小部件和铰链角度传感器数据                                                                       | 2023-04-25 | 143   |
 | [wifi_scan](https://pub.dev/packages/wifi_scan)                                         | 用于扫描附近可见的 WiFi 接入点                                                                                                  | 2024-08-27 | 73    |
 | [carp_health_package](https://pub.dev/packages/carp_health_package)                     | CARP 健康采样包。从 Apple Health 或 Google Fit 采样健康数据                                                                     | 2024-09-24 | 9     |
 | [carp_mobile_sensing](https://pub.dev/packages/carp_mobile_sensing)                     | Flutter 的移动传感框架。一个软件框架，用于通过探针从手机和连接的可穿戴设备中收集传感器数据。可以延长                            | 2024-12-04 | 21    |
@@ -153,7 +151,6 @@
 | [adv_camera](https://pub.dev/packages/adv_camera)                                       | 具有对焦（带对焦矩形）和变焦功能的高级相机。                                                                                    | 2023-06-30 | 46    |
 | [camera_camera](https://pub.dev/packages/camera_camera)                                 | 适用于您的项目、Android 和 iOS 平台的简单相机插件。                                                                             | 2023-06-21 | 181   |
 | [file_selector](https://pub.dev/packages/file_selector)                                 | 用于打开和保存文件的 Flutter 插件。                                                                                             | 2024-02-01 | 380   |
-| [r_upgrade](https://pub.dev/packages/r_upgrade)                                         | 用于升级和安装应用程序的插件，支持 Android 和 IOS。                                                                             | 2023-03-10 | 141   |
 | [usb_serial](https://pub.dev/packages/usb_serial)                                       | 该插件将允许您轻松使用基于 FTDI 或 CDC（以及更多！）协议的 USB uart 硬件。                                                      | 2024-07-12 | 170   |
 | [watcher](https://pub.dev/packages/watcher)                                             | 文件系统观察者。它监视目录内容的更改，并在添加、删除或修改文件时发送通知。                                                      | 2024-12-17 | 194   |
 | [health](https://pub.dev/packages/health)                                               | iOS HealthKit 和 Android GoogleFit 服务的包装器，用于读取健康和健身数据。                                                       | 2024-11-28 | 565   |
@@ -257,7 +254,6 @@
 | [media_query_preview](https://pub.dev/packages/media_query_preview)               | 支持跨各种设备和条件进行 UI 预览，支持自定义设备、亮度和文本比例                                                                      | 2024-06-21 | 3     |
 | [lint](https://pub.dev/packages/lint)                                             | 一套针对 Dart 和 Flutter 项目的意见建议、社区驱动的 lint 规则。                                                                       | 2023-12-22 | 849   |
 | [flutter_background_service](https://pub.dev/packages/flutter_background_service) | 用于在后台执行 dart 代码的 flutter 插件。                                                                                             | 2024-12-21 | 1.4k  |
-| [neat_periodic_task](https://pub.dev/packages/neat_periodic_task)                 | 长时间运行的进程中可靠地运行周期性任务的辅助类，例如 Web 服务器。                                                                     | 2023-04-28 | 153   |
 | [cron](https://pub.dev/packages/cron)                                             | 类似于 cron 的基于时间的作业调度程序。以固定时间或间隔定期运行任务。                                                                  | 2024-06-16 | 540   |
 
 > ### <a id="列表">列表</a>
@@ -325,7 +321,6 @@
 | [easy_refresh](https://pub.dev/packages/easy_refresh)                                         | 提供下拉刷新和上拉加载的小部件                                                                                                | 2024-05-14 | 460   |
 | [typewritertext](https://pub.dev/packages/typewritertext)                                     | 简单的打字机文本动画包装器                                                                                                    | 2024-09-14 | 148   |
 | [rounded_background_text](https://pub.dev/packages/rounded_background_text)                   | 用圆角突出显示的文本和文本字段                                                                                                | 2024-01-02 | 88    |
-| [neon_widgets](https://pub.dev/packages/neon_widgets)                                         | 完整的霓虹灯解决方案                                                                                                          | 2023-03-23 | 98    |
 | [slide_countdown](https://pub.dev/packages/slide_countdown)                                   | 创建简单的幻灯片动画倒数/倒数计时器                                                                                           | 2024-11-25 | 403   |
 | [tab_container](https://pub.dev/packages/tab_container)                                       | 动画和可自定义的选项卡视图小部件                                                                                              | 2024-04-17 | 313   |
 | [tabbed_view](https://pub.dev/packages/tabbed_view)                                           | 经典的桌面样式选项卡组件                                                                                                      | 2024-10-26 | 109   |
@@ -354,7 +349,6 @@
 | [flutter_glow](https://pub.dev/packages/flutter_glow)                                         | Flutter Glow ui 套件，可帮助您创建和使用发光的小部件。                                                                        | 2024-08-16 | 150   |
 | [readmore](https://pub.dev/packages/readmore)                                                 | 允许动态展开和折叠文本的 Flutter 包。                                                                                         | 2024-03-27 | 1.03k |
 | [smooth_page_indicator](https://pub.dev/packages/smooth_page_indicator)                       | 具有一组内置效果的可定制动画页面指示器。                                                                                      | 2024-07-20 | 3.69k |
-| [visibility_detector](https://pub.dev/packages/visibility_detector)                           | 检测其子项的可见性并通知回调的小部件。                                                                                        | 2023-03-09 | 1.13k |
 | [flutter_instagram_stories](https://pub.dev/packages/flutter_instagram_stories)               | 显示故事（视频和图像），如 Whatsapp 和 Instagram。                                                                            | 2024-04-09 | 176   |
 | [expand_widget](https://pub.dev/packages/expand_widget)                                       | 能够轻松展开和收回小部件集合或文本。                                                                                          | 2023-02-02 | 140   |
 | [custom_refresh_indicator](https://pub.dev/packages/custom_refresh_indicator)                 | 可以轻松实现自定义刷新指示器。                                                                                                | 2024-07-18 | 851   |
@@ -382,7 +376,6 @@
 | [intro_slider](https://pub.dev/packages/intro_slider)                                         | 帮助你为你的应用制作一个很酷的介绍/入门页。                                                                                   | 2023-09-09 | 1.15k |
 | [introduction_screen](https://pub.dev/packages/introduction_screen)                           | 应用程序的介绍/入门页。                                                                                                       | 2024-03-23 | 2.75k |
 | [flutter_credit_card](https://pub.dev/packages/flutter_credit_card)                           | 一个信用卡小部件包，支持输入卡片详细信息，卡片翻转动画。                                                                      | 2023-10-09 | 967   |
-| [numberpicker](https://pub.dev/packages/numberpicker)                                         | 数字选择器，支持滚动                                                                                                          | 2023-04-11 | 635   |
 | [skeleton_text](https://pub.dev/packages/skeleton_text)                                       | 提供了一种在 Flutter 项目中添加骨架屏加载动画的简单方法。                                                                     | 2023-08-22 | 342   |
 | [flutter_form_builder](https://pub.dev/packages/flutter_form_builder)                         | 通过删除样板代码，重用验证，对更改做出反应并收集最终用户输入来帮助在 Flutter 中创建表单。                                     | 2025-01-01 | 2.61k |
 | [flutter_platform_widgets](https://pub.dev/packages/flutter_platform_widgets)                 | 通过单个小部件简化了 Material 和 Cupertino 小部件的使用。                                                                     | 2024-07-21 | 1.23k |
@@ -470,7 +463,6 @@
 | [image_pickers](https://pub.dev/packages/image_pickers)                                     | image_pickers 支持本地图片或视频多选，支持将网络图片或视频保存到相册，支持预览视频或图片。                                                                                            | 2024-05-24 | 91    |
 | [image_editor](https://pub.dev/packages/image_editor)                                       | 在 Android 和 iOS 上编辑图像数据并输出到文件/内存。                                                                                                                                   | 2024-11-22 | 344   |
 | [image_cropping](https://pub.dev/packages/image_cropping)                                   | 支持多平台裁剪和旋转图像，它允许包含背景，图像旋转，根据要求改变选择比例。                                                                                                            | 2024-12-31 | 86    |
-| [fluttermoji](https://pub.dev/packages/fluttermoji)                                         | Flutter 的轻量级和高度可定制的 SVG 图形集。                                                                                                                                           | 2023-03-26 | 287   |
 | [fluentui_system_icons](https://pub.dev/packages/fluentui_system_icons)                     | 微软友好和现代的图标集合。                                                                                                                                                            | 2024-12-18 | 845   |
 | [graphite](https://pub.dev/packages/graphite)                                               | 可轻松绘制直接图形、树、流程图。包括用于创建图形交互的手势 API。                                                                                                                      | 2024-06-25 | 158   |
 | [arrow_path](https://pub.dev/packages/arrow_path)                                           | 使用 Path 对象轻松绘制箭头，可以合成路径以将箭头添加到任何曲线并一次绘制。                                                                                                            | 2023-06-03 | 47    |
@@ -479,7 +471,6 @@
 | [ai_barcode](https://pub.dev/packages/ai_barcode)                                           | 支持 Android、iOS、网络识别'一维条码'和'二维条码'的识别与生成。                                                                                                                       | 2024-01-20 | 142   |
 | [websafe_svg](https://pub.dev/packages/websafe_svg)                                         | 能够在 Android、iOS 和 Web 中使用 SVG 的简单抽象。                                                                                                                                    | 2024-12-03 | 112   |
 | [pretty_qr_code](https://pub.dev/packages/pretty_qr_code)                                   | Flutter 的漂亮二维码，您可以使用参数圆角边缘或使用标准视图。                                                                                                                          | 2024-03-10 | 427   |
-| [progressive_image](https://pub.dev/packages/progressive_image)                             | 使用低质量图像占位符逐步加载更大图像的部件。                                                                                                                                          | 2023-03-07 | 383   |
 | [ios_platform_images](https://pub.dev/packages/ios_platform_images)                         | 在 Flutter 和 iOS 之间共享图像的插件。                                                                                                                                                | 2024-12-05 | 30    |
 | [bitmap](https://pub.dev/packages/bitmap)                                                   | 快速且简约的库，可帮助您在 Flutter 应用程序上操作图像。                                                                                                                               | 2023-11-28 | 97    |
 | [material_design_icons_flutter](https://pub.dev/packages/material_design_icons_flutter)     | 社区为 Flutter 设计的 Material Design 图标。                                                                                                                                          | 2023-06-09 | 670   |
@@ -554,12 +545,10 @@
 | [jiffy](https://pub.dev/packages/jiffy)                                                 | 一个受 moment.js 启发的程序包，用于解析，处理和格式化日期。                                      | 2024-12-05 | 1.08k |
 | [moment_dart](https://pub.dev/packages/moment_dart)                                     | 将 DateTime 转换为人类可读格式的包。灵感来自 moment.js                                           | 2024-12-31 | 78    |
 | [cr_calendar](https://pub.dev/packages/cr_calendar)                                     | 带有自定义、范围选择和事件显示的很棒的日历                                                       | 2023-07-06 | 110   |
-| [time_duration_picker](https://pub.dev/packages/time_duration_picker)                   | 配对连续任务的时间选择器                                                                         | 2023-03-06 | 57    |
 | [time](https://pub.dev/packages/time)                                                   | 类型安全的日期时间和持续时间计算，由扩展提供支持。                                               | 2024-11-18 | 352   |
 | [nepali_date_picker](https://pub.dev/packages/nepali_date_picker)                       | material 风格的日期选择器、日期范围选择器和日历。                                                | 2024-04-27 | 89    |
 | [flutter_rounded_date_picker](https://pub.dev/packages/flutter_rounded_date_picker)     | 帮助您选择带有圆形日历和可自定义主题的日期和年份。                                               | 2023-06-07 | 292   |
 | [timeago](https://pub.dev/packages/timeago)                                             | 创建模糊时间戳的库（例如“ 15 分钟前”）。                                                         | 2024-07-04 | 1.86k |
-| [flutter_week_view](https://pub.dev/packages/flutter_week_view)                         | 显示高度可定制的周视图（或日视图）。                                                             | 2023-03-09 | 116   |
 | [table_calendar](https://pub.dev/packages/table_calendar)                               | 高度可定制的功能丰富的 Flutter 日历，具有手势，动画和多种格式。                                  | 2024-12-12 | 3.06k |
 | [flutter_calendar_carousel](https://pub.dev/packages/flutter_calendar_carousel)         | 可滑动的日历小部件。                                                                             | 2024-09-09 | 454   |
 | [date_picker_timeline](https://pub.dev/packages/date_picker_timeline)                   | 日期选择器库，提供日历作为水平时间线。                                                           | 2024-04-02 | 553   |
@@ -580,10 +569,8 @@
 | [weather_animation](https://pub.dev/packages/weather_animation)       | 包含美丽的天气动画。使用天气配置器轻松设置                                            | 2024-11-19 | 104   |
 | [zerker](https://pub.dev/packages/zerker)                             | 灵活轻便的 flutter canvas 图形动画库                                                  | 2024-08-16 | 90    |
 | [motion](https://pub.dev/packages/motion)                             | 一个精美的小部件，将陀螺仪或基于悬停的运动效果应用于其子级                            | 2024-09-25 | 231   |
-| [particle_field](https://pub.dev/packages/particle_field)             | 用于为您的 UI 添加高性能自定义粒子效果                                                | 2023-03-12 | 132   |
 | [siri_wave](https://pub.dev/packages/siri_wave)                       | 在 Siri 中一样创建漂亮的波形                                                          | 2024-11-16 | 120   |
 | [flutter_animate](https://pub.dev/packages/flutter_animate)           | 通过简单、可定制、统一的 API 在 Flutter 中添加精美的动画效果和构建器                  | 2024-11-25 | 3.61k |
-| [dismissible_page](https://pub.dev/packages/dismissible_page)         | 创建通过滑动手势关闭的页面，具有英雄风格的动画，受 Facebook 和 Instagram 故事的启发。 | 2023-04-18 | 632   |
 | [animator](https://pub.dev/packages/animator)                         | 使动画更轻松的 Flutter 库。它允许将动画设置与用户界面分离。                           | 2023-05-12 | 244   |
 | [giphy_get](https://pub.dev/packages/giphy_get)                       | 使用纯飞镖代码从 Giphy 中选择 EMOJI、STICKER 或 GIF，支持安卓、iOS、网页和桌面。      | 2024-12-19 | 123   |
 | [giphy_picker](https://pub.dev/packages/giphy_picker)                 | 允许您从 Giphy 中挑选动画 GIF 图像的插件。                                            | 2024-02-20 | 78    |
@@ -592,7 +579,6 @@
 | [funvas](https://pub.dev/packages/funvas)                             | 根据时间和数学函数创建画布动画的包。                                                  | 2023-09-24 | 234   |
 | [auto_animated](https://pub.dev/packages/auto_animated)               | 可以为列表和图标设置动画。                                                            | 2023-06-30 | 1.29k |
 | [page_transition](https://pub.dev/packages/page_transition)           | 漂亮的页面过渡包。                                                                    | 2024-12-27 | 1.45k |
-| [liquid_swipe](https://pub.dev/packages/liquid_swipe)                 | 液体效果的页面切换组件。                                                              | 2023-03-29 | 1.31k |
 | [shimmer](https://pub.dev/packages/shimmer)                           | 为控件添加闪光效果。                                                                  | 2023-05-21 | 5.06k |
 | [lottie](https://pub.dev/packages/lottie)                             | 在 Flutter 上本地渲染 After Effects 动画。该软件包是 Lottie 播放器的纯 Dart 实现。    | 2024-12-12 | 4.12k |
 | [simple_animations](https://pub.dev/packages/simple_animations)       | 创建精美的自定义动画。                                                                | 2024-11-02 | 1.96k |
@@ -617,7 +603,6 @@
 | [flutter_echarts](https://pub.dev/packages/flutter_echarts)                       | 基于 Echarts 的数据可视化图表库，能够构建高级图表，例如 WebGL 3D，GIS 地图等。                   | 2023-08-31 | 546   |
 | [fl_chart](https://pub.dev/packages/fl_chart)                                     | Flutter 图表库，当前支持折线图，条形图和饼图。                                                   | 2024-12-19 | 6.37k |
 | [percent_indicator](https://pub.dev/packages/percent_indicator)                   | 根据百分比显示进度小部件，可以是圆形或线性的，也可以根据需要进行自定义。                         | 2024-11-23 | 2.64k |
-| [graphview](https://pub.dev/packages/graphview)                                   | 图形结构显示数据。它可以显示树形布局和层次结构图。                                               | 2023-04-29 | 455   |
 | [flutter_graph_view](https://pub.dev/packages/flutter_graph_view)                 | 用于精美的图形数据结构的小部件，例如力导向图。                                                   | 2024-11-04 | 61    |
 | [nimble_charts](https://pub.dev/packages/nimble_charts)                           | charts_flutter 的持续维护，为 Flutter 开发人员提供强大而灵活的图表包                             | 2024-12-13 | 33    |
 
@@ -638,9 +623,7 @@
 | [persistent_bottom_nav_bar_v2](https://pub.dev/packages/persistent_bottom_nav_bar_v2)     | persistent_bottom_nav_bar 的延续                 | 2024-10-03 | 355   |
 | [water_drop_nav_bar](https://pub.dev/packages/water_drop_nav_bar)                         | 底部导航栏，具有独特的水滴效果。                 | 2024-07-08 | 339   |
 | [sliding_clipped_nav_bar](https://pub.dev/packages/sliding_clipped_nav_bar)               | 底部导航栏带有滑动菜单图标和带有剪切效果的文本。 | 2024-03-10 | 300   |
-| [salomon_bottom_bar](https://pub.dev/packages/salomon_bottom_bar)                         | 炫酷的底部导航栏。                               | 2023-03-31 | 1.03k |
 | [animated_bottom_navigation_bar](https://pub.dev/packages/animated_bottom_navigation_bar) | 绚丽的动画底部导航栏。                           | 2024-01-31 | 1.3k  |
-| [flutter_speed_dial](https://pub.dev/packages/flutter_speed_dial)                         | 可展开选项的浮动按钮。                           | 2023-05-23 | 1.27k |
 | [circular_menu](https://pub.dev/packages/circular_menu)                                   | 一个简单多样的动画圆形菜单。                     | 2024-05-28 | 485   |
 | [smooth_sheets](https://pub.dev/packages/smooth_sheets)                                   | 提供模态和持久表单小部件                         | 2024-10-19 | 320   |
 
@@ -705,15 +688,12 @@
 | [tencent_cloud_chat_sdk](https://pub.dev/packages/tencent_cloud_chat_sdk)         | 腾讯云聊天 SDK                                                                                                               | 2024-12-20 | 28    |
 | [tencent_trtc_cloud](https://pub.dev/packages/tencent_trtc_cloud)                 | 通过 TRTC，您可以快速开发高性价比、低时延、高品质的交互式音视频服务                                                          | 2024-12-26 | 22    |
 | [ali_auth](https://pub.dev/packages/ali_auth)                                     | 阿里云号码认证服务中一键登录的插件                                                                                           | 2024-11-24 | 22    |
-| [alipay_kit](https://pub.dev/packages/alipay_kit)                                 | 允许开发人员使用 natvie Android 和 iOS 支付宝 SDK 进行授权/支付                                                              | 2023-06-04 | 37    |
 | [tencent_kit](https://pub.dev/packages/tencent_kit)                               | 允许开发者使用 natvie Android 和 iOS 腾讯 SDK 进行授权/共享                                                                  | 2024-11-14 | 30    |
 | [televerse](https://pub.dev/packages/televerse)                                   | 在 Dart 中轻松创建自己的高效 Telegram 机器人                                                                                 | 2024-12-20 | 72    |
 | [tencent_calls_uikit](https://pub.dev/packages/tencent_calls_uikit)               | 用于视频通话的腾讯云 UIKit                                                                                                   | 2024-12-12 | 46    |
 | [telegram_client](https://pub.dev/packages/telegram_client)                       | 用于制作基于应用程序电报的颤振和 userbot / bot 支持服务器端和客户端                                                          | 2024-12-31 | 148   |
-| [huawei_modeling3d](https://pub.dev/packages/huawei_modeling3d)                   | 实现了华为 3D 建模 SDK 与 Flutter 平台的通信                                                                                 | 2023-03-02 | 6     |
 | [huawei_iap](https://pub.dev/packages/huawei_iap)                                 | Flutter 的 HUAWEI IAP Kit 插件                                                                                               | 2024-12-06 | 33    |
 | [huawei_analytics](https://pub.dev/packages/huawei_analytics)                     | Flutter 的 HUAWEI Analytics Kit 插件                                                                                         | 2024-01-31 | 21    |
-| [huawei_dtm](https://pub.dev/packages/huawei_dtm)                                 | 华为动态标签管理器（DTM）是一个动态标签管理系统                                                                              | 2023-03-02 | 1     |
 | [huawei_account](https://pub.dev/packages/huawei_account)                         | Flutter 的 HUAWEI Account Kit 插件                                                                                           | 2024-12-05 | 22    |
 | [googleapis](https://pub.dev/packages/googleapis)                                 | 用于访问通过 API 发现服务描述的 Google API 的自动生成的客户端库。                                                            | 2024-06-13 | 1.05k |
 | [github](https://pub.dev/packages/github)                                         | 使用 Github 的 v3 API 的高级 GitHub API 客户端库。                                                                           | 2024-02-26 | 144   |
