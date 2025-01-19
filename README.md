@@ -285,7 +285,6 @@
 | [magnifying_glass](https://pub.dev/packages/magnifying_glass)                                 | 具有实时放大镜镜头小部件                                                                                                      | 2024-09-28 | 42    |
 | [appinio_social_share](https://pub.dev/packages/appinio_social_share)                         | 支持将文本、图像、文件和带图像的文本共享到社交媒体                                                                            | 2024-08-01 | 248   |
 | [hue_rotation](https://pub.dev/packages/hue_rotation)                                         | 更改任何具有颜色的小部件的颜色                                                                                                | 2024-06-06 | 25    |
-| [squares](https://pub.dev/packages/squares)                                                   | 灵活的 Flutter 棋盘小部件。视觉上可定制，支持许多国际象棋变体                                                                 | 2023-08-08 | 33    |
 | [flutter_pannable_rating_bar](https://pub.dev/packages/flutter_pannable_rating_bar)           | 多功能且可自定义的评分栏                                                                                                      | 2023-03-10 | 35    |
 | [flutter_card_swiper](https://pub.dev/packages/flutter_card_swiper)                           | 类似于 Tinder 的刷卡程序包。它允许您向左、向右、向上和向下滑动，并为每个方向定义您自己的业务逻辑                              | 2024-10-08 | 466   |
 | [easy_stepper](https://pub.dev/packages/easy_stepper)                                         | 完全可定制、美观且易于使用的步进器小部件                                                                                      | 2024-08-02 | 364   |
@@ -315,7 +314,6 @@
 | [hashtagable](https://pub.dev/packages/hashtagable)                                           | 用于实现主题标签装饰文本的小部件和函数。像 Twitter 一样装饰以 \`#\` 开头的单词。                                              | 2023-09-16 | 135   |
 | [in_app_update](https://pub.dev/packages/in_app_update)                                       | Android API 在 Android 上启用应用内更新。                                                                                     | 2024-06-02 | 1.14k |
 | [flutter_reaction_button](https://pub.dev/packages/flutter_reaction_button)                   | Flutter 按钮反应它是完全可定制的小部件，例如 Facebook 反应按钮。                                                              | 2023-11-19 | 308   |
-| [playing_cards](https://pub.dev/packages/playing_cards)                                       | 标准 52 张扑克牌卡片组的渲染库。                                                                                              | 2023-08-02 | 134   |
 | [in_app_review](https://pub.dev/packages/in_app_review)                                       | Flutter 插件，用于在 Android、IOS 和 MacOS 上显示应用内评论/系统评级弹出窗口。                                                | 2024-11-19 | 2.11k |
 | [flutter_glow](https://pub.dev/packages/flutter_glow)                                         | Flutter Glow ui 套件，可帮助您创建和使用发光的小部件。                                                                        | 2024-08-16 | 150   |
 | [readmore](https://pub.dev/packages/readmore)                                                 | 允许动态展开和折叠文本的 Flutter 包。                                                                                         | 2024-03-27 | 1.03k |
@@ -345,7 +343,6 @@
 | [intro_slider](https://pub.dev/packages/intro_slider)                                         | 帮助你为你的应用制作一个很酷的介绍/入门页。                                                                                   | 2023-09-09 | 1.15k |
 | [introduction_screen](https://pub.dev/packages/introduction_screen)                           | 应用程序的介绍/入门页。                                                                                                       | 2024-03-23 | 2.75k |
 | [flutter_credit_card](https://pub.dev/packages/flutter_credit_card)                           | 一个信用卡小部件包，支持输入卡片详细信息，卡片翻转动画。                                                                      | 2023-10-09 | 967   |
-| [skeleton_text](https://pub.dev/packages/skeleton_text)                                       | 提供了一种在 Flutter 项目中添加骨架屏加载动画的简单方法。                                                                     | 2023-08-22 | 342   |
 | [flutter_form_builder](https://pub.dev/packages/flutter_form_builder)                         | 通过删除样板代码，重用验证，对更改做出反应并收集最终用户输入来帮助在 Flutter 中创建表单。                                     | 2025-01-01 | 2.61k |
 | [flutter_platform_widgets](https://pub.dev/packages/flutter_platform_widgets)                 | 通过单个小部件简化了 Material 和 Cupertino 小部件的使用。                                                                     | 2024-07-21 | 1.23k |
 | [flutter_login](https://pub.dev/packages/flutter_login)                                       | 具有登录/注册功能的登录小部件，可帮助加快开发速度。                                                                           | 2023-12-19 | 1.42k |
@@ -415,7 +412,6 @@
 | [pro_image_editor](https://pub.dev/packages/pro_image_editor)                               | 图像编辑器：通过用户友好的编辑功能无缝增强您的图像                                                                                                                                    | 2025-01-02 | 287   |
 | [image_blur](https://pub.dev/packages/image_blur)                                           | 为图像添加闪烁和模糊效果                                                                                                                                                              | 2024-08-04 | 18    |
 | [flutter_scalable_ocr](https://pub.dev/packages/flutter_scalable_ocr)                       | Google ML 套件文本识别的包装器                                                                                                                                                        | 2024-10-30 | 104   |
-| [image_compare_slider](https://pub.dev/packages/image_compare_slider)                       | 使用滑块和可拖动的线/手柄轻松比较两个图像                                                                                                                                             | 2023-08-02 | 101   |
 | [flutter_blurhash](https://pub.dev/packages/flutter_blurhash)                               | 图像占位符的紧凑表示，对 30 个字符以下的模糊图像进行编码，以便像 Medium 使用的那样即时显示                                                                                            | 2023-11-18 | 1.56k |
 | [image_network](https://pub.dev/packages/image_network)                                     | 允许使用 CanvasKit 在 Web 上渲染图像，而不会出现 CORS 问题                                                                                                                            | 2024-02-08 | 151   |
 | [scribble](https://pub.dev/packages/scribble)                                               | 一个轻量级的 Flutter 手绘库，支持压力、可变线宽等                                                                                                                                     | 2024-04-06 | 175   |
@@ -446,12 +442,11 @@
 | [before_after](https://pub.dev/packages/before_after)                                       | 轻松地显示两个图像之间的差异。                                                                                                                                                        | 2024-11-16 | 173   |
 | [flutter_image_compress](https://pub.dev/packages/flutter_image_compress)                   | 图片压缩。                                                                                                                                                                            | 2025-01-02 | 1.57k |
 | [cached_network_image](https://pub.dev/packages/cached_network_image)                       | Flutter 库可加载和缓存网络图像。                                                                                                                                                      | 2024-08-13 | 6.45k |
-| [extended_image](https://pub.dev/packages/extended_image)                                   | 强大的官方 Image 扩展组件, 支持加载以及失败显示，缓存网络图片，缩放拖拽图片，图片浏览(微信掘金效果)，滑动退出页面(微信掘金效果)，编辑图片(裁剪旋转翻转)，保存，绘制自定义效果等功能。 | 2024-12-24 | 1.9k  |
+| [extended_image](https://pub.dev/packages/extended_image)                                   | 强大的官方 Image 扩展组件，缓存网络图片，缩放拖拽图片，图片浏览(微信掘金效果)，滑动退出页面(微信掘金效果)，编辑图片(裁剪旋转翻转)，保存，绘制自定义效果等功能。 | 2024-12-24 | 1.9k  |
 | [extended_image_library](https://pub.dev/packages/extended_image_library)                   | extended_image 的基础库，如果你只需要网络图片缓存功能，你可以只引用这个库。                                                                                                           | 2024-08-16 | 128   |
 | [flutter_svg](https://pub.dev/packages/flutter_svg)                                         | Flutter 的 SVG 渲染和窗口小部件库，允许绘制和显示可缩放矢量图形。                                                                                                                     | 2024-11-26 | 5.39k |
 | [font_awesome_flutter](https://pub.dev/packages/font_awesome_flutter)                       | 以 Flutter Icons 的形式提供. 提供 1500 个其他图标供您的应用使用。                                                                                                                     | 2024-11-03 | 4.64k |
 | [photo_view](https://pub.dev/packages/photo_view)                                           | 图像能够通过用户手势（例如捏，旋转和拖动）进行缩放和平移，还可以显示任何窗口小部件而不是图像，例如容器，文本或 SVG。                                                                  | 2024-04-17 | 3.02k |
-| [flutter_emoji](https://pub.dev/packages/flutter_emoji)                                     | 轻巧的表情符号。                                                                                                                                                                      | 2023-08-07 | 194   |
 | [hugeicons](https://pub.dev/packages/hugeicons)                                             | 4,000 多个免费 Flutter 图标。由 Hugeicons Pro Icon Library 创建                                                                                                                       | 2024-07-25 | 259   |
 | [avatar_plus](https://pub.dev/packages/avatar_plus)                                         | 用于生成和显示具有随机字符串内容的可自定义头像                                                                                                                                        | 2024-09-12 | 32    |
 
@@ -516,7 +511,6 @@
 | [hyper_effects](https://pub.dev/packages/hyper_effects)               | 几行代码即可创建精美的效果和动画                                                      | 2024-12-15 | 211   |
 | [flutter_tilt](https://pub.dev/packages/flutter_tilt)                 | 为 Flutter 应用倾斜视差悬停效果，支持倾斜、灯光、阴影效果、陀螺仪传感器               | 2024-12-13 | 218   |
 | [path_animation](https://pub.dev/packages/path_animation)             | 轻松地为小部件穿过路径设置动画                                                        | 2024-04-10 | 23    |
-| [weather_animation](https://pub.dev/packages/weather_animation)       | 包含美丽的天气动画。使用天气配置器轻松设置                                            | 2024-11-19 | 104   |
 | [zerker](https://pub.dev/packages/zerker)                             | 灵活轻便的 flutter canvas 图形动画库                                                  | 2024-08-16 | 90    |
 | [motion](https://pub.dev/packages/motion)                             | 一个精美的小部件，将陀螺仪或基于悬停的运动效果应用于其子级                            | 2024-09-25 | 231   |
 | [siri_wave](https://pub.dev/packages/siri_wave)                       | 在 Siri 中一样创建漂亮的波形                                                          | 2024-11-16 | 120   |
@@ -545,7 +539,6 @@
 | [syncfusion_flutter_gauges](https://pub.dev/packages/syncfusion_flutter_gauges)   | Flutter 仪表库包括线性仪表和径向仪表（又名圆形仪表），用于创建现代、交互式、动画仪表和径向滑块。 | 2024-12-31 | 1.07k |
 | [syncfusion_flutter_charts](https://pub.dev/packages/syncfusion_flutter_charts)   | Dart 原生编写的数据可视化库，用于创建美观、动画和高性能的图表                                    | 2024-12-31 | 3.38k |
 | [time_chart](https://pub.dev/packages/time_chart)                                 | 可滚动的时间图表。                                                                               | 2023-11-27 | 75    |
-| [flutter_echarts](https://pub.dev/packages/flutter_echarts)                       | 基于 Echarts 的数据可视化图表库，能够构建高级图表，例如 WebGL 3D，GIS 地图等。                   | 2023-08-31 | 546   |
 | [fl_chart](https://pub.dev/packages/fl_chart)                                     | Flutter 图表库，当前支持折线图，条形图和饼图。                                                   | 2024-12-19 | 6.37k |
 | [percent_indicator](https://pub.dev/packages/percent_indicator)                   | 根据百分比显示进度小部件，可以是圆形或线性的，也可以根据需要进行自定义。                         | 2024-11-23 | 2.64k |
 | [flutter_graph_view](https://pub.dev/packages/flutter_graph_view)                 | 用于精美的图形数据结构的小部件，例如力导向图。                                                   | 2024-11-04 | 61    |
@@ -586,7 +579,6 @@
 | [adaptive_dialog](https://pub.dev/packages/adaptive_dialog)           | 根据平台自适应地显示对话框或模态框。                                             | 2024-12-19 | 1.01k |
 | [bot_toast](https://pub.dev/packages/bot_toast)                       | 易于使用的 Flutter Toast 库，易于使用且功能丰富。                                | 2023-09-19 | 938   |
 | [flash](https://pub.dev/packages/flash)                               | 高度可定制，功能强大且易于使用的警报库。                                         | 2024-06-24 | 1.07k |
-| [flutter_styled_toast](https://pub.dev/packages/flutter_styled_toast) | 自定义 Toast。                                                                   | 2023-08-27 | 437   |
 | [rate_my_app](https://pub.dev/packages/rate_my_app)                   | 询问用户是否对自定义条件（例如安装时间，启动次数等）进行评分。                   | 2024-05-24 | 599   |
 | [giffy_dialog](https://pub.dev/packages/giffy_dialog)                 | 一个精美的自定义警报对话框。                                                     | 2024-11-16 | 589   |
 | [popover](https://pub.dev/packages/popover)                           | 点击元素，弹出气泡式的卡片浮层。                                                 | 2024-08-11 | 604   |
@@ -638,7 +630,6 @@
 | [googleapis](https://pub.dev/packages/googleapis)                                 | 用于访问通过 API 发现服务描述的 Google API 的自动生成的客户端库。                                                            | 2024-06-13 | 1.05k |
 | [github](https://pub.dev/packages/github)                                         | 使用 Github 的 v3 API 的高级 GitHub API 客户端库。                                                                           | 2024-02-26 | 144   |
 | [flutter_chat_ui](https://pub.dev/packages/flutter_chat_ui)                       | 积极维护、社区驱动的聊天 UI 实施，带有可选的 Firebase BaaS。                                                                 | 2024-08-12 | 1.41k |
-| [teledart](https://pub.dev/packages/teledart)                                     | 与最新 Telegram Bot API 接口的 Dart 库。                                                                                     | 2023-08-29 | 302   |
 | [ftpconnect](https://pub.dev/packages/ftpconnect)                                 | Flutter 简单而强大的 dart FTP 连接库，可与 FTP 服务器交互，并可以压缩和解压缩文件。                                          | 2024-02-25 | 128   |
 | [mailer](https://pub.dev/packages/mailer)                                         | 从 Dart 撰写和发送电子邮件。支持文件附件和 HTML 电子邮件。                                                                   | 2024-12-03 | 413   |
 | [flutter_facebook_auth](https://pub.dev/packages/flutter_facebook_auth)           | 将 facebook 登录添加到您的 Flutter 应用程序、获取用户信息、个人资料图片等的最简单方法。包括网络支持。                        | 2024-09-08 | 1.35k |
