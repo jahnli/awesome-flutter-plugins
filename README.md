@@ -285,7 +285,6 @@
 | [magnifying_glass](https://pub.dev/packages/magnifying_glass)                                 | 具有实时放大镜镜头小部件                                                                                                      | 2024-09-28 | 42    |
 | [appinio_social_share](https://pub.dev/packages/appinio_social_share)                         | 支持将文本、图像、文件和带图像的文本共享到社交媒体                                                                            | 2024-08-01 | 248   |
 | [hue_rotation](https://pub.dev/packages/hue_rotation)                                         | 更改任何具有颜色的小部件的颜色                                                                                                | 2024-06-06 | 25    |
-| [flutter_pannable_rating_bar](https://pub.dev/packages/flutter_pannable_rating_bar)           | 多功能且可自定义的评分栏                                                                                                      | 2023-03-10 | 35    |
 | [flutter_card_swiper](https://pub.dev/packages/flutter_card_swiper)                           | 类似于 Tinder 的刷卡程序包。它允许您向左、向右、向上和向下滑动，并为每个方向定义您自己的业务逻辑                              | 2024-10-08 | 466   |
 | [easy_stepper](https://pub.dev/packages/easy_stepper)                                         | 完全可定制、美观且易于使用的步进器小部件                                                                                      | 2024-08-02 | 364   |
 | [appflowy_board](https://pub.dev/packages/appflowy_board)                                     | 可自定义和可拖动看板小部件                                                                                                    | 2024-04-24 | 202   |
@@ -328,9 +327,7 @@
 | [extended_text](https://pub.dev/packages/extended_text)                                       | 扩展官方文本以快速构建内嵌图像或特殊文本。                                                                                    | 2024-11-28 | 280   |
 | [back_button_interceptor](https://pub.dev/packages/back_button_interceptor)                   | 后退按钮拦截器。可用于在点击 Android 后退按钮时执行操作。                                                                     | 2025-01-02 | 365   |
 | [day_night_time_picker](https://pub.dev/packages/day_night_time_picker)                       | 昼夜时间选择器。带有太阳和月亮资产的美丽昼夜动画。                                                                            | 2024-03-31 | 675   |
-| [weather](https://pub.dev/packages/weather)                                                   | 一个天气插件，用于通过 OpenWeatherMap API 获取当前天气和预测。适用于 Android 和 iOS。                                         | 2023-08-28 | 228   |
 | [flutter_tex](https://pub.dev/packages/flutter_tex)                                           | 用于渲染基于 LaTeX、TeX 和 MathML 并支持 HTML 和 JavaScript 的数学/数学、物理和化学、统计方程和表达式。                       | 2024-12-27 | 304   |
-| [flutter_linkify](https://pub.dev/packages/flutter_linkify)                                   | 将文本 URL 和电子邮件转换为 Flutter 文本中可点击的内联链接。                                                                  | 2023-05-15 | 750   |
 | [intl_phone_number_input](https://pub.dev/packages/intl_phone_number_input)                   | 用于以国际/国际格式输入电话号码。                                                                                             | 2023-12-08 | 863   |
 | [floating_bubbles](https://pub.dev/packages/floating_bubbles)                                 | 用于将前景上的浮动气泡添加到任何 Flutter 小部件的 Flutter 包。                                                                | 2024-01-29 | 82    |
 | [vertical_weight_slider](https://pub.dev/packages/vertical_weight_slider)                     | 提供易于使用且可滚动的垂直重量滑块。                                                                                          | 2024-03-20 | 69    |
@@ -707,7 +704,6 @@
 | ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ---------- | ----- |
 | [geolocator](https://pub.dev/packages/geolocator)                                         | Flutter 的地理位置插件。该插件提供了用于通用位置（GPS 等）功能。                                | 2024-11-14 | 5.67k |
 | [ar_location_view](https://pub.dev/packages/ar_location_view)                             | ArLocationView 设计用于静态 POI 集中的区域                                                      | 2024-10-24 | 64    |
-| [flutter_google_street_view](https://pub.dev/packages/flutter_google_street_view)         | 提供谷歌街景的 Flutter 小部件插件                                                               | 2023-07-11 | 42    |
 | [huawei_location](https://pub.dev/packages/huawei_location)                               | HUAWEI Flutter Location Kit 插件将全球导航卫星系统 (GNSS)、Wi-Fi 和基站定位功能结合到您的应用中 | 2024-12-31 | 38    |
 | [huawei_map](https://pub.dev/packages/huawei_map)                                         | 华为地图套件，提供标准地图和 UI 元素，为您定制更符合服务场景的地图。                            | 2024-12-05 | 69    |
 | [flutter_mapbox_navigation](https://pub.dev/packages/flutter_mapbox_navigation)           | 用于 Flutter 的成熟的逐步导航 UI，可随时放入您的应用程序。                                      | 2023-10-07 | 289   |
