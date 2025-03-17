@@ -2,14 +2,17 @@
 
 🔥🔥🔥 收集好用的 Flutter 插件以便更高效的开发
 
-## 收录 579 个
+## 收录
 
-### 01-19
+### 03-17
 
-- [heroine](https://pub.dev/packages/heroine) - 流畅的弹簧式 Hero 过渡，可自定义弹跳和持续时间
-- [flutter_physics](https://pub.dev/packages/flutter_physics) - 提供基于物理的动画，包括可定制的弹簧和重力模拟，可用作物理模拟和动画曲线
-- [screen_capture_event](https://pub.dev/packages/screen_capture_event) - 捕捉 Android 和 iOS 的屏幕截图
-- [no_screenshot](https://pub.dev/packages/no_screenshot) - 可在您的应用程序中启用、禁用、切换或流式传输屏幕截图活动
+- [desktop_multi_window](https://pub.dev/packages/desktop_multi_window) - 在桌面上创建和管理多窗口的 F​​lutter 插件
+- [shorebird_code_push](https://pub.dev/packages/shorebird_code_push) - 用于与Shorebird Code Push Updater 热更新的 Dart 包
+- [flutter_recorder](https://pub.dev/packages/flutter_recorder) - 使用 miniaudio 作为后端的录音机插件。检测静音并保存为 WAV 音频文件
+- [chalkdart](https://pub.dev/packages/chalkdart) - Dart 的控制台文本着色和样式库
+- [flutter_gen](https://pub.dev/packages/flutter_gen) - 用于您的资产、字体、颜色等的 Flutter 代码生成器
+- [wizard_stepper](https://pub.dev/packages/wizard_stepper) - 简单、可自定义且易于使用的 Flutter 向导步进小部件
+- [android_overlay](https://pub.dev/packages/android_overlay) - 用于在 Android 系统 UI 上显示覆盖层的 Flutter 插件
 
 ## 目录
 
@@ -69,6 +72,8 @@
 | [flame](https://pub.dev/packages/flame)                                                       | Flutter 游戏引擎。                                                                                                                     | 2025-01-03 | 2.11k |
 | [flutter_scene](https://pub.dev/packages/flutter_scene)                                       | 通用实时 3D 渲染库。它最初是 Flutter Engine 中 Impeller 渲染后端的 C++ 组件，目前正在积极开发为由 Flutter GPU API 提供支持的纯 Dart 包 | 2024-11-07 | 131   |
 | [dart_console](https://pub.dev/packages/dart_console)                                         | 用于命令行应用程序的辅助库，需要比标准库提供的更多输入/输出控制                                                                        | 2024-11-03 | 135   |
+| [chalkdart](https://pub.dev/packages/chalkdart)                                               | Dart 的控制台文本着色和样式库                                                                                                          | 暂无       | 暂无  |
+| [flutter_gen](https://pub.dev/packages/flutter_gen)                                           | 用于您的资产、字体、颜色等的 Flutter 代码生成器                                                                                        | 暂无       | 暂无  |
 
 > ### <a id="设备">设备</a>
 
@@ -180,6 +185,7 @@
 | [splash_master](https://pub.dev/packages/splash_master)                                 | 将 Native 和 Flutter 启动画面与多种媒体选项统一起来，以实现无缝的用户体验                                                       | 2025-01-02 | 40    |
 | [screen_capture_event](https://pub.dev/packages/screen_capture_event)                   | 捕捉 Android 和 iOS 的屏幕截图                                                                                                  | 2025-01-14 | 87    |
 | [no_screenshot](https://pub.dev/packages/no_screenshot)                                 | 可在您的应用程序中启用、禁用、切换或流式传输屏幕截图活动                                                                        | 2024-08-24 | 146   |
+| [android_overlay](https://pub.dev/packages/android_overlay)                             | 用于在 Android 系统 UI 上显示覆盖层的 Flutter 插件                                                                              | 暂无       | 暂无  |
 
 > ### <a id="项目">项目</a>
 
@@ -339,6 +345,7 @@
 | [shadcn_flutter](https://pub.dev/packages/shadcn_flutter)                                     | Shadcn/UI 设计精美的组件现已可用于 Flutter                                                                                    | 2024-12-21 | 94    |
 | [flutter_story_presenter](https://pub.dev/packages/flutter_story_presenter)                   | 可将视频、图像和文本以故事形式显示                                                                                            | 2024-12-25 | 92    |
 | [u_credit_card](https://pub.dev/packages/u_credit_card)                                       | 易于使用漂亮的卡片 UI Flutter 包                                                                                              | 2024-10-26 | 55    |
+| [wizard_stepper](https://pub.dev/packages/wizard_stepper)                                     | 简单、可自定义且易于使用的 Flutter 向导步进小部件                                                                             | 暂无       | 暂无  |
 
 > ### <a id="音视频">音视频</a>
 
@@ -373,6 +380,7 @@
 | [chewie](https://pub.dev/packages/chewie)                                     | Flutter 的视频播放器，带有 Cupertino 和 Material 播放控件。                                                  | 2025-01-15 | 2.13k |
 | [flutter_webrtc](https://pub.dev/packages/flutter_webrtc)                     | Flutter WebRTC 插件。                                                                                        | 2024-12-30 | 1.2k  |
 | [audio_visualizer](https://pub.dev/packages/audio_visualizer)                 | 用于无缝可视化来自文件、资产、HTTP 流、麦克风输入和原始 PCM16 数据的音频                                     | 2024-12-01 | 55    |
+| [flutter_recorder](https://pub.dev/packages/flutter_recorder)                 | 使用 miniaudio 作为后端的录音机插件。检测静音并保存为 WAV 音频文件                                           | 暂无       | 暂无  |
 
 > ### <a id="图像">图像 / 图标 / 图形</a>
 
@@ -557,27 +565,28 @@
 
 > ### <a id="跨平台">Windows / Linux / Mac</a>
 
-| 依赖                                                            | 描述                                                                                                                                                | 更新时间   | likes |
-| --------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ----- |
-| [windows_taskbar](https://pub.dev/packages/windows_taskbar)     | 提供与 Windows 任务栏相关的实用程序                                                                                                                 | 2023-09-05 | 125   |
-| [win32_gamepad](https://pub.dev/packages/win32_gamepad)         | 用于访问连接到 Windows 计算机的游戏手柄                                                                                                             | 2024-07-28 | 34    |
-| [win32_registry](https://pub.dev/packages/win32_registry)       | 提供友好的 Dart API 用于访问 Windows 注册表的包                                                                                                     | 2024-12-10 | 58    |
-| [tray_manager](https://pub.dev/packages/tray_manager)           | 允许 Flutter 桌面应用定义系统托盘。                                                                                                                 | 2024-12-12 | 213   |
-| [webview_windows](https://pub.dev/packages/webview_windows)     | 适用于 Windows 平台的基于 WebView2 的 webview 实现                                                                                                  | 2024-02-17 | 223   |
-| [local_notifier](https://pub.dev/packages/local_notifier)       | 允许 Flutter 桌面应用程序显示本地通知                                                                                                               | 2024-04-05 | 100   |
-| [launch_at_startup](https://pub.dev/packages/launch_at_startup) | 允许 Flutter 桌面应用程序在启动/登录时自动启动                                                                                                      | 2024-06-13 | 132   |
-| [auto_updater](https://pub.dev/packages/auto_updater)           | 允许 Flutter 桌面应用程序自动更新自己（基于 sparkle 和 winsparkle）                                                                                 | 2024-10-27 | 168   |
-| [msix](https://pub.dev/packages/msix)                           | 命令行工具，可从您的 Flutter Windows 构建文件创建 Msix 安装程序。                                                                                   | 2024-08-15 | 864   |
-| [desktop](https://pub.dev/packages/desktop)                     | Flutter 桌面设计标准。只需简单、可用的 wigdets 即可创建应用程序。                                                                                   | 2024-10-21 | 161   |
-| [window_manager](https://pub.dev/packages/window_manager)       | 允许 Flutter 桌面应用程序调整窗口大小和重新定位。                                                                                                   | 2024-10-27 | 953   |
-| [screen_retriever](https://pub.dev/packages/screen_retriever)   | 该插件允许 Flutter 桌面应用程序检索有关屏幕大小、显示、光标位置等的信息。                                                                           | 2024-08-18 | 48    |
-| [macos_ui](https://pub.dev/packages/macos_ui)                   | 实现当前 macOS 设计语言的 Flutter 小部件和主题。                                                                                                    | 2025-01-16 | 910   |
-| [hotkey_manager](https://pub.dev/packages/hotkey_manager)       | 允许 Flutter 桌面应用程序定义系统/应用程序范围内的热键（即快捷方式）。                                                                              | 2024-05-18 | 118   |
-| [flutter_acrylic](https://pub.dev/packages/flutter_acrylic)     | 在 Windows 和 Linux 上的窗口模糊和透明效果。                                                                                                        | 2024-06-11 | 542   |
-| [bitsdojo_window](https://pub.dev/packages/bitsdojo_window)     | 帮助使用 Flutter 桌面（自定义边框、标题栏和最小化/最大化/关闭按钮）和 Windows 和 macOS 的常见桌面窗口操作（在屏幕上显示/隐藏/定位）创建自定义窗口。 | 2023-12-23 | 983   |
-| [desktop_drop](https://pub.dev/packages/desktop_drop)           | 一个插件，允许用户将文件拖动到您的 Flutter 桌面应用程序。                                                                                           | 2024-09-19 | 396   |
-| [process_run](https://pub.dev/packages/process_run)             | 适用于 Linux/Win/Mac 的进程运行助手以及查找可执行文件的功能。                                                                                       | 2024-12-02 | 318   |
-| [rename](https://pub.dev/packages/rename)                       | 帮助您为 Ios、Android、MacOS 和 Linux 平台更改或重命名您的 Flutter 项目 BundleId 和 AppName                                                         | 2024-03-07 | 1.18k |
+| 依赖                                                                  | 描述                                                                                                                                                | 更新时间   | likes |
+| --------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ----- |
+| [windows_taskbar](https://pub.dev/packages/windows_taskbar)           | 提供与 Windows 任务栏相关的实用程序                                                                                                                 | 2023-09-05 | 125   |
+| [win32_gamepad](https://pub.dev/packages/win32_gamepad)               | 用于访问连接到 Windows 计算机的游戏手柄                                                                                                             | 2024-07-28 | 34    |
+| [win32_registry](https://pub.dev/packages/win32_registry)             | 提供友好的 Dart API 用于访问 Windows 注册表的包                                                                                                     | 2024-12-10 | 58    |
+| [tray_manager](https://pub.dev/packages/tray_manager)                 | 允许 Flutter 桌面应用定义系统托盘。                                                                                                                 | 2024-12-12 | 213   |
+| [webview_windows](https://pub.dev/packages/webview_windows)           | 适用于 Windows 平台的基于 WebView2 的 webview 实现                                                                                                  | 2024-02-17 | 223   |
+| [local_notifier](https://pub.dev/packages/local_notifier)             | 允许 Flutter 桌面应用程序显示本地通知                                                                                                               | 2024-04-05 | 100   |
+| [launch_at_startup](https://pub.dev/packages/launch_at_startup)       | 允许 Flutter 桌面应用程序在启动/登录时自动启动                                                                                                      | 2024-06-13 | 132   |
+| [auto_updater](https://pub.dev/packages/auto_updater)                 | 允许 Flutter 桌面应用程序自动更新自己（基于 sparkle 和 winsparkle）                                                                                 | 2024-10-27 | 168   |
+| [msix](https://pub.dev/packages/msix)                                 | 命令行工具，可从您的 Flutter Windows 构建文件创建 Msix 安装程序。                                                                                   | 2024-08-15 | 864   |
+| [desktop](https://pub.dev/packages/desktop)                           | Flutter 桌面设计标准。只需简单、可用的 wigdets 即可创建应用程序。                                                                                   | 2024-10-21 | 161   |
+| [window_manager](https://pub.dev/packages/window_manager)             | 允许 Flutter 桌面应用程序调整窗口大小和重新定位。                                                                                                   | 2024-10-27 | 953   |
+| [screen_retriever](https://pub.dev/packages/screen_retriever)         | 该插件允许 Flutter 桌面应用程序检索有关屏幕大小、显示、光标位置等的信息。                                                                           | 2024-08-18 | 48    |
+| [macos_ui](https://pub.dev/packages/macos_ui)                         | 实现当前 macOS 设计语言的 Flutter 小部件和主题。                                                                                                    | 2025-01-16 | 910   |
+| [hotkey_manager](https://pub.dev/packages/hotkey_manager)             | 允许 Flutter 桌面应用程序定义系统/应用程序范围内的热键（即快捷方式）。                                                                              | 2024-05-18 | 118   |
+| [flutter_acrylic](https://pub.dev/packages/flutter_acrylic)           | 在 Windows 和 Linux 上的窗口模糊和透明效果。                                                                                                        | 2024-06-11 | 542   |
+| [bitsdojo_window](https://pub.dev/packages/bitsdojo_window)           | 帮助使用 Flutter 桌面（自定义边框、标题栏和最小化/最大化/关闭按钮）和 Windows 和 macOS 的常见桌面窗口操作（在屏幕上显示/隐藏/定位）创建自定义窗口。 | 2023-12-23 | 983   |
+| [desktop_drop](https://pub.dev/packages/desktop_drop)                 | 一个插件，允许用户将文件拖动到您的 Flutter 桌面应用程序。                                                                                           | 2024-09-19 | 396   |
+| [process_run](https://pub.dev/packages/process_run)                   | 适用于 Linux/Win/Mac 的进程运行助手以及查找可执行文件的功能。                                                                                       | 2024-12-02 | 318   |
+| [rename](https://pub.dev/packages/rename)                             | 帮助您为 Ios、Android、MacOS 和 Linux 平台更改或重命名您的 Flutter 项目 BundleId 和 AppName                                                         | 2024-03-07 | 1.18k |
+| [desktop_multi_window](https://pub.dev/packages/desktop_multi_window) | 在桌面上创建和管理多窗口的 F​​lutter 插件                                                                                                           | 暂无       | 暂无  |
 
 > ### <a id="通讯">通讯 / API</a>
 
@@ -634,6 +643,7 @@
 | [openai_dart](https://pub.dev/packages/openai_dart)                               | OpenAI API 的 Dart 客户端。支持聊天（GPT-4o、o1 等）、补全、嵌入、图像（DALL·E 3）、助手（线程、向量存储等）、批处理、微调等 | 2024-12-16 | 81    |
 | [ollama_dart](https://pub.dev/packages/ollama_dart)                               | Ollama API 的 Dart 客户端（在本地运行 Llama 3.2、Gemma 2、Phi-3.5、Mistral nemo、Qwen2                                       | 2024-12-16 | 54    |
 | [opencv_dart](https://pub.dev/packages/opencv_dart)                               | OpenCV4 绑定，使用 dart:ffi。此插件包含 `videoio` 模块                                                                       | 2024-11-25 | 85    |
+| [shorebird_code_push](https://pub.dev/packages/shorebird_code_push)               | 用于与Shorebird Code Push Updater 热更新的 Dart 包                                                                           | 暂无       | 暂无  |
 
 > ### <a id="AI">AI</a>
 
