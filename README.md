@@ -2,17 +2,20 @@
 
 🔥🔥🔥 收集好用的 Flutter 插件以便更高效的开发
 
-## 收录 586 个
+## 收录
 
-### 03-17
+### 04-26
 
-- [desktop_multi_window](https://pub.dev/packages/desktop_multi_window) - 在桌面上创建和管理多窗口的 F​​lutter 插件
-- [shorebird_code_push](https://pub.dev/packages/shorebird_code_push) - 用于与Shorebird Code Push Updater 热更新的 Dart 包
-- [flutter_recorder](https://pub.dev/packages/flutter_recorder) - 使用 miniaudio 作为后端的录音机插件。检测静音并保存为 WAV 音频文件
-- [chalkdart](https://pub.dev/packages/chalkdart) - Dart 的控制台文本着色和样式库
-- [flutter_gen](https://pub.dev/packages/flutter_gen) - 用于您的资产、字体、颜色等的 Flutter 代码生成器
-- [wizard_stepper](https://pub.dev/packages/wizard_stepper) - 简单、可自定义且易于使用的 Flutter 向导步进小部件
-- [android_overlay](https://pub.dev/packages/android_overlay) - 用于在 Android 系统 UI 上显示覆盖层的 Flutter 插件
+- [pixel_preview](https://pub.dev/packages/pixel_preview) - 用于单独可视化和测试 UI 组件和屏幕
+- [flutter_embed_unity](https://pub.dev/packages/flutter_embed_unity) - 将 Unity 作为 Widget 嵌入到 Flutter 应用中，充分发挥 Unity 3D 的强大功能
+- [safesecurelibs](https://pub.dev/packages/safesecurelibs) - 用于检查设备安全状态的 Flutter 包，包括 root 检测、开发者模式和危险应用
+- [security_plus](https://pub.dev/packages/security_plus) - 可以检测多个安全警报，如 root、越狱、模拟器、开发模式和外部存储运行
+- [flutter_thermal_printer](https://pub.dev/packages/flutter_thermal_printer) - Flutter 插件可通过 ESC/POS 命令在热敏打印机上打印
+- [app_badge_plus](https://pub.dev/packages/app_badge_plus) - 用于为你的应用图标添加徽章的 Flutter 插件。支持 iOS、Android 和 macOS
+- [cupertino_calendar_picker](https://pub.dev/packages/cupertino_calendar_picker) - 时尚美观的 Cupertino 日历小部件
+- [infinite_calendar_view](https://pub.dev/packages/infinite_calendar_view) - 轻松创建日历的不同视图。月、周、三天、单日、列表
+- [textuality](https://pub.dev/packages/textuality) - 它通过渐变、描边、霓虹灯、阴影效果等高级样式选项增强了 Text 小部件
+- [fly_motion](https://pub.dev/packages/fly_motion) - 用于以平滑的曲线运动将小部件从一个位置移动到另一个位置
 
 ## 目录
 
@@ -74,6 +77,8 @@
 | [dart_console](https://pub.dev/packages/dart_console)                                         | 用于命令行应用程序的辅助库，需要比标准库提供的更多输入/输出控制                                                                        | 2024-11-03 | 137   |
 | [chalkdart](https://pub.dev/packages/chalkdart)                                               | Dart 的控制台文本着色和样式库                                                                                                          | 2025-03-10 | 46    |
 | [flutter_gen](https://pub.dev/packages/flutter_gen)                                           | 用于您的资产、字体、颜色等的 Flutter 代码生成器                                                                                        | 2025-03-02 | 1.57k |
+| [pixel_preview](https://pub.dev/packages/pixel_preview)                                       | 用于单独可视化和测试 UI 组件和屏幕                                                                                                     | 暂无       | 暂无  |
+| [flutter_embed_unity](https://pub.dev/packages/flutter_embed_unity)                           | 将 Unity 作为 Widget 嵌入到 Flutter 应用中，充分发挥 Unity 3D 的强大功能                                                               | 暂无       | 暂无  |
 
 > ### <a id="设备">设备</a>
 
@@ -186,6 +191,9 @@
 | [screen_capture_event](https://pub.dev/packages/screen_capture_event)                   | 捕捉 Android 和 iOS 的屏幕截图                                                                                                  | 2025-01-14 | 92    |
 | [no_screenshot](https://pub.dev/packages/no_screenshot)                                 | 可在您的应用程序中启用、禁用、切换或流式传输屏幕截图活动                                                                        | 2024-08-24 | 160   |
 | [android_overlay](https://pub.dev/packages/android_overlay)                             | 用于在 Android 系统 UI 上显示覆盖层的 Flutter 插件                                                                              | 2025-02-26 | 12    |
+| [safesecurelibs](https://pub.dev/packages/safesecurelibs)                               | 用于检查设备安全状态的 Flutter 包，包括 root 检测、开发者模式和危险应用                                                         | 暂无       | 暂无  |
+| [security_plus](https://pub.dev/packages/security_plus)                                 | 可以检测多个安全警报，如 root、越狱、模拟器、开发模式和外部存储运行                                                             | 暂无       | 暂无  |
+| [app_badge_plus](https://pub.dev/packages/app_badge_plus)                               | 用于为你的应用图标添加徽章的 Flutter 插件。支持 iOS、Android 和 macOS                                                           | 暂无       | 暂无  |
 
 > ### <a id="项目">项目</a>
 
@@ -346,6 +354,7 @@
 | [flutter_story_presenter](https://pub.dev/packages/flutter_story_presenter)                   | 可将视频、图像和文本以故事形式显示                                                                                            | 2025-02-18 | 105   |
 | [u_credit_card](https://pub.dev/packages/u_credit_card)                                       | 易于使用漂亮的卡片 UI Flutter 包                                                                                              | 2024-10-26 | 59    |
 | [wizard_stepper](https://pub.dev/packages/wizard_stepper)                                     | 简单、可自定义且易于使用的 Flutter 向导步进小部件                                                                             | 2025-02-18 | 38    |
+| [textuality](https://pub.dev/packages/textuality)                                             | 它通过渐变、描边、霓虹灯、阴影效果等高级样式选项增强了 Text 小部件                                                            | 暂无       | 暂无  |
 
 > ### <a id="音视频">音视频</a>
 
@@ -460,6 +469,7 @@
 | [html_editor_enhanced](https://pub.dev/packages/html_editor_enhanced)                 | 适用于 Android、iOS 和 Web 的 HTML 富文本编辑器。                                              | 2024-05-18 | 617   |
 | [quill_html_editor](https://pub.dev/packages/quill_html_editor)                       | 适用于 Android、iOS 和 Web 的 HTML 富文本编辑器，它使用强大的 Quill Js 库构建                  | 2024-01-13 | 261   |
 | [flutter_doc_scanner](https://pub.dev/packages/flutter_doc_scanner)                   | 使用 ML Kit 文档扫描仪 API 和 VisionKit 在 Android 和 iOS 上进行文档扫描的 Flutter 插件        | 2025-02-27 | 93    |
+| [flutter_thermal_printer](https://pub.dev/packages/flutter_thermal_printer)           | Flutter 插件可通过 ESC/POS 命令在热敏打印机上打印                                              | 暂无       | 暂无  |
 
 > ### <a id="时间">时间</a>
 
@@ -477,6 +487,8 @@
 | [syncfusion_flutter_datepicker](https://pub.dev/packages/syncfusion_flutter_datepicker) | 使用户可以轻松选择日期或日期范围。                                                               | 2025-03-12 | 1.56k |
 | [syncfusion_flutter_calendar](https://pub.dev/packages/syncfusion_flutter_calendar)     | 九个内置的可配置视图，提供用于高效安排和表示约会/事件的基本功能。                                | 2025-03-11 | 1.48k |
 | [timelines_plus](https://pub.dev/packages/timelines_plus)                               | 功能强大且易于使用的 Flutter 时间线包                                                            | 2025-01-16 | 129   |
+| [cupertino_calendar_picker](https://pub.dev/packages/cupertino_calendar_picker)         | 时尚美观的 Cupertino 日历小部件                                                                  | 暂无       | 暂无  |
+| [infinite_calendar_view](https://pub.dev/packages/infinite_calendar_view)               | 轻松创建日历的不同视图。月、周、三天、单日、列表                                                 | 暂无       | 暂无  |
 
 > ### <a id="动画">动画</a>
 
@@ -504,6 +516,7 @@
 | [mesh](https://pub.dev/packages/mesh)                                 | 适用于 Flutter 应用程序的快速且高度可定制的动画网格渐变                            | 2024-11-23 | 117   |
 | [heroine](https://pub.dev/packages/heroine)                           | 流畅的弹簧式 Hero 过渡，可自定义弹跳和持续时间                                     | 2025-01-24 | 122   |
 | [flutter_physics](https://pub.dev/packages/flutter_physics)           | 提供基于物理的动画，包括可定制的弹簧和重力模拟，可用作物理模拟和动画曲线           | 2025-02-12 | 40    |
+| [fly_motion](https://pub.dev/packages/fly_motion)                     | 用于以平滑的曲线运动将小部件从一个位置移动到另一个位置                             | 暂无       | 暂无  |
 
 > ### <a id="图表">图表</a>
 
