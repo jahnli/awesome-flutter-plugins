@@ -257,7 +257,7 @@
 | [pluto_grid](https://pub.dev/packages/pluto_grid)                                       | 数据表格展示。                                                                             | 2024-03-01 | 1.01k |
 | [infinite_scroll_pagination](https://pub.dev/packages/infinite_scroll_pagination)       | 当用户向下滚动屏幕时，懒惰地加载和显示项目页面。                                           | 2025-02-24 | 3.7k  |
 | [extended_nested_scroll_view](https://pub.dev/packages/extended_nested_scroll_view)     | 扩展的嵌套滚动视图。                                                                       | 2023-12-27 | 298   |
-| [sticky_infinite_list](https://pub.dev/packages/device_calendar)                        | 具有粘性标头的无限列表。                                                                   | 2024-09-29 | 259   |
+| [sticky_infinite_list](https://pub.dev/packages/sticky_infinite_list)                        | 具有粘性标头的无限列表。                                                                   | 2024-09-29 | 259   |
 | [flutter_swipe_action_cell](https://pub.dev/packages/flutter_swipe_action_cell)         | iOS 式单元格滑动操作效果。                                                                 | 2024-10-03 | 432   |
 | [flutter_slidable](https://pub.dev/packages/flutter_slidable)                           | 实现的可滑动列表项，具有可被取消的定向滑动动作。                                           | 2025-01-23 | 5.85k |
 | [super_sliver_list](https://pub.dev/packages/super_sliver_list)                         | SliverList 和 ListView 的直接替代品，可以处理具有可变范围的大型列表并跳转/动画到特定项目   | 2024-03-26 | 231   |
