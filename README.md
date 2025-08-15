@@ -53,6 +53,7 @@
 - [底部导航栏 / 浮动菜单](#导航栏)
 - [对话框 / 底部弹片 / Toast](#对话框)
 - [Windows / Linux / Mac](#跨平台)
+- [3D](#3D)
 - [通讯 / API](#通讯)
 - [AI](#AI)
 - [地图](#地图)
@@ -66,12 +67,10 @@
 | [node_editor](https://pub.dev/packages/node_editor)                                           | 节点编辑器包                                                                                                                           | 2024-07-17 | 60    |
 | [flutter_code_editor](https://pub.dev/packages/flutter_code_editor)                           | 支持语法突出显示和代码折叠的可定制代码字段                                                                                             | 2025-03-25 | 184   |
 | [mouse_follower](https://pub.dev/packages/mouse_follower)                                     | 使用鼠标跟随器增强您的应用程序，从而轻松自定义光标效果                                                                                 | 2025-01-03 | 32    |
-| [flutter_3d_controller](https://pub.dev/packages/flutter_3d_controller)                       | 渲染不同格式（glb、gltf、fbx、obj）的交互式 3D 模型，能够控制动画、纹理和相机                                                          | 2025-04-07 | 300   |
 | [share_handler](https://pub.dev/packages/share_handler)                                       | 用于处理传入的共享文本/媒体，以及添加共享到建议/快捷方式                                                                               | 2024-11-05 | 127   |
 | [hashlib](https://pub.dev/packages/hashlib)                                                   | 为 Dart 优化的安全哈希函数、校验和生成器和密钥派生算法                                                                                 | 2025-03-13 | 62    |
 | [super_drag_and_drop](https://pub.dev/packages/super_drag_and_drop)                           | Flutter 的原生拖放支持。允许跨应用程序拖动内容                                                                                         | 2024-10-13 | 498   |
 | [store_checker](https://pub.dev/packages/store_checker)                                       | 查找当前安装的 apk/ipa 的来源                                                                                                          | 2025-02-28 | 83    |
-| [flame_forge2d](https://pub.dev/packages/flame_forge2d)                                       | Forge2D (Box2D) 支持 Flame 游戏引擎                                                                                                    | 2025-04-23 | 71    |
 | [serverpod](https://pub.dev/packages/serverpod)                                               | 为 Flutter 社区构建的下一代应用程序和 Web 服务器。它允许您在 Dart 中编写服务器端代码，自动生成您的 API，并以最小的努力连接您的数据库   | 2025-04-24 | 651   |
 | [any_link_preview](https://pub.dev/packages/any_link_preview)                                 | 帮助您显示 Web 链接的预览。对于具有聊天功能的应用程序更有用。                                                                          | 2025-01-18 | 452   |
 | [dart_jsonwebtoken](https://pub.dev/packages/dart_jsonwebtoken)                               | jsonwebtoken' (JWT) 的 dart 实现                                                                                                       | 2025-03-12 | 314   |
@@ -79,8 +78,6 @@
 | [localstorage](https://pub.dev/packages/localstorage)                                         | Flutter 的简单基于 json 文件的存储。替代本机 AsyncStorage                                                                              | 2025-03-18 | 367   |
 | [flutter_multi_formatter](https://pub.dev/packages/flutter_multi_formatter)                   | 国际电话号码格式化程序包、信用卡/借记卡和屏蔽格式化程序                                                                                | 2025-03-25 | 577   |
 | [fresh](https://pub.dev/packages/fresh)                                                       | 用于 dart 的令牌刷新库。该包公开了各种刷新令牌实现（REST、GraphQL 等）通用的核心组件。                                                 | 2024-07-20 | 150   |
-| [forge2d](https://pub.dev/packages/forge2d)                                                   | Dart 的 2D 物理引擎，也适用于 Flutter 中的 Flame 游戏引擎。                                                                            | 2024-12-14 | 121   |
-| [bonfire](https://pub.dev/packages/bonfire)                                                   | 使用 Flame 更简单地创建 RPG 风格或类似的游戏。                                                                                         | 2025-04-10 | 484   |
 | [xterm](https://pub.dev/packages/xterm)                                                       | 一个快速且功能齐全的 Flutter 应用程序终端模拟器。                                                                                      | 2024-02-27 | 193   |
 | [flutter_plugin_android_lifecycle](https://pub.dev/packages/flutter_plugin_android_lifecycle) | 用于在其他插件中访问 Android 生命周期。                                                                                                | 2025-04-19 | 105   |
 | [formz](https://pub.dev/packages/formz)                                                       | Dart 中的统一表单表示，旨在以通用方式简化表单表示和验证。                                                                              | 2024-10-22 | 851   |
@@ -88,19 +85,10 @@
 | [phone_numbers_parser](https://pub.dev/packages/phone_numbers_parser)                         | 用于解析、格式化和验证国际电话号码。                                                                                                   | 2024-12-02 | 222   |
 | [collection](https://pub.dev/packages/collection)                                             | 包含的实用函数和类的风格 dart:collection 使集合的工作更容易。                                                                          | 2024-10-21 | 1.34k |
 | [flutter_native_splash](https://pub.dev/packages/flutter_native_splash)                       | 生成本机代码以使用背景颜色和初始图像来自定义 Flutter 的默认白色本机初始屏幕。支持暗模式，全屏等。                                      | 2025-04-06 | 8.95k |
-| [arkit_plugin](https://pub.dev/packages/arkit_plugin)                                         | ARKit-Apple 的 iOS 移动设备增强现实（AR）开发平台。                                                                                    | 2025-01-25 | 476   |
 | [flutter_colorpicker](https://pub.dev/packages/flutter_colorpicker)                           | 一款受 chrome devtools 启发的 HSV（HSB）/ HSL 拾色器。                                                                                 | 2024-05-19 | 973   |
-| [flutter_unity_widget](https://pub.dev/packages/flutter_unity_widget)                         | Flutter Unity 3D 小部件，用于将 Unity 游戏场景嵌入 flutter 中。                                                                        | 2024-01-08 | 863   |
-| [flame](https://pub.dev/packages/flame)                                                       | Flutter 游戏引擎。                                                                                                                     | 2025-04-23 | 2.15k |
-| [flutter_scene](https://pub.dev/packages/flutter_scene)                                       | 通用实时 3D 渲染库。它最初是 Flutter Engine 中 Impeller 渲染后端的 C++ 组件，目前正在积极开发为由 Flutter GPU API 提供支持的纯 Dart 包 | 2025-04-13 | 149   |
 | [dart_console](https://pub.dev/packages/dart_console)                                         | 用于命令行应用程序的辅助库，需要比标准库提供的更多输入/输出控制                                                                        | 2024-11-03 | 139   |
 | [chalkdart](https://pub.dev/packages/chalkdart)                                               | Dart 的控制台文本着色和样式库                                                                                                          | 2025-04-16 | 50    |
 | [flutter_gen](https://pub.dev/packages/flutter_gen)                                           | 用于您的资产、字体、颜色等的 Flutter 代码生成器                                                                                        | 2025-03-02 | 1.6k  |
-| [pixel_preview](https://pub.dev/packages/pixel_preview)                                       | 用于单独可视化和测试 UI 组件和屏幕                                                                                                     | 2025-03-23 | 8     |
-| [flutter_embed_unity](https://pub.dev/packages/flutter_embed_unity)                           | 将 Unity 作为 Widget 嵌入到 Flutter 应用中，充分发挥 Unity 3D 的强大功能                                                               | 2025-02-26 | 27    |
-| [logarte](https://pub.dev/packages/logarte)                                                   | Flutter 应用的强大应用内调试控制台，具有网络检查器、存储监视器和密码保护功能                                                           | 暂无       | 暂无  |
-| [widgetbook](https://pub.dev/packages/widgetbook)                                             | 用于独立构建微件和屏幕的沙盒                                                                                                           | 暂无       | 暂无  |
-| [device_safety_info](https://pub.dev/packages/device_safety_info)                             | 设备安全信息 Flutter 插件用于检查越狱、Root 设备、模拟器/模拟器、外部存储                                                              | 暂无       | 暂无  |
 
 > ### <a id="设备">设备</a>
 
@@ -221,6 +209,7 @@
 | [device_identifier_plugin](https://pub.dev/packages/device_identifier_plugin)           | 用于获取 Android 和 iOS 设备标识符的 Flutter 插件，包括 Android ID、广告 ID、UUID、设备指纹等                                   | 暂无       | 暂无  |
 | [gscankit](https://pub.dev/packages/gscankit)                                           | 使用轻量级 Flutter 包通过相机或图库扫描二维码和条形码                                                                           | 暂无       | 暂无  |
 | [bluetooth_print_plus](https://pub.dev/packages/bluetooth_print_plus)                   | 一款蓝牙热敏打印机的 Flutter 插件                                                                                               | 暂无       | 暂无  |
+| [device_safety_info](https://pub.dev/packages/device_safety_info)                             | 设备安全信息 Flutter 插件用于检查越狱、Root 设备、模拟器/模拟器、外部存储                                                              | 暂无       | 暂无  |
 
 > ### <a id="项目">项目</a>
 
@@ -264,7 +253,10 @@
 | [media_query_preview](https://pub.dev/packages/media_query_preview)               | 支持跨各种设备和条件进行 UI 预览，支持自定义设备、亮度和文本比例                                                                      | 2024-06-21 | 3     |
 | [flutter_background_service](https://pub.dev/packages/flutter_background_service) | 用于在后台执行 dart 代码的 flutter 插件。                                                                                             | 2024-12-21 | 1.48k |
 | [cron](https://pub.dev/packages/cron)                                             | 类似于 cron 的基于时间的作业调度程序。以固定时间或间隔定期运行任务。                                                                  | 2024-06-16 | 563   |
+| [pixel_preview](https://pub.dev/packages/pixel_preview)                                       | 用于单独可视化和测试 UI 组件和屏幕                                                                                                     | 2025-03-23 | 8     |
 | [device_preview_plus](https://pub.dev/packages/device_preview_plus)               | 了解你的 Flutter 应用在其他设备上的外观和性能                                                                                         | 暂无       | 暂无  |
+| [logarte](https://pub.dev/packages/logarte)                                                   | Flutter 应用的强大应用内调试控制台，具有网络检查器、存储监视器和密码保护功能                                                           | 暂无       | 暂无  |
+| [widgetbook](https://pub.dev/packages/widgetbook)                                             | 用于独立构建微件和屏幕的沙盒                                                                                                           | 暂无       | 暂无  |
 
 > ### <a id="列表">列表</a>
 
@@ -296,7 +288,6 @@
 | 依赖                                                                                          | 描述                                                                                                                          | 更新时间   | likes |
 | --------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | ---------- | ----- |
 | [pull_down_button](https://pub.dev/packages/pull_down_button)                                 | 尝试将 iOS 14+ 中的弹出按钮和 下拉按钮引入 Flutter                                                                            | 2024-09-30 | 421   |
-| [thermion_dart](https://pub.dev/packages/thermion_dart)                                       | 适用于 Dart 和 Flutter 的跨平台 3D 工具包                                                                                     | 2024-07-11 | 9     |
 | [chat_bottom_container](https://pub.dev/packages/chat_bottom_container)                       | 用于管理聊天页面底部容器的 Flutter 包，可用于实现键盘与其他面板之间的平滑切换                                                 | 2025-03-23 | 47    |
 | [mesh_gradient](https://pub.dev/packages/mesh_gradient)                                       | 创建美丽的流体状网格渐变的小部件                                                                                              | 2024-09-23 | 219   |
 | [shadcn_ui](https://pub.dev/packages/shadcn_ui)                                               | shadcn-ui                                                                                                                     | 2025-04-03 | 568   |
@@ -308,7 +299,6 @@
 | [super_cupertino_navigation_bar](https://pub.dev/packages/super_cupertino_navigation_bar)     | 通过可折叠的应用栏、时尚的搜索栏动画和受 iOS 启发的多功能设计                                                                 | 2024-01-16 | 190   |
 | [super_context_menu](https://pub.dev/packages/super_context_menu)                             | 上下文菜单可以无缝过渡到移动设备上的拖放                                                                                      | 2024-10-13 | 219   |
 | [tencent_cloud_chat_uikit](https://pub.dev/packages/tencent_cloud_chat_uikit)                 | 腾讯云聊天强大的聊天 UI 组件库和业务逻辑，创建无缝的应用内聊天模块，带来愉悦的用户体验                                        | 2025-04-25 | 54    |
-| [o3d](https://pub.dev/packages/o3d)                                                           | 移动和网络平台上的 Flutter 3D 对象简易控制器（glb 格式）                                                                      | 2024-12-17 | 186   |
 | [tdesign_flutter](https://pub.dev/packages/tdesign_flutter)                                   | 腾讯 TDesign UI 组件库，适合在移动项目中使用                                                                                  | 2025-03-31 | 73    |
 | [skeletonizer](https://pub.dev/packages/skeletonizer)                                         | 无需额外的努力即可将已构建的小部件转换为骨架加载器                                                                            | 2025-01-09 | 1.76k |
 | [info_popup](https://pub.dev/packages/info_popup)                                             | 用户显示有关所选小部件                                                                                                        | 2024-11-24 | 147   |
@@ -394,7 +384,6 @@
 | ----------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | ---------- | ----- |
 | [tencent_conference_uikit](https://pub.dev/packages/tencent_conference_uikit) | 腾讯云推出的音视频室 UIKit                                                                                   | 2025-01-16 | 5     |
 | [flutter_soloud](https://pub.dev/packages/flutter_soloud)                     | 使用 SoLoud 库和 FFI 的 Flutter 音频插件                                                                     | 2025-04-23 | 305   |
-| [flame_audio](https://pub.dev/packages/flame_audio)                           | 火焰游戏引擎的音频支持                                                                                       | 2025-04-23 | 96    |
 | [media_kit](https://pub.dev/packages/media_kit)                               | 适用于 Flutter 和 Dart 的跨平台视频播放器和音频播放器                                                        | 2025-03-24 | 725   |
 | [appinio_video_player](https://pub.dev/packages/appinio_video_player)         | 自定义视频播放器                                                                                             | 2024-01-24 | 288   |
 | [audio_video_progress_bar](https://pub.dev/packages/audio_video_progress_bar) | 音频视频进度条                                                                                               | 2024-05-22 | 430   |
@@ -644,6 +633,23 @@
 | [process_run](https://pub.dev/packages/process_run)                   | 适用于 Linux/Win/Mac 的进程运行助手以及查找可执行文件的功能。                                                                                       | 2025-03-04 | 328   |
 | [rename](https://pub.dev/packages/rename)                             | 帮助您为 Ios、Android、MacOS 和 Linux 平台更改或重命名您的 Flutter 项目 BundleId 和 AppName                                                         | 2024-03-07 | 1.22k |
 | [desktop_multi_window](https://pub.dev/packages/desktop_multi_window) | 在桌面上创建和管理多窗口的 F​​lutter 插件                                                                                                           | 2024-12-30 | 242   |
+
+> ### <a id="3D">3D / 游戏</a>
+
+| 依赖                                                                  | 描述                                                                             | 更新时间   | likes |
+| --------------------------------------------------------------------- | -------------------------------------------------------------------------------- | ---------- | ----- |
+| [flutter_unity_widget](https://pub.dev/packages/flutter_unity_widget)                         | Flutter Unity 3D 小部件，用于将 Unity 游戏场景嵌入 flutter 中。                                                                        | 2024-01-08 | 863   |
+| [flutter_scene](https://pub.dev/packages/flutter_scene)                                       | 通用实时 3D 渲染库。它最初是 Flutter Engine 中 Impeller 渲染后端的 C++ 组件，目前正在积极开发为由 Flutter GPU API 提供支持的纯 Dart 包 | 2025-04-13 | 149   |
+| [flutter_embed_unity](https://pub.dev/packages/flutter_embed_unity)                           | 将 Unity 作为 Widget 嵌入到 Flutter 应用中，充分发挥 Unity 3D 的强大功能                                                               | 2025-02-26 | 27    |
+| [forge2d](https://pub.dev/packages/forge2d)                                                   | Dart 的 2D 物理引擎，也适用于 Flutter 中的 Flame 游戏引擎。                                                                            | 2024-12-14 | 121   |
+| [flutter_3d_controller](https://pub.dev/packages/flutter_3d_controller)                       | 渲染不同格式（glb、gltf、fbx、obj）的交互式 3D 模型，能够控制动画、纹理和相机                                                          | 2025-04-07 | 300   |
+| [flame_forge2d](https://pub.dev/packages/flame_forge2d)                                       | Forge2D (Box2D) 支持 Flame 游戏引擎                                                                                                    | 2025-04-23 | 71    |
+| [bonfire](https://pub.dev/packages/bonfire)                                                   | 使用 Flame 更简单地创建 RPG 风格或类似的游戏。                                                                                         | 2025-04-10 | 484   |
+| [flame](https://pub.dev/packages/flame)                                                       | Flutter 游戏引擎。                                                                                                                     | 2025-04-23 | 2.15k |
+| [thermion_dart](https://pub.dev/packages/thermion_dart)                                       | 适用于 Dart 和 Flutter 的跨平台 3D 工具包                                                                                     | 2024-07-11 | 9     |
+| [arkit_plugin](https://pub.dev/packages/arkit_plugin)                                         | ARKit-Apple 的 iOS 移动设备增强现实（AR）开发平台。                                                                                    | 2025-01-25 | 476   |
+| [flame_audio](https://pub.dev/packages/flame_audio)                           | 火焰游戏引擎的音频支持                                                                                       | 2025-04-23 | 96    |
+| [o3d](https://pub.dev/packages/o3d)                                                           | 移动和网络平台上的 Flutter 3D 对象简易控制器（glb 格式）                                                                      | 2024-12-17 | 186   |
 
 > ### <a id="通讯">通讯 / API</a>
 
