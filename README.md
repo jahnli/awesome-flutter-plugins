@@ -2,20 +2,39 @@
 
 🔥🔥🔥 收集好用的 Flutter 插件以便更高效的开发
 
-## 收录 596 个
+## 收录
 
-### 04-26
+### 08-15
 
-- [pixel_preview](https://pub.dev/packages/pixel_preview) - 用于单独可视化和测试 UI 组件和屏幕
-- [flutter_embed_unity](https://pub.dev/packages/flutter_embed_unity) - 将 Unity 作为 Widget 嵌入到 Flutter 应用中，充分发挥 Unity 3D 的强大功能
-- [safesecurelibs](https://pub.dev/packages/safesecurelibs) - 用于检查设备安全状态的 Flutter 包，包括 root 检测、开发者模式和危险应用
-- [security_plus](https://pub.dev/packages/security_plus) - 可以检测多个安全警报，如 root、越狱、模拟器、开发模式和外部存储运行
-- [flutter_thermal_printer](https://pub.dev/packages/flutter_thermal_printer) - Flutter 插件可通过 ESC/POS 命令在热敏打印机上打印
-- [app_badge_plus](https://pub.dev/packages/app_badge_plus) - 用于为你的应用图标添加徽章的 Flutter 插件。支持 iOS、Android 和 macOS
-- [cupertino_calendar_picker](https://pub.dev/packages/cupertino_calendar_picker) - 时尚美观的 Cupertino 日历小部件
-- [infinite_calendar_view](https://pub.dev/packages/infinite_calendar_view) - 轻松创建日历的不同视图。月、周、三天、单日、列表
-- [textuality](https://pub.dev/packages/textuality) - 它通过渐变、描边、霓虹灯、阴影效果等高级样式选项增强了 Text 小部件
-- [fly_motion](https://pub.dev/packages/fly_motion) - 用于以平滑的曲线运动将小部件从一个位置移动到另一个位置
+- [logarte](https://pub.dev/packages/logarte) - Flutter 应用的强大应用内调试控制台，具有网络检查器、存储监视器和密码保护功能
+- [sliver_catalog](https://pub.dev/packages/sliver_catalog) - 一系列实验性和创造性 Sliver
+- [floating_view](https://pub.dev/packages/floating_view) - 创建类似于 YouTube 浮动视频功能的浮动窗口
+- [widgetbook](https://pub.dev/packages/widgetbook) - 用于独立构建微件和屏幕的沙盒
+- [dynamic_island_watermark](https://pub.dev/packages/dynamic_island_watermark) - 在支持的 iPhone 型号上显示动态岛后面的水印
+- [cristalyse](https://pub.dev/packages/cristalyse) - Dart/Flutter 的高性能数据可视化库
+- [platform_device_id_plus](https://pub.dev/packages/platform_device_id_plus) - platform_device_id 的升级版本
+- [device_identifier_plugin](https://pub.dev/packages/device_identifier_plugin) - 用于获取 Android 和 iOS 设备标识符的 Flutter 插件，包括 Android ID、广告 ID、UUID、设备指纹等
+- [omjo_captcha](https://pub.dev/packages/omjo_captcha) - 可自定义的 Flutter 文本验证码小部件，带有随机的彩色字符和线条。无需后端
+- [device_safety_info](https://pub.dev/packages/device_safety_info) - 设备安全信息 Flutter 插件用于检查越狱、Root 设备、模拟器/模拟器、外部存储
+- [easy_admob_ads_flutter](https://pub.dev/packages/easy_admob_ads_flutter) - 简单而灵活的 Flutter 包，只需最少的设置即可集成 AdMob 广告格式
+- [progressive_blur](https://pub.dev/packages/progressive_blur) - Flutter 中的渐进式模糊实现
+- [ultralytics_yolo](https://pub.dev/packages/ultralytics_yolo) - Ultralytics YOLO 计算机视觉模型的 Flutter 插件
+- [flutter_liveness_detection_randomized_plugin](https://pub.dev/packages/flutter_liveness_detection_randomized_plugin) - 一个使用随机挑战响应方法进行活体检测的插件
+- [gscankit](https://pub.dev/packages/gscankit) - 使用轻量级 Flutter 包通过相机或图库扫描二维码和条形码
+- [pdf_combiner](https://pub.dev/packages/pdf_combiner) - 轻量级且高效的 Flutter 插件，旨在轻松地将多个 PDF 文档合并为一个文件
+- [bluetooth_print_plus](https://pub.dev/packages/bluetooth_print_plus) - 一款蓝牙热敏打印机的 Flutter 插件
+- [liquid_glass_renderer](https://pub.dev/packages/liquid_glass_renderer) - Flutter 中液体玻璃效果的原始渲染器
+- [telegram](https://pub.dev/packages/telegram) - 适用于 Flutter 的综合 Telegram 实用程序
+- [awesome_video_player](https://pub.dev/packages/awesome_video_player) - 功能丰富的 Flutter 高级视频播放器
+- [easy_video_editor](https://pub.dev/packages/easy_video_editor) - 轻量级 Flutter 视频编辑插件，无需依赖 FFmpeg
+- [pro_video_editor](https://pub.dev/packages/pro_video_editor) - Flutter 视频编辑器：通过用户友好的编辑功能无缝增强您的视频
+- [device_preview_plus](https://pub.dev/packages/device_preview_plus) - 了解你的 Flutter 应用在其他设备上的外观和性能
+- [sketch_flow](https://pub.dev/packages/sketch_flow) - 了解你的 Flutter 应用在其他设备上的外观和性能
+- [graphify](https://pub.dev/packages/graphify) - 基于 Apache Echarts 的数据可视化图表库，能够构建高级图表，如 WebGL 3D、条形图、折线图、烛台图、雷达图、图形、树形图等
+- [particles_network](https://pub.dev/packages/particles_network) - 高性能、可定制的 Flutter 交互式粒子网络小部件
+- [motor](https://pub.dev/packages/motor) - Flutter 的统一运动系统 - 一个 API 下的基于物理的弹簧和基于持续时间的曲线
+- [time_plus](https://pub.dev/packages/time_plus) - 可在 Dart 中轻松添加、转换和处理时间
+- [flutter_md](https://pub.dev/packages/flutter_md) - 使用 Dart 编写的 Markdown 库。它可以解析和显示 Markdown。
 
 ## 目录
 
@@ -79,6 +98,9 @@
 | [flutter_gen](https://pub.dev/packages/flutter_gen)                                           | 用于您的资产、字体、颜色等的 Flutter 代码生成器                                                                                        | 2025-03-02 | 1.6k  |
 | [pixel_preview](https://pub.dev/packages/pixel_preview)                                       | 用于单独可视化和测试 UI 组件和屏幕                                                                                                     | 2025-03-23 | 8     |
 | [flutter_embed_unity](https://pub.dev/packages/flutter_embed_unity)                           | 将 Unity 作为 Widget 嵌入到 Flutter 应用中，充分发挥 Unity 3D 的强大功能                                                               | 2025-02-26 | 27    |
+| [logarte](https://pub.dev/packages/logarte)                                                   | Flutter 应用的强大应用内调试控制台，具有网络检查器、存储监视器和密码保护功能                                                           | 暂无       | 暂无  |
+| [widgetbook](https://pub.dev/packages/widgetbook)                                             | 用于独立构建微件和屏幕的沙盒                                                                                                           | 暂无       | 暂无  |
+| [device_safety_info](https://pub.dev/packages/device_safety_info)                             | 设备安全信息 Flutter 插件用于检查越狱、Root 设备、模拟器/模拟器、外部存储                                                              | 暂无       | 暂无  |
 
 > ### <a id="设备">设备</a>
 
@@ -194,6 +216,11 @@
 | [safesecurelibs](https://pub.dev/packages/safesecurelibs)                               | 用于检查设备安全状态的 Flutter 包，包括 root 检测、开发者模式和危险应用                                                         | 2025-01-17 | 4     |
 | [security_plus](https://pub.dev/packages/security_plus)                                 | 可以检测多个安全警报，如 root、越狱、模拟器、开发模式和外部存储运行                                                             | 2024-12-04 | 15    |
 | [app_badge_plus](https://pub.dev/packages/app_badge_plus)                               | 用于为你的应用图标添加徽章的 Flutter 插件。支持 iOS、Android 和 macOS                                                           | 2025-03-24 | 76    |
+| [dynamic_island_watermark](https://pub.dev/packages/dynamic_island_watermark)           | 在支持的 iPhone 型号上显示动态岛后面的水印                                                                                      | 暂无       | 暂无  |
+| [platform_device_id_plus](https://pub.dev/packages/platform_device_id_plus)             | platform_device_id 的升级版本                                                                                                   | 暂无       | 暂无  |
+| [device_identifier_plugin](https://pub.dev/packages/device_identifier_plugin)           | 用于获取 Android 和 iOS 设备标识符的 Flutter 插件，包括 Android ID、广告 ID、UUID、设备指纹等                                   | 暂无       | 暂无  |
+| [gscankit](https://pub.dev/packages/gscankit)                                           | 使用轻量级 Flutter 包通过相机或图库扫描二维码和条形码                                                                           | 暂无       | 暂无  |
+| [bluetooth_print_plus](https://pub.dev/packages/bluetooth_print_plus)                   | 一款蓝牙热敏打印机的 Flutter 插件                                                                                               | 暂无       | 暂无  |
 
 > ### <a id="项目">项目</a>
 
@@ -237,6 +264,7 @@
 | [media_query_preview](https://pub.dev/packages/media_query_preview)               | 支持跨各种设备和条件进行 UI 预览，支持自定义设备、亮度和文本比例                                                                      | 2024-06-21 | 3     |
 | [flutter_background_service](https://pub.dev/packages/flutter_background_service) | 用于在后台执行 dart 代码的 flutter 插件。                                                                                             | 2024-12-21 | 1.48k |
 | [cron](https://pub.dev/packages/cron)                                             | 类似于 cron 的基于时间的作业调度程序。以固定时间或间隔定期运行任务。                                                                  | 2024-06-16 | 563   |
+| [device_preview_plus](https://pub.dev/packages/device_preview_plus)               | 了解你的 Flutter 应用在其他设备上的外观和性能                                                                                         | 暂无       | 暂无  |
 
 > ### <a id="列表">列表</a>
 
@@ -257,10 +285,11 @@
 | [pluto_grid](https://pub.dev/packages/pluto_grid)                                       | 数据表格展示。                                                                             | 2024-03-01 | 1.01k |
 | [infinite_scroll_pagination](https://pub.dev/packages/infinite_scroll_pagination)       | 当用户向下滚动屏幕时，懒惰地加载和显示项目页面。                                           | 2025-02-24 | 3.7k  |
 | [extended_nested_scroll_view](https://pub.dev/packages/extended_nested_scroll_view)     | 扩展的嵌套滚动视图。                                                                       | 2023-12-27 | 298   |
-| [sticky_infinite_list](https://pub.dev/packages/sticky_infinite_list)                        | 具有粘性标头的无限列表。                                                                   | 2024-09-29 | 259   |
+| [sticky_infinite_list](https://pub.dev/packages/sticky_infinite_list)                   | 具有粘性标头的无限列表。                                                                   | 2024-09-29 | 259   |
 | [flutter_swipe_action_cell](https://pub.dev/packages/flutter_swipe_action_cell)         | iOS 式单元格滑动操作效果。                                                                 | 2024-10-03 | 432   |
 | [flutter_slidable](https://pub.dev/packages/flutter_slidable)                           | 实现的可滑动列表项，具有可被取消的定向滑动动作。                                           | 2025-01-23 | 5.85k |
 | [super_sliver_list](https://pub.dev/packages/super_sliver_list)                         | SliverList 和 ListView 的直接替代品，可以处理具有可变范围的大型列表并跳转/动画到特定项目   | 2024-03-26 | 231   |
+| [sliver_catalog](https://pub.dev/packages/sliver_catalog)                               | 一系列实验性和创造性 Sliver                                                                | 暂无       | 暂无  |
 
 > ### <a id="UI">UI / 小部件</a>
 
@@ -355,6 +384,9 @@
 | [u_credit_card](https://pub.dev/packages/u_credit_card)                                       | 易于使用漂亮的卡片 UI Flutter 包                                                                                              | 2024-10-26 | 60    |
 | [wizard_stepper](https://pub.dev/packages/wizard_stepper)                                     | 简单、可自定义且易于使用的 Flutter 向导步进小部件                                                                             | 2025-02-18 | 45    |
 | [textuality](https://pub.dev/packages/textuality)                                             | 它通过渐变、描边、霓虹灯、阴影效果等高级样式选项增强了 Text 小部件                                                            | 2025-01-03 | 36    |
+| [omjo_captcha](https://pub.dev/packages/omjo_captcha)                                         | 可自定义的 Flutter 文本验证码小部件，带有随机的彩色字符和线条。无需后端                                                       | 暂无       | 暂无  |
+| [progressive_blur](https://pub.dev/packages/progressive_blur)                                 | Flutter 中的渐进式模糊实现                                                                                                    | 暂无       | 暂无  |
+| [liquid_glass_renderer](https://pub.dev/packages/liquid_glass_renderer)                       | Flutter 中液体玻璃效果的原始渲染器                                                                                            | 暂无       | 暂无  |
 
 > ### <a id="音视频">音视频</a>
 
@@ -390,6 +422,10 @@
 | [flutter_webrtc](https://pub.dev/packages/flutter_webrtc)                     | Flutter WebRTC 插件。                                                                                        | 2025-04-07 | 1.23k |
 | [audio_visualizer](https://pub.dev/packages/audio_visualizer)                 | 用于无缝可视化来自文件、资产、HTTP 流、麦克风输入和原始 PCM16 数据的音频                                     | 2024-12-01 | 64    |
 | [flutter_recorder](https://pub.dev/packages/flutter_recorder)                 | 使用 miniaudio 作为后端的录音机插件。检测静音并保存为 WAV 音频文件                                           | 2025-04-18 | 56    |
+| [floating_view](https://pub.dev/packages/floating_view)                       | 创建类似于 YouTube 浮动视频功能的浮动窗口                                                                    | 暂无       | 暂无  |
+| [awesome_video_player](https://pub.dev/packages/awesome_video_player)         | 功能丰富的 Flutter 高级视频播放器                                                                            | 暂无       | 暂无  |
+| [easy_video_editor](https://pub.dev/packages/easy_video_editor)               | 轻量级 Flutter 视频编辑插件，无需依赖 FFmpeg                                                                 | 暂无       | 暂无  |
+| [pro_video_editor](https://pub.dev/packages/pro_video_editor)                 | Flutter 视频编辑器：通过用户友好的编辑功能无缝增强您的视频                                                   | 暂无       | 暂无  |
 
 > ### <a id="图像">图像 / 图标 / 图形</a>
 
@@ -435,6 +471,7 @@
 | [photo_view](https://pub.dev/packages/photo_view)                         | 图像能够通过用户手势（例如捏，旋转和拖动）进行缩放和平移，还可以显示任何窗口小部件而不是图像，例如容器，文本或 SVG。 2024-04-17 | 2024-04-17 | 3.09k |
 | [hugeicons](https://pub.dev/packages/hugeicons)                           | 4,000 多个免费 Flutter 图标。由 Hugeicons Pro Icon Library 创建                                                                 | 2025-03-15 | 305   |
 | [avatar_plus](https://pub.dev/packages/avatar_plus)                       | 用于生成和显示具有随机字符串内容的可自定义头像                                                                                  | 2024-09-12 | 38    |
+| [sketch_flow](https://pub.dev/packages/sketch_flow)                       | 了解你的 Flutter 应用在其他设备上的外观和性能                                                                                   | 暂无       | 暂无  |
 
 > ### <a id="文件">文件 / 文档</a>
 
@@ -470,6 +507,8 @@
 | [quill_html_editor](https://pub.dev/packages/quill_html_editor)                       | 适用于 Android、iOS 和 Web 的 HTML 富文本编辑器，它使用强大的 Quill Js 库构建                  | 2024-01-13 | 265   |
 | [flutter_doc_scanner](https://pub.dev/packages/flutter_doc_scanner)                   | 使用 ML Kit 文档扫描仪 API 和 VisionKit 在 Android 和 iOS 上进行文档扫描的 Flutter 插件        | 2025-02-27 | 102   |
 | [flutter_thermal_printer](https://pub.dev/packages/flutter_thermal_printer)           | Flutter 插件可通过 ESC/POS 命令在热敏打印机上打印                                              | 2025-04-10 | 65    |
+| [pdf_combiner](https://pub.dev/packages/pdf_combiner)                                 | 轻量级且高效的 Flutter 插件，旨在轻松地将多个 PDF 文档合并为一个文件                           | 暂无       | 暂无  |
+| [flutter_md](https://pub.dev/packages/flutter_md)                                     | 使用 Dart 编写的 Markdown 库。它可以解析和显示 Markdown。                                      | 暂无       | 暂无  |
 
 > ### <a id="时间">时间</a>
 
@@ -489,6 +528,7 @@
 | [timelines_plus](https://pub.dev/packages/timelines_plus)                               | 功能强大且易于使用的 Flutter 时间线包                                                            | 2025-01-16 | 149   |
 | [cupertino_calendar_picker](https://pub.dev/packages/cupertino_calendar_picker)         | 时尚美观的 Cupertino 日历小部件                                                                  | 2025-04-03 | 95    |
 | [infinite_calendar_view](https://pub.dev/packages/infinite_calendar_view)               | 轻松创建日历的不同视图。月、周、三天、单日、列表                                                 | 2025-02-28 | 65    |
+| [time_plus](https://pub.dev/packages/time_plus)                                         | 可在 Dart 中轻松添加、转换和处理时间                                                             | 暂无       | 暂无  |
 
 > ### <a id="动画">动画</a>
 
@@ -517,22 +557,26 @@
 | [heroine](https://pub.dev/packages/heroine)                           | 流畅的弹簧式 Hero 过渡，可自定义弹跳和持续时间                                     | 2025-03-19 | 168   |
 | [flutter_physics](https://pub.dev/packages/flutter_physics)           | 提供基于物理的动画，包括可定制的弹簧和重力模拟，可用作物理模拟和动画曲线           | 2025-02-12 | 43    |
 | [fly_motion](https://pub.dev/packages/fly_motion)                     | 用于以平滑的曲线运动将小部件从一个位置移动到另一个位置                             | 2025-03-22 | 17    |
+| [particles_network](https://pub.dev/packages/particles_network)       | 高性能、可定制的 Flutter 交互式粒子网络小部件                                      | 暂无       | 暂无  |
+| [motor](https://pub.dev/packages/motor)                               | Flutter 的统一运动系统 - 一个 API 下的基于物理的弹簧和基于持续时间的曲线           | 暂无       | 暂无  |
 
 > ### <a id="图表">图表</a>
 
-| 依赖                                                                              | 描述                                                                                             | 更新时间   | likes |
-| --------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ---------- | ----- |
-| [community_charts_flutter](https://pub.dev/packages/community_charts_flutter)     | 用于 Flutter 的 Material Design 图表库。从 google/charts 分叉而来                                | 2024-05-15 | 187   |
-| [calendar_view](https://pub.dev/packages/calendar_view)                           | 允许您轻松实现所有日历 UI 和日历事件功能。                                                       | 2025-01-07 | 897   |
-| [graphic](https://pub.dev/packages/graphic)                                       | 声明式、可交互的可视化图表库                                                                     | 2025-01-23 | 796   |
-| [syncfusion_flutter_treemap](https://pub.dev/packages/syncfusion_flutter_treemap) | 用于创建交互式树图，以基于平方、切片和切块算法可视化平面和分层数据。                             | 2025-04-22 | 103   |
-| [syncfusion_flutter_gauges](https://pub.dev/packages/syncfusion_flutter_gauges)   | Flutter 仪表库包括线性仪表和径向仪表（又名圆形仪表），用于创建现代、交互式、动画仪表和径向滑块。 | 2025-04-22 | 1.09k |
-| [syncfusion_flutter_charts](https://pub.dev/packages/syncfusion_flutter_charts)   | Dart 原生编写的数据可视化库，用于创建美观、动画和高性能的图表                                    | 2025-04-22 | 3.47k |
-| [time_chart](https://pub.dev/packages/time_chart)                                 | 可滚动的时间图表。                                                                               | 2023-11-27 | 76    |
-| [fl_chart](https://pub.dev/packages/fl_chart)                                     | Flutter 图表库，当前支持折线图，条形图和饼图。                                                   | 2025-04-15 | 6.64k |
-| [percent_indicator](https://pub.dev/packages/percent_indicator)                   | 根据百分比显示进度小部件，可以是圆形或线性的，也可以根据需要进行自定义。                         | 2025-04-08 | 2.69k |
-| [flutter_graph_view](https://pub.dev/packages/flutter_graph_view)                 | 用于精美的图形数据结构的小部件，例如力导向图。                                                   | 2025-04-07 | 69    |
-| [nimble_charts](https://pub.dev/packages/nimble_charts)                           | charts_flutter 的持续维护，为 Flutter 开发人员提供强大而灵活的图表包                             | 2024-12-13 | 44    |
+| 依赖                                                                              | 描述                                                                                                                  | 更新时间   | likes |
+| --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- | ---------- | ----- |
+| [community_charts_flutter](https://pub.dev/packages/community_charts_flutter)     | 用于 Flutter 的 Material Design 图表库。从 google/charts 分叉而来                                                     | 2024-05-15 | 187   |
+| [calendar_view](https://pub.dev/packages/calendar_view)                           | 允许您轻松实现所有日历 UI 和日历事件功能。                                                                            | 2025-01-07 | 897   |
+| [graphic](https://pub.dev/packages/graphic)                                       | 声明式、可交互的可视化图表库                                                                                          | 2025-01-23 | 796   |
+| [syncfusion_flutter_treemap](https://pub.dev/packages/syncfusion_flutter_treemap) | 用于创建交互式树图，以基于平方、切片和切块算法可视化平面和分层数据。                                                  | 2025-04-22 | 103   |
+| [syncfusion_flutter_gauges](https://pub.dev/packages/syncfusion_flutter_gauges)   | Flutter 仪表库包括线性仪表和径向仪表（又名圆形仪表），用于创建现代、交互式、动画仪表和径向滑块。                      | 2025-04-22 | 1.09k |
+| [syncfusion_flutter_charts](https://pub.dev/packages/syncfusion_flutter_charts)   | Dart 原生编写的数据可视化库，用于创建美观、动画和高性能的图表                                                         | 2025-04-22 | 3.47k |
+| [time_chart](https://pub.dev/packages/time_chart)                                 | 可滚动的时间图表。                                                                                                    | 2023-11-27 | 76    |
+| [fl_chart](https://pub.dev/packages/fl_chart)                                     | Flutter 图表库，当前支持折线图，条形图和饼图。                                                                        | 2025-04-15 | 6.64k |
+| [percent_indicator](https://pub.dev/packages/percent_indicator)                   | 根据百分比显示进度小部件，可以是圆形或线性的，也可以根据需要进行自定义。                                              | 2025-04-08 | 2.69k |
+| [flutter_graph_view](https://pub.dev/packages/flutter_graph_view)                 | 用于精美的图形数据结构的小部件，例如力导向图。                                                                        | 2025-04-07 | 69    |
+| [nimble_charts](https://pub.dev/packages/nimble_charts)                           | charts_flutter 的持续维护，为 Flutter 开发人员提供强大而灵活的图表包                                                  | 2024-12-13 | 44    |
+| [cristalyse](https://pub.dev/packages/cristalyse)                                 | Dart/Flutter 的高性能数据可视化库                                                                                     | 暂无       | 暂无  |
+| [graphify](https://pub.dev/packages/graphify)                                     | 基于 Apache Echarts 的数据可视化图表库，能够构建高级图表，如 WebGL 3D、条形图、折线图、烛台图、雷达图、图形、树形图等 | 暂无       | 暂无  |
 
 > ### <a id="侧边栏">侧边栏 / 侧边菜单</a>
 
@@ -657,42 +701,45 @@
 | [ollama_dart](https://pub.dev/packages/ollama_dart)                               | Ollama API 的 Dart 客户端（在本地运行 Llama 3.2、Gemma 2、Phi-3.5、Mistral nemo、Qwen2                                       | 2024-12-16 | 67    |
 | [opencv_dart](https://pub.dev/packages/opencv_dart)                               | OpenCV4 绑定，使用 dart:ffi。此插件包含 `videoio` 模块                                                                       | 2025-02-11 | 96    |
 | [shorebird_code_push](https://pub.dev/packages/shorebird_code_push)               | 用于与Shorebird Code Push Updater 热更新的 Dart 包                                                                           | 2025-02-07 | 388   |
+| [telegram](https://pub.dev/packages/telegram)                                     | 适用于 Flutter 的综合 Telegram 实用程序                                                                                      | 暂无       | 暂无  |
 
 > ### <a id="AI">AI</a>
 
-| 依赖                                                                                                  | 描述                                                                                                                         | 更新时间   | likes |
-| ----------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | ---------- | ----- |
-| [google_generative_ai](https://pub.dev/packages/google_generative_ai)                                 | Google AI Dart SDK 使开发人员能够使用 Google 最先进的生成式 AI 模型（如 Gemini）                                             | 2025-04-17 | 869   |
-| [google_vision](https://pub.dev/packages/google_vision)                                               | 允许您将 Google Visions 图像标签、人脸、徽标和地标检测、OCR 以及显式内容检测添加到应用程序中                                 | 2025-04-01 | 39    |
-| [pytorch_lite](https://pub.dev/packages/pytorch_lite)                                                 | 帮助运行 pytorch lite 模型分类以及 yolov5 和 yolov8                                                                          | 2025-01-09 | 54    |
-| [flutter_azure_tts](https://pub.dev/packages/flutter_azure_tts)                                       | Microsoft Azure 认知文本转语音                                                                                               | 2024-11-23 | 34    |
-| [google_mlkit_translation](https://pub.dev/packages/google_mlkit_translation)                         | 可使用 Google 的 ML Kit 设备上翻译在 50 多种语言之间动态翻译文本                                                             | 2025-03-20 | 50    |
-| [google_mlkit_barcode_scanning](https://pub.dev/packages/google_mlkit_barcode_scanning)               | 使用 Google 的 ML Kit 条形码扫描来读取使用大多数标准条形码格式编码的数据                                                     | 2025-03-20 | 129   |
-| [google_mlkit_image_labeling](https://pub.dev/packages/google_mlkit_image_labeling)                   | 使用 Google 的 ML Kit 图像标签来检测和提取有关图像中跨广泛类别的实体的信息                                                   | 2025-03-20 | 54    |
-| [google_mlkit_pose_detection](https://pub.dev/packages/google_mlkit_pose_detection)                   | 使用 Google 的 ML Kit 姿势检测从连续视频或静态图像中实时检测主体身体的姿势                                                   | 2025-03-20 | 64    |
-| [tflite_flutter](https://pub.dev/packages/tflite_flutter)                                             | TensorFlow Lite Flutter 插件提供了轻松，灵活和快速的 Dart API，可将 TFLite 模型集成到 Flutter 应用中。                       | 2024-09-03 | 813   |
-| [google_mlkit_face_mesh_detection](https://pub.dev/packages/google_mlkit_face_mesh_detection)         | 使用 Google 的 ML Kit 面部网格检测的 Flutter 插件                                                                            | 2025-03-20 | 20    |
-| [google_mlkit_text_recognition](https://pub.dev/packages/google_mlkit_text_recognition)               | 使用 Google 的 ML Kit 文本识别来识别任何中文、梵文、日语、韩语和拉丁字符集的文本                                             | 2025-03-20 | 327   |
-| [google_mlkit_selfie_segmentation](https://pub.dev/packages/google_mlkit_selfie_segmentation)         | 使用 Google 的 ML Kit Selfie Segmentation API 轻松将场景中的背景与用户分开，并专注于重要的事情                               | 2025-03-20 | 30    |
-| [google_mlkit_language_id](https://pub.dev/packages/google_mlkit_language_id)                         | 使用 Google 的 ML Kit 语言识别来确定文本字符串的语言                                                                         | 2025-03-20 | 20    |
-| [google_mlkit_smart_reply](https://pub.dev/packages/google_mlkit_smart_reply)                         | 使用 Google 的 ML Kit 智能回复 API 自动生成消息的相关回复                                                                    | 2025-03-20 | 18    |
-| [google_mlkit_entity_extraction](https://pub.dev/packages/google_mlkit_entity_extraction)             | 使用 Google 的 ML Kit 实体提取器 API 来识别静态文本中的特定实体                                                              | 2025-03-20 | 14    |
-| [google_mlkit_digital_ink_recognition](https://pub.dev/packages/google_mlkit_digital_ink_recognition) | 使用 Google 的 ML Kit 数字墨水识别来识别数字表面上数百种语言的手写文本，并对草图进行分类                                     | 2025-03-20 | 26    |
-| [ml_algo](https://pub.dev/packages/ml_algo)                                                           | 机器学习算法、机器学习模型性能评估功能。                                                                                     | 2024-09-07 | 115   |
-| [google_mlkit_object_detection](https://pub.dev/packages/google_mlkit_object_detection)               | 使用 Google 的 ML Kit 对象检测和跟踪来检测和跟踪图像或实时摄像头源中的对象                                                   | 2025-03-20 | 77    |
-| [google_ml_kit](https://pub.dev/packages/google_ml_kit)                                               | 用于实现谷歌为移动平台制作的独立机器学习套件。                                                                               | 2025-03-20 | 1.12k |
-| [huawei_ml_body](https://pub.dev/packages/huawei_ml_body)                                             | Flutter 的 HUAWEI ML Kit Body 插件。提供人脸识别、活体和骨骼检测等功能。                                                     | 2024-07-31 | 19    |
-| [huawei_ml_text](https://pub.dev/packages/huawei_ml_text)                                             | Flutter 的 HUAWEI ML Kit 文本插件。提供文本、文档、身份证、银行卡、通用卡和表单识别等功能                                    | 2025-04-07 | 8     |
-| [scanbot_sdk](https://pub.dev/packages/scanbot_sdk)                                                   | 适用于 Android 和 iOS 的 Scanbot Scanner SDK 的 Flutter 插件。提供文档扫描、QR 和条形码扫描、PDF 创建、TIFF、OCR 等功能。    | 2025-01-17 | 81    |
-| [huawei_ml_image](https://pub.dev/packages/huawei_ml_image)                                           | 华为机器学习套件 Flutter 语言插件。提供图像分类、物体检测和图像超分辨率等功能                                                | 2024-12-05 | 7     |
-| [chat_gpt_sdk](https://pub.dev/packages/chat_gpt_sdk)                                                 | 使用 ChatGPT SDK 创建聊天机器人和其他机器人                                                                                  | 2025-04-11 | 337   |
-| [google_mlkit_face_detection](https://pub.dev/packages/google_mlkit_face_detection)                   | 使用 Google 的 ML Kit Face Detection 来检测图像中的人脸，识别关键的面部特征，并获取检测到的人脸的轮廓                        | 2025-03-20 | 261   |
-| [face_camera](https://pub.dev/packages/face_camera)                                                   | 实时检测人脸的 Flutter 相机插件，一旦检测到人脸，它可以自动捕捉                                                              | 2024-11-01 | 195   |
-| [dart_openai](https://pub.dev/packages/dart_openai)                                                   | 适用于 openAI Apis（GPT-3 和 DALL-E）的 Dart SDK，可以轻松地将 OpenAI 最先进的 AI 模型的强大功能集成到他们的 Dart 应用程序中 | 2024-02-21 | 537   |
-| [chat_gpt_api](https://pub.dev/packages/chat_gpt_api)                                                 | 用 dart 编写的 chatGPT SDK，用于访问 OpenAI API 的功能                                                                       | 2023-10-22 | 33    |
-| [livelyness_detection](https://pub.dev/packages/livelyness_detection)                                 | 用于检测相机中可见的脸部是否为真人脸部                                                                                       | 2024-09-05 | 37    |
-| [flutter_tesseract_ocr](https://pub.dev/packages/flutter_tesseract_ocr)                               | 基于神经网络 (LSTM) 的 OCR 引擎，该引擎专注于线识别。它支持 unicode (UTF-8)，可以识别 100 多种语言                           | 2024-11-10 | 199   |
-| [flutter_ai_toolkit](https://pub.dev/packages/flutter_ai_toolkit)                                     | 一组适用于您的 Flutter 应用的 AI 聊天相关小部件                                                                              | 2025-04-08 | 126   |
+| 依赖                                                                                                                  | 描述                                                                                                                         | 更新时间   | likes |
+| --------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | ---------- | ----- |
+| [google_generative_ai](https://pub.dev/packages/google_generative_ai)                                                 | Google AI Dart SDK 使开发人员能够使用 Google 最先进的生成式 AI 模型（如 Gemini）                                             | 2025-04-17 | 869   |
+| [google_vision](https://pub.dev/packages/google_vision)                                                               | 允许您将 Google Visions 图像标签、人脸、徽标和地标检测、OCR 以及显式内容检测添加到应用程序中                                 | 2025-04-01 | 39    |
+| [pytorch_lite](https://pub.dev/packages/pytorch_lite)                                                                 | 帮助运行 pytorch lite 模型分类以及 yolov5 和 yolov8                                                                          | 2025-01-09 | 54    |
+| [flutter_azure_tts](https://pub.dev/packages/flutter_azure_tts)                                                       | Microsoft Azure 认知文本转语音                                                                                               | 2024-11-23 | 34    |
+| [google_mlkit_translation](https://pub.dev/packages/google_mlkit_translation)                                         | 可使用 Google 的 ML Kit 设备上翻译在 50 多种语言之间动态翻译文本                                                             | 2025-03-20 | 50    |
+| [google_mlkit_barcode_scanning](https://pub.dev/packages/google_mlkit_barcode_scanning)                               | 使用 Google 的 ML Kit 条形码扫描来读取使用大多数标准条形码格式编码的数据                                                     | 2025-03-20 | 129   |
+| [google_mlkit_image_labeling](https://pub.dev/packages/google_mlkit_image_labeling)                                   | 使用 Google 的 ML Kit 图像标签来检测和提取有关图像中跨广泛类别的实体的信息                                                   | 2025-03-20 | 54    |
+| [google_mlkit_pose_detection](https://pub.dev/packages/google_mlkit_pose_detection)                                   | 使用 Google 的 ML Kit 姿势检测从连续视频或静态图像中实时检测主体身体的姿势                                                   | 2025-03-20 | 64    |
+| [tflite_flutter](https://pub.dev/packages/tflite_flutter)                                                             | TensorFlow Lite Flutter 插件提供了轻松，灵活和快速的 Dart API，可将 TFLite 模型集成到 Flutter 应用中。                       | 2024-09-03 | 813   |
+| [google_mlkit_face_mesh_detection](https://pub.dev/packages/google_mlkit_face_mesh_detection)                         | 使用 Google 的 ML Kit 面部网格检测的 Flutter 插件                                                                            | 2025-03-20 | 20    |
+| [google_mlkit_text_recognition](https://pub.dev/packages/google_mlkit_text_recognition)                               | 使用 Google 的 ML Kit 文本识别来识别任何中文、梵文、日语、韩语和拉丁字符集的文本                                             | 2025-03-20 | 327   |
+| [google_mlkit_selfie_segmentation](https://pub.dev/packages/google_mlkit_selfie_segmentation)                         | 使用 Google 的 ML Kit Selfie Segmentation API 轻松将场景中的背景与用户分开，并专注于重要的事情                               | 2025-03-20 | 30    |
+| [google_mlkit_language_id](https://pub.dev/packages/google_mlkit_language_id)                                         | 使用 Google 的 ML Kit 语言识别来确定文本字符串的语言                                                                         | 2025-03-20 | 20    |
+| [google_mlkit_smart_reply](https://pub.dev/packages/google_mlkit_smart_reply)                                         | 使用 Google 的 ML Kit 智能回复 API 自动生成消息的相关回复                                                                    | 2025-03-20 | 18    |
+| [google_mlkit_entity_extraction](https://pub.dev/packages/google_mlkit_entity_extraction)                             | 使用 Google 的 ML Kit 实体提取器 API 来识别静态文本中的特定实体                                                              | 2025-03-20 | 14    |
+| [google_mlkit_digital_ink_recognition](https://pub.dev/packages/google_mlkit_digital_ink_recognition)                 | 使用 Google 的 ML Kit 数字墨水识别来识别数字表面上数百种语言的手写文本，并对草图进行分类                                     | 2025-03-20 | 26    |
+| [ml_algo](https://pub.dev/packages/ml_algo)                                                                           | 机器学习算法、机器学习模型性能评估功能。                                                                                     | 2024-09-07 | 115   |
+| [google_mlkit_object_detection](https://pub.dev/packages/google_mlkit_object_detection)                               | 使用 Google 的 ML Kit 对象检测和跟踪来检测和跟踪图像或实时摄像头源中的对象                                                   | 2025-03-20 | 77    |
+| [google_ml_kit](https://pub.dev/packages/google_ml_kit)                                                               | 用于实现谷歌为移动平台制作的独立机器学习套件。                                                                               | 2025-03-20 | 1.12k |
+| [huawei_ml_body](https://pub.dev/packages/huawei_ml_body)                                                             | Flutter 的 HUAWEI ML Kit Body 插件。提供人脸识别、活体和骨骼检测等功能。                                                     | 2024-07-31 | 19    |
+| [huawei_ml_text](https://pub.dev/packages/huawei_ml_text)                                                             | Flutter 的 HUAWEI ML Kit 文本插件。提供文本、文档、身份证、银行卡、通用卡和表单识别等功能                                    | 2025-04-07 | 8     |
+| [scanbot_sdk](https://pub.dev/packages/scanbot_sdk)                                                                   | 适用于 Android 和 iOS 的 Scanbot Scanner SDK 的 Flutter 插件。提供文档扫描、QR 和条形码扫描、PDF 创建、TIFF、OCR 等功能。    | 2025-01-17 | 81    |
+| [huawei_ml_image](https://pub.dev/packages/huawei_ml_image)                                                           | 华为机器学习套件 Flutter 语言插件。提供图像分类、物体检测和图像超分辨率等功能                                                | 2024-12-05 | 7     |
+| [chat_gpt_sdk](https://pub.dev/packages/chat_gpt_sdk)                                                                 | 使用 ChatGPT SDK 创建聊天机器人和其他机器人                                                                                  | 2025-04-11 | 337   |
+| [google_mlkit_face_detection](https://pub.dev/packages/google_mlkit_face_detection)                                   | 使用 Google 的 ML Kit Face Detection 来检测图像中的人脸，识别关键的面部特征，并获取检测到的人脸的轮廓                        | 2025-03-20 | 261   |
+| [face_camera](https://pub.dev/packages/face_camera)                                                                   | 实时检测人脸的 Flutter 相机插件，一旦检测到人脸，它可以自动捕捉                                                              | 2024-11-01 | 195   |
+| [dart_openai](https://pub.dev/packages/dart_openai)                                                                   | 适用于 openAI Apis（GPT-3 和 DALL-E）的 Dart SDK，可以轻松地将 OpenAI 最先进的 AI 模型的强大功能集成到他们的 Dart 应用程序中 | 2024-02-21 | 537   |
+| [chat_gpt_api](https://pub.dev/packages/chat_gpt_api)                                                                 | 用 dart 编写的 chatGPT SDK，用于访问 OpenAI API 的功能                                                                       | 2023-10-22 | 33    |
+| [livelyness_detection](https://pub.dev/packages/livelyness_detection)                                                 | 用于检测相机中可见的脸部是否为真人脸部                                                                                       | 2024-09-05 | 37    |
+| [flutter_tesseract_ocr](https://pub.dev/packages/flutter_tesseract_ocr)                                               | 基于神经网络 (LSTM) 的 OCR 引擎，该引擎专注于线识别。它支持 unicode (UTF-8)，可以识别 100 多种语言                           | 2024-11-10 | 199   |
+| [flutter_ai_toolkit](https://pub.dev/packages/flutter_ai_toolkit)                                                     | 一组适用于您的 Flutter 应用的 AI 聊天相关小部件                                                                              | 2025-04-08 | 126   |
+| [ultralytics_yolo](https://pub.dev/packages/ultralytics_yolo)                                                         | Ultralytics YOLO 计算机视觉模型的 Flutter 插件                                                                               | 暂无       | 暂无  |
+| [flutter_liveness_detection_randomized_plugin](https://pub.dev/packages/flutter_liveness_detection_randomized_plugin) | 一个使用随机挑战响应方法进行活体检测的插件                                                                                   | 暂无       | 暂无  |
 
 > ### <a id="地图">地图</a>
 
@@ -717,15 +764,16 @@
 
 > ### <a id="广告">广告</a>
 
-| 依赖                                                                | 描述                                                                                                                             | 更新时间   | likes |
-| ------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- | ---------- | ----- |
-| [flutter_tencentad](https://pub.dev/packages/flutter_tencentad)     | 腾讯优量汇(点通)广告插件                                                                                                         | 2025-02-26 | 9     |
-| [flutter_unionad](https://pub.dev/packages/flutter_unionad)         | 字节跳动穿山甲广告插件                                                                                                           | 2025-04-09 | 35    |
-| [huawei_ads](https://pub.dev/packages/huawei_ads)                   | HUAWEI Ads Kit 插件利用华为庞大的用户群和海量数据能力，为用户提供有针对性的优质广告内容                                          | 2024-12-05 | 29    |
-| [google_mobile_ads](https://pub.dev/packages/google_mobile_ads)     | 希望通过 Flutter 应用获利的发布商，适用于 Google 移动广告的 Flutter 插件，支持横幅广告，非页内广告（全屏），奖励广告和原生广告。 | 2025-04-08 | 2.38k |
-| [flutter_pangle_ads](https://pub.dev/packages/flutter_pangle_ads)   | 一款优质的 Flutter 广告插件（字节跳动、穿山甲）                                                                                  | 2025-01-20 | 38    |
-| [flutter_qq_ads](https://pub.dev/packages/flutter_qq_ads)           | 一款优质的 Flutter 广告插件（腾讯广告、广点通、优量汇）                                                                          | 2025-01-21 | 22    |
-| [flutter_gromore_ads](https://pub.dev/packages/flutter_gromore_ads) | 一款优质的 Flutter 广告插件（GroMore、穿山甲）                                                                                   | 2025-01-20 | 12    |
+| 依赖                                                                      | 描述                                                                                                                             | 更新时间   | likes |
+| ------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- | ---------- | ----- |
+| [flutter_tencentad](https://pub.dev/packages/flutter_tencentad)           | 腾讯优量汇(点通)广告插件                                                                                                         | 2025-02-26 | 9     |
+| [flutter_unionad](https://pub.dev/packages/flutter_unionad)               | 字节跳动穿山甲广告插件                                                                                                           | 2025-04-09 | 35    |
+| [huawei_ads](https://pub.dev/packages/huawei_ads)                         | HUAWEI Ads Kit 插件利用华为庞大的用户群和海量数据能力，为用户提供有针对性的优质广告内容                                          | 2024-12-05 | 29    |
+| [google_mobile_ads](https://pub.dev/packages/google_mobile_ads)           | 希望通过 Flutter 应用获利的发布商，适用于 Google 移动广告的 Flutter 插件，支持横幅广告，非页内广告（全屏），奖励广告和原生广告。 | 2025-04-08 | 2.38k |
+| [flutter_pangle_ads](https://pub.dev/packages/flutter_pangle_ads)         | 一款优质的 Flutter 广告插件（字节跳动、穿山甲）                                                                                  | 2025-01-20 | 38    |
+| [flutter_qq_ads](https://pub.dev/packages/flutter_qq_ads)                 | 一款优质的 Flutter 广告插件（腾讯广告、广点通、优量汇）                                                                          | 2025-01-21 | 22    |
+| [flutter_gromore_ads](https://pub.dev/packages/flutter_gromore_ads)       | 一款优质的 Flutter 广告插件（GroMore、穿山甲）                                                                                   | 2025-01-20 | 12    |
+| [easy_admob_ads_flutter](https://pub.dev/packages/easy_admob_ads_flutter) | 简单而灵活的 Flutter 包，只需最少的设置即可集成 AdMob 广告格式                                                                   | 暂无       | 暂无  |
 
 > ### <a id="Web">Web</a>
 
