@@ -295,7 +295,6 @@
 | [shadcn_ui](https://pub.dev/packages/shadcn_ui)                                               | shadcn-ui                                                                                                                     | 2025-08-07 | 685   |
 | [scaled_app](https://pub.dev/packages/scaled_app)                                             | 按比例缩放整个 UI 设计，当您的 UI 设计是固定宽度                                                                              | 2024-05-16 | 77    |
 | [responsive_sizer](https://pub.dev/packages/responsive_sizer)                                 | 通过提供帮助小部件和扩展来帮助实现响应式布局                                                                                  | 2024-03-24 | 586   |
-| [flutter_adaptive_scaffold](https://pub.dev/packages/flutter_adaptive_scaffold)               | 用于轻松构建自适应布局（包括导航元素）的小部件                                                                                | 2025-05-06 | 949   |
 | [glossy](https://pub.dev/packages/glossy)                                                     | 用于创建时尚的玻璃形态 UI 效果                                                                                                | 2025-01-06 | 112   |
 | [custom_sliding_segmented_control](https://pub.dev/packages/custom_sliding_segmented_control) | 允许您灵活配置用于显示控件的小部件                                                                                            | 2025-01-09 | 206   |
 | [super_cupertino_navigation_bar](https://pub.dev/packages/super_cupertino_navigation_bar)     | 通过可折叠的应用栏、时尚的搜索栏动画和受 iOS 启发的多功能设计                                                                 | 2024-01-16 | 206   |
@@ -439,9 +438,7 @@
 | [ai_barcode](https://pub.dev/packages/ai_barcode)                         | 支持 Android、iOS、网络识别'一维条码'和'二维条码'的识别与生成。                                                                 | 2024-01-20 | 144   |
 | [websafe_svg](https://pub.dev/packages/websafe_svg)                       | 能够在 Android、iOS 和 Web 中使用 SVG 的简单抽象。                                                                              | 2025-01-21 | 113   |
 | [pretty_qr_code](https://pub.dev/packages/pretty_qr_code)                 | Flutter 的漂亮二维码，您可以使用参数圆角边缘或使用标准视图。                                                                    | 2025-07-31 | 492   |
-| [ios_platform_images](https://pub.dev/packages/ios_platform_images)       | 在 Flutter 和 iOS 之间共享图像的插件。                                                                                          | 2025-05-06 | 31    |
 | [image](https://pub.dev/packages/image)                                   | 使服务器和 Web 应用程序能够加载、操作和保存具有各种图像文件格式的图像。                                                         | 2025-03-23 | 1.69k |
-| [palette_generator](https://pub.dev/packages/palette_generator)           | 用于从源图像生成调色板颜色。                                                                                                    | 2025-05-06 | 673   |
 | [wechat_camera_picker](https://pub.dev/packages/wechat_camera_picker)     | wechat_assets_picker 的扩展，基于 camera 相机功能和 photo_manager。                                                             | 2025-08-15 | 274   |
 | [flutter_launcher_icons](https://pub.dev/packages/flutter_launcher_icons) | Flutter 启动器图标-一个软件包。                                                                                                 | 2025-06-10 | 7.73k |
 | [emoji_picker_flutter](https://pub.dev/packages/emoji_picker_flutter)     | 提供了一个表情符号选择器小部件，其中包含 8 种类别的 1500 多种表情符号。                                                         | 2025-01-22 | 620   |
@@ -484,7 +481,6 @@
 | [compdfkit_flutter](https://pub.dev/packages/compdfkit_flutter)                       | 可让您快速向 Android 和 iOS Flutter 应用程序添加 PDF 功能                                      | 2025-08-11 | 48    |
 | [flutter_to_pdf](https://pub.dev/packages/flutter_to_pdf)                             | 用于将任何 Flutter 小部件导出为 PDF 文档、PDF 页面或 PDF 文件的包                              | 2025-07-20 | 74    |
 | [markdown](https://pub.dev/packages/markdown)                                         | 便携式 Markdown 库。它可以将 Markdown 解析为客户端和服务器上的 HTML。                          | 2025-01-13 | 320   |
-| [flutter_markdown](https://pub.dev/packages/flutter_markdown)                         | Flutter 的 Markdown 渲染器。                                                                   | 2025-05-06 | 1.46k |
 | [syncfusion_officechart](https://pub.dev/packages/syncfusion_officechart)             | 用于从头开始创建 Office 图表。                                                                 | 2025-08-13 | 89    |
 | [syncfusion_flutter_xlsio](https://pub.dev/packages/syncfusion_flutter_xlsio)         | 创建带有公式、图表、图像、超链接、自动调整行和列等的 Excel 文档。                              | 2025-08-13 | 385   |
 | [syncfusion_flutter_datagrid](https://pub.dev/packages/syncfusion_flutter_datagrid)   | 用于在表格视图中显示和操作数据                                                                 | 2025-08-13 | 838   |
@@ -668,7 +664,6 @@
 | [tencent_kit](https://pub.dev/packages/tencent_kit)                               | 允许开发者使用 natvie Android 和 iOS 腾讯 SDK 进行授权/共享                                                                  | 2025-06-16 | 34    |
 | [televerse](https://pub.dev/packages/televerse)                                   | 在 Dart 中轻松创建自己的高效 Telegram 机器人                                                                                 | 2025-07-04 | 93    |
 | [tencent_calls_uikit](https://pub.dev/packages/tencent_calls_uikit)               | 用于视频通话的腾讯云 UIKit                                                                                                   | 2025-07-17 | 51    |
-| [telegram_client](https://pub.dev/packages/telegram_client)                       | 用于制作基于应用程序电报的颤振和 userbot / bot 支持服务器端和客户端                                                          | 2025-03-04 | 155   |
 | [huawei_iap](https://pub.dev/packages/huawei_iap)                                 | Flutter 的 HUAWEI IAP Kit 插件                                                                                               | 2025-04-07 | 33    |
 | [huawei_analytics](https://pub.dev/packages/huawei_analytics)                     | Flutter 的 HUAWEI Analytics Kit 插件                                                                                         | 2024-01-31 | 21    |
 | [huawei_account](https://pub.dev/packages/huawei_account)                         | Flutter 的 HUAWEI Account Kit 插件                                                                                           | 2025-04-07 | 22    |
