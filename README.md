@@ -2,41 +2,21 @@
 
 🔥🔥🔥 收集好用的 Flutter 插件以便更高效的开发
 
-## 收录 621 个
+## 收录
 
-### 08-15
+### 01-01
 
-- [logarte](https://pub.dev/packages/logarte) - Flutter 应用的强大应用内调试控制台，具有网络检查器、存储监视器和密码保护功能
-- [sliver_catalog](https://pub.dev/packages/sliver_catalog) - 一系列实验性和创造性 Sliver
-- [floating_view](https://pub.dev/packages/floating_view) - 创建类似于 YouTube 浮动视频功能的浮动窗口
-- [widgetbook](https://pub.dev/packages/widgetbook) - 用于独立构建微件和屏幕的沙盒
-- [dynamic_island_watermark](https://pub.dev/packages/dynamic_island_watermark) - 在支持的 iPhone 型号上显示动态岛后面的水印
-- [cristalyse](https://pub.dev/packages/cristalyse) - Dart/Flutter 的高性能数据可视化库
-- [platform_device_id_plus](https://pub.dev/packages/platform_device_id_plus) - platform_device_id 的升级版本
-- [device_identifier_plugin](https://pub.dev/packages/device_identifier_plugin) - 用于获取 Android 和 iOS 设备标识符的 Flutter 插件，包括 Android ID、广告 ID、UUID、设备指纹等
-- [omjo_captcha](https://pub.dev/packages/omjo_captcha) - 可自定义的 Flutter 文本验证码小部件，带有随机的彩色字符和线条。无需后端
-- [device_safety_info](https://pub.dev/packages/device_safety_info) - 设备安全信息 Flutter 插件用于检查越狱、Root 设备、模拟器/模拟器、外部存储
-- [easy_admob_ads_flutter](https://pub.dev/packages/easy_admob_ads_flutter) - 简单而灵活的 Flutter 包，只需最少的设置即可集成 AdMob 广告格式
-- [progressive_blur](https://pub.dev/packages/progressive_blur) - Flutter 中的渐进式模糊实现
-- [ultralytics_yolo](https://pub.dev/packages/ultralytics_yolo) - Ultralytics YOLO 计算机视觉模型的 Flutter 插件
-- [flutter_liveness_detection_randomized_plugin](https://pub.dev/packages/flutter_liveness_detection_randomized_plugin) - 一个使用随机挑战响应方法进行活体检测的插件
-- [gscankit](https://pub.dev/packages/gscankit) - 使用轻量级 Flutter 包通过相机或图库扫描二维码和条形码
-- [pdf_combiner](https://pub.dev/packages/pdf_combiner) - 轻量级且高效的 Flutter 插件，旨在轻松地将多个 PDF 文档合并为一个文件
-- [bluetooth_print_plus](https://pub.dev/packages/bluetooth_print_plus) - 一款蓝牙热敏打印机的 Flutter 插件
-- [liquid_glass_renderer](https://pub.dev/packages/liquid_glass_renderer) - Flutter 中液体玻璃效果的原始渲染器
-- [telegram](https://pub.dev/packages/telegram) - 适用于 Flutter 的综合 Telegram 实用程序
-- [awesome_video_player](https://pub.dev/packages/awesome_video_player) - 功能丰富的 Flutter 高级视频播放器
-- [easy_video_editor](https://pub.dev/packages/easy_video_editor) - 轻量级 Flutter 视频编辑插件，无需依赖 FFmpeg
-- [pro_video_editor](https://pub.dev/packages/pro_video_editor) - Flutter 视频编辑器：通过用户友好的编辑功能无缝增强您的视频
-- [device_preview_plus](https://pub.dev/packages/device_preview_plus) - 了解你的 Flutter 应用在其他设备上的外观和性能
-- [sketch_flow](https://pub.dev/packages/sketch_flow) - 了解你的 Flutter 应用在其他设备上的外观和性能
-- [graphify](https://pub.dev/packages/graphify) - 基于 Apache Echarts 的数据可视化图表库，能够构建高级图表，如 WebGL 3D、条形图、折线图、烛台图、雷达图、图形、树形图等
-- [particles_network](https://pub.dev/packages/particles_network) - 高性能、可定制的 Flutter 交互式粒子网络小部件
-- [motor](https://pub.dev/packages/motor) - Flutter 的统一运动系统 - 一个 API 下的基于物理的弹簧和基于持续时间的曲线
-- [time_plus](https://pub.dev/packages/time_plus) - 可在 Dart 中轻松添加、转换和处理时间
-- [flutter_md](https://pub.dev/packages/flutter_md) - 使用 Dart 编写的 Markdown 库。它可以解析和显示 Markdown。
-- [three_js](https://pub.dev/packages/three_js) - threejs 和 three_dart 转换而来，允许用户查看、编辑和控制 3D 模型
-- [flame_3d](https://pub.dev/packages/flame_3d) - 对 Flame Engine 的实验性 3D 支持
+- [flutter_dynamic_launcher_icon](https://pub.dev/packages/flutter_dynamic_launcher_icon) - 动态更改 Android 和 iOS 上的应用程序启动器图标
+- [force_update_helper](https://pub.dev/packages/force_update_helper) - 用于显示可远程控制的强制更新提示的软件包
+- [mcp_dart](https://pub.dev/packages/mcp_dart) - Dart 实现的模型上下文协议 (MCP) SDK。
+- [flutter_earth_globe](https://pub.dev/packages/flutter_earth_globe) - 用纯 Dart 语言编写的交互式、完全可定制的 3D 地球仪小部件
+- [google_mlkit_document_scanner](https://pub.dev/packages/google_mlkit_document_scanner) - Google ML Kit 的文档扫描器插件
+- [flutter_video_caching](https://pub.dev/packages/flutter_video_caching) - 视频缓存功能，可与 video_player 包配合使用
+- [quick_print](https://pub.dev/packages/quick_print) - 用于处理不同平台和设备上的 PDF 打印
+- [spoiler_widget](https://pub.dev/packages/spoiler_widget) - 创建剧透动画，允许您隐藏敏感或剧透内容，直到用户点击或轻触为止
+- [particular](https://pub.dev/packages/particular) - Flutter 粒子系统组件，提升您的应用或游戏视觉效果
+- [local_hero_transform](https://pub.dev/packages/local_hero_transform) - 使用 local hero 动画简化了网格视图和列表视图中项目之间的无缝过渡
+- [flutter_screenshot_blocker](https://pub.dev/packages/flutter_screenshot_blocker) - 可阻止屏幕截图或在截图时显示黑屏
 
 ## 目录
 
@@ -91,6 +71,7 @@
 | [dart_console](https://pub.dev/packages/dart_console)                                         | 用于命令行应用程序的辅助库，需要比标准库提供的更多输入/输出控制                                                                      | 2025-06-17 | 141   |
 | [chalkdart](https://pub.dev/packages/chalkdart)                                               | Dart 的控制台文本着色和样式库                                                                                                        | 2025-04-16 | 59    |
 | [flutter_gen](https://pub.dev/packages/flutter_gen)                                           | 用于您的资产、字体、颜色等的 Flutter 代码生成器                                                                                      | 2025-07-17 | 1.66k |
+| [force_update_helper](https://pub.dev/packages/force_update_helper)                           | 用于显示可远程控制的强制更新提示的软件包                                                                                             | 暂无       | 暂无  |
 
 > ### <a id="设备">设备</a>
 
@@ -212,6 +193,9 @@
 | [gscankit](https://pub.dev/packages/gscankit)                                           | 使用轻量级 Flutter 包通过相机或图库扫描二维码和条形码                                                                           | 2025-07-23 | 2     |
 | [bluetooth_print_plus](https://pub.dev/packages/bluetooth_print_plus)                   | 一款蓝牙热敏打印机的 Flutter 插件                                                                                               | 2025-03-22 | 54    |
 | [device_safety_info](https://pub.dev/packages/device_safety_info)                       | 设备安全信息 Flutter 插件用于检查越狱、Root 设备、模拟器/模拟器、外部存储                                                       | 2025-07-17 | 25    |
+| [flutter_dynamic_launcher_icon](https://pub.dev/packages/flutter_dynamic_launcher_icon) | 动态更改 Android 和 iOS 上的应用程序启动器图标                                                                                  | 暂无       | 暂无  |
+| [quick_print](https://pub.dev/packages/quick_print)                                     | 用于处理不同平台和设备上的 PDF 打印                                                                                             | 暂无       | 暂无  |
+| [flutter_screenshot_blocker](https://pub.dev/packages/flutter_screenshot_blocker)       | 可阻止屏幕截图或在截图时显示黑屏                                                                                                | 暂无       | 暂无  |
 
 > ### <a id="项目">项目</a>
 
@@ -377,6 +361,7 @@
 | [omjo_captcha](https://pub.dev/packages/omjo_captcha)                                         | 可自定义的 Flutter 文本验证码小部件，带有随机的彩色字符和线条。无需后端                                                       | 2025-07-18 | 1     |
 | [progressive_blur](https://pub.dev/packages/progressive_blur)                                 | Flutter 中的渐进式模糊实现                                                                                                    | 2025-06-10 | 35    |
 | [liquid_glass_renderer](https://pub.dev/packages/liquid_glass_renderer)                       | Flutter 中液体玻璃效果的原始渲染器                                                                                            | 2025-07-23 | 494   |
+| [flutter_earth_globe](https://pub.dev/packages/flutter_earth_globe)                           | 用纯 Dart 语言编写的交互式、完全可定制的 3D 地球仪小部件                                                                      | 暂无       | 暂无  |
 
 > ### <a id="音视频">音视频</a>
 
@@ -415,6 +400,7 @@
 | [awesome_video_player](https://pub.dev/packages/awesome_video_player)         | 功能丰富的 Flutter 高级视频播放器                                                                            | 2025-05-18 | 28    |
 | [easy_video_editor](https://pub.dev/packages/easy_video_editor)               | 轻量级 Flutter 视频编辑插件，无需依赖 FFmpeg                                                                 | 2025-05-03 | 34    |
 | [pro_video_editor](https://pub.dev/packages/pro_video_editor)                 | Flutter 视频编辑器：通过用户友好的编辑功能无缝增强您的视频                                                   | 2025-08-04 | 29    |
+| [flutter_video_caching](https://pub.dev/packages/flutter_video_caching)       | 视频缓存功能，可与 video_player 包配合使用                                                                   | 暂无       | 暂无  |
 
 > ### <a id="图像">图像 / 图标 / 图形</a>
 
@@ -462,39 +448,40 @@
 
 > ### <a id="文件">文件 / 文档</a>
 
-| 依赖                                                                                  | 描述                                                                                           | 更新时间   | likes |
-| ------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ---------- | ----- |
-| [pdfrx](https://pub.dev/packages/pdfrx)                                               | 基于 pdfium 构建的丰富、快速的 PDF 查看器实现                                                  | 2025-07-31 | 245   |
-| [html_to_pdf_plus](https://pub.dev/packages/html_to_pdf_plus)                         | 用于从 HTML 代码模板生成 PDF 文档                                                              | 2024-08-28 | 17    |
-| [htmltopdfwidgets](https://pub.dev/packages/htmltopdfwidgets)                         | Html 到 pdf 小部件                                                                             | 2025-08-14 | 63    |
-| [markdown_widget](https://pub.dev/packages/markdown_widget)                           | 简单易用的 Markdown 渲染组件                                                                   | 2025-04-26 | 361   |
-| [flutter_deck](https://pub.dev/packages/flutter_deck)                                 | 创建演示文稿                                                                                   | 2025-06-29 | 218   |
-| [flutter_genius_scan](https://pub.dev/packages/flutter_genius_scan)                   | 适用于 iOS 和 Android 的 Genius Scan SDK 的 Flutter 插件。它允许使用智能手机相机扫描纸质文档。 | 2025-07-18 | 91    |
-| [flutter_archive](https://pub.dev/packages/flutter_archive)                           | 在 Android、iOS 和 macOS 中创建和提取 ZIP 存档文件。递归压缩目录或给定文件列表中的所有文件。   | 2024-04-15 | 165   |
-| [syncfusion_flutter_pdfviewer](https://pub.dev/packages/syncfusion_flutter_pdfviewer) | Flutter PDF Viewer 库用于无缝高效地显示 PDF 文档。                                             | 2025-08-13 | 1.09k |
-| [excel](https://pub.dev/packages/excel)                                               | 一个 flutter 和 dart 库，用于读取、创建、编辑和更新 Excel 表。                                 | 2024-08-20 | 1.18k |
-| [syncfusion_flutter_pdf](https://pub.dev/packages/syncfusion_flutter_pdf)             | 用于在 Android、iOS 和 Web 平台上创建、阅读、编辑和保护 PDF 文件。                             | 2025-08-13 | 765   |
-| [archive](https://pub.dev/packages/archive)                                           | 为各种存档和压缩格式（例如 zip、tar、bzip2、gzip 和 zlib）提供编码器和解码器。                 | 2025-04-23 | 844   |
-| [pdf](https://pub.dev/packages/pdf)                                                   | 为 Web 或 Flutter 创建 pdf 文件。                                                              | 2025-02-12 | 2.94k |
-| [pdfx](https://pub.dev/packages/pdfx)                                                 | 可在 Web，MacOS，Android 和 iOS 上呈现 PDF 文件。                                              | 2025-06-13 | 496   |
-| [compdfkit_flutter](https://pub.dev/packages/compdfkit_flutter)                       | 可让您快速向 Android 和 iOS Flutter 应用程序添加 PDF 功能                                      | 2025-08-11 | 48    |
-| [flutter_to_pdf](https://pub.dev/packages/flutter_to_pdf)                             | 用于将任何 Flutter 小部件导出为 PDF 文档、PDF 页面或 PDF 文件的包                              | 2025-07-20 | 74    |
-| [markdown](https://pub.dev/packages/markdown)                                         | 便携式 Markdown 库。它可以将 Markdown 解析为客户端和服务器上的 HTML。                          | 2025-01-13 | 320   |
-| [syncfusion_officechart](https://pub.dev/packages/syncfusion_officechart)             | 用于从头开始创建 Office 图表。                                                                 | 2025-08-13 | 89    |
-| [syncfusion_flutter_xlsio](https://pub.dev/packages/syncfusion_flutter_xlsio)         | 创建带有公式、图表、图像、超链接、自动调整行和列等的 Excel 文档。                              | 2025-08-13 | 385   |
-| [syncfusion_flutter_datagrid](https://pub.dev/packages/syncfusion_flutter_datagrid)   | 用于在表格视图中显示和操作数据                                                                 | 2025-08-13 | 838   |
-| [super_editor](https://pub.dev/packages/super_editor)                                 | 可配置、可组合、可扩展的文本编辑器和文档渲染器。                                               | 2024-06-11 | 742   |
-| [appflowy_editor](https://pub.dev/packages/appflowy_editor)                           | 高度可定制的 Flutter 富文本编辑器                                                              | 2025-07-11 | 477   |
-| [flutter_quill](https://pub.dev/packages/flutter_quill)                               | 支持移动和 Web 的富文本编辑器。                                                                | 2025-07-22 | 2.03k |
-| [yaml](https://pub.dev/packages/yaml)                                                 | YAML 的解析器，一种人性化的数据序列化标准                                                      | 2024-12-20 | 282   |
-| [re_editor](https://pub.dev/packages/re_editor)                                       | 功能强大的轻量级文本和代码编辑器小部件                                                         | 2025-03-06 | 119   |
-| [re_highlight](https://pub.dev/packages/re_highlight)                                 | 强大的文本语法高亮库                                                                           | 2024-02-05 | 20    |
-| [html_editor_enhanced](https://pub.dev/packages/html_editor_enhanced)                 | 适用于 Android、iOS 和 Web 的 HTML 富文本编辑器。                                              | 2025-07-12 | 630   |
-| [quill_html_editor](https://pub.dev/packages/quill_html_editor)                       | 适用于 Android、iOS 和 Web 的 HTML 富文本编辑器，它使用强大的 Quill Js 库构建                  | 2024-01-13 | 271   |
-| [flutter_doc_scanner](https://pub.dev/packages/flutter_doc_scanner)                   | 使用 ML Kit 文档扫描仪 API 和 VisionKit 在 Android 和 iOS 上进行文档扫描的 Flutter 插件        | 2025-02-27 | 117   |
-| [flutter_thermal_printer](https://pub.dev/packages/flutter_thermal_printer)           | Flutter 插件可通过 ESC/POS 命令在热敏打印机上打印                                              | 2025-08-05 | 86    |
-| [pdf_combiner](https://pub.dev/packages/pdf_combiner)                                 | 轻量级且高效的 Flutter 插件，旨在轻松地将多个 PDF 文档合并为一个文件                           | 2025-07-18 | 34    |
-| [flutter_md](https://pub.dev/packages/flutter_md)                                     | 使用 Dart 编写的 Markdown 库。它可以解析和显示 Markdown。                                      | 2025-07-16 | 32    |
+| 依赖                                                                                    | 描述                                                                                           | 更新时间   | likes |
+| --------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ---------- | ----- |
+| [pdfrx](https://pub.dev/packages/pdfrx)                                                 | 基于 pdfium 构建的丰富、快速的 PDF 查看器实现                                                  | 2025-07-31 | 245   |
+| [html_to_pdf_plus](https://pub.dev/packages/html_to_pdf_plus)                           | 用于从 HTML 代码模板生成 PDF 文档                                                              | 2024-08-28 | 17    |
+| [htmltopdfwidgets](https://pub.dev/packages/htmltopdfwidgets)                           | Html 到 pdf 小部件                                                                             | 2025-08-14 | 63    |
+| [markdown_widget](https://pub.dev/packages/markdown_widget)                             | 简单易用的 Markdown 渲染组件                                                                   | 2025-04-26 | 361   |
+| [flutter_deck](https://pub.dev/packages/flutter_deck)                                   | 创建演示文稿                                                                                   | 2025-06-29 | 218   |
+| [flutter_genius_scan](https://pub.dev/packages/flutter_genius_scan)                     | 适用于 iOS 和 Android 的 Genius Scan SDK 的 Flutter 插件。它允许使用智能手机相机扫描纸质文档。 | 2025-07-18 | 91    |
+| [flutter_archive](https://pub.dev/packages/flutter_archive)                             | 在 Android、iOS 和 macOS 中创建和提取 ZIP 存档文件。递归压缩目录或给定文件列表中的所有文件。   | 2024-04-15 | 165   |
+| [syncfusion_flutter_pdfviewer](https://pub.dev/packages/syncfusion_flutter_pdfviewer)   | Flutter PDF Viewer 库用于无缝高效地显示 PDF 文档。                                             | 2025-08-13 | 1.09k |
+| [excel](https://pub.dev/packages/excel)                                                 | 一个 flutter 和 dart 库，用于读取、创建、编辑和更新 Excel 表。                                 | 2024-08-20 | 1.18k |
+| [syncfusion_flutter_pdf](https://pub.dev/packages/syncfusion_flutter_pdf)               | 用于在 Android、iOS 和 Web 平台上创建、阅读、编辑和保护 PDF 文件。                             | 2025-08-13 | 765   |
+| [archive](https://pub.dev/packages/archive)                                             | 为各种存档和压缩格式（例如 zip、tar、bzip2、gzip 和 zlib）提供编码器和解码器。                 | 2025-04-23 | 844   |
+| [pdf](https://pub.dev/packages/pdf)                                                     | 为 Web 或 Flutter 创建 pdf 文件。                                                              | 2025-02-12 | 2.94k |
+| [pdfx](https://pub.dev/packages/pdfx)                                                   | 可在 Web，MacOS，Android 和 iOS 上呈现 PDF 文件。                                              | 2025-06-13 | 496   |
+| [compdfkit_flutter](https://pub.dev/packages/compdfkit_flutter)                         | 可让您快速向 Android 和 iOS Flutter 应用程序添加 PDF 功能                                      | 2025-08-11 | 48    |
+| [flutter_to_pdf](https://pub.dev/packages/flutter_to_pdf)                               | 用于将任何 Flutter 小部件导出为 PDF 文档、PDF 页面或 PDF 文件的包                              | 2025-07-20 | 74    |
+| [markdown](https://pub.dev/packages/markdown)                                           | 便携式 Markdown 库。它可以将 Markdown 解析为客户端和服务器上的 HTML。                          | 2025-01-13 | 320   |
+| [syncfusion_officechart](https://pub.dev/packages/syncfusion_officechart)               | 用于从头开始创建 Office 图表。                                                                 | 2025-08-13 | 89    |
+| [syncfusion_flutter_xlsio](https://pub.dev/packages/syncfusion_flutter_xlsio)           | 创建带有公式、图表、图像、超链接、自动调整行和列等的 Excel 文档。                              | 2025-08-13 | 385   |
+| [syncfusion_flutter_datagrid](https://pub.dev/packages/syncfusion_flutter_datagrid)     | 用于在表格视图中显示和操作数据                                                                 | 2025-08-13 | 838   |
+| [super_editor](https://pub.dev/packages/super_editor)                                   | 可配置、可组合、可扩展的文本编辑器和文档渲染器。                                               | 2024-06-11 | 742   |
+| [appflowy_editor](https://pub.dev/packages/appflowy_editor)                             | 高度可定制的 Flutter 富文本编辑器                                                              | 2025-07-11 | 477   |
+| [flutter_quill](https://pub.dev/packages/flutter_quill)                                 | 支持移动和 Web 的富文本编辑器。                                                                | 2025-07-22 | 2.03k |
+| [yaml](https://pub.dev/packages/yaml)                                                   | YAML 的解析器，一种人性化的数据序列化标准                                                      | 2024-12-20 | 282   |
+| [re_editor](https://pub.dev/packages/re_editor)                                         | 功能强大的轻量级文本和代码编辑器小部件                                                         | 2025-03-06 | 119   |
+| [re_highlight](https://pub.dev/packages/re_highlight)                                   | 强大的文本语法高亮库                                                                           | 2024-02-05 | 20    |
+| [html_editor_enhanced](https://pub.dev/packages/html_editor_enhanced)                   | 适用于 Android、iOS 和 Web 的 HTML 富文本编辑器。                                              | 2025-07-12 | 630   |
+| [quill_html_editor](https://pub.dev/packages/quill_html_editor)                         | 适用于 Android、iOS 和 Web 的 HTML 富文本编辑器，它使用强大的 Quill Js 库构建                  | 2024-01-13 | 271   |
+| [flutter_doc_scanner](https://pub.dev/packages/flutter_doc_scanner)                     | 使用 ML Kit 文档扫描仪 API 和 VisionKit 在 Android 和 iOS 上进行文档扫描的 Flutter 插件        | 2025-02-27 | 117   |
+| [flutter_thermal_printer](https://pub.dev/packages/flutter_thermal_printer)             | Flutter 插件可通过 ESC/POS 命令在热敏打印机上打印                                              | 2025-08-05 | 86    |
+| [pdf_combiner](https://pub.dev/packages/pdf_combiner)                                   | 轻量级且高效的 Flutter 插件，旨在轻松地将多个 PDF 文档合并为一个文件                           | 2025-07-18 | 34    |
+| [flutter_md](https://pub.dev/packages/flutter_md)                                       | 使用 Dart 编写的 Markdown 库。它可以解析和显示 Markdown。                                      | 2025-07-16 | 32    |
+| [google_mlkit_document_scanner](https://pub.dev/packages/google_mlkit_document_scanner) | Google ML Kit 的文档扫描器插件                                                                 | 暂无       | 暂无  |
 
 > ### <a id="时间">时间</a>
 
@@ -545,6 +532,9 @@
 | [fly_motion](https://pub.dev/packages/fly_motion)                     | 用于以平滑的曲线运动将小部件从一个位置移动到另一个位置                             | 2025-03-22 | 23    |
 | [particles_network](https://pub.dev/packages/particles_network)       | 高性能、可定制的 Flutter 交互式粒子网络小部件                                      | 2025-07-02 | 40    |
 | [motor](https://pub.dev/packages/motor)                               | Flutter 的统一运动系统 - 一个 API 下的基于物理的弹簧和基于持续时间的曲线           | 2025-07-17 | 37    |
+| [spoiler_widget](https://pub.dev/packages/spoiler_widget)             | 创建剧透动画，允许您隐藏敏感或剧透内容，直到用户点击或轻触为止                     | 暂无       | 暂无  |
+| [particular](https://pub.dev/packages/particular)                     | Flutter 粒子系统组件，提升您的应用或游戏视觉效果                                   | 暂无       | 暂无  |
+| [local_hero_transform](https://pub.dev/packages/local_hero_transform) | 使用 local hero 动画简化了网格视图和列表视图中项目之间的无缝过渡                   | 暂无       | 暂无  |
 
 > ### <a id="图表">图表</a>
 
@@ -744,6 +734,7 @@
 | [flutter_ai_toolkit](https://pub.dev/packages/flutter_ai_toolkit)                                                     | 一组适用于您的 Flutter 应用的 AI 聊天相关小部件                                                                              | 2025-07-17 | 172   |
 | [ultralytics_yolo](https://pub.dev/packages/ultralytics_yolo)                                                         | Ultralytics YOLO 计算机视觉模型的 Flutter 插件                                                                               | 2025-08-11 | 52    |
 | [flutter_liveness_detection_randomized_plugin](https://pub.dev/packages/flutter_liveness_detection_randomized_plugin) | 一个使用随机挑战响应方法进行活体检测的插件                                                                                   | 2025-07-01 | 48    |
+| [mcp_dart](https://pub.dev/packages/mcp_dart)                                                                         | Dart 实现的模型上下文协议 (MCP) SDK。                                                                                        | 暂无       | 暂无  |
 
 > ### <a id="地图">地图</a>
 
