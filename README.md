@@ -535,6 +535,7 @@
 | [spoiler_widget](https://pub.dev/packages/spoiler_widget)             | 创建剧透动画，允许您隐藏敏感或剧透内容，直到用户点击或轻触为止                     | 2025-12-25 | 85    |
 | [particular](https://pub.dev/packages/particular)                     | Flutter 粒子系统组件，提升您的应用或游戏视觉效果                                   | 2025-02-09 | 43    |
 | [local_hero_transform](https://pub.dev/packages/local_hero_transform) | 使用 local hero 动画简化了网格视图和列表视图中项目之间的无缝过渡                   | 2025-06-26 | 188   |
+| [flutter_ticker](https://pub.dev/packages/flutter_ticker)             | 一个上下滚动变化文本的 Flutter 动画组件                                       | 2026-02-18 | 3     |
 
 > ### <a id="图表">图表</a>
 
