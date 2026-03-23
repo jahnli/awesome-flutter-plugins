@@ -757,6 +757,7 @@
 | [flutter_baidu_mapapi_map](https://pub.dev/packages/flutter_baidu_mapapi_map)             | 百度地图 Flutter 插件。                                                                         | 2025-12-18 | 36    |
 | [flutter_bmflocation](https://pub.dev/packages/flutter_bmflocation)                       | 百度地图定位 Flutter 插件。                                                                     | 2025-10-28 | 31    |
 | [location](https://pub.dev/packages/location)                                             | 可轻松处理 iOS 和 Android 中的实时位置。                                                        | 2025-06-18 | 3.19k |
+| [mapmetrics_flutter_sdk](https://github.com/MapMetrics/MapMetrics-flutter-SDK)            | 交互式矢量地图 Flutter SDK，支持地理编码、路线规划和搜索。兼容 Mapbox GL，欧盟托管，符合 GDPR。 | 2025-03-23 | 0     |
 
 > ### <a id="广告">广告</a>
 
